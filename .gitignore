@@ -1,1 +1,6 @@
 .vercel
+.token
+.token2
+create_repo.json
+github_setup.sh
+news_data.json
