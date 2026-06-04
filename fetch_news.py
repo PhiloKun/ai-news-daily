@@ -15,12 +15,16 @@ from urllib.parse import quote_plus
 
 import feedparser
 import requests
+import urllib3
+
+# 在受限网络环境下关闭 SSL 验证警告
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_FILE = os.path.join(BASE_DIR, "news_data.json")
 HTML_FILE = os.path.join(BASE_DIR, "index.html")
-MAX_ITEMS = 60
+MAX_ITEMS = 100
 REQUEST_TIMEOUT = 8  # seconds per request
 
 
@@ -116,12 +120,13 @@ def fetch_arxiv_papers():
 
 
 def fetch_rss_feed(url, source_name, category="news", max_items=15):
-    """Generic RSS fetcher"""
+    """Generic RSS fetcher (verify=False to bypass SSL issues in restricted networks)"""
     items = []
     try:
         sess = requests.Session()
         resp = sess.get(url, timeout=REQUEST_TIMEOUT,
-                        headers={"User-Agent": "Mozilla/5.0"})
+                        headers={"User-Agent": "Mozilla/5.0"},
+                        verify=False)
         if resp.status_code != 200:
             log(f"  ⚠ {source_name}: HTTP {resp.status_code}")
             return items
@@ -157,6 +162,80 @@ def fetch_openai():
     items = fetch_rss_feed(
         "https://openai.com/blog/rss.xml",
         "OpenAI", "news")
+    log(f"  ✓ {len(items)} 条")
+    return items
+
+
+# ── 新增数据源 ────────────────────────────────────────
+
+def fetch_venturebeat():
+    log("📰 VentureBeat AI...")
+    items = fetch_rss_feed(
+        "https://venturebeat.com/category/ai/feed/",
+        "VentureBeat", "news")
+    log(f"  ✓ {len(items)} 条")
+    return items
+
+
+def fetch_wired():
+    log("🔮 Wired AI...")
+    items = fetch_rss_feed(
+        "https://www.wired.com/feed/tag/ai/latest/rss",
+        "Wired", "news")
+    log(f"  ✓ {len(items)} 条")
+    return items
+
+
+def fetch_mit_tech_review():
+    log("🎓 MIT Tech Review AI...")
+    items = fetch_rss_feed(
+        "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
+        "MIT Tech Review", "news")
+    log(f"  ✓ {len(items)} 条")
+    return items
+
+
+def fetch_google_ai():
+    log("🔬 Google AI...")
+    items = fetch_rss_feed(
+        "https://blog.google/technology/ai/rss/",
+        "Google AI", "news")
+    log(f"  ✓ {len(items)} 条")
+    return items
+
+
+def fetch_deepmind():
+    log("🧠 DeepMind...")
+    items = fetch_rss_feed(
+        "https://deepmind.google/blog/rss.xml",
+        "DeepMind", "research", max_items=10)
+    log(f"  ✓ {len(items)} 条")
+    return items
+
+
+def fetch_nvidia():
+    log("🖥️ NVIDIA AI...")
+    items = fetch_rss_feed(
+        "https://developer.nvidia.com/blog/feed/",
+        "NVIDIA", "research", max_items=10)
+    log(f"  ✓ {len(items)} 条")
+    return items
+
+
+def fetch_infoq():
+    log("📖 InfoQ 中文...")
+    items = fetch_rss_feed(
+        "https://www.infoq.cn/feed",
+        "InfoQ", "news", max_items=15)
+    log(f"  ✓ {len(items)} 条")
+    return items
+
+
+def fetch_oschina():
+    log("🇨🇳 开源中国...")
+    items = fetch_rss_feed(
+        "https://www.oschina.net/news/rss",
+        "开源中国", "news", max_items=15)
     log(f"  ✓ {len(items)} 条")
     return items
 
@@ -211,7 +290,12 @@ def generate_html(all_news):
         src = html_mod.escape(item["source"])
 
         # Source icon & color
-        icon_map = {"Hacker News": "🔶", "ArXiv": "📄", "TechCrunch": "📰", "OpenAI": "🤖"}
+        icon_map = {
+            "Hacker News": "🔶", "ArXiv": "📄", "TechCrunch": "📰",
+            "OpenAI": "🤖", "VentureBeat": "📰", "Wired": "🔮",
+            "MIT Tech Review": "🎓", "Google AI": "🔬",
+            "InfoQ": "📖", "开源中国": "🇨🇳",
+        }
         col_map = {"research": "#8b5cf6", "news": "#3b82f6", "community": "#f59e0b"}
         icon = next((v for k, v in icon_map.items() if k in item["source"]), "📡")
         color = col_map.get(cat, "#6b7280")
@@ -344,7 +428,7 @@ def generate_html(all_news):
 </div>
 
 <footer>
-  Powered by Hermes Agent · 来源: Hacker News, ArXiv, TechCrunch, OpenAI
+  Powered by Hermes Agent · 来源: Hacker News, ArXiv, TechCrunch, OpenAI,\n  VentureBeat, Wired, MIT Tech Review, Google AI, InfoQ, 开源中国
 </footer>
 
 <script>
@@ -378,6 +462,12 @@ def main():
         fetch_arxiv_papers,
         fetch_techcrunch,
         fetch_openai,
+        fetch_venturebeat,
+        fetch_wired,
+        fetch_mit_tech_review,
+        fetch_google_ai,
+        fetch_infoq,
+        fetch_oschina,
     ]
 
     for fetcher in fetchers:

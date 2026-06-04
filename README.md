@@ -14,11 +14,18 @@
 | [ArXiv](https://arxiv.org/) | 📄 研究 | cs.AI / cs.LG / cs.CL / cs.CV 最新论文 |
 | [TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/) | 📰 资讯 | AI 行业新闻和创业动态 |
 | [OpenAI Blog](https://openai.com/blog/) | 🤖 官方 | OpenAI 官方发布和公告 |
+| [VentureBeat AI](https://venturebeat.com/category/ai/) | 📰 资讯 | AI 行业深度报道 |
+| [Wired AI](https://www.wired.com/tag/artificial-intelligence/) | 🔮 科技 | AI 科技文化 |
+| [MIT Tech Review AI](https://www.technologyreview.com/topic/artificial-intelligence/) | 🎓 深度 | AI 前沿技术分析 |
+| [Google AI Blog](https://blog.google/technology/ai/) | 🔬 官方 | Google AI 研究发布 |
+| [InfoQ](https://www.infoq.cn/) | 📖 中文 | 中文技术社区 AI 内容 |
+| [开源中国](https://www.oschina.net/) | 🇨🇳 中文 | 中文开源技术新闻 |
 
 ## 🚀 自动更新
 
 - **GitHub Actions** — 每天 UTC 07:00（北京时间 15:00）自动抓取并部署
 - **手动触发** — 在 Actions 页面点 `Run workflow` 即可强制刷新
+- **本地定时** — Hermes Agent 每天早上 8:00 本地抓取并推送
 
 ## 🛠 本地运行
 
