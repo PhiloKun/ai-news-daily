@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T23:30:52.635570",
+  "updated_at": "2026-06-04T15:52:26.293091",
   "total": 60,
   "items": [
     {
@@ -195,6 +195,134 @@
       "category": "news"
     },
     {
+      "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+      "url": "https://arxiv.org/abs/2606.04037",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2606.04037v1 Announce Type: new  Abstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language model (LLM) capability benc",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
+      "url": "https://arxiv.org/abs/2606.04150",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2606.04150v1 Announce Type: new  Abstract: Public discourse and emerging policy typically assume that AI emotional support is a deliberate act: a lonely user consciously seeking comfort from a d",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
+      "url": "https://arxiv.org/abs/2606.04152",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2606.04152v1 Announce Type: new  Abstract: Large language models are reshaping research practice while quietly eroding researchers epistemic accountability. This commentary introduces PEEL - Pro",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
+      "url": "https://arxiv.org/abs/2606.04202",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2606.04202v1 Announce Type: new  Abstract: As LLMs become more widely deployed, they are increasingly expected to work alongside other AI agents rather than operating in isolation. Effective coo",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
+      "url": "https://arxiv.org/abs/2606.04223",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2606.04223v1 Announce Type: new  Abstract: Multi-agent systems are commonly designed to reduce disagreement through voting, consensus protocols, debate, or fault-tolerant aggregation. We argue t",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
+      "url": "https://arxiv.org/abs/2606.04244",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2606.04244v1 Announce Type: new  Abstract: Multimodal large language models are increasingly capable of complex reasoning, yet their performance often degrades when they must externalize a probl",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis",
+      "url": "https://arxiv.org/abs/2606.04246",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2606.04246v1 Announce Type: new  Abstract: Automatic generation of RTL code for digital hardware designs remains challenging due to long-horizon reasoning, multi-step dependencies, and strict co",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Can Generalist Agents Automate Data Curation?",
+      "url": "https://arxiv.org/abs/2606.04261",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2606.04261v1 Announce Type: new  Abstract: Curating training data is among the most consequential yet labor-intensive parts of modern AI development: practitioners iteratively propose, implement",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Early Detection of Alzheimer's Disease Using Explainable Machine Learning on Clinical Biomarkers: A Multi-Class Classification Study Using the Alzheimer's Disease Neuroimaging Initiative (ADNI) Dataset",
+      "url": "https://arxiv.org/abs/2606.03995",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2606.03995v1 Announce Type: new  Abstract: Background: Alzheimer's disease (AD) affects over 55 million people worldwide. Accurate, interpretable detection of normal cognition (NC), mild cogniti",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Novel Aspects of IEEE SA P3109 Arithmetic Formats for Machine Learning",
+      "url": "https://arxiv.org/abs/2606.04028",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2606.04028v1 Announce Type: new  Abstract: The IEEE P3109 draft standard defines a parameterized family of binary floating-point formats and associated operations, with a focus on facilitating m",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Position: Deployed Reinforcement Learning should be Continual",
+      "url": "https://arxiv.org/abs/2606.04029",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2606.04029v1 Announce Type: new  Abstract: Reinforcement Learning (RL) has received increasing attention and adoption in real-world use cases. Most of these systems follow a train-then-fix parad",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Pseudospectral Bounds for Transient Amplification in Coupled Gradient Descent",
+      "url": "https://arxiv.org/abs/2606.04031",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2606.04031v1 Announce Type: new  Abstract: Coupled gradient descent--where the update of one parameter block depends on another--underlies bilevel optimization, two-time-scale stochastic approxi",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Do Transformers Need Three Projections? Systematic Study of QKV Variants",
+      "url": "https://arxiv.org/abs/2606.04032",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2606.04032v1 Announce Type: new  Abstract: Transformers have become the standard solution for various AI tasks, with the query, key, and value (QKV) attention formulation playing a central role.",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Inverse Critical Experiment Design via Gradient Optimization and a Multigroup Attention-Based Neural Network Architecture",
+      "url": "https://arxiv.org/abs/2606.04033",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2606.04033v1 Announce Type: new  Abstract: The validation of advanced nuclear reactor designs and fuel concepts requires critical experiments with high neutronic similarity to the target technol",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Self-Distilled Policy Gradient",
+      "url": "https://arxiv.org/abs/2606.04036",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2606.04036v1 Announce Type: new  Abstract: On-policy self-distillation, where a language model conditions on privileged context to supervise its own generations, is a promising source of dense s",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Bayes-Sufficient Representations in Supervised Learning",
+      "url": "https://arxiv.org/abs/2606.04045",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2606.04045v1 Announce Type: new  Abstract: Representation learning is often described as preserving the information in an input that is relevant for prediction. This work asks what relevance mea",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
       "title": "POLARIS: Guiding Small Models to Write Long Stories",
       "url": "https://arxiv.org/abs/2606.04095",
       "source": "ArXiv (NLP)",
@@ -353,134 +481,6 @@
       "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
       "published": "Fri, 29 May 2026 12:00:00 GMT",
       "category": "news"
-    },
-    {
-      "title": "How Braintrust turns customer requests into code with Codex",
-      "url": "https://openai.com/index/braintrust",
-      "source": "OpenAI",
-      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
-      "published": "Fri, 29 May 2026 12:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Strengthening societal resilience with Rosalind Biodefense",
-      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "source": "OpenAI",
-      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
-      "published": "Fri, 29 May 2026 03:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Artificial intelligence is not conscious – Ted Chiang",
-      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-      "source": "Hacker News",
-      "summary": "⭐ 591 points | by lordleft | 💬 968 comments",
-      "published": "2026-06-03T17:51:37Z",
-      "category": "community"
-    },
-    {
-      "title": "I'm Tired of Talking to AI",
-      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "source": "Hacker News",
-      "summary": "⭐ 2010 points | by theorchid | 💬 951 comments",
-      "published": "2026-05-27T10:43:25Z",
-      "category": "community"
-    },
-    {
-      "title": "I believe there are entire companies right now under AI psychosis",
-      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "source": "Hacker News",
-      "summary": "⭐ 2105 points | by reasonableklout | 💬 1272 comments",
-      "published": "2026-05-15T20:26:47Z",
-      "category": "community"
-    },
-    {
-      "title": "Local AI needs to be the norm",
-      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "source": "Hacker News",
-      "summary": "⭐ 1903 points | by cylo | 💬 749 comments",
-      "published": "2026-05-10T17:19:28Z",
-      "category": "community"
-    },
-    {
-      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "source": "Hacker News",
-      "summary": "⭐ 1755 points | by john-doe | 💬 1143 comments",
-      "published": "2026-05-05T07:34:55Z",
-      "category": "community"
-    },
-    {
-      "title": "Project Glasswing: Securing critical software for the AI era",
-      "url": "https://www.anthropic.com/glasswing",
-      "source": "Hacker News",
-      "summary": "⭐ 1541 points | by Ryan5453 | 💬 836 comments",
-      "published": "2026-04-07T18:09:34Z",
-      "category": "community"
-    },
-    {
-      "title": "Emotion concepts and their function in a large language model",
-      "url": "https://www.anthropic.com/research/emotion-concepts-function",
-      "source": "Hacker News",
-      "summary": "⭐ 191 points | by dnw | 💬 204 comments",
-      "published": "2026-04-04T06:30:25Z",
-      "category": "community"
-    },
-    {
-      "title": "Tinybox – A powerful computer for deep learning",
-      "url": "https://tinygrad.org/#tinybox",
-      "source": "Hacker News",
-      "summary": "⭐ 601 points | by albelfio | 💬 341 comments",
-      "published": "2026-03-21T20:08:37Z",
-      "category": "community"
-    },
-    {
-      "title": "Can I run AI locally?",
-      "url": "https://www.canirun.ai/",
-      "source": "Hacker News",
-      "summary": "⭐ 1520 points | by ricardbejarano | 💬 353 comments",
-      "published": "2026-03-13T12:46:10Z",
-      "category": "community"
-    },
-    {
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-      "source": "Hacker News",
-      "summary": "⭐ 4229 points | by usefulposter | 💬 1668 comments",
-      "published": "2026-03-11T19:29:29Z",
-      "category": "community"
-    },
-    {
-      "title": "Meta’s AI smart glasses and data privacy concerns",
-      "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
-      "source": "Hacker News",
-      "summary": "⭐ 1448 points | by sandbach | 💬 809 comments",
-      "published": "2026-03-02T22:32:35Z",
-      "category": "community"
-    },
-    {
-      "title": "An AI agent published a hit piece on me",
-      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-      "source": "Hacker News",
-      "summary": "⭐ 2346 points | by scottshambaugh | 💬 951 comments",
-      "published": "2026-02-12T16:23:24Z",
-      "category": "community"
-    },
-    {
-      "title": "AI World Clocks",
-      "url": "https://clocks.brianmoore.com/",
-      "source": "Hacker News",
-      "summary": "⭐ 1383 points | by waxpancake | 💬 384 comments",
-      "published": "2025-11-14T18:35:22Z",
-      "category": "community"
-    },
-    {
-      "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
-      "url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
-      "source": "Hacker News",
-      "summary": "⭐ 1697 points | by JustExAWS | 💬 744 comments",
-      "published": "2025-08-21T12:53:16Z",
-      "category": "community"
     }
   ]
 }
