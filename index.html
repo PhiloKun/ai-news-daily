@@ -1,0 +1,787 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 每日速递</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans SC', sans-serif;
+    background: #0a0a0f; color: #e2e2e8; min-height: 100vh;
+  }
+  .header {
+    background: linear-gradient(135deg, #0f0f1a 0%, #1a1040 50%, #0f0f1a 100%);
+    border-bottom: 1px solid #1e1e2e; padding: 40px 20px; text-align: center;
+  }
+  .header h1 {
+    font-size: 2.5em; font-weight: 800;
+    background: linear-gradient(135deg, #818cf8, #c084fc, #f472b6);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    background-clip: text; margin-bottom: 8px;
+  }
+  .header p { color: #888; font-size: 0.95em; }
+  .header .update-time { color: #666; font-size: 0.85em; margin-top: 6px; }
+  .controls {
+    display: flex; gap: 10px; justify-content: center;
+    padding: 20px; flex-wrap: wrap; border-bottom: 1px solid #14141f;
+  }
+  .filter-btn {
+    padding: 8px 20px; border: 1px solid #2a2a3e; border-radius: 20px;
+    background: transparent; color: #aaa; cursor: pointer;
+    font-size: 0.9em; transition: all 0.2s;
+  }
+  .filter-btn:hover { border-color: #6366f1; color: #e2e2e8; }
+  .filter-btn.active {
+    background: linear-gradient(135deg, #6366f133, #a855f733);
+    border-color: #818cf8; color: #c4b5fd;
+  }
+  .news-grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+    gap: 16px; padding: 20px; max-width: 1400px; margin: 0 auto;
+  }
+  .news-card {
+    display: block; background: #11111a; border: 1px solid #1e1e2e;
+    border-radius: 12px; padding: 20px; text-decoration: none; color: inherit;
+    transition: all 0.25s ease; position: relative; overflow: hidden;
+  }
+  .news-card::before {
+    content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px;
+    background: linear-gradient(90deg, transparent, #6366f1, transparent);
+    opacity: 0; transition: opacity 0.3s;
+  }
+  .news-card:hover {
+    border-color: #6366f1; transform: translateY(-3px);
+    box-shadow: 0 8px 30px rgba(99, 102, 241, 0.1);
+  }
+  .news-card:hover::before { opacity: 1; }
+  .card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
+  .source-badge { font-size: 0.78em; padding: 3px 10px; border-radius: 8px; }
+  .time { font-size: 0.78em; color: #666; }
+  .card-title {
+    font-size: 1.05em; font-weight: 600; line-height: 1.4; margin-bottom: 8px; color: #f0f0f8;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .card-summary {
+    font-size: 0.85em; line-height: 1.5; color: #888;
+    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .card-footer { margin-top: 12px; display: flex; justify-content: flex-end; }
+  .category-tag { font-size: 0.72em; padding: 2px 10px; border-radius: 6px; color: white; }
+  .stats {
+    display: flex; gap: 20px; justify-content: center;
+    padding: 10px 20px; font-size: 0.85em; color: #666;
+  }
+  footer {
+    text-align: center; padding: 30px; color: #444; font-size: 0.85em;
+    border-top: 1px solid #14141f;
+  }
+  @media (max-width: 640px) {
+    .news-grid { grid-template-columns: 1fr; }
+    .header h1 { font-size: 1.8em; }
+  }
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>🤖 AI 每日速递</h1>
+  <p>每天自动聚合全球 AI 最新消息 · 研究 · 社区动态</p>
+  <div class="update-time">🔄 最后更新: 2026-06-04 23:30</div>
+</div>
+
+<div class="controls">
+  <button class="filter-btn active" data-filter="all">🌐 全部</button>
+  <button class="filter-btn" data-filter="news">📰 资讯</button>
+  <button class="filter-btn" data-filter="research">📚 研究</button>
+  <button class="filter-btn" data-filter="community">💬 社区</button>
+</div>
+
+<div class="news-grid" id="newsGrid">
+  
+        <a href="https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">📰 TechCrunch AI</span>
+                <span class="time">16小时前</span>
+            </div>
+            <h3 class="card-title">Lovable signs multiyear deal with Google Cloud to up usage 5x, source says</h3>
+            <p class="card-summary">Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable&#x27;s footprint on Google Cloud, and expanded access to Anthropic Claude.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">📰 TechCrunch AI</span>
+                <span class="time">19小时前</span>
+            </div>
+            <h3 class="card-title">Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal</h3>
+            <p class="card-summary">If Alphabet&#x27;s record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">📰 TechCrunch AI</span>
+                <span class="time">20小时前</span>
+            </div>
+            <h3 class="card-title">Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon</h3>
+            <p class="card-summary">Dreambeans is a curated list of AI-illustrated &quot;stories&quot; culled from the personal data in your Google account.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">📰 TechCrunch AI</span>
+                <span class="time">23小时前</span>
+            </div>
+            <h3 class="card-title">Amazon will show AI product images when you search for some reason</h3>
+            <p class="card-summary">Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">📰 TechCrunch AI</span>
+                <span class="time">1天前</span>
+            </div>
+            <h3 class="card-title">These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked</h3>
+            <p class="card-summary">The startup&#x27;s own stack for Africa and Middle East is now handling more than 17,000 calls per day.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">📰 TechCrunch AI</span>
+                <span class="time">1天前</span>
+            </div>
+            <h3 class="card-title">Publishers will be able to opt out of AI Search, thanks to new regulation</h3>
+            <p class="card-summary">U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">📰 TechCrunch AI</span>
+                <span class="time">1天前</span>
+            </div>
+            <h3 class="card-title">Meta’s AI agent for WhatsApp Business is now available globally</h3>
+            <p class="card-summary">WhatsApp will charge businesses for using its AI agent based on token usage.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">🤖 OpenAI</span>
+                <span class="time">1天前</span>
+            </div>
+            <h3 class="card-title">Introducing new capabilities to GPT-Rosalind</h3>
+            <p class="card-summary">GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">📰 TechCrunch AI</span>
+                <span class="time">1天前</span>
+            </div>
+            <h3 class="card-title">Coralogix raises $200M on bet that someone needs to watch the AI agents</h3>
+            <p class="card-summary">Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and prov</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://openai.com/index/wasmer" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">🤖 OpenAI</span>
+                <span class="time">1天前</span>
+            </div>
+            <h3 class="card-title">How Wasmer used Codex to build a Node.js runtime for the edge</h3>
+            <p class="card-summary">See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://openai.com/index/frontier-safety-blueprint" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">🤖 OpenAI</span>
+                <span class="time">1天前</span>
+            </div>
+            <h3 class="card-title">A blueprint for democratic governance of frontier AI</h3>
+            <p class="card-summary">OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://openai.com/index/public-policy-agenda" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">🤖 OpenAI</span>
+                <span class="time">1天前</span>
+            </div>
+            <h3 class="card-title">OpenAI public policy agenda</h3>
+            <p class="card-summary">OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">📰 TechCrunch AI</span>
+                <span class="time">1天前</span>
+            </div>
+            <h3 class="card-title">Cyera eyes $12B valuation at 80x ARR multiple despite operating losses</h3>
+            <p class="card-summary">The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">📰 TechCrunch AI</span>
+                <span class="time">1天前</span>
+            </div>
+            <h3 class="card-title">Uber caps employee AI spending after blowing through budget in 4 months</h3>
+            <p class="card-summary">Uber&#x27;s cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">📰 TechCrunch AI</span>
+                <span class="time">1天前</span>
+            </div>
+            <h3 class="card-title">New Microsoft tool lets devs spin up AI behavior tests using text descriptions</h3>
+            <p class="card-summary">Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">📰 TechCrunch AI</span>
+                <span class="time">1天前</span>
+            </div>
+            <h3 class="card-title">Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI</h3>
+            <p class="card-summary">The caveat is that one of the world&#x27;s most famous living directors is using the tech solely for storyboarding.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">📰 TechCrunch AI</span>
+                <span class="time">1天前</span>
+            </div>
+            <h3 class="card-title">Microsoft launches Scout, an OpenClaw-inspired personal assistant</h3>
+            <p class="card-summary">Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://openai.com/index/travelers" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">🤖 OpenAI</span>
+                <span class="time">2天前</span>
+            </div>
+            <h3 class="card-title">Travelers deploys AI-powered claims countrywide with OpenAI</h3>
+            <p class="card-summary">Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://openai.com/index/codex-for-every-role-tool-workflow" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">🤖 OpenAI</span>
+                <span class="time">2天前</span>
+            </div>
+            <h3 class="card-title">Codex for every role, tool, and workflow</h3>
+            <p class="card-summary">Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">🤖 OpenAI</span>
+                <span class="time">2天前</span>
+            </div>
+            <h3 class="card-title">Advancing youth safety and opportunity through global leadership</h3>
+            <p class="card-summary">OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://openai.com/index/codex-for-knowledge-work" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">🤖 OpenAI</span>
+                <span class="time">2天前</span>
+            </div>
+            <h3 class="card-title">Codex is becoming a productivity tool for everyone</h3>
+            <p class="card-summary">The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">📰 TechCrunch AI</span>
+                <span class="time">25分钟前</span>
+            </div>
+            <h3 class="card-title">Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.</h3>
+            <p class="card-summary">The California startup released the fourth-generation of its home assistance robot, Stretch.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">📰 TechCrunch AI</span>
+                <span class="time">1小时前</span>
+            </div>
+            <h3 class="card-title">Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission</h3>
+            <p class="card-summary">Apple&#x27;s App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://openai.com/index/endava-frontiers" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">🤖 OpenAI</span>
+                <span class="time">3小时前</span>
+            </div>
+            <h3 class="card-title">How Endava is redesigning software delivery around AI agents</h3>
+            <p class="card-summary">Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://arxiv.org/abs/2606.04095" target="_blank" rel="noopener" class="news-card" data-category="research">
+            <div class="card-header">
+                <span class="source-badge" style="background:#8b5cf622; color:#8b5cf6">📄 ArXiv (NLP)</span>
+                <span class="time">11小时前</span>
+            </div>
+            <h3 class="card-title">POLARIS: Guiding Small Models to Write Long Stories</h3>
+            <p class="card-summary">arXiv:2606.04095v1 Announce Type: new  Abstract: Small open-weight models struggle at long-form creative writing: their generated stories either fall far short of the requested length, or their qualit</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#8b5cf6">研究</span>
+            </div>
+        </a>
+        <a href="https://arxiv.org/abs/2606.04109" target="_blank" rel="noopener" class="news-card" data-category="research">
+            <div class="card-header">
+                <span class="source-badge" style="background:#8b5cf622; color:#8b5cf6">📄 ArXiv (NLP)</span>
+                <span class="time">11小时前</span>
+            </div>
+            <h3 class="card-title">Discourse-Role Labels as Presentation-Time Variables for Context Use in Language Models</h3>
+            <p class="card-summary">arXiv:2606.04109v1 Announce Type: new  Abstract: Context-augmented language model systems often wrap supplied content with labels such as Reference:, Evidence:, Instruction:, Note:, or Example:, but t</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#8b5cf6">研究</span>
+            </div>
+        </a>
+        <a href="https://arxiv.org/abs/2606.04118" target="_blank" rel="noopener" class="news-card" data-category="research">
+            <div class="card-header">
+                <span class="source-badge" style="background:#8b5cf622; color:#8b5cf6">📄 ArXiv (NLP)</span>
+                <span class="time">11小时前</span>
+            </div>
+            <h3 class="card-title">Computational conceptual history of scientific concepts: From early digital methods to LLMs</h3>
+            <p class="card-summary">arXiv:2606.04118v1 Announce Type: new  Abstract: This article situates large language models (LLMs) within the longer history of computational approaches to concept analysis in the history, philosophy</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#8b5cf6">研究</span>
+            </div>
+        </a>
+        <a href="https://arxiv.org/abs/2606.04120" target="_blank" rel="noopener" class="news-card" data-category="research">
+            <div class="card-header">
+                <span class="source-badge" style="background:#8b5cf622; color:#8b5cf6">📄 ArXiv (NLP)</span>
+                <span class="time">11小时前</span>
+            </div>
+            <h3 class="card-title">SaliMory: Orchestrating Cognitive Memory for Conversational Agents</h3>
+            <p class="card-summary">arXiv:2606.04120v1 Announce Type: new  Abstract: Conversational agents that serve as lifelong companions must maintain persistent memory across all interactions. However, simply expanding context wind</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#8b5cf6">研究</span>
+            </div>
+        </a>
+        <a href="https://arxiv.org/abs/2606.04127" target="_blank" rel="noopener" class="news-card" data-category="research">
+            <div class="card-header">
+                <span class="source-badge" style="background:#8b5cf622; color:#8b5cf6">📄 ArXiv (NLP)</span>
+                <span class="time">11小时前</span>
+            </div>
+            <h3 class="card-title">When Retrieval Doesn&#x27;t Help: A Large-Scale Study of Biomedical RAG</h3>
+            <p class="card-summary">arXiv:2606.04127v1 Announce Type: new  Abstract: Medical question answering is a high-stakes setting where factual errors can have serious consequences. Retrieval-augmented generation (RAG) is widely </p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#8b5cf6">研究</span>
+            </div>
+        </a>
+        <a href="https://arxiv.org/abs/2606.04160" target="_blank" rel="noopener" class="news-card" data-category="research">
+            <div class="card-header">
+                <span class="source-badge" style="background:#8b5cf622; color:#8b5cf6">📄 ArXiv (NLP)</span>
+                <span class="time">11小时前</span>
+            </div>
+            <h3 class="card-title">Expert-Aware Refusal Steering</h3>
+            <p class="card-summary">arXiv:2606.04160v1 Announce Type: new  Abstract: Safety alignment in instruction-tuned large language models (LLMs) depends on a model&#x27;s ability to reliably refuse to respond to harmful or disallowed </p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#8b5cf6">研究</span>
+            </div>
+        </a>
+        <a href="https://arxiv.org/abs/2606.04177" target="_blank" rel="noopener" class="news-card" data-category="research">
+            <div class="card-header">
+                <span class="source-badge" style="background:#8b5cf622; color:#8b5cf6">📄 ArXiv (NLP)</span>
+                <span class="time">11小时前</span>
+            </div>
+            <h3 class="card-title">A Systematic Analysis of Linguistic Features in AI-Generated Text Detection Across Domains and Models</h3>
+            <p class="card-summary">arXiv:2606.04177v1 Announce Type: new  Abstract: Interpretable linguistic features offer a promising approach for explaining why a given text appears machine-generated, particularly for non-expert use</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#8b5cf6">研究</span>
+            </div>
+        </a>
+        <a href="https://arxiv.org/abs/2606.04189" target="_blank" rel="noopener" class="news-card" data-category="research">
+            <div class="card-header">
+                <span class="source-badge" style="background:#8b5cf622; color:#8b5cf6">📄 ArXiv (NLP)</span>
+                <span class="time">11小时前</span>
+            </div>
+            <h3 class="card-title">ACAT: A Collaborative Platform for Efficient Aspect-Based Sentiment Dataset Annotation</h3>
+            <p class="card-summary">arXiv:2606.04189v1 Announce Type: new  Abstract: Aspect-Based Sentiment Analysis (ABSA) requires high-quality datasets to train reliable models. However, existing annotation tools treat output as flat</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#8b5cf6">研究</span>
+            </div>
+        </a>
+        <a href="https://arxiv.org/abs/2606.04046" target="_blank" rel="noopener" class="news-card" data-category="research">
+            <div class="card-header">
+                <span class="source-badge" style="background:#8b5cf622; color:#8b5cf6">📄 ArXiv (Computer Vision)</span>
+                <span class="time">11小时前</span>
+            </div>
+            <h3 class="card-title">Dive into the Scene: Breaking the Perceptual Bottleneck in Vision-Language Decision Making via Focus Plan Generation</h3>
+            <p class="card-summary">arXiv:2606.04046v1 Announce Type: new  Abstract: In embodied vision-language decision making tasks such as robotic manipulation and navigation, Vision-Language and Vision-Language-Action Models (VLMs </p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#8b5cf6">研究</span>
+            </div>
+        </a>
+        <a href="https://arxiv.org/abs/2606.04060" target="_blank" rel="noopener" class="news-card" data-category="research">
+            <div class="card-header">
+                <span class="source-badge" style="background:#8b5cf622; color:#8b5cf6">📄 ArXiv (Computer Vision)</span>
+                <span class="time">11小时前</span>
+            </div>
+            <h3 class="card-title">Weakly Supervised Incremental Segmentation via Semantic Anchors and Spatial Arbitration</h3>
+            <p class="card-summary">arXiv:2606.04060v1 Announce Type: new  Abstract: Weakly Incremental Learning for Semantic Segmentation (WILSS) suffers from the continuous introduction of noisy supervision, which progressively corrup</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#8b5cf6">研究</span>
+            </div>
+        </a>
+        <a href="https://arxiv.org/abs/2606.04061" target="_blank" rel="noopener" class="news-card" data-category="research">
+            <div class="card-header">
+                <span class="source-badge" style="background:#8b5cf622; color:#8b5cf6">📄 ArXiv (Computer Vision)</span>
+                <span class="time">11小时前</span>
+            </div>
+            <h3 class="card-title">Intra-Modal Neighbors Never Lie: Rectifying Inter-Modal Noisy Correspondence via Graph-Based Intra-Modal Reasoning</h3>
+            <p class="card-summary">arXiv:2606.04061v1 Announce Type: new  Abstract: Large-scale web-harvested datasets have fueled the progress of cross-modal retrieval but inevitably suffer from noisy correspondence, which severely de</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#8b5cf6">研究</span>
+            </div>
+        </a>
+        <a href="https://arxiv.org/abs/2606.04092" target="_blank" rel="noopener" class="news-card" data-category="research">
+            <div class="card-header">
+                <span class="source-badge" style="background:#8b5cf622; color:#8b5cf6">📄 ArXiv (Computer Vision)</span>
+                <span class="time">11小时前</span>
+            </div>
+            <h3 class="card-title">Optimal Transport Flow Matching by Design</h3>
+            <p class="card-summary">arXiv:2606.04092v1 Announce Type: new  Abstract: Flow matching models learn to transport samples from a simple prior distribution to a complex data distribution. When prior-data pairs are coupled via </p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#8b5cf6">研究</span>
+            </div>
+        </a>
+        <a href="https://arxiv.org/abs/2606.04098" target="_blank" rel="noopener" class="news-card" data-category="research">
+            <div class="card-header">
+                <span class="source-badge" style="background:#8b5cf622; color:#8b5cf6">📄 ArXiv (Computer Vision)</span>
+                <span class="time">11小时前</span>
+            </div>
+            <h3 class="card-title">When Seeing Is Not Believing -- A Benchmark for Search-Grounded Video Misinformation Detection</h3>
+            <p class="card-summary">arXiv:2606.04098v1 Announce Type: new  Abstract: Video misinformation increasingly operates at the semantic and evidential level: authentic footage may be selectively edited, temporally reordered, spl</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#8b5cf6">研究</span>
+            </div>
+        </a>
+        <a href="https://arxiv.org/abs/2606.04107" target="_blank" rel="noopener" class="news-card" data-category="research">
+            <div class="card-header">
+                <span class="source-badge" style="background:#8b5cf622; color:#8b5cf6">📄 ArXiv (Computer Vision)</span>
+                <span class="time">11小时前</span>
+            </div>
+            <h3 class="card-title">Reflection Separation from a Single Image via Joint Latent Diffusion</h3>
+            <p class="card-summary">arXiv:2606.04107v1 Announce Type: new  Abstract: Single-image reflection separation is highly challenging under extreme conditions like glare or weak reflections. Existing methods often struggle to re</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#8b5cf6">研究</span>
+            </div>
+        </a>
+        <a href="https://arxiv.org/abs/2606.04133" target="_blank" rel="noopener" class="news-card" data-category="research">
+            <div class="card-header">
+                <span class="source-badge" style="background:#8b5cf622; color:#8b5cf6">📄 ArXiv (Computer Vision)</span>
+                <span class="time">11小时前</span>
+            </div>
+            <h3 class="card-title">Pinpoint: Grounded Worldwide Image Geolocation via Cross-Source Retrieval and Reranking</h3>
+            <p class="card-summary">arXiv:2606.04133v1 Announce Type: new  Abstract: Image geolocation aims to estimate where a photograph was taken from its visual content. At worldwide scale, this remains challenging because visual ev</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#8b5cf6">研究</span>
+            </div>
+        </a>
+        <a href="https://arxiv.org/abs/2606.04166" target="_blank" rel="noopener" class="news-card" data-category="research">
+            <div class="card-header">
+                <span class="source-badge" style="background:#8b5cf622; color:#8b5cf6">📄 ArXiv (Computer Vision)</span>
+                <span class="time">11小时前</span>
+            </div>
+            <h3 class="card-title">End-to-End Text Line Detection and Ordering</h3>
+            <p class="card-summary">arXiv:2606.04166v1 Announce Type: new  Abstract: Practical text-recognition pipelines for historical documents typically decompose layout analysis into line detection followed by a separate reading-or</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#8b5cf6">研究</span>
+            </div>
+        </a>
+        <a href="https://openai.com/index/our-views-on-ai-policy-and-political-advocacy" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">🤖 OpenAI</span>
+                <span class="time">2天前</span>
+            </div>
+            <h3 class="card-title">Our views on AI policy and political advocacy</h3>
+            <p class="card-summary">Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://openai.com/index/stargate-michigan-data-center" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">🤖 OpenAI</span>
+                <span class="time">3天前</span>
+            </div>
+            <h3 class="card-title">Building the infrastructure for the Intelligence Age in Michigan</h3>
+            <p class="card-summary">OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">🤖 OpenAI</span>
+                <span class="time">3天前</span>
+            </div>
+            <h3 class="card-title">OpenAI frontier models and Codex are now available on AWS</h3>
+            <p class="card-summary">OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already u</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://openai.com/index/boston-childrens-hospital" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">🤖 OpenAI</span>
+                <span class="time">6天前</span>
+            </div>
+            <h3 class="card-title">Boston Children’s uses AI to unlock new diagnoses</h3>
+            <p class="card-summary">Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://openai.com/index/braintrust" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">🤖 OpenAI</span>
+                <span class="time">6天前</span>
+            </div>
+            <h3 class="card-title">How Braintrust turns customer requests into code with Codex</h3>
+            <p class="card-summary">How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense" target="_blank" rel="noopener" class="news-card" data-category="news">
+            <div class="card-header">
+                <span class="source-badge" style="background:#3b82f622; color:#3b82f6">🤖 OpenAI</span>
+                <span class="time">6天前</span>
+            </div>
+            <h3 class="card-title">Strengthening societal resilience with Rosalind Biodefense</h3>
+            <p class="card-summary">OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through </p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#3b82f6">资讯</span>
+            </div>
+        </a>
+        <a href="https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/" target="_blank" rel="noopener" class="news-card" data-category="community">
+            <div class="card-header">
+                <span class="source-badge" style="background:#f59e0b22; color:#f59e0b">🔶 Hacker News</span>
+                <span class="time">21小时前</span>
+            </div>
+            <h3 class="card-title">Artificial intelligence is not conscious – Ted Chiang</h3>
+            <p class="card-summary">⭐ 591 points | by lordleft | 💬 968 comments</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#f59e0b">社区</span>
+            </div>
+        </a>
+        <a href="https://orchidfiles.com/im-tired-of-ai-generated-answers/" target="_blank" rel="noopener" class="news-card" data-category="community">
+            <div class="card-header">
+                <span class="source-badge" style="background:#f59e0b22; color:#f59e0b">🔶 Hacker News</span>
+                <span class="time">8天前</span>
+            </div>
+            <h3 class="card-title">I&#x27;m Tired of Talking to AI</h3>
+            <p class="card-summary">⭐ 2010 points | by theorchid | 💬 951 comments</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#f59e0b">社区</span>
+            </div>
+        </a>
+        <a href="https://twitter.com/mitchellh/status/2055380239711457578" target="_blank" rel="noopener" class="news-card" data-category="community">
+            <div class="card-header">
+                <span class="source-badge" style="background:#f59e0b22; color:#f59e0b">🔶 Hacker News</span>
+                <span class="time">19天前</span>
+            </div>
+            <h3 class="card-title">I believe there are entire companies right now under AI psychosis</h3>
+            <p class="card-summary">⭐ 2105 points | by reasonableklout | 💬 1272 comments</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#f59e0b">社区</span>
+            </div>
+        </a>
+        <a href="https://unix.foo/posts/local-ai-needs-to-be-norm/" target="_blank" rel="noopener" class="news-card" data-category="community">
+            <div class="card-header">
+                <span class="source-badge" style="background:#f59e0b22; color:#f59e0b">🔶 Hacker News</span>
+                <span class="time">24天前</span>
+            </div>
+            <h3 class="card-title">Local AI needs to be the norm</h3>
+            <p class="card-summary">⭐ 1903 points | by cylo | 💬 749 comments</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#f59e0b">社区</span>
+            </div>
+        </a>
+        <a href="https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/" target="_blank" rel="noopener" class="news-card" data-category="community">
+            <div class="card-header">
+                <span class="source-badge" style="background:#f59e0b22; color:#f59e0b">🔶 Hacker News</span>
+                <span class="time">1个月前</span>
+            </div>
+            <h3 class="card-title">Google Chrome silently installs a 4 GB AI model on your device without consent</h3>
+            <p class="card-summary">⭐ 1755 points | by john-doe | 💬 1143 comments</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#f59e0b">社区</span>
+            </div>
+        </a>
+        <a href="https://www.anthropic.com/glasswing" target="_blank" rel="noopener" class="news-card" data-category="community">
+            <div class="card-header">
+                <span class="source-badge" style="background:#f59e0b22; color:#f59e0b">🔶 Hacker News</span>
+                <span class="time">1个月前</span>
+            </div>
+            <h3 class="card-title">Project Glasswing: Securing critical software for the AI era</h3>
+            <p class="card-summary">⭐ 1541 points | by Ryan5453 | 💬 836 comments</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#f59e0b">社区</span>
+            </div>
+        </a>
+        <a href="https://www.anthropic.com/research/emotion-concepts-function" target="_blank" rel="noopener" class="news-card" data-category="community">
+            <div class="card-header">
+                <span class="source-badge" style="background:#f59e0b22; color:#f59e0b">🔶 Hacker News</span>
+                <span class="time">2个月前</span>
+            </div>
+            <h3 class="card-title">Emotion concepts and their function in a large language model</h3>
+            <p class="card-summary">⭐ 191 points | by dnw | 💬 204 comments</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#f59e0b">社区</span>
+            </div>
+        </a>
+        <a href="https://tinygrad.org/#tinybox" target="_blank" rel="noopener" class="news-card" data-category="community">
+            <div class="card-header">
+                <span class="source-badge" style="background:#f59e0b22; color:#f59e0b">🔶 Hacker News</span>
+                <span class="time">2个月前</span>
+            </div>
+            <h3 class="card-title">Tinybox – A powerful computer for deep learning</h3>
+            <p class="card-summary">⭐ 601 points | by albelfio | 💬 341 comments</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#f59e0b">社区</span>
+            </div>
+        </a>
+        <a href="https://www.canirun.ai/" target="_blank" rel="noopener" class="news-card" data-category="community">
+            <div class="card-header">
+                <span class="source-badge" style="background:#f59e0b22; color:#f59e0b">🔶 Hacker News</span>
+                <span class="time">2个月前</span>
+            </div>
+            <h3 class="card-title">Can I run AI locally?</h3>
+            <p class="card-summary">⭐ 1520 points | by ricardbejarano | 💬 353 comments</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#f59e0b">社区</span>
+            </div>
+        </a>
+        <a href="https://news.ycombinator.com/newsguidelines.html#generated" target="_blank" rel="noopener" class="news-card" data-category="community">
+            <div class="card-header">
+                <span class="source-badge" style="background:#f59e0b22; color:#f59e0b">🔶 Hacker News</span>
+                <span class="time">2个月前</span>
+            </div>
+            <h3 class="card-title">Don&#x27;t post generated/AI-edited comments. HN is for conversation between humans</h3>
+            <p class="card-summary">⭐ 4229 points | by usefulposter | 💬 1668 comments</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#f59e0b">社区</span>
+            </div>
+        </a>
+        <a href="https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything" target="_blank" rel="noopener" class="news-card" data-category="community">
+            <div class="card-header">
+                <span class="source-badge" style="background:#f59e0b22; color:#f59e0b">🔶 Hacker News</span>
+                <span class="time">3个月前</span>
+            </div>
+            <h3 class="card-title">Meta’s AI smart glasses and data privacy concerns</h3>
+            <p class="card-summary">⭐ 1448 points | by sandbach | 💬 809 comments</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#f59e0b">社区</span>
+            </div>
+        </a>
+        <a href="https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/" target="_blank" rel="noopener" class="news-card" data-category="community">
+            <div class="card-header">
+                <span class="source-badge" style="background:#f59e0b22; color:#f59e0b">🔶 Hacker News</span>
+                <span class="time">3个月前</span>
+            </div>
+            <h3 class="card-title">An AI agent published a hit piece on me</h3>
+            <p class="card-summary">⭐ 2346 points | by scottshambaugh | 💬 951 comments</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#f59e0b">社区</span>
+            </div>
+        </a>
+        <a href="https://clocks.brianmoore.com/" target="_blank" rel="noopener" class="news-card" data-category="community">
+            <div class="card-header">
+                <span class="source-badge" style="background:#f59e0b22; color:#f59e0b">🔶 Hacker News</span>
+                <span class="time">6个月前</span>
+            </div>
+            <h3 class="card-title">AI World Clocks</h3>
+            <p class="card-summary">⭐ 1383 points | by waxpancake | 💬 384 comments</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#f59e0b">社区</span>
+            </div>
+        </a>
+        <a href="https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/" target="_blank" rel="noopener" class="news-card" data-category="community">
+            <div class="card-header">
+                <span class="source-badge" style="background:#f59e0b22; color:#f59e0b">🔶 Hacker News</span>
+                <span class="time">9个月前</span>
+            </div>
+            <h3 class="card-title">AWS CEO says using AI to replace junior staff is &#x27;Dumbest thing I&#x27;ve ever heard&#x27;</h3>
+            <p class="card-summary">⭐ 1697 points | by JustExAWS | 💬 744 comments</p>
+            <div class="card-footer">
+                <span class="category-tag" style="background:#f59e0b">社区</span>
+            </div>
+        </a>
+</div>
+
+<div class="stats">
+  <span>📊 共 60 条</span>
+  <span>📰 30 资讯</span>
+  <span>📚 16 研究</span>
+  <span>💬 14 社区</span>
+</div>
+
+<footer>
+  Powered by Hermes Agent · 来源: Hacker News, ArXiv, TechCrunch, OpenAI
+</footer>
+
+<script>
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelector('.filter-btn.active').classList.remove('active');
+      btn.classList.add('active');
+      const f = btn.dataset.filter;
+      document.querySelectorAll('.news-card').forEach(c => {
+        c.style.display = (f === 'all' || c.dataset.category === f) ? 'block' : 'none';
+      });
+    });
+  });
+</script>
+</body>
+</html>

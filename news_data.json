@@ -1,0 +1,486 @@
+{
+  "updated_at": "2026-06-04T23:30:52.635570",
+  "total": 60,
+  "items": [
+    {
+      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "source": "TechCrunch AI",
+      "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "published": "Wed, 03 Jun 2026 22:56:51 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+      "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+      "source": "TechCrunch AI",
+      "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+      "published": "Wed, 03 Jun 2026 19:38:32 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "source": "TechCrunch AI",
+      "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+      "published": "Wed, 03 Jun 2026 19:07:42 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Amazon will show AI product images when you search for some reason",
+      "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "source": "TechCrunch AI",
+      "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
+      "published": "Wed, 03 Jun 2026 15:50:26 +0000",
+      "category": "news"
+    },
+    {
+      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+      "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+      "source": "TechCrunch AI",
+      "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
+      "published": "Wed, 03 Jun 2026 15:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+      "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+      "source": "TechCrunch AI",
+      "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
+      "published": "Wed, 03 Jun 2026 14:58:33 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "source": "TechCrunch AI",
+      "summary": "WhatsApp will charge businesses for using its AI agent based on token usage.",
+      "published": "Wed, 03 Jun 2026 13:40:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "source": "OpenAI",
+      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+      "published": "Wed, 03 Jun 2026 13:15:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "source": "TechCrunch AI",
+      "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and provide the operational data needed to keep them runni",
+      "published": "Wed, 03 Jun 2026 13:02:51 +0000",
+      "category": "news"
+    },
+    {
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "url": "https://openai.com/index/wasmer",
+      "source": "OpenAI",
+      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+      "published": "Wed, 03 Jun 2026 12:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "source": "OpenAI",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "published": "Wed, 03 Jun 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "source": "OpenAI",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "published": "Wed, 03 Jun 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+      "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+      "source": "TechCrunch AI",
+      "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
+      "published": "Tue, 02 Jun 2026 22:50:56 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+      "source": "TechCrunch AI",
+      "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+      "published": "Tue, 02 Jun 2026 19:11:48 +0000",
+      "category": "news"
+    },
+    {
+      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+      "source": "TechCrunch AI",
+      "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
+      "published": "Tue, 02 Jun 2026 19:02:21 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+      "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+      "source": "TechCrunch AI",
+      "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
+      "published": "Tue, 02 Jun 2026 18:16:53 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+      "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+      "source": "TechCrunch AI",
+      "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
+      "published": "Tue, 02 Jun 2026 18:02:44 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "source": "OpenAI",
+      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "published": "Tue, 02 Jun 2026 12:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Codex for every role, tool, and workflow",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "source": "OpenAI",
+      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "published": "Tue, 02 Jun 2026 09:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "source": "OpenAI",
+      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Codex is becoming a productivity tool for everyone",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "source": "OpenAI",
+      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "published": "Tue, 02 Jun 2026 02:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
+      "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+      "source": "TechCrunch AI",
+      "summary": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
+      "published": "Thu, 04 Jun 2026 15:05:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
+      "url": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
+      "source": "TechCrunch AI",
+      "summary": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods.",
+      "published": "Thu, 04 Jun 2026 14:05:58 +0000",
+      "category": "news"
+    },
+    {
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "url": "https://openai.com/index/endava-frontiers",
+      "source": "OpenAI",
+      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "published": "Thu, 04 Jun 2026 12:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "POLARIS: Guiding Small Models to Write Long Stories",
+      "url": "https://arxiv.org/abs/2606.04095",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2606.04095v1 Announce Type: new  Abstract: Small open-weight models struggle at long-form creative writing: their generated stories either fall far short of the requested length, or their qualit",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Discourse-Role Labels as Presentation-Time Variables for Context Use in Language Models",
+      "url": "https://arxiv.org/abs/2606.04109",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2606.04109v1 Announce Type: new  Abstract: Context-augmented language model systems often wrap supplied content with labels such as Reference:, Evidence:, Instruction:, Note:, or Example:, but t",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Computational conceptual history of scientific concepts: From early digital methods to LLMs",
+      "url": "https://arxiv.org/abs/2606.04118",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2606.04118v1 Announce Type: new  Abstract: This article situates large language models (LLMs) within the longer history of computational approaches to concept analysis in the history, philosophy",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "SaliMory: Orchestrating Cognitive Memory for Conversational Agents",
+      "url": "https://arxiv.org/abs/2606.04120",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2606.04120v1 Announce Type: new  Abstract: Conversational agents that serve as lifelong companions must maintain persistent memory across all interactions. However, simply expanding context wind",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "When Retrieval Doesn't Help: A Large-Scale Study of Biomedical RAG",
+      "url": "https://arxiv.org/abs/2606.04127",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2606.04127v1 Announce Type: new  Abstract: Medical question answering is a high-stakes setting where factual errors can have serious consequences. Retrieval-augmented generation (RAG) is widely ",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Expert-Aware Refusal Steering",
+      "url": "https://arxiv.org/abs/2606.04160",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2606.04160v1 Announce Type: new  Abstract: Safety alignment in instruction-tuned large language models (LLMs) depends on a model's ability to reliably refuse to respond to harmful or disallowed ",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "A Systematic Analysis of Linguistic Features in AI-Generated Text Detection Across Domains and Models",
+      "url": "https://arxiv.org/abs/2606.04177",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2606.04177v1 Announce Type: new  Abstract: Interpretable linguistic features offer a promising approach for explaining why a given text appears machine-generated, particularly for non-expert use",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "ACAT: A Collaborative Platform for Efficient Aspect-Based Sentiment Dataset Annotation",
+      "url": "https://arxiv.org/abs/2606.04189",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2606.04189v1 Announce Type: new  Abstract: Aspect-Based Sentiment Analysis (ABSA) requires high-quality datasets to train reliable models. However, existing annotation tools treat output as flat",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Dive into the Scene: Breaking the Perceptual Bottleneck in Vision-Language Decision Making via Focus Plan Generation",
+      "url": "https://arxiv.org/abs/2606.04046",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2606.04046v1 Announce Type: new  Abstract: In embodied vision-language decision making tasks such as robotic manipulation and navigation, Vision-Language and Vision-Language-Action Models (VLMs ",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Weakly Supervised Incremental Segmentation via Semantic Anchors and Spatial Arbitration",
+      "url": "https://arxiv.org/abs/2606.04060",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2606.04060v1 Announce Type: new  Abstract: Weakly Incremental Learning for Semantic Segmentation (WILSS) suffers from the continuous introduction of noisy supervision, which progressively corrup",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Intra-Modal Neighbors Never Lie: Rectifying Inter-Modal Noisy Correspondence via Graph-Based Intra-Modal Reasoning",
+      "url": "https://arxiv.org/abs/2606.04061",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2606.04061v1 Announce Type: new  Abstract: Large-scale web-harvested datasets have fueled the progress of cross-modal retrieval but inevitably suffer from noisy correspondence, which severely de",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Optimal Transport Flow Matching by Design",
+      "url": "https://arxiv.org/abs/2606.04092",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2606.04092v1 Announce Type: new  Abstract: Flow matching models learn to transport samples from a simple prior distribution to a complex data distribution. When prior-data pairs are coupled via ",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "When Seeing Is Not Believing -- A Benchmark for Search-Grounded Video Misinformation Detection",
+      "url": "https://arxiv.org/abs/2606.04098",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2606.04098v1 Announce Type: new  Abstract: Video misinformation increasingly operates at the semantic and evidential level: authentic footage may be selectively edited, temporally reordered, spl",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Reflection Separation from a Single Image via Joint Latent Diffusion",
+      "url": "https://arxiv.org/abs/2606.04107",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2606.04107v1 Announce Type: new  Abstract: Single-image reflection separation is highly challenging under extreme conditions like glare or weak reflections. Existing methods often struggle to re",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Pinpoint: Grounded Worldwide Image Geolocation via Cross-Source Retrieval and Reranking",
+      "url": "https://arxiv.org/abs/2606.04133",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2606.04133v1 Announce Type: new  Abstract: Image geolocation aims to estimate where a photograph was taken from its visual content. At worldwide scale, this remains challenging because visual ev",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "End-to-End Text Line Detection and Ordering",
+      "url": "https://arxiv.org/abs/2606.04166",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2606.04166v1 Announce Type: new  Abstract: Practical text-recognition pipelines for historical documents typically decompose layout analysis into line detection followed by a separate reading-or",
+      "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Our views on AI policy and political advocacy",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "source": "OpenAI",
+      "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
+      "published": "Mon, 01 Jun 2026 17:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "source": "OpenAI",
+      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "published": "Mon, 01 Jun 2026 12:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "source": "OpenAI",
+      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS a",
+      "published": "Mon, 01 Jun 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "source": "OpenAI",
+      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "published": "Fri, 29 May 2026 12:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "url": "https://openai.com/index/braintrust",
+      "source": "OpenAI",
+      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "published": "Fri, 29 May 2026 12:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "source": "OpenAI",
+      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "published": "Fri, 29 May 2026 03:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "source": "Hacker News",
+      "summary": "⭐ 591 points | by lordleft | 💬 968 comments",
+      "published": "2026-06-03T17:51:37Z",
+      "category": "community"
+    },
+    {
+      "title": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "source": "Hacker News",
+      "summary": "⭐ 2010 points | by theorchid | 💬 951 comments",
+      "published": "2026-05-27T10:43:25Z",
+      "category": "community"
+    },
+    {
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "source": "Hacker News",
+      "summary": "⭐ 2105 points | by reasonableklout | 💬 1272 comments",
+      "published": "2026-05-15T20:26:47Z",
+      "category": "community"
+    },
+    {
+      "title": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "source": "Hacker News",
+      "summary": "⭐ 1903 points | by cylo | 💬 749 comments",
+      "published": "2026-05-10T17:19:28Z",
+      "category": "community"
+    },
+    {
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "source": "Hacker News",
+      "summary": "⭐ 1755 points | by john-doe | 💬 1143 comments",
+      "published": "2026-05-05T07:34:55Z",
+      "category": "community"
+    },
+    {
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "url": "https://www.anthropic.com/glasswing",
+      "source": "Hacker News",
+      "summary": "⭐ 1541 points | by Ryan5453 | 💬 836 comments",
+      "published": "2026-04-07T18:09:34Z",
+      "category": "community"
+    },
+    {
+      "title": "Emotion concepts and their function in a large language model",
+      "url": "https://www.anthropic.com/research/emotion-concepts-function",
+      "source": "Hacker News",
+      "summary": "⭐ 191 points | by dnw | 💬 204 comments",
+      "published": "2026-04-04T06:30:25Z",
+      "category": "community"
+    },
+    {
+      "title": "Tinybox – A powerful computer for deep learning",
+      "url": "https://tinygrad.org/#tinybox",
+      "source": "Hacker News",
+      "summary": "⭐ 601 points | by albelfio | 💬 341 comments",
+      "published": "2026-03-21T20:08:37Z",
+      "category": "community"
+    },
+    {
+      "title": "Can I run AI locally?",
+      "url": "https://www.canirun.ai/",
+      "source": "Hacker News",
+      "summary": "⭐ 1520 points | by ricardbejarano | 💬 353 comments",
+      "published": "2026-03-13T12:46:10Z",
+      "category": "community"
+    },
+    {
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "source": "Hacker News",
+      "summary": "⭐ 4229 points | by usefulposter | 💬 1668 comments",
+      "published": "2026-03-11T19:29:29Z",
+      "category": "community"
+    },
+    {
+      "title": "Meta’s AI smart glasses and data privacy concerns",
+      "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+      "source": "Hacker News",
+      "summary": "⭐ 1448 points | by sandbach | 💬 809 comments",
+      "published": "2026-03-02T22:32:35Z",
+      "category": "community"
+    },
+    {
+      "title": "An AI agent published a hit piece on me",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+      "source": "Hacker News",
+      "summary": "⭐ 2346 points | by scottshambaugh | 💬 951 comments",
+      "published": "2026-02-12T16:23:24Z",
+      "category": "community"
+    },
+    {
+      "title": "AI World Clocks",
+      "url": "https://clocks.brianmoore.com/",
+      "source": "Hacker News",
+      "summary": "⭐ 1383 points | by waxpancake | 💬 384 comments",
+      "published": "2025-11-14T18:35:22Z",
+      "category": "community"
+    },
+    {
+      "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
+      "url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
+      "source": "Hacker News",
+      "summary": "⭐ 1697 points | by JustExAWS | 💬 744 comments",
+      "published": "2025-08-21T12:53:16Z",
+      "category": "community"
+    }
+  ]
+}
