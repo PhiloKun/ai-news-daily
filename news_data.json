@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T09:18:53.285846",
+  "updated_at": "2026-06-07T09:56:10.123081",
   "total": 100,
   "items": [
     {
@@ -32,14 +32,6 @@
       "source": "VentureBeat",
       "summary": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it s",
       "published": "Wed, 07 Jan 2026 20:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
-      "url": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
-      "source": "Wired",
-      "summary": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or drop the lawsuit.",
-      "published": "Wed, 03 Jun 2026 18:49:32 +0000",
       "category": "news"
     },
     {
@@ -259,14 +251,6 @@
       "category": "news"
     },
     {
-      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-      "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
-      "source": "TechCrunch AI",
-      "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
-      "published": "Thu, 04 Jun 2026 19:20:58 +0000",
-      "category": "news"
-    },
-    {
       "title": "凌晨 3 点数据库 P0，AI Agent 是怎么自己修好的？",
       "url": "https://www.infoq.cn/video/7yCbAPpT1xWSJPBfDLIJ?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
@@ -304,38 +288,6 @@
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Thu, 04 Jun 2026 17:56:02 GMT",
-      "category": "news"
-    },
-    {
-      "title": "刚刚，这款国产模型登顶 Artificial Analysis 输出速度榜榜首",
-      "url": "https://www.infoq.cn/article/LxqvV7TqKRi72MksLTd9?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 04 Jun 2026 17:52:16 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Meta rolls out a new AI creator assistant on Facebook",
-      "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-      "source": "TechCrunch AI",
-      "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
-      "published": "Thu, 04 Jun 2026 16:32:48 +0000",
-      "category": "news"
-    },
-    {
-      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-      "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-      "source": "TechCrunch AI",
-      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
-      "published": "Thu, 04 Jun 2026 16:31:12 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
-      "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
-      "source": "TechCrunch AI",
-      "summary": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
-      "published": "Thu, 04 Jun 2026 15:05:00 +0000",
       "category": "news"
     },
     {
@@ -403,6 +355,70 @@
       "category": "news"
     },
     {
+      "title": "未高考满分作文：从\"词语\"到\"中国词元\"：一个青年眼中的时代之变",
+      "url": "https://www.oschina.net/news/453556",
+      "source": "开源中国",
+      "summary": "今天的高考全国卷1语文作文题： 阅读下面的材料，根据要求写作。（60分） 词语是表达思想情感的载体，也是展现社会生活变化的窗口。当前，世界之变、时代之变、历史之变正以前所未有的方式展开。青年是常为新的，在你的成长过程中，你对哪一个词语的理解发生了变化？这变化有你成长的印记，对你有特殊的意义…… 以上材料...",
+      "published": "Sun, 07 Jun 2026 12:19:36 +0800",
+      "category": "news"
+    },
+    {
+      "title": "得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海",
+      "url": "https://www.infoq.cn/article/pOwoNlmEL9zV0aodLVB9?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 07 Jun 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "source": "TechCrunch AI",
+      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+      "published": "Sat, 06 Jun 2026 20:32:24 +0000",
+      "category": "news"
+    },
+    {
+      "title": "MateClaw v1.5.0 发布：Goal Checklist、LLM Wiki 自维护与多人记忆隔离",
+      "url": "https://www.oschina.net/news/453257",
+      "source": "开源中国",
+      "summary": "MateClaw v1.5.0 已发布。 这一版的重点不是“多接一个模型”或“多加几个按钮”，而是继续补齐 Agent 在真实团队里运行时需要的基础能力：目标要能验收，知识库要能维护一致性，记忆要能区分不同使用者。 如果用一句话概括 v1.5.0： 把 Agent 从“能继续干活”推进到“能按清单收尾、按知识关系维护上下文、按用户身份隔...",
+      "published": "Sat, 06 Jun 2026 19:49:12 +0800",
+      "category": "news"
+    },
+    {
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "source": "TechCrunch AI",
+      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+      "published": "Sat, 06 Jun 2026 18:13:36 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "source": "TechCrunch AI",
+      "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+      "published": "Sat, 06 Jun 2026 17:42:15 +0000",
+      "category": "news"
+    },
+    {
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "source": "TechCrunch AI",
+      "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+      "published": "Sat, 06 Jun 2026 16:17:21 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
+      "url": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
+      "source": "Wired",
+      "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
+      "published": "Sat, 06 Jun 2026 10:30:00 +0000",
+      "category": "news"
+    },
+    {
       "title": "我用 Tauri 2 做了一个能跑 30 多种语言的代码运行器，聊聊插件化架构是怎么扛住的",
       "url": "https://www.oschina.net/news/452973",
       "source": "开源中国",
@@ -433,70 +449,6 @@
       "summary": "Aifei 是世界首个 AI Coding 框架。 Aifei 不是在传统框架之上增加 AI 用法，而是从框架结构本身出发，围绕大模型理解、生成和维护代码的方式，重新设计 Java 服务端开发。 过去三年，AI 写代码的能力快速跃升。代码生成正在从“辅助”走向“主导”，开发者的角色也会越来越多地转向需求判断、架构决策、代码审查与质量控...",
       "published": "Sat, 06 Jun 2026 05:20:32 +0800",
       "category": "news"
-    },
-    {
-      "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
-      "url": "https://arxiv.org/abs/2606.05256",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.05256v1 Announce Type: new  Abstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown",
-      "published": "Sat, 06 Jun 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2606.05304",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.05304v1 Announce Type: new  Abstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that ag",
-      "published": "Sat, 06 Jun 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
-      "url": "https://arxiv.org/abs/2606.05316",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.05316v1 Announce Type: new  Abstract: Multimodal memes are dynamic and often require up to date background knowledge for interpretation. Existing methods often overlook such knowledge or re",
-      "published": "Sat, 06 Jun 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
-      "url": "https://arxiv.org/abs/2606.05332",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.05332v1 Announce Type: new  Abstract: Patch-based Time Series Foundation Models (TSFMs) suffer from context poisoning: structurally anomalous patches capture disproportionate attention and ",
-      "published": "Sat, 06 Jun 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
-      "url": "https://arxiv.org/abs/2606.05334",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.05334v1 Announce Type: new  Abstract: Returned products in circular factories re-enter production with heterogeneous degradation states, usage histories, and remaining capability. Reuse can",
-      "published": "Sat, 06 Jun 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
-      "url": "https://arxiv.org/abs/2606.05342",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.05342v1 Announce Type: new  Abstract: AI agents are increasingly asked to carry out work that spans minutes, hours, or longer. Yet the default model of agent behavior is continuous action: ",
-      "published": "Sat, 06 Jun 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "An interpretable and trustworthy AI framework for large-scale longitudinal structure-pain association studies using data from the Osteoarthritis Initiative (OAI)",
-      "url": "https://arxiv.org/abs/2606.05357",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.05357v1 Announce Type: new  Abstract: Purpose: To develop an interpretable and trustworthy AI framework that combines deep learning based MRI Osteoarthritis Knee Score (MOAKS) prediction wi",
-      "published": "Sat, 06 Jun 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Synthetic Contrastive Reasoning for Multi-Table Q&A",
-      "url": "https://arxiv.org/abs/2606.05382",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.05382v1 Announce Type: new  Abstract: Multi-table question answering requires models to retrieve relevant evidence, link schemas, and perform compositional reasoning across relational table",
-      "published": "Sat, 06 Jun 2026 00:00:00 -0400",
-      "category": "research"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -739,22 +691,6 @@
       "category": "news"
     },
     {
-      "title": "创业不到两年，尤雨溪把全球最火的构建工具卖了",
-      "url": "https://my.oschina.net/u/4487475/blog/19695195",
-      "source": "开源中国",
-      "summary": "从独立开发者到硅谷巨头的部门负责人，这条路在国内开源圈找不到第二个参照。国内独立开源作者更多在 “做免费工具、接外包养项目、维持不下去就放弃” 这条路上徘徊。VoidZero 提供了一个完美的样本：把开源项目做成公司，让公司被收购，收购后项目继续开源、团队继续领导。",
-      "published": "Fri, 05 Jun 2026 15:29:40 +0800",
-      "category": "news"
-    },
-    {
-      "title": "“微软，够了！”—— Windows 垄断下的浏览器竞争失序",
-      "url": "https://www.oschina.net/news/452548",
-      "source": "开源中国",
-      "summary": "欧盟对微软的反垄断监管正在开辟一个新的战场。浏览器选择联盟（Browser Choice Alliance）近期发布了一份致微软的公开信，标题足够直接：《微软，够了》（Dear Microsoft: Enough is Enough）。这封信列举了微软在 Windows 操作系统中针对竞争对手浏览器的一系列行为，指控其利用桌面操作系统的主导地位，通过经济强制和...",
-      "published": "Fri, 05 Jun 2026 15:23:41 +0800",
-      "category": "news"
-    },
-    {
       "title": "Has Microsoft Lost Its Mojo (Again)?",
       "url": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
       "source": "Wired",
@@ -800,6 +736,70 @@
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Fri, 05 Jun 2026 13:53:25 GMT",
+      "category": "news"
+    },
+    {
+      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+      "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+      "source": "TechCrunch AI",
+      "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
+      "published": "Fri, 05 Jun 2026 13:03:10 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Node.js 从 27 版本开始改为每年发布一个大版本",
+      "url": "https://www.infoq.cn/article/9yfZrDDTaZYOSP2idLXh?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 05 Jun 2026 12:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "我在 Snowflake 2026 AI Summit 看到的：企业 AI 的下一站，不是模型，而是AI经营系统",
+      "url": "https://www.infoq.cn/article/RE86F1fQONUr9Uf1fSTQ?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 05 Jun 2026 10:54:39 GMT",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
+      "url": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
+      "source": "Wired",
+      "summary": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”",
+      "published": "Fri, 05 Jun 2026 10:30:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "阿里AAIG实验室AI红队负责人宋奇钊(胖錿)确认出席AICon上海站，分享REAL 智能体统一风险矩阵与自动化红队实践",
+      "url": "https://www.infoq.cn/article/VrBbVKeqPHjOi2rdH4Hc?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 05 Jun 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Why Apple Might Put Cameras Into Its Next AirPods",
+      "url": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/",
+      "source": "Wired",
+      "summary": "From battery life to privacy, there are many hurdles to the idea taking off.",
+      "published": "Fri, 05 Jun 2026 10:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "DuckDB Quack：基于 HTTP 的客户端/服务器协议，面向多用户分析",
+      "url": "https://www.infoq.cn/article/au8ICoBCuxOaOuyr0wWI?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 05 Jun 2026 09:35:19 GMT",
+      "category": "news"
+    },
+    {
+      "title": "AI Has Come for Serif Fonts",
+      "url": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
+      "source": "Wired",
+      "summary": "AI companies are using serif to project humanity. Critics are calling it “tasteslop.”",
+      "published": "Fri, 05 Jun 2026 09:00:00 +0000",
       "category": "news"
     }
   ]
