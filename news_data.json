@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T11:18:19.570521",
+  "updated_at": "2026-06-12T10:56:56.260980",
   "total": 100,
   "items": [
     {
@@ -75,30 +75,6 @@
       "category": "news"
     },
     {
-      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-      "source": "TechCrunch AI",
-      "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
-      "published": "Wed, 10 Jun 2026 15:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
-      "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
-      "source": "TechCrunch AI",
-      "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
-      "published": "Wed, 10 Jun 2026 14:48:01 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Warner Music acquires AI attribution startup Sureel AI",
-      "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-      "source": "TechCrunch AI",
-      "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
-      "published": "Wed, 10 Jun 2026 14:31:30 +0000",
-      "category": "news"
-    },
-    {
       "title": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
       "url": "https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/",
       "source": "Wired",
@@ -112,22 +88,6 @@
       "source": "Wired",
       "summary": "With an initial capacity of 24 megawatts, the innovative data center uses seawater as a natural cooling system.",
       "published": "Wed, 10 Jun 2026 13:39:32 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
-      "source": "TechCrunch AI",
-      "summary": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
-      "published": "Wed, 10 Jun 2026 13:33:09 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
-      "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
-      "source": "TechCrunch AI",
-      "summary": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
-      "published": "Wed, 10 Jun 2026 13:07:56 +0000",
       "category": "news"
     },
     {
@@ -147,22 +107,6 @@
       "category": "news"
     },
     {
-      "title": "Meta signs first AI data center deal in India with Reliance",
-      "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-      "source": "TechCrunch AI",
-      "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
-      "published": "Wed, 10 Jun 2026 07:05:26 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Google just fired a warning shot in the AI subscription price wars",
-      "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-      "source": "TechCrunch AI",
-      "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
-      "published": "Wed, 10 Jun 2026 00:26:10 +0000",
-      "category": "news"
-    },
-    {
       "title": "From data to decisions: how LSEG is scaling trusted AI",
       "url": "https://openai.com/index/lseg",
       "source": "OpenAI",
@@ -176,14 +120,6 @@
       "source": "VentureBeat",
       "summary": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it s",
       "published": "Wed, 07 Jan 2026 20:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "source": "OpenAI",
-      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-      "published": "Wed, 03 Jun 2026 13:15:00 GMT",
       "category": "news"
     },
     {
@@ -235,27 +171,11 @@
       "category": "news"
     },
     {
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "source": "Google AI",
-      "summary": "Gemini 3.5 text and multi-colored star icon on an abstract blue background.",
-      "published": "Tue, 19 May 2026 17:45:00 +0000",
-      "category": "news"
-    },
-    {
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
       "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
       "source": "VentureBeat",
       "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company&#x27;s workplace assistant, transform",
       "published": "Tue, 13 Jan 2026 13:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-      "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-      "source": "TechCrunch AI",
-      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
-      "published": "Tue, 09 Jun 2026 23:17:51 +0000",
       "category": "news"
     },
     {
@@ -272,14 +192,6 @@
       "source": "OpenAI",
       "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
       "published": "Tue, 09 Jun 2026 12:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Alex Vindman Survived Trump’s Retaliation Machine. Now He’s Running for Senate",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-alex-vindman/",
-      "source": "Wired",
-      "summary": "In 2019, Alex Vindman testified during President Trump’s first impeachment trial–a decision that ended his military career. Now he wants to challenge the president from the halls of Congress.",
-      "published": "Tue, 09 Jun 2026 10:30:00 +0000",
       "category": "news"
     },
     {
@@ -355,6 +267,54 @@
       "category": "news"
     },
     {
+      "title": "Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/",
+      "source": "Wired",
+      "summary": "Today on Uncanny Valley, we take an early look at the SpaceX IPO and why you might find yourself among the investors without even realizing it.",
+      "published": "Thu, 11 Jun 2026 23:37:49 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
+      "url": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+      "source": "Wired",
+      "summary": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
+      "published": "Thu, 11 Jun 2026 21:21:04 +0000",
+      "category": "news"
+    },
+    {
+      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "source": "TechCrunch AI",
+      "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+      "published": "Thu, 11 Jun 2026 20:33:10 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+      "source": "Google AI",
+      "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "published": "Thu, 11 Jun 2026 20:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+      "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+      "source": "TechCrunch AI",
+      "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
+      "published": "Thu, 11 Jun 2026 19:58:01 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
+      "url": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
+      "source": "Wired",
+      "summary": "A WIRED investigation found dozens of “nudified” deepfake images and videos on Grok's website, including nonconsensual depictions of celebrities and at least one prominent US politician.",
+      "published": "Thu, 11 Jun 2026 19:41:01 +0000",
+      "category": "news"
+    },
+    {
       "title": "硅谷大厂，员工人均月花5万养 AI",
       "url": "https://www.infoq.cn/article/g0gwDH3edWuateVXqp6N?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
@@ -371,35 +331,11 @@
       "category": "news"
     },
     {
-      "title": "Perplexity 与哈佛联合发布研究：AI Agent 如何重塑知识工作",
-      "url": "https://www.oschina.net/news/456209",
-      "source": "开源中国",
-      "summary": "AI助手和AI智能体是完全不同的物种。前者回答问题、解释权衡、建议下一步，用户仍需亲自动手执行；后者则直接规划、执行并交付成果。Perplexity与哈佛商学院研究团队的最新研究首次对Perplexity Computer（通用AI Agent编排器）与传统搜索助手在实际部署中的表现进行了全面比较，揭示了一个正在重塑知识工作格局的深刻转...",
-      "published": "Thu, 11 Jun 2026 18:34:04 +0800",
-      "category": "news"
-    },
-    {
       "title": "Arm 神经技术与虚幻引擎 MegaLights首登移动端，手游画质跨入电影时代",
       "url": "https://www.infoq.cn/article/zaWyR4Kg3d7ubjcHR3Lr?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Thu, 11 Jun 2026 18:20:55 GMT",
-      "category": "news"
-    },
-    {
-      "title": "企业级 AI Coding 进入深水区：从代码生成到组织重构",
-      "url": "https://www.infoq.cn/article/LI99ydgLxBlJ3qDmSKRy?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 11 Jun 2026 18:03:49 GMT",
-      "category": "news"
-    },
-    {
-      "title": "VS Code 为扩展自动更新增加 2 小时延迟，以限制供应链攻击",
-      "url": "https://www.oschina.net/news/456173/s-code-adds-2-hour-extension-auto",
-      "source": "开源中国",
-      "summary": "微软旗下最流行的集成开发环境 VS Code 日前推出了一项新的安全机制：从版本 1.123 开始，扩展程序在发布后将自动延迟 2 小时后才进行更新。微软表示，这一设计旨在为&quot;问题版本或可能被入侵的版本&quot;添加一层额外的安全缓冲。 当用户启用自动更新功能时，VS Code 扩展商店中的任何扩展在发布新版本后，将等待 2 小时才会被...",
-      "published": "Thu, 11 Jun 2026 17:47:10 +0800",
       "category": "news"
     },
     {
@@ -415,191 +351,39 @@
       "url": "https://www.infoq.cn/article/VbPxMjRexUufus9dbxRq?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
       "summary": "点击查看原文>",
-      "published": "Thu, 11 Jun 2026 17:32:12 GMT",
+      "published": "Thu, 11 Jun 2026 17:32:13 GMT",
       "category": "news"
     },
     {
-      "title": "LLM 正在侵蚀我的软件工程师职业生涯",
-      "url": "https://www.oschina.net/news/456159",
-      "source": "开源中国",
-      "summary": "翻译自：https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/ 今年是我从事软件工程的第十年。十年来，我花了大量时间积累金融支付领域的专业知识：PCI合规、双复式记账、第三方支付、资金托管、对账流程、银行转账幂等性——这些知识让我成为这个细分...",
-      "published": "Thu, 11 Jun 2026 17:27:09 +0800",
+      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "source": "TechCrunch AI",
+      "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+      "published": "Thu, 11 Jun 2026 16:36:20 +0000",
       "category": "news"
     },
     {
-      "title": "空间智能初探：重建与生成的双路径实践",
-      "url": "https://www.infoq.cn/article/GJsQtsz9gvhRZtXg2Wav?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 11 Jun 2026 17:19:12 GMT",
+      "title": "Pool’s new app turns your screenshots into something useful",
+      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+      "source": "TechCrunch AI",
+      "summary": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
+      "published": "Thu, 11 Jun 2026 15:30:00 +0000",
       "category": "news"
     },
     {
-      "title": "Windows 用户吐槽：Claude Desktop 刚启动就霸占 1.8GB 内存",
-      "url": "https://www.oschina.net/news/456144",
-      "source": "开源中国",
-      "summary": "近期，不少 Windows 平台的用户对 Anthropic 旗下的Claude Desktop应用提出了强烈不满，核心矛头直指其“难以接受”的内存占用问题。 根据用户在社区的反馈，问题的症结在于该程序在 Windows 系统上的资源调用机制。一旦用户曾经体验过 Claude Cowork 或智能体（Agent）模式，软件便会在后台悄然启动一个1.8GB 的 Hyper-...",
-      "published": "Thu, 11 Jun 2026 17:04:56 +0800",
-      "category": "news"
-    },
-    {
-      "title": "AI 又闯一祸，失控智能体混进 Fedora 核心代码",
-      "url": "https://my.oschina.net/u/4487475/blog/19701457",
-      "source": "开源中国",
-      "summary": "它胡乱生成的一个 PR 被合并进了 Anaconda，两个月以来没有任何人发现它有问题。",
-      "published": "Thu, 11 Jun 2026 17:04:47 +0800",
-      "category": "news"
-    },
-    {
-      "title": "“Token 大爆炸”前夜，数据基础设施正在成为新的变量",
-      "url": "https://www.infoq.cn/article/TDdi5YoLaEaiTZAcfz6U?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 11 Jun 2026 17:01:34 GMT",
-      "category": "news"
-    },
-    {
-      "title": "构建 Coding Agent 的飞轮：Feedback Loop、Benchmark、Agent Engineers",
-      "url": "https://www.infoq.cn/article/l7BXlstUWDOBwI30miJU?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 11 Jun 2026 16:59:57 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Python 3.14.6 和 3.13.14 发布",
-      "url": "https://www.oschina.net/news/456126/python-3146",
-      "source": "开源中国",
-      "summary": "Python 3.14.6 现已发布，这是 3.14 的第六个维护版本；自 3.14.5 以来，包含约 179 个错误修复、构建改进和文档更改。Python 3.13.14 是 3.13 的第十四个维护版本，自 3.13.13 以来，包含了大约 240 个错误修复、构建改进和文档更改。 下载： python.org/downloads/release/python-3146 python.org/downloads/release/...",
-      "published": "Thu, 11 Jun 2026 16:38:01 +0800",
-      "category": "news"
-    },
-    {
-      "title": "AIGC 盛典邀您：见证荣耀，链接资源，欣赏佳作！",
-      "url": "https://www.oschina.net/news/456108",
-      "source": "开源中国",
-      "summary": "嘿，AIGC 创作的同路人！ 才华被埋没？为算力、成本、变现发愁？渴望舞台？ 机会来了！ 由全球数字经济创新大赛组委会主办的“2026 全球数字经济创新大赛・AIGC For Future 全球挑战赛 ——‘未来城市・遇见小亦’IP 创作赛”决赛暨颁奖典礼来了！邀您见证 AIGC 巅峰对决！ 来这里，既能看入围决赛的顶尖 AIGC 创作者现场...",
-      "published": "Thu, 11 Jun 2026 16:10:44 +0800",
-      "category": "news"
-    },
-    {
-      "title": "“Token 大爆炸”前夜，数据基础设施何以成为新的变量？",
-      "url": "https://www.infoq.cn/video/SPpYl2LXz47cVbNwxgAa?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 11 Jun 2026 15:51:55 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Agentic Enterprise，成为硅谷现场最强信号 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP1）",
-      "url": "https://www.infoq.cn/video/Zjrk3R749vQqXqAMh2YV?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 11 Jun 2026 15:48:14 GMT",
-      "category": "news"
-    },
-    {
-      "title": "技术采用曲线：回望二十年",
-      "url": "https://www.infoq.cn/article/18jtsTpet9akBXV61U7y?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 11 Jun 2026 15:44:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "物理 AI 为何押注世界模型？",
-      "url": "https://www.infoq.cn/video/OprNZSM2mhV5ZkS4cUio?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 11 Jun 2026 15:27:19 GMT",
-      "category": "news"
-    },
-    {
-      "title": "消息称字节 AI 硬件团队豆包手机负责人林夕离职",
-      "url": "https://www.oschina.net/news/456070",
-      "source": "开源中国",
-      "summary": "据Finance报道，字节跳动AI硬件团队（Ocean）核心成员、豆包手机硬件产品负责人林夕近期已确认离职。作为字节跳动自2024年启动AI手机项目以来首位出走的核心硬件负责人，此举引发业内对字节AI硬件战略进展的广泛关注。 公开资料显示，林夕此前长期任职于华为终端，曾担任Pura X折叠屏手机的硬件产品负责人，具有深厚的硬...",
-      "published": "Thu, 11 Jun 2026 15:25:30 +0800",
-      "category": "news"
-    },
-    {
-      "title": "拒绝被剧透！解密大型赛事直播背后的超低延迟黑科技",
-      "url": "https://www.infoq.cn/article/2x5IiWrVEdg6IAJTXF8g?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 11 Jun 2026 15:12:41 GMT",
-      "category": "news"
-    },
-    {
-      "title": "2026 年 5 月国产数据库大事记",
-      "url": "https://my.oschina.net/u/4559794/blog/19701305",
-      "source": "开源中国",
-      "summary": "2026 年数据库国测结果公布；数据库顶会 ICDE 2026 加拿大举行；达梦数据大手笔分红 1.13 亿元；海量数据拟募资不超 7.02 亿，OceanBase AI 数据库荣获智博会前沿科技成果奖。新品发布方面，达梦数据发布 DM9 与新一代数据库一体机，腾讯云数据库面向 Agent 全面升级，升级 TDSQL 全系产品并发布 Agent Memory 与 Databa...",
-      "published": "Thu, 11 Jun 2026 13:57:18 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Linux 基金会推出 OpenSharing 项目，规范 AI 资产和数据交换",
-      "url": "https://www.oschina.net/news/456002/linux-foundation-opensharing-project",
-      "source": "开源中国",
-      "summary": "Linux 基金会宣布启动 OpenSharing Project，一个开放的、厂商中立的协议，旨在规范组织机构共享 AI 资产和数据的方式。 OpenSharing 由 Linux 基金会托管，Databricks 公司贡献，在广泛应用的 Delta Sharing 协议的基础上进行了演进，以满足智能体时代的需求，并提供了首个用于在不同平台间交换智能体技能、AI 模型和非...",
-      "published": "Thu, 11 Jun 2026 13:46:34 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Zero 1.0发布，Rocicorp Web同步引擎迎来首个稳定版",
-      "url": "https://www.infoq.cn/article/QWDP7eokPwkIYEMQxhmT?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 11 Jun 2026 13:19:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Anthropic 收紧 Mythos 级模型数据保留政策，其提示词与模型输出将被保留 30 天",
-      "url": "https://www.oschina.net/news/455954",
-      "source": "开源中国",
-      "summary": "Anthropic 日前发布了一项针对旗下最强能力级别模型的特殊数据政策：使用 Claude Mythos 5 及 Claude Fable 5 等被指定为&quot;覆盖模型&quot;（Covered Models）的组织，其提示词与模型输出将被保留 30 天，用于信任与安全分析。 这一政策于 2026 年 6 月 9 日正式生效，涉及所有已启用&quot;零数据保留&quot;（Zero Data Retention，ZDR）的...",
-      "published": "Thu, 11 Jun 2026 11:49:12 +0800",
-      "category": "news"
-    },
-    {
-      "title": "钉钉换帅，92 年技术极客陈宇森接任钉钉 CEO",
-      "url": "https://www.oschina.net/news/455951",
-      "source": "开源中国",
-      "summary": "阿里巴巴宣布钉钉管理层调整：陈航卸任钉钉CEO，92年技术极客陈宇森接棒。 陈宇森 10日，阿里巴巴合伙人委员会在公司内网发布帖文《有情有义有成长，才是阿里文化》，对近日钉钉离职员工长文《置身钉内》引发的讨论表达了鲜明的态度。合伙人委员会以严厉的措辞批评了钉钉团队的管理方式，直接指出这&quot;不是阿里文化该有的样...",
-      "published": "Thu, 11 Jun 2026 11:40:27 +0800",
-      "category": "news"
-    },
-    {
-      "title": "喜报！qKnow 智能体构建平台入选 Gitee GVP 2026 年度最有价值开源项目",
-      "url": "https://www.oschina.net/news/455941",
-      "source": "开源中国",
-      "summary": "近日，江苏千桐科技有限公司自主研发的开源智能体构建平台 qKnow，正式通过码云（Gitee）**“最有价值开源项目”（GVP）**评选。 该评选从技术先进性、社区活跃度、行业应用潜力三个维度进行综合评估。 qKnow 的入选，标志着其在智能体构建赛道获得国内开源社区的认可，也为企业级知识智能化提供了一套可复用、可扩展的基...",
-      "published": "Thu, 11 Jun 2026 11:33:11 +0800",
+      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+      "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+      "source": "TechCrunch AI",
+      "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
+      "published": "Thu, 11 Jun 2026 14:23:43 +0000",
       "category": "news"
     },
     {
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
       "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
       "source": "MIT Tech Review",
-      "summary": "Google DeepMind is funding research into the potential dangers of millions of different AI agents interacting with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of age",
+      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market",
       "published": "Thu, 11 Jun 2026 11:00:45 +0000",
-      "category": "news"
-    },
-    {
-      "title": "🔥🔥【AI桌面硬件大赏】 第三代灵动四足机器狗|LinkDog",
-      "url": "https://www.oschina.net/news/455912",
-      "source": "开源中国",
-      "summary": "开源中国造物社区正式推出「AI 造物大赏」月度系列活动，面向全网硬件创客征集 AI 加持的实体项目。不限硬件品牌、不限开发平台，只要你有想法、有作品，就来秀！",
-      "published": "Thu, 11 Jun 2026 10:54:33 +0800",
-      "category": "news"
-    },
-    {
-      "title": "🔥🔥【AI桌面硬件大赏】码克助手-把 Claude 运行状态做成桌面摆件",
-      "url": "https://www.oschina.net/news/455910",
-      "source": "开源中国",
-      "summary": "开源中国造物社区正式推出「AI 造物大赏」月度系列活动，面向全网硬件创客征集 AI 加持的实体项目。不限硬件品牌、不限开发平台，只要你有想法、有作品，就来秀！",
-      "published": "Thu, 11 Jun 2026 10:54:05 +0800",
       "category": "news"
     },
     {
@@ -614,7 +398,7 @@
       "title": "Anthropic’s Dario Amodei has just one direct report",
       "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
       "source": "TechCrunch AI",
-      "summary": "If you doubted his genius, doubt no more.",
+      "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
       "published": "Thu, 11 Jun 2026 03:53:06 +0000",
       "category": "news"
     },
@@ -627,14 +411,6 @@
       "category": "news"
     },
     {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "source": "OpenAI",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "category": "news"
-    },
-    {
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
       "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "source": "OpenAI",
@@ -643,164 +419,388 @@
       "category": "news"
     },
     {
-      "title": "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference",
-      "url": "https://arxiv.org/abs/2606.11207",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.11207v1 Announce Type: new  Abstract: We present SemantiClean, a modular framework for extracting structured semantic signals from e-commerce session data and driving pluggable inference ta",
-      "published": "Thu, 11 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "source": "OpenAI",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "category": "news"
     },
     {
-      "title": "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
-      "url": "https://arxiv.org/abs/2606.11245",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.11245v1 Announce Type: new  Abstract: Large Language Models (LLMs) have demonstrated remarkable capabilities across various tasks, raising expectations for Artificial General Intelligence (",
-      "published": "Thu, 11 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "source": "OpenAI",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "category": "news"
     },
     {
-      "title": "Can AI Agents Synthesize Scientific Conclusions?",
-      "url": "https://arxiv.org/abs/2606.11337",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.11337v1 Announce Type: new  Abstract: Scientific AI agents increasingly retrieve evidence, reason across sources, and synthesize conclusions used in consequential decisions. Yet, their abil",
-      "published": "Thu, 11 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "source": "OpenAI",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "category": "news"
     },
     {
-      "title": "Knowing When to Ask: Self-Gated Clarification for Hierarchical Language Agents",
-      "url": "https://arxiv.org/abs/2606.11349",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.11349v1 Announce Type: new  Abstract: In hierarchical reasoning, failures often originate at intermediate decision points where the agent commits to a wrong branch without recognizing that ",
-      "published": "Thu, 11 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "url": "https://openai.com/index/endava-frontiers",
+      "source": "OpenAI",
+      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "published": "Thu, 04 Jun 2026 12:00:00 GMT",
+      "category": "news"
     },
     {
-      "title": "Automated Mediator for Human Negotiation: Pre-Mediation via a Structured LLM Pipeline",
-      "url": "https://arxiv.org/abs/2606.11379",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.11379v1 Announce Type: new  Abstract: Pre-mediation, the preparatory phase preceding direct human negotiation, plays a critical role in achieving mutually beneficial agreements, yet is ofte",
-      "published": "Thu, 11 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "How courts are coping with a flood of AI-generated lawsuits",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "source": "MIT Tech Review",
+      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small t",
+      "published": "Thu, 04 Jun 2026 10:50:18 +0000",
+      "category": "news"
     },
     {
-      "title": "INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration",
-      "url": "https://arxiv.org/abs/2606.11440",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.11440v1 Announce Type: new  Abstract: Existing multi-agent LLM orchestration methods, ranging from brute-force ensembles to learned routers, select models and topologies based on task and m",
-      "published": "Thu, 11 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomo",
+      "published": "Mon, 19 Jan 2026 14:00:00 GMT",
+      "category": "news"
     },
     {
-      "title": "Forecasting Future Behavior as a Learning Task",
-      "url": "https://arxiv.org/abs/2606.11445",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.11445v1 Announce Type: new  Abstract: Trust in an AI system is often anchored by explanations of how it works, which one then uses to forecast its behavior on new inputs. For large reasonin",
-      "published": "Thu, 11 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat",
+      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful <a href=\"https://claude.com/produ",
+      "published": "Mon, 12 Jan 2026 11:30:00 GMT",
+      "category": "news"
     },
     {
-      "title": "Search Discipline for Long-Horizon Research Agents",
-      "url": "https://arxiv.org/abs/2606.11522",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.11522v1 Announce Type: new  Abstract: Autoresearch agents now propose, evaluate, and select scientific candidates against a metric, and that metric is usually an aggregate reduced over a he",
-      "published": "Thu, 11 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "source": "OpenAI",
+      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "published": "Mon, 08 Jun 2026 14:00:00 GMT",
+      "category": "news"
     },
     {
-      "title": "Restless bandits with imperfect binary feedback: PCL-indexability analysis and computation",
-      "url": "https://arxiv.org/abs/2606.11192",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2606.11192v1 Announce Type: new  Abstract: We study restless bandits with binary latent states and imperfect binary feedback, motivated by opportunistic spectrum access with sensing errors. For ",
-      "published": "Thu, 11 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "Built to benefit everyone: our plan",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "source": "OpenAI",
+      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "published": "Mon, 08 Jun 2026 01:30:00 GMT",
+      "category": "news"
     },
     {
-      "title": "To Intervene or Not: Guiding Inference-time Alignment with Probabilistic Model Blending",
-      "url": "https://arxiv.org/abs/2606.11201",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2606.11201v1 Announce Type: new  Abstract: The wide deployment of LLMs has made model alignment necessary to make newly trained models safely and effectively respond to user instructions. Among ",
-      "published": "Thu, 11 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "url": "https://openai.com/index/economic-research-exchange",
+      "source": "OpenAI",
+      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+      "published": "Mon, 08 Jun 2026 00:00:00 GMT",
+      "category": "news"
     },
     {
-      "title": "Dual-Stance Evaluation of Sycophancy: The Structure of Agreement and the Limits of Intervention",
-      "url": "https://arxiv.org/abs/2606.11205",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2606.11205v1 Announce Type: new  Abstract: Activation steering can shift LLM behaviour, but standard evaluations do not typically test whether a sycophancy-reduction direction also suppresses ag",
-      "published": "Thu, 11 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "How we used Gemini to build Google I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "source": "Google AI",
+      "summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and there are colorful icons, including a sparkle, as w",
+      "published": "Mon, 01 Jun 2026 16:00:00 +0000",
+      "category": "news"
     },
     {
-      "title": "Few-Shot Resampling for Scalable Statistically-Sound Data Mining",
-      "url": "https://arxiv.org/abs/2606.11235",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2606.11235v1 Announce Type: new  Abstract: A key step in knowledge discovery is the evaluation of data mining results. In several applications, including pattern mining, graph analysis, and othe",
-      "published": "Thu, 11 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "source": "Google AI",
+      "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+      "published": "Fri, 29 May 2026 19:00:00 +0000",
+      "category": "news"
     },
     {
-      "title": "ProHiFlo: Hierarchical Flow Matching with Functional Guidance for De Novo Protein Generation",
-      "url": "https://arxiv.org/abs/2606.11243",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2606.11243v1 Announce Type: new  Abstract: De novo protein generation has transformative potential in therapeutic design, enzyme engineering, and synthetic biology. While diffusion-based and flo",
-      "published": "Thu, 11 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "source": "Google AI",
+      "summary": "Gemini Omni & Gemini 3.5 hero",
+      "published": "Fri, 29 May 2026 17:30:00 +0000",
+      "category": "news"
     },
     {
-      "title": "Physics-informed generative AI for semiconductor manufacturing: Enforcing hard physical constraints in generative models by construction",
-      "url": "https://arxiv.org/abs/2606.11247",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2606.11247v1 Announce Type: new  Abstract: Generative models are increasingly used to propose designs, data, and control actions for physical systems, yet many such systems are governed by hard ",
-      "published": "Thu, 11 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "Check out real-life AI prototypes from the Futures Lab.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+      "source": "Google AI",
+      "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+      "published": "Fri, 29 May 2026 12:00:00 +0000",
+      "category": "news"
     },
     {
-      "title": "Mechanical Field Networks: Structured Neural Dynamics for Multivariate Systems",
-      "url": "https://arxiv.org/abs/2606.11251",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2606.11251v1 Announce Type: new  Abstract: Many multivariate dynamical systems are observed only through trajectories, leaving the mechanisms governing their joint dynamics hidden. Existing appr",
-      "published": "Thu, 11 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "source": "MIT Tech Review",
+      "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all pe",
+      "published": "Fri, 29 May 2026 10:00:00 +0000",
+      "category": "news"
     },
     {
-      "title": "Bernstein-Schur Kernels: Random Features by Sketched Modulation and Radial Randomization",
-      "url": "https://arxiv.org/abs/2606.11255",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2606.11255v1 Announce Type: new  Abstract: Bernstein--Schur kernels are products of a finite-feature kernel (one with an explicit finite-dimensional feature map) and a completely monotone shift-",
-      "published": "Thu, 11 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "source": "Google AI",
+      "summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
+      "published": "Fri, 22 May 2026 18:00:00 +0000",
+      "category": "news"
     },
     {
-      "title": "PoQ-Judge: A Multi-Architecture Evaluation Framework for Cost-Aware Proof-of-Quality in Decentralized LLM Inference",
-      "url": "https://arxiv.org/abs/2606.11196",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2606.11196v1 Announce Type: new  Abstract: Decentralized LLM inference networks need lightweight, reference-free quality evaluation for Proof of Quality (PoQ). We present PoQ-Judge, a framework ",
-      "published": "Thu, 11 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zu",
+      "published": "Fri, 16 Jan 2026 14:01:00 GMT",
+      "category": "news"
     },
     {
-      "title": "The Structural Attention Tax: How Retrieval Format Hijacks In-Context Learning Independent of Content",
-      "url": "https://arxiv.org/abs/2606.11198",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2606.11198v1 Announce Type: new  Abstract: Retrieval-augmented generation (RAG) systems inject external knowledge to improve LLM outputs, yet the format of injected content -- distinct from its ",
-      "published": "Thu, 11 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "Kimi K2.7 Code 发布并开源，6 倍速高速版下周一上线",
+      "url": "https://www.oschina.net/news/457565",
+      "source": "开源中国",
+      "summary": "月之暗面宣布发布并开源 Kimi K2.7 Code 编程模型。1M token 的标准输入和输出价格与 K2.6 模型一致，分别为 6.5 元和 27 元；命中缓存的输入价格调整为 1.3 元。 其内外部基准评估显示，Kimi K2.7 Code 相比 K2.6 模型显著提升了长上下文编程场景的指令遵循能力、长程编程任务的性能表现，并且大幅改善了在长程任务中的...",
+      "published": "Fri, 12 Jun 2026 18:33:19 +0800",
+      "category": "news"
     },
     {
-      "title": "NightFeats @ MMU-RAGent NeurIPS 2025: A Context-Optimized Multi-Agent RAG System for the Text-to-Text Track",
-      "url": "https://arxiv.org/abs/2606.11199",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2606.11199v1 Announce Type: new  Abstract: We present NightFeats, a structured multi-agent retrieval-augmented generation (RAG) system submitted to the MMU-RAGent competition at NeurIPS 2025, wh",
-      "published": "Thu, 11 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "5人2周肝出5.1k星！小米 MiMo Code开源但bug不断，开发者炸锅",
+      "url": "https://www.infoq.cn/article/GTYmDTKIy8f79604Jz1V?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 12 Jun 2026 18:29:05 GMT",
+      "category": "news"
     },
     {
-      "title": "Detecting AI-Generated Content on Social Media with Multi-modal Language Models",
-      "url": "https://arxiv.org/abs/2606.11200",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2606.11200v1 Announce Type: new  Abstract: Generative AI has enabled the creation of photorealistic images and videos that are increasingly disseminated on social media, often used for spam, mis",
-      "published": "Thu, 11 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "Protocol Buffers 35.1 发布",
+      "url": "https://www.oschina.net/news/457562/protobuf-35-1-released",
+      "source": "开源中国",
+      "summary": "Protocol Buffers 35.1 已经发布。Protocol Buffers（protobuf）是 Google 开源的语言无关、平台无关的可扩展机制，用于序列化结构化数据。 Announcements Protobuf News 可能包括即将发生的变化的额外公告或预告。 Bazel Bazel 9 针对 csharp、hpb、objc、php、python、rust 和 upb 进行了测试（#27598）（4469e38） 打...",
+      "published": "Fri, 12 Jun 2026 18:27:54 +0800",
+      "category": "news"
+    },
+    {
+      "title": "智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻",
+      "url": "https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 12 Jun 2026 16:30:21 GMT",
+      "category": "news"
+    },
+    {
+      "title": "从月球漫步到赛博都市，WBench 测出了世界模型的边界",
+      "url": "https://my.oschina.net/meituantech/blog/19702272",
+      "source": "开源中国",
+      "summary": "像这样，在月球上自由漫步，是什么感觉？它们是真的理解了世界，还是仅仅在模仿视频？目前的模型距离这个目标还有多远？",
+      "published": "Fri, 12 Jun 2026 16:26:52 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Build 2026：Azure API Management 推出统一模型API并新增MCP内容安全能力",
+      "url": "https://www.infoq.cn/article/KDgV7D7aIrCVeEEuy6Wk?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 12 Jun 2026 16:03:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "smart-socket v2.1.0 发布：在 AI 时代，我们为什么还在打磨一个通信框架？",
+      "url": "https://www.oschina.net/news/457440/smart-socket-2-1-0-released",
+      "source": "开源中国",
+      "summary": "AI 都已经开始写代码了，为什么还要继续维护 smart-socket 这样的通信框架？ 这是个值得思考的问题。 如今，大模型已经能够生成完整的业务代码，自动补全、测试生成、代码重构……越来越多过去需要开发者亲手完成的工作，正在被 AI 接管。 但这些年的经历，让我越来越确信： AI 可以生成代码，但无法替代工程积累。 AI 可...",
+      "published": "Fri, 12 Jun 2026 15:50:20 +0800",
+      "category": "news"
+    },
+    {
+      "title": "“开源版 Windows” ReactOS 达成重要里程碑，现已能够运行《半条命》",
+      "url": "https://www.oschina.net/news/457407",
+      "source": "开源中国",
+      "summary": "致力于实现与微软Windows二进制兼容的开源操作系统——ReactOS终于能够运行经典游戏《半条命》（Half-Life）了。ReactOS的开发历程已达28年之久，这个里程碑的达成来之不易。 ReactOS项目成立于1998年，其核心目标是创建一个与Windows二进制兼容的操作系统，让Windows程序和驱动程序无需修改即可在其上运行。这一目标说起...",
+      "published": "Fri, 12 Jun 2026 15:22:19 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Snowflake 迈向 Agentic Enterprise 的关键一跃",
+      "url": "https://www.infoq.cn/article/x99GEFjWQ8Ipb4pcDq2P?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 12 Jun 2026 15:07:04 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Ant Design 6.4.4 发布，企业级 UI 设计语言和 React 实现",
+      "url": "https://www.oschina.net/news/457384/ant-design-6-4-4-released",
+      "source": "开源中国",
+      "summary": "Ant Design 是阿里巴巴开源的一套企业级 UI 设计语言和 React 组件库。Ant Design 6.4.4 现已发布，主要更新内容如下： Descriptions 修复 Descriptions 嵌套 Table 时宽度可能被异常撑大的问题。#58203 修复 Descriptions 传入响应式 column 属性值时行为可能不符合预期的问题。#58058 Radio 修复 Radio.Group button 形...",
+      "published": "Fri, 12 Jun 2026 14:53:02 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Claude Fable 5 自主性太强了，强到让人细思极恐",
+      "url": "https://www.oschina.net/news/457383/fable-is-relentlessly-proactive",
+      "source": "开源中国",
+      "summary": "AI独立编程智能体究竟能走多远？知名技术博主Simon Willison近日发表文章，详述了他使用Claude Fable 5调试Datasette Agent中一个水平滚动条bug的完整过程——这个案例生动展示了当前顶级AI编程智能体令人震撼的主动性和执行力，同时也揭示了这类工具潜在的安全风险。 故事从一个看似简单的bug开始：Datasette Agent的跳...",
+      "published": "Fri, 12 Jun 2026 14:50:38 +0800",
+      "category": "news"
+    },
+    {
+      "title": "CloudDM 3.2.0 发布，统一登录入口和账号模型",
+      "url": "https://www.oschina.net/news/457371",
+      "source": "开源中国",
+      "summary": "产品介绍 CloudDM 是一款免费且开源的团队化数据库管理工具，提供统一 Web 数据库访问、权限控制、数据脱敏、SQL 审核、流程协同和数据库 CI/CD 等能力。 更新亮点 统一登录入口和账号模型，不再区分管理员身份和普通用户身份。 新增数据源语言服务能力，SQL 编辑器支持后端插件提供补全、分割和校验。 优化 Docker、初始...",
+      "published": "Fri, 12 Jun 2026 14:32:24 +0800",
+      "category": "news"
+    },
+    {
+      "title": "一个新语言的硬核实验：用 Uya 重写 WebRTC 并打通 Chrome",
+      "url": "https://www.oschina.net/news/457366",
+      "source": "开源中国",
+      "summary": "一个新语言的硬核实验：用 Uya 重写 WebRTC 并打通 Chrome Uya WebRTC 发布了 v0.3.0 里程碑版本。这个版本继续沿着“默认运行路径用 Uya 实现 WebRTC transport”的方向推进，把通用 PeerConnection 从 DataChannel-only 的验证边界推进到 Chrome video SDP、SRTP/VP8 RTP 接收路由和 host FFmpeg Chrome call 手工互通...",
+      "published": "Fri, 12 Jun 2026 14:21:08 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Meta 已完成与 Manus 的业务分离",
+      "url": "https://www.oschina.net/news/457365",
+      "source": "开源中国",
+      "summary": "外媒消息称，Meta 已完成与 Manus 的业务分离，并停止了两家公司之间的数据共享。 知情人士透露，Meta 在两家公司之间建立了内部“防火墙”。自 6 月初以来，Meta 已全面禁止 Manus 及其员工访问该公司内部数据系统，且 Meta 的员工将无法再使用 Manus 工具进行内部项目。 据彭博新闻社看到的一份内部备忘录显示，Meta ...",
+      "published": "Fri, 12 Jun 2026 14:20:51 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Uber 如何通过批处理实现单账户每秒 30+ 次更新",
+      "url": "https://www.infoq.cn/article/pXMkt6weMsrbNNvZR0pM?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 12 Jun 2026 14:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "OpenSSL 4.0.1 发布",
+      "url": "https://www.oschina.net/news/457352/openssl-4-0-1-released",
+      "source": "开源中国",
+      "summary": "OpenSSL 4.0.1 现已发布，这是一个安全补丁版本。此版本修复的最严重 CVE 漏洞为高危漏洞。 此版本包含以下错误修复和缓解措施： 修复了PKCS7_verify()中的 heap use-after-free 漏洞。（CVE-2026-45447） 修复了 CMS AuthEnvelopedData处理过程中可能接受伪造消息的问题。( CVE-2026-34182 ) 修复了 QUICPATH_CHALLENGE...",
+      "published": "Fri, 12 Jun 2026 13:55:31 +0800",
+      "category": "news"
+    },
+    {
+      "title": ":fire: Agent Talents 是啥？与 Agent Skills 啥区别？",
+      "url": "https://www.oschina.net/news/457350",
+      "source": "开源中国",
+      "summary": "Claude Agent Skills（技能） Solon AI Talents（才能） 一句话定义 Agent 学习获得的能力 Agent 内在具备的能力 能力来源 运行时学习 开发时添加 类比 实习生在项目中边做边学的新手艺 工程师入职前就已掌握的专业本领 Solon AI Talents 在设计思想上，深度参考并吸收了 Claude Code Agent Skills 的概念原型，但两者在...",
+      "published": "Fri, 12 Jun 2026 13:51:24 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Zed 宣布正在开发 DeltaDB，一次“去 Git 化”的版本控制实验",
+      "url": "https://www.oschina.net/news/457294/zed-deltadb",
+      "source": "开源中国",
+      "summary": "代码的真正来源是代码本身，还是产生代码的那段对话？Zed团队在官方博客上发表了一篇文章，宣布正在开发一个名为DeltaDB的新版本控制系统——这个系统的核心理念是：代码变更应该与产生这段变更的对话绑定在一起，而非仅仅依赖于Git的提交快照。 https://zed.dev/deltadb Git的局限性：从快照到操作记录 Zed的联合创始人...",
+      "published": "Fri, 12 Jun 2026 11:56:00 +0800",
+      "category": "news"
+    },
+    {
+      "title": "人效近 400 万如何炼成?  在 Snowflake 硅谷总部重新理解了 AI 时代的 Builder ｜ 奇遇旧金山收官篇",
+      "url": "https://www.infoq.cn/video/7LNG31pHhuTxEptTLMsD?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 12 Jun 2026 11:41:16 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Khronos 发布 glTF 2.1",
+      "url": "https://www.oschina.net/news/457285/gltf-2-1-with-complex-scenes",
+      "source": "开源中国",
+      "summary": "自 2017 年发布 glTF™ 2.0 以来，该格式已经发展成熟，形成了一个涵盖网格压缩、纹理优化、3D 高斯泼溅 (3D Gaussian splats) 等技术的丰富生态系统。今天，Khronos® 3D 格式工作组怀着激动的心情宣布 glTF 2.1 的计划：这是一次针对核心规范的、重点突出且向后兼容的修订，其核心动机只有一个——让 glTF 在处理大型组...",
+      "published": "Fri, 12 Jun 2026 11:36:47 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Git 2.55-rc0 版本发布，默认启用 Rust",
+      "url": "https://www.oschina.net/news/457283/git-2-55-rc0",
+      "source": "开源中国",
+      "summary": "Git 2.55-rc0 已发布。Git 2.55 最显著的变化是默认启用 Rust 支持。Git 2.55-rc0 实现了默认启用 Rust 的更改在此之前，用户必须通过 Meson 或在标准 Makefile 中添加 WITH_RUST 来手动启用 Rust。 但从 Git 2.55 开始，Rust 支持已默认启用。Git 2.55 仍然允许用户根据需要选择禁用 Rust 支持。Git 2.55 将 Makefile 中...",
+      "published": "Fri, 12 Jun 2026 11:33:04 +0800",
+      "category": "news"
+    },
+    {
+      "title": "打破向量检索的局限：RAG 混合检索实践",
+      "url": "https://www.infoq.cn/article/QC1mkdEzZRL1FFpvfukC?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 12 Jun 2026 10:49:36 GMT",
+      "category": "news"
+    },
+    {
+      "title": "身临其境 沉浸互动——大型赛事直播与互动实战指南",
+      "url": "https://www.infoq.cn/minibook/wqj338Aub43YjjTYEDEx?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 12 Jun 2026 10:43:05 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Snowflake CoCo、CoWork 亮相 顶级玩家如何定义 Agentic AI 未来 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP2）",
+      "url": "https://www.infoq.cn/video/9QTSak237x3L8ugfPoxH?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 12 Jun 2026 10:21:33 GMT",
+      "category": "news"
+    },
+    {
+      "title": "上海交大助理教授刘方鑫确认出席AICon上海，分享从数据表征到数据流编排的存算协同优化",
+      "url": "https://www.infoq.cn/article/6re9AY3iCjKe2WLgO3kX?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 12 Jun 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "You Probably Won’t Get Rich Off the SpaceX IPO",
+      "url": "https://www.wired.com/story/you-probably-wont-get-rich-off-the-spacex-ipo/",
+      "source": "Wired",
+      "summary": "The company has set aside an unusually high number of shares for retail investors. Still, experts say, you’re just getting the crumbs.",
+      "published": "Fri, 12 Jun 2026 09:30:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "source": "TechCrunch AI",
+      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+      "published": "Fri, 12 Jun 2026 04:30:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "source": "TechCrunch AI",
+      "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+      "published": "Fri, 12 Jun 2026 01:48:07 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "source": "TechCrunch AI",
+      "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+      "published": "Fri, 12 Jun 2026 01:04:38 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Apple’s Camera Chief Thinks AI Can Give You Superpowers",
+      "url": "https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/",
+      "source": "Wired",
+      "summary": "The generative features in iOS 27’s new Photos app will add fake pixels to some of your shots, but Apple’s Jon McCormack says the company isn’t using AI “for the sake of AI.”",
+      "published": "Fri, 12 Jun 2026 01:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "source": "OpenAI",
+      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "published": "Fri, 12 Jun 2026 00:00:00 GMT",
+      "category": "news"
     }
   ]
 }
