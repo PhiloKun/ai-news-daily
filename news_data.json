@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T10:56:56.260980",
+  "updated_at": "2026-06-13T09:51:25.319407",
   "total": 100,
   "items": [
     {
@@ -27,22 +27,6 @@
       "category": "news"
     },
     {
-      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-      "source": "TechCrunch AI",
-      "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
-      "published": "Wed, 10 Jun 2026 22:31:19 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
-      "source": "TechCrunch AI",
-      "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
-      "published": "Wed, 10 Jun 2026 20:19:31 +0000",
-      "category": "news"
-    },
-    {
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
       "url": "https://openai.com/index/openai-on-oracle-cloud",
       "source": "OpenAI",
@@ -51,59 +35,11 @@
       "category": "news"
     },
     {
-      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
-      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-      "source": "TechCrunch AI",
-      "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
-      "published": "Wed, 10 Jun 2026 17:07:35 +0000",
-      "category": "news"
-    },
-    {
-      "title": "How memory tools can make AI models worse",
-      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-      "source": "TechCrunch AI",
-      "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-      "published": "Wed, 10 Jun 2026 16:11:08 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "source": "TechCrunch AI",
-      "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
-      "published": "Wed, 10 Jun 2026 15:41:22 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
-      "url": "https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/",
-      "source": "Wired",
-      "summary": "The ACLU is suing two Florida police departments over the arrest of a Fort Myers man in a child-abduction case, saying officers treated a flawed face-recognition match as a near-certain ID.",
-      "published": "Wed, 10 Jun 2026 14:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "China Opens World’s First Wind-Powered Underwater Data Center",
-      "url": "https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/",
-      "source": "Wired",
-      "summary": "With an initial capacity of 24 megawatts, the innovative data center uses seawater as a natural cooling system.",
-      "published": "Wed, 10 Jun 2026 13:39:32 +0000",
-      "category": "news"
-    },
-    {
       "title": "PRC-linked influence operations are targeting AI debates in the US",
       "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
       "source": "OpenAI",
       "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
       "published": "Wed, 10 Jun 2026 12:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
-      "url": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
-      "source": "Wired",
-      "summary": "The Argentine national team will be Google’s test bench and technological showcase during the World Cup.",
-      "published": "Wed, 10 Jun 2026 10:00:00 +0000",
       "category": "news"
     },
     {
@@ -176,14 +112,6 @@
       "source": "VentureBeat",
       "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company&#x27;s workplace assistant, transform",
       "published": "Tue, 13 Jan 2026 13:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
-      "url": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
-      "source": "Wired",
-      "summary": "Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can’t be used for cyberattacks.",
-      "published": "Tue, 09 Jun 2026 17:00:46 +0000",
       "category": "news"
     },
     {
@@ -323,38 +251,6 @@
       "category": "news"
     },
     {
-      "title": "OpenAI秘密递表！三巨头一起“抢钱”：AI史上最贵一轮融资要来了",
-      "url": "https://www.infoq.cn/article/wNJsVd21BshslzNoUXqr?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 11 Jun 2026 18:57:28 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Arm 神经技术与虚幻引擎 MegaLights首登移动端，手游画质跨入电影时代",
-      "url": "https://www.infoq.cn/article/zaWyR4Kg3d7ubjcHR3Lr?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 11 Jun 2026 18:20:55 GMT",
-      "category": "news"
-    },
-    {
-      "title": "微软 Foundry 新增生产级智能体运行时、工具链与管控能力",
-      "url": "https://www.infoq.cn/article/FoxOEsYuLGTKgu8wbhdY?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 11 Jun 2026 17:34:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "打破“人月神话”，Agent 重塑风控场景产运研职能",
-      "url": "https://www.infoq.cn/article/VbPxMjRexUufus9dbxRq?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 11 Jun 2026 17:32:13 GMT",
-      "category": "news"
-    },
-    {
       "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
       "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
       "source": "TechCrunch AI",
@@ -371,14 +267,6 @@
       "category": "news"
     },
     {
-      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
-      "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
-      "source": "TechCrunch AI",
-      "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
-      "published": "Thu, 11 Jun 2026 14:23:43 +0000",
-      "category": "news"
-    },
-    {
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
       "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
       "source": "MIT Tech Review",
@@ -387,50 +275,10 @@
       "category": "news"
     },
     {
-      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-      "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-      "source": "TechCrunch AI",
-      "summary": "The decision comes as India emerges as the world’s largest GCC market.",
-      "published": "Thu, 11 Jun 2026 04:02:19 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Anthropic’s Dario Amodei has just one direct report",
-      "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-      "source": "TechCrunch AI",
-      "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
-      "published": "Thu, 11 Jun 2026 03:53:06 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
-      "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
-      "source": "Wired",
-      "summary": "The company changed course after researchers spoke out against the policy, which would have covertly limited Claude’s ability to develop competing AI models.",
-      "published": "Thu, 11 Jun 2026 03:11:22 +0000",
-      "category": "news"
-    },
-    {
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
       "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "source": "OpenAI",
       "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "source": "OpenAI",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "source": "OpenAI",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "category": "news"
     },
@@ -443,11 +291,19 @@
       "category": "news"
     },
     {
-      "title": "How Endava is redesigning software delivery around AI agents",
-      "url": "https://openai.com/index/endava-frontiers",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
       "source": "OpenAI",
-      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
-      "published": "Thu, 04 Jun 2026 12:00:00 GMT",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "source": "OpenAI",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "category": "news"
     },
     {
@@ -456,6 +312,70 @@
       "source": "MIT Tech Review",
       "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small t",
       "published": "Thu, 04 Jun 2026 10:50:18 +0000",
+      "category": "news"
+    },
+    {
+      "title": "调问更新5.31~6.12：新增 Excel 数据导入与手机号验证，全面优化统计与抽奖模块",
+      "url": "https://www.oschina.net/news/457829",
+      "source": "开源中国",
+      "summary": "调问自开源以来一直坚持前后端所有代码 100% 开源*，助力企业建设属于自己的问卷调研系统*。 *官网地址： https://www.diaowen.net * 在线服务： https://www.surveyform.cn * 源码下载： https://gitee.com/wkeyuan/DWSurvey 本次更新致力于全面提升数据收集的效率与分析的专业度：全新上线了手机号验证与 Excel 数据导...",
+      "published": "Sat, 13 Jun 2026 10:08:34 +0800",
+      "category": "news"
+    },
+    {
+      "title": "面壁智能开源社区负责人井晨哲将在AICon上海站，分享高效端侧大模型的技术趋势与产业应用观察",
+      "url": "https://www.infoq.cn/article/sMxf71RUtLYgI0BsQhKw?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 13 Jun 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "AI驱动的网络钓鱼：技术演变与实施方式",
+      "url": "https://www.infoq.cn/article/U140AaPLg0t5dXxE8x7q?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 13 Jun 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "分析的未来是多模态的，一切都关乎 Vibe ｜ 技术趋势",
+      "url": "https://www.infoq.cn/article/v3lCjatWKZaTu7DhgoLq?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 13 Jun 2026 09:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "A German Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
+      "url": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
+      "source": "Wired",
+      "summary": "The ruling holds that a company that designs, trains, operates, and manages an AI system must assume legal liability for any damages caused by the responses it generates.",
+      "published": "Sat, 13 Jun 2026 09:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "source": "TechCrunch AI",
+      "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+      "published": "Sat, 13 Jun 2026 04:14:19 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "source": "TechCrunch AI",
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+      "published": "Sat, 13 Jun 2026 02:26:30 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+      "url": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+      "source": "Wired",
+      "summary": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
+      "published": "Sat, 13 Jun 2026 02:26:10 +0000",
       "category": "news"
     },
     {
@@ -555,6 +475,62 @@
       "category": "news"
     },
     {
+      "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
+      "url": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
+      "source": "Wired",
+      "summary": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff.",
+      "published": "Fri, 12 Jun 2026 23:45:26 +0000",
+      "category": "news"
+    },
+    {
+      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "source": "TechCrunch AI",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucke",
+      "published": "Fri, 12 Jun 2026 23:15:14 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "source": "TechCrunch AI",
+      "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+      "published": "Fri, 12 Jun 2026 23:00:54 +0000",
+      "category": "news"
+    },
+    {
+      "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
+      "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+      "source": "Wired",
+      "summary": "Executives and employees alike are struggling with Meta’s chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
+      "published": "Fri, 12 Jun 2026 21:16:25 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "source": "TechCrunch AI",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "published": "Fri, 12 Jun 2026 20:38:09 +0000",
+      "category": "news"
+    },
+    {
+      "title": "我们如何利用 Cortex Code 将财务差异分析转变为实时智能工作流 ｜ 技术趋势",
+      "url": "https://www.infoq.cn/article/AdDpLjkICT8EFS8tRgvM?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 12 Jun 2026 19:52:51 GMT",
+      "category": "news"
+    },
+    {
+      "title": "🔥MakuBoot 5.1 发布，低代码开发平台，快速开发利器",
+      "url": "https://www.oschina.net/news/457589",
+      "source": "开源中国",
+      "summary": "介绍 maku-boot 是采用 SpringBoot4.0、SpringSecurity7.0、Flowable8.0、Mybatis-Plus、Vue3、Element-plus 等技术开发的低代码开发平台，旨在为开发者提供一个简洁、高效、可扩展的低代码开发平台。 使用门槛极低，支持国密加密、达梦数据库等，符合信创需求的低代码开发平台。 采用组件模式，扩展不同的业务功能，可以...",
+      "published": "Fri, 12 Jun 2026 19:41:37 +0800",
+      "category": "news"
+    },
+    {
       "title": "Kimi K2.7 Code 发布并开源，6 倍速高速版下周一上线",
       "url": "https://www.oschina.net/news/457565",
       "source": "开源中国",
@@ -579,6 +555,22 @@
       "category": "news"
     },
     {
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "source": "TechCrunch AI",
+      "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
+      "published": "Fri, 12 Jun 2026 17:38:11 +0000",
+      "category": "news"
+    },
+    {
+      "title": "China Didn’t Make Americans Hate Data Centers",
+      "url": "https://www.wired.com/story/china-us-data-center-opposition/",
+      "source": "Wired",
+      "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data-center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
+      "published": "Fri, 12 Jun 2026 17:17:10 +0000",
+      "category": "news"
+    },
+    {
       "title": "智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻",
       "url": "https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
@@ -595,11 +587,27 @@
       "category": "news"
     },
     {
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "source": "TechCrunch AI",
+      "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google,",
+      "published": "Fri, 12 Jun 2026 16:23:25 +0000",
+      "category": "news"
+    },
+    {
       "title": "Build 2026：Azure API Management 推出统一模型API并新增MCP内容安全能力",
       "url": "https://www.infoq.cn/article/KDgV7D7aIrCVeEEuy6Wk?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Fri, 12 Jun 2026 16:03:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "It’s hot IPO summer, and the MANGOS are ripe",
+      "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
+      "source": "TechCrunch AI",
+      "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google,",
+      "published": "Fri, 12 Jun 2026 15:50:52 +0000",
       "category": "news"
     },
     {
@@ -707,22 +715,6 @@
       "category": "news"
     },
     {
-      "title": "Khronos 发布 glTF 2.1",
-      "url": "https://www.oschina.net/news/457285/gltf-2-1-with-complex-scenes",
-      "source": "开源中国",
-      "summary": "自 2017 年发布 glTF™ 2.0 以来，该格式已经发展成熟，形成了一个涵盖网格压缩、纹理优化、3D 高斯泼溅 (3D Gaussian splats) 等技术的丰富生态系统。今天，Khronos® 3D 格式工作组怀着激动的心情宣布 glTF 2.1 的计划：这是一次针对核心规范的、重点突出且向后兼容的修订，其核心动机只有一个——让 glTF 在处理大型组...",
-      "published": "Fri, 12 Jun 2026 11:36:47 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Git 2.55-rc0 版本发布，默认启用 Rust",
-      "url": "https://www.oschina.net/news/457283/git-2-55-rc0",
-      "source": "开源中国",
-      "summary": "Git 2.55-rc0 已发布。Git 2.55 最显著的变化是默认启用 Rust 支持。Git 2.55-rc0 实现了默认启用 Rust 的更改在此之前，用户必须通过 Meson 或在标准 Makefile 中添加 WITH_RUST 来手动启用 Rust。 但从 Git 2.55 开始，Rust 支持已默认启用。Git 2.55 仍然允许用户根据需要选择禁用 Rust 支持。Git 2.55 将 Makefile 中...",
-      "published": "Fri, 12 Jun 2026 11:33:04 +0800",
-      "category": "news"
-    },
-    {
       "title": "打破向量检索的局限：RAG 混合检索实践",
       "url": "https://www.infoq.cn/article/QC1mkdEzZRL1FFpvfukC?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
@@ -747,6 +739,14 @@
       "category": "news"
     },
     {
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "source": "OpenAI",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "published": "Fri, 12 Jun 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
       "title": "上海交大助理教授刘方鑫确认出席AICon上海，分享从数据表征到数据流编排的存算协同优化",
       "url": "https://www.infoq.cn/article/6re9AY3iCjKe2WLgO3kX?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
@@ -766,7 +766,7 @@
       "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
       "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
       "source": "TechCrunch AI",
-      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
       "published": "Fri, 12 Jun 2026 04:30:00 +0000",
       "category": "news"
     },
