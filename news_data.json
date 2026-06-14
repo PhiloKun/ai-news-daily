@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T09:51:25.319407",
+  "updated_at": "2026-06-14T10:19:53.426016",
   "total": 100,
   "items": [
     {
@@ -211,14 +211,6 @@
       "category": "news"
     },
     {
-      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-      "source": "TechCrunch AI",
-      "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
-      "published": "Thu, 11 Jun 2026 20:33:10 +0000",
-      "category": "news"
-    },
-    {
       "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
       "source": "Google AI",
@@ -227,43 +219,11 @@
       "category": "news"
     },
     {
-      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-      "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-      "source": "TechCrunch AI",
-      "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
-      "published": "Thu, 11 Jun 2026 19:58:01 +0000",
-      "category": "news"
-    },
-    {
       "title": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
       "url": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
       "source": "Wired",
       "summary": "A WIRED investigation found dozens of “nudified” deepfake images and videos on Grok's website, including nonconsensual depictions of celebrities and at least one prominent US politician.",
       "published": "Thu, 11 Jun 2026 19:41:01 +0000",
-      "category": "news"
-    },
-    {
-      "title": "硅谷大厂，员工人均月花5万养 AI",
-      "url": "https://www.infoq.cn/article/g0gwDH3edWuateVXqp6N?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 11 Jun 2026 18:59:27 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
-      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-      "source": "TechCrunch AI",
-      "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
-      "published": "Thu, 11 Jun 2026 16:36:20 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Pool’s new app turns your screenshots into something useful",
-      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
-      "source": "TechCrunch AI",
-      "summary": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
-      "published": "Thu, 11 Jun 2026 15:30:00 +0000",
       "category": "news"
     },
     {
@@ -315,6 +275,102 @@
       "category": "news"
     },
     {
+      "title": "知识管理系统 WCP5.0.1 发布，全面重构支持AI工作流引擎编排",
+      "url": "https://www.oschina.net/news/458347",
+      "source": "开源中国",
+      "summary": "WCP5 提供了一套完整的企业级知识管理解决方案，让团队协作更智能、更高效！ 核心模块重构一览 模块 说明 * 知识管理 支持 多格式知识创建与维护 * 智能搜索 基于 Apache Lucene + IK 分词的全文检索引擎 * AI 助手 集成大语言模型，支持智能问答与嵌入检索 * 工作流引擎 可视化 AI 流程编排（Vue Flow） *️ 分类体系 ...",
+      "published": "Sun, 14 Jun 2026 13:36:18 +0800",
+      "category": "news"
+    },
+    {
+      "title": "GodeX 1.2.0 拥抱 GLM-5.2",
+      "url": "https://www.oschina.net/news/458338",
+      "source": "开源中国",
+      "summary": "让每个模型都成为 Codex 引擎。 OpenAI 兼容的 Responses API 网关，让 Codex、CLI 工具和开发者 Agent 接入任意模型。 English Documentation · 中文文档 GodeX 让使用 OpenAI Responses API 的客户端，可以通过一个本地网关调用 DeepSeek、Xiaomi、MiniMax、智谱等只提供 Chat Completions API 的模型提供商。 GodeX ...",
+      "published": "Sun, 14 Jun 2026 12:59:17 +0800",
+      "category": "news"
+    },
+    {
+      "title": "feilong 4.5.4 发布了，让 Java 开发更简便的工具库",
+      "url": "https://www.oschina.net/news/458333",
+      "source": "开源中国",
+      "summary": "feilong 4.5.4 Release Notes（Milestone #53） 里程碑：4.5.4 · Milestone #53（18 items, 100% completed） 仓库：https://github.com/ifeilong/feilong Milestone 视图：https://github.com/ifeilong/feilong/milestone/53?closed=1 升级提示（先看这个） MapUtil.get(Map&lt;K,V&gt;, int) 由",
+      "published": "Sun, 14 Jun 2026 12:46:42 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Dante Cloud 4.1.0.0 发布，Spring Boot 3 已落幕，启航新征程",
+      "url": "https://www.oschina.net/news/458331",
+      "source": "开源中国",
+      "summary": "[一] 更新说明 2026年6月，Spring Boot 4.1 和 Spring Cloud 2025.1.2 正式发布。本次发布并不同于传统习惯在 5月底发布，而是改为在 6 月第二周，所有 Spring 生态组件集中发布。 随着 Spring Boot 4.1 版本的发布，Spring Boot 3 也结束其生命周期，正式停止维护退出历史舞台。今后，Spring Boot 4.X 将会成为社区主要...",
+      "published": "Sun, 14 Jun 2026 12:43:58 +0800",
+      "category": "news"
+    },
+    {
+      "title": "蚂蚁数科企业级 AGI 研发体系重塑实战｜AICon上海",
+      "url": "https://www.infoq.cn/article/k890EiwhdA4ISuOu8IhH?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 14 Jun 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI GPT-5.5 与 Codex 正式登陆 Amazon Bedrock",
+      "url": "https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 14 Jun 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "source": "TechCrunch AI",
+      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+      "published": "Sun, 14 Jun 2026 03:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "source": "TechCrunch AI",
+      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+      "published": "Sun, 14 Jun 2026 00:03:49 +0000",
+      "category": "news"
+    },
+    {
+      "title": "常驻内存仅 15MB，无强制绑定！我们用 Go 语言重构了一款干净、轻量的 Linux 面板 DBPanel",
+      "url": "https://www.oschina.net/news/458127",
+      "source": "开源中国",
+      "summary": "各位开源中国的技术同仁、DevOps 工程师、系统管理员们，大家好： 在数字化基础设施建设中，Linux 服务器管理面板一直是开发者和运维人员离不开的生产力工具。然而，随着国内通用面板生态的演进，相信大家在日常运维、帮客户交付系统或管理私有云时，都或多或少面临着以下痛点： 面板自身越来越臃肿：由于功能过度堆砌，...",
+      "published": "Sat, 13 Jun 2026 23:28:48 +0800",
+      "category": "news"
+    },
+    {
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "source": "TechCrunch AI",
+      "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+      "published": "Sat, 13 Jun 2026 20:42:31 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "source": "TechCrunch AI",
+      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "published": "Sat, 13 Jun 2026 19:11:41 +0000",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI faces investigation from state attorneys general",
+      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "source": "TechCrunch AI",
+      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+      "published": "Sat, 13 Jun 2026 16:47:18 +0000",
+      "category": "news"
+    },
+    {
       "title": "调问更新5.31~6.12：新增 Excel 数据导入与手机号验证，全面优化统计与抽奖模块",
       "url": "https://www.oschina.net/news/457829",
       "source": "开源中国",
@@ -347,7 +403,7 @@
       "category": "news"
     },
     {
-      "title": "A German Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
+      "title": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
       "url": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
       "source": "Wired",
       "summary": "The ruling holds that a company that designs, trains, operates, and manages an AI system must assume legal liability for any damages caused by the responses it generates.",
@@ -659,51 +715,11 @@
       "category": "news"
     },
     {
-      "title": "一个新语言的硬核实验：用 Uya 重写 WebRTC 并打通 Chrome",
-      "url": "https://www.oschina.net/news/457366",
-      "source": "开源中国",
-      "summary": "一个新语言的硬核实验：用 Uya 重写 WebRTC 并打通 Chrome Uya WebRTC 发布了 v0.3.0 里程碑版本。这个版本继续沿着“默认运行路径用 Uya 实现 WebRTC transport”的方向推进，把通用 PeerConnection 从 DataChannel-only 的验证边界推进到 Chrome video SDP、SRTP/VP8 RTP 接收路由和 host FFmpeg Chrome call 手工互通...",
-      "published": "Fri, 12 Jun 2026 14:21:08 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Meta 已完成与 Manus 的业务分离",
-      "url": "https://www.oschina.net/news/457365",
-      "source": "开源中国",
-      "summary": "外媒消息称，Meta 已完成与 Manus 的业务分离，并停止了两家公司之间的数据共享。 知情人士透露，Meta 在两家公司之间建立了内部“防火墙”。自 6 月初以来，Meta 已全面禁止 Manus 及其员工访问该公司内部数据系统，且 Meta 的员工将无法再使用 Manus 工具进行内部项目。 据彭博新闻社看到的一份内部备忘录显示，Meta ...",
-      "published": "Fri, 12 Jun 2026 14:20:51 +0800",
-      "category": "news"
-    },
-    {
       "title": "Uber 如何通过批处理实现单账户每秒 30+ 次更新",
       "url": "https://www.infoq.cn/article/pXMkt6weMsrbNNvZR0pM?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Fri, 12 Jun 2026 14:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "OpenSSL 4.0.1 发布",
-      "url": "https://www.oschina.net/news/457352/openssl-4-0-1-released",
-      "source": "开源中国",
-      "summary": "OpenSSL 4.0.1 现已发布，这是一个安全补丁版本。此版本修复的最严重 CVE 漏洞为高危漏洞。 此版本包含以下错误修复和缓解措施： 修复了PKCS7_verify()中的 heap use-after-free 漏洞。（CVE-2026-45447） 修复了 CMS AuthEnvelopedData处理过程中可能接受伪造消息的问题。( CVE-2026-34182 ) 修复了 QUICPATH_CHALLENGE...",
-      "published": "Fri, 12 Jun 2026 13:55:31 +0800",
-      "category": "news"
-    },
-    {
-      "title": ":fire: Agent Talents 是啥？与 Agent Skills 啥区别？",
-      "url": "https://www.oschina.net/news/457350",
-      "source": "开源中国",
-      "summary": "Claude Agent Skills（技能） Solon AI Talents（才能） 一句话定义 Agent 学习获得的能力 Agent 内在具备的能力 能力来源 运行时学习 开发时添加 类比 实习生在项目中边做边学的新手艺 工程师入职前就已掌握的专业本领 Solon AI Talents 在设计思想上，深度参考并吸收了 Claude Code Agent Skills 的概念原型，但两者在...",
-      "published": "Fri, 12 Jun 2026 13:51:24 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Zed 宣布正在开发 DeltaDB，一次“去 Git 化”的版本控制实验",
-      "url": "https://www.oschina.net/news/457294/zed-deltadb",
-      "source": "开源中国",
-      "summary": "代码的真正来源是代码本身，还是产生代码的那段对话？Zed团队在官方博客上发表了一篇文章，宣布正在开发一个名为DeltaDB的新版本控制系统——这个系统的核心理念是：代码变更应该与产生这段变更的对话绑定在一起，而非仅仅依赖于Git的提交快照。 https://zed.dev/deltadb Git的局限性：从快照到操作记录 Zed的联合创始人...",
-      "published": "Fri, 12 Jun 2026 11:56:00 +0800",
       "category": "news"
     },
     {
@@ -747,14 +763,6 @@
       "category": "news"
     },
     {
-      "title": "上海交大助理教授刘方鑫确认出席AICon上海，分享从数据表征到数据流编排的存算协同优化",
-      "url": "https://www.infoq.cn/article/6re9AY3iCjKe2WLgO3kX?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 12 Jun 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
       "title": "You Probably Won’t Get Rich Off the SpaceX IPO",
       "url": "https://www.wired.com/story/you-probably-wont-get-rich-off-the-spacex-ipo/",
       "source": "Wired",
@@ -776,14 +784,6 @@
       "source": "TechCrunch AI",
       "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
       "published": "Fri, 12 Jun 2026 01:48:07 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "source": "TechCrunch AI",
-      "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
-      "published": "Fri, 12 Jun 2026 01:04:38 +0000",
       "category": "news"
     },
     {
