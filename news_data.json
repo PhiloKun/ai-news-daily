@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T11:14:32.616473",
+  "updated_at": "2026-06-20T09:57:51.904860",
   "total": 100,
   "items": [
     {
@@ -32,14 +32,6 @@
       "source": "Wired",
       "summary": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
       "published": "Wed, 17 Jun 2026 22:52:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Roelof Botha joins SpaceX’s board of directors",
-      "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-      "source": "TechCrunch AI",
-      "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
-      "published": "Wed, 17 Jun 2026 20:32:52 +0000",
       "category": "news"
     },
     {
@@ -443,11 +435,11 @@
       "category": "news"
     },
     {
-      "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-      "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+      "title": "How to turn off AI in your Google Docs",
+      "url": "https://techcrunch.com/2026/06/18/how-to-turn-off-ai-in-your-google-docs/",
       "source": "TechCrunch AI",
-      "summary": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
-      "published": "Thu, 18 Jun 2026 16:55:04 +0000",
+      "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+      "published": "Thu, 18 Jun 2026 17:00:00 +0000",
       "category": "news"
     },
     {
@@ -483,35 +475,11 @@
       "category": "news"
     },
     {
-      "title": "机器人整机是“有限游戏”？对话星海图创始人：具身智能商业化的三个阶段，终点是卖Token",
-      "url": "https://www.infoq.cn/article/0KPTbaiUC9HwkeA9tf5F?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 18 Jun 2026 16:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "General Intuition in talks to raise $300M at around $2B valuation",
-      "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-      "source": "TechCrunch AI",
-      "summary": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
-      "published": "Thu, 18 Jun 2026 15:20:37 +0000",
-      "category": "news"
-    },
-    {
       "title": "我国正式发行首套 AI 主题邮票",
       "url": "https://www.oschina.net/news/460761",
       "source": "开源中国",
       "summary": "中国邮政今日发行《人工智能》特种邮票1套4枚，邮票图案名称为：智启纪元、数智融合、具身智能、和谐共生。这是我国设计发行的第一套人工智能邮票，我国成为目前为数不多的发行人工智能邮票的国家之一。 本套邮票串联人工智能从诞生到未来的发展图景，以科技美学与人文内涵为双重内涵，全面展现AI技术的演进历程、多元应...",
       "published": "Thu, 18 Jun 2026 15:13:22 +0800",
-      "category": "news"
-    },
-    {
-      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
-      "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
-      "source": "TechCrunch AI",
-      "summary": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
-      "published": "Thu, 18 Jun 2026 15:13:21 +0000",
       "category": "news"
     },
     {
@@ -539,22 +507,6 @@
       "category": "news"
     },
     {
-      "title": "摩根大通：到 2030 年 AI 基础设施建设总花费将达 5.5 万亿美元",
-      "url": "https://www.oschina.net/news/460719",
-      "source": "开源中国",
-      "summary": "摩根大通近日上调了对大型科技公司建设人工智能（AI）基础设施所需的花费和借款预估。 该行策略师在周二（6月16日）的一份研报中指出，他们预计到2030年，人工智能超大规模数据中心运营商将投入约5.5万亿美元，较11月时的预测增加4000亿美元。 报告写道，其中约4.1万亿美元将来自债务融资，反映出市场预期这些公司将利用...",
-      "published": "Thu, 18 Jun 2026 14:03:27 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
-      "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
-      "source": "TechCrunch AI",
-      "summary": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).",
-      "published": "Thu, 18 Jun 2026 12:00:00 +0000",
-      "category": "news"
-    },
-    {
       "title": "Improving health intelligence in ChatGPT",
       "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
       "source": "OpenAI",
@@ -579,14 +531,6 @@
       "category": "news"
     },
     {
-      "title": "How to turn off AI in your Google Docs",
-      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-      "source": "TechCrunch AI",
-      "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
-      "published": "Thu, 18 Jun 2026 01:23:51 +0000",
-      "category": "news"
-    },
-    {
       "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
       "source": "Google AI",
@@ -603,10 +547,10 @@
       "category": "news"
     },
     {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
       "source": "OpenAI",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "category": "news"
     },
@@ -619,18 +563,18 @@
       "category": "news"
     },
     {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "source": "OpenAI",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "category": "news"
     },
     {
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "source": "OpenAI",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "category": "news"
     },
@@ -649,6 +593,150 @@
       "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
       "published": "Sun, 14 Jun 2026 17:00:00 GMT",
       "category": "news"
+    },
+    {
+      "title": "WSL Dashboard v0.9.1 已经发布，轻量级的 WSL 实例管理面板",
+      "url": "https://www.oschina.net/news/463893",
+      "source": "开源中国",
+      "summary": "WSL Dashboard v0.9.1 已经发布，轻量级的 WSL 实例管理面板 此版本更新内容包括： Auto-synced from GitHub Release v0.9.1 更新日志 ： 修复端口转发生效后界面状态未显示的问题（非英文系统），兼容所有语言的 Windows 系统 修复发行版导入/安装成功后可能显示错误信息的问题（非英文系统），改用退出码判定结果成功 ...",
+      "published": "Sat, 20 Jun 2026 12:38:34 +0800",
+      "category": "news"
+    },
+    {
+      "title": "AI 大模型驱动银行信贷业务的全链路变革｜AICon上海",
+      "url": "https://www.infoq.cn/article/TbCYkGW0XrYuhSK1NE2p?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 20 Jun 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2606.19464",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2606.19464v1 Announce Type: new  Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent th",
+      "published": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
+      "url": "https://arxiv.org/abs/2606.19469",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2606.19469v1 Announce Type: new  Abstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducib",
+      "published": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Diffusion Language Models: An Experimental Analysis",
+      "url": "https://arxiv.org/abs/2606.19475",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2606.19475v1 Announce Type: new  Abstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range o",
+      "published": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
+      "url": "https://arxiv.org/abs/2606.19494",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2606.19494v1 Announce Type: new  Abstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet",
+      "published": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
+      "url": "https://arxiv.org/abs/2606.19501",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2606.19501v1 Announce Type: new  Abstract: Decentralized finance exposes supervisors to fast-moving, networked credit risks. General-purpose LLM agents fit this setting poorly: they over-read we",
+      "published": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
+      "url": "https://arxiv.org/abs/2606.19509",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2606.19509v1 Announce Type: new  Abstract: Large language models (LLMs) are increasingly applied to structured clinical data, yet whether they can recognize the limits of their own knowledge on ",
+      "published": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "REVEAL++: Differentiable Phenotypic Grouping for Vision-Language Retinal Modeling of Alzheimer's Disease Risk",
+      "url": "https://arxiv.org/abs/2606.19522",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2606.19522v1 Announce Type: new  Abstract: The retina offers a noninvasive window into neurodegenerative disease, capturing subtle structural patterns associated with a risk of future cognitive ",
+      "published": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Emergent Alignment",
+      "url": "https://arxiv.org/abs/2606.19527",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2606.19527v1 Announce Type: new  Abstract: Can Large Language Models (LLMs) discern when their own outputs are misaligned with human ethics? And can they self-correct? We endow an LLM with a con",
+      "published": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Exposing the Unsaid: Visualizing Hidden LLM Bias through Stochastic Path Aggregation",
+      "url": "https://arxiv.org/abs/2606.19344",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2606.19344v1 Announce Type: new  Abstract: Large Language Models (LLMs) exhibit representational and syntactic biases that are difficult to evaluate due to the stochastic nature of text generati",
+      "published": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Ensembles of Large Language Models for Identifying EQ-5D Studies in PubMed Based on Their Abstracts",
+      "url": "https://arxiv.org/abs/2606.19345",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2606.19345v1 Announce Type: new  Abstract: The rapid increase in scientific publications leads to the fact that manual study screening in systematic literature reviews (SLRs) is increasingly res",
+      "published": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Disentangling Linguistic Relatedness from Task Alignment in Cross-Lingual Transfer",
+      "url": "https://arxiv.org/abs/2606.19346",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2606.19346v1 Announce Type: new  Abstract: We study cross-lingual transfer by fine-tuning seven large language models (4B--671B parameters) on Arabic and evaluating zero-shot reading comprehensi",
+      "published": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "How LLMs Fail and Generalize in RTL Coding for Hardware Design?",
+      "url": "https://arxiv.org/abs/2606.19347",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2606.19347v1 Announce Type: new  Abstract: Translating sequential programming priors into the parallel temporal logic of hardware design remains a crucial bottleneck for large language models(LL",
+      "published": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
+      "url": "https://arxiv.org/abs/2606.19348",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2606.19348v1 Announce Type: new  Abstract: We present a preview version of DeepSeek-V4 series, including two strong Mixture-of-Experts (MoE) language models -- DeepSeek-V4-Pro with 1.6T paramete",
+      "published": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Where to Place the Query? Unveiling and Mitigating Positional Bias in In-Context Learning for Diffusion LLMs via Decoding Dynamics",
+      "url": "https://arxiv.org/abs/2606.19349",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2606.19349v1 Announce Type: new  Abstract: While In-Context Learning (ICL) is extensively studied in Autoregressive (AR) LLMs, its mechanism within Diffusion Large Language Models (dLLMs) remain",
+      "published": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Pruning via Causal Attribution Preserves Reasoning Performance in Large Language Models",
+      "url": "https://arxiv.org/abs/2606.19350",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2606.19350v1 Announce Type: new  Abstract: Large language models (LLMs) excel at multi-step reasoning but incur substantial inference cost. We introduce Causal Attribution Pruning (CAP), a train",
+      "published": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Detecting Hallucinations for Large Language Model-based Knowledge Graph Reasoning",
+      "url": "https://arxiv.org/abs/2606.19351",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2606.19351v1 Announce Type: new  Abstract: Knowledge graph (KG) reasoning infers new knowledge from existing facts and is widely applied in question answering, recommendation, and decision suppo",
+      "published": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "category": "research"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -713,94 +801,6 @@
       "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
       "published": "Fri, 29 May 2026 12:00:00 +0000",
       "category": "news"
-    },
-    {
-      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
-      "source": "Google AI",
-      "summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
-      "published": "Fri, 22 May 2026 18:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "扎根亦庄聚力新质生产力，模数开源主理人学院首届学员顺利结业",
-      "url": "https://www.oschina.net/news/463562",
-      "source": "开源中国",
-      "summary": "2026 年 6 月 18 日，「开源·生长」模数开源主理人学院首届毕业典礼在北京亦庄国家信创园举行。来自全国各地的 OPC 创业者完成 8 周系统课程与实操演练，带着可量化的项目进展，正式从这座“创业黄埔军校”走向市场。 回想 4 月 22 日，一批怀揣创业梦想的OPC创业者迎来了开学典礼。8 周后，再次站在路演厅里，交出的不...",
-      "published": "Fri, 19 Jun 2026 17:58:27 +0800",
-      "category": "news"
-    },
-    {
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "source": "MIT Tech Review",
-      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many",
-      "published": "Fri, 19 Jun 2026 10:40:24 +0000",
-      "category": "news"
-    },
-    {
-      "title": "平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海",
-      "url": "https://www.infoq.cn/article/AERuuccQmeDjcPldZqfG?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 19 Jun 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Spring Boot 4.1 新增 gRPC 自动配置、SSRF 防护功能并支持 Kotlin 2.3",
-      "url": "https://www.infoq.cn/article/OoTNa5QuBzZej3ighRjz?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 19 Jun 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
-      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
-      "source": "TechCrunch AI",
-      "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
-      "published": "Fri, 19 Jun 2026 07:59:12 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "source": "TechCrunch AI",
-      "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-      "published": "Fri, 19 Jun 2026 00:51:11 +0000",
-      "category": "news"
-    },
-    {
-      "title": "MooTool 1.7.7 发布，开发者常备小工具",
-      "url": "https://www.oschina.net/news/461029",
-      "source": "开源中国",
-      "summary": "MooTool 1.7.7 已发布，这是一个用 Java 编写的开发者常备桌面小工具集。 更新内容 ● feat：【全局】功能列表「最近使用」默认隐藏，可在设置中开启 ● feat：【Host】Host 切换按钮点击后短暂显示成功/失败状态 ● feat：【全局】macOS 应用主菜单增加检查更新项 ● opt：【JSON】优化 JSON Path value 相关功能 ● fi...",
-      "published": "Fri, 19 Jun 2026 00:11:59 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
-      "url": "https://arxiv.org/abs/2606.19464",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.19464v1 Announce Type: new  Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent th",
-      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
-      "url": "https://arxiv.org/abs/2606.19469",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.19469v1 Announce Type: new  Abstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducib",
-      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Diffusion Language Models: An Experimental Analysis",
-      "url": "https://arxiv.org/abs/2606.19475",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.19475v1 Announce Type: new  Abstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range o",
-      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
-      "category": "research"
     }
   ]
 }
