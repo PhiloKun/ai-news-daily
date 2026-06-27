@@ -1,23 +1,7 @@
 {
-  "updated_at": "2026-06-26T10:14:28.095786",
+  "updated_at": "2026-06-27T09:22:57.889959",
   "total": 100,
   "items": [
-    {
-      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-      "source": "TechCrunch AI",
-      "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
-      "published": "Wed, 24 Jun 2026 23:26:52 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-      "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-      "source": "TechCrunch AI",
-      "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
-      "published": "Wed, 24 Jun 2026 22:41:41 +0000",
-      "category": "news"
-    },
     {
       "title": "How to Opt Out of Google Search’s New AI Data Training Feature",
       "url": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
@@ -27,59 +11,11 @@
       "category": "news"
     },
     {
-      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "source": "TechCrunch AI",
-      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
-      "published": "Wed, 24 Jun 2026 21:56:41 +0000",
-      "category": "news"
-    },
-    {
-      "title": "AI researchers continue to leave Google for its rivals",
-      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-      "source": "TechCrunch AI",
-      "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
-      "published": "Wed, 24 Jun 2026 21:42:07 +0000",
-      "category": "news"
-    },
-    {
-      "title": "The memory chip crunch is paying off for this US company",
-      "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
-      "source": "TechCrunch AI",
-      "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
-      "published": "Wed, 24 Jun 2026 21:30:55 +0000",
-      "category": "news"
-    },
-    {
       "title": "A24 Knows You’re Mad About the Google AI Collab",
       "url": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
       "source": "Wired",
       "summary": "Indie movie fans are upset about Google DeepMind’s $75 million investment in the studio, which comes as AI companies are deepening their influence in Hollywood.",
       "published": "Wed, 24 Jun 2026 21:05:51 +0000",
-      "category": "news"
-    },
-    {
-      "title": "I Met With China’s Top AI Experts. They’re Freaking Out, Too",
-      "url": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
-      "source": "Wired",
-      "summary": "The AI arms race between China and the US has researchers on both sides worried about a “Chernobyl moment.”",
-      "published": "Wed, 24 Jun 2026 18:45:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "The Trump White House Is Over Anthropic CEO Dario Amodei",
-      "url": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
-      "source": "Wired",
-      "summary": "At high-stakes meetings with the White House, Anthropic's cofounder—a \"weirdo,\" per one official—has been replaced by cofounder Tom Brown.",
-      "published": "Wed, 24 Jun 2026 15:15:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Qualcomm Buys Buzzy Chip Startup Modular for Nearly $4 Billion",
-      "url": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/",
-      "source": "Wired",
-      "summary": "Modular, one of the most promising chip software startups of the AI era, heads for a multibillion-dollar exit.",
-      "published": "Wed, 24 Jun 2026 12:36:07 +0000",
       "category": "news"
     },
     {
@@ -211,14 +147,6 @@
       "category": "news"
     },
     {
-      "title": "Predicting model behavior before release by simulating deployment",
-      "url": "https://openai.com/index/deployment-simulation",
-      "source": "OpenAI",
-      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-      "published": "Tue, 16 Jun 2026 00:00:00 GMT",
-      "category": "news"
-    },
-    {
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
       "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
       "source": "VentureBeat",
@@ -275,35 +203,11 @@
       "category": "news"
     },
     {
-      "title": "GitHub 推出 Copilot 桌面应用，支持并行 Agent 开发工作流",
-      "url": "https://www.infoq.cn/article/GaAsWkrJQW2NFf06kgyG?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 25 Jun 2026 19:06:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "AI 智能体的身份与权限挑战：Uber 和 Auth0 如何重新思考访问控制",
-      "url": "https://www.infoq.cn/article/tDY9pS7LlrVIBq1pPotd?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 25 Jun 2026 18:00:00 GMT",
-      "category": "news"
-    },
-    {
       "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
       "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
       "source": "TechCrunch AI",
       "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
       "published": "Thu, 25 Jun 2026 17:38:27 +0000",
-      "category": "news"
-    },
-    {
-      "title": "最大开源第一视角数据集 EgoLive 来了，名校站台、近百家机构争相申请",
-      "url": "https://www.infoq.cn/article/3HqTDUKziZE3ukwbwHyC?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 25 Jun 2026 17:04:58 GMT",
       "category": "news"
     },
     {
@@ -363,14 +267,6 @@
       "category": "news"
     },
     {
-      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-      "source": "TechCrunch AI",
-      "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
-      "published": "Thu, 25 Jun 2026 12:00:38 +0000",
-      "category": "news"
-    },
-    {
       "title": "World Cup Teams Are in a Race for AI Dominance",
       "url": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
       "source": "Wired",
@@ -392,14 +288,6 @@
       "source": "OpenAI",
       "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
       "published": "Thu, 25 Jun 2026 02:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Europe is pushing back on Washington’s chip war",
-      "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-      "source": "TechCrunch AI",
-      "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.",
-      "published": "Thu, 25 Jun 2026 00:08:36 +0000",
       "category": "news"
     },
     {
@@ -456,6 +344,62 @@
       "source": "OpenAI",
       "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
       "published": "Sun, 21 Jun 2026 23:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "VibeCoding v1.1.52 已经发布，单文件的code agent工具",
+      "url": "https://www.oschina.net/news/468485",
+      "source": "开源中国",
+      "summary": "VibeCoding v1.1.52 已经发布，单文件的code agent工具 此版本更新内容包括： 更新日志 v1.1.52 优化 Provider HTTP/1.1 fallback 配置 新增 providers.&lt;name&gt;.forceHTTP11，可为单个 provider HTTP client 禁用 HTTP/2。 当代理或 API 网关偶发将 HTTP/2 SSE 流重置并报出 stream ID ... INTERNAL_ERROR 时，可用该配置...",
+      "published": "Sat, 27 Jun 2026 15:36:03 +0800",
+      "category": "news"
+    },
+    {
+      "title": ".NET11第五个预览版：带来基于File的App改进、新C#特性与Blazor校验抖动效果",
+      "url": "https://www.infoq.cn/article/9k2FtAR89wsZVgkh7BQv?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 27 Jun 2026 11:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Spring Boot → Solon 注解迁移实战指南：一张对照表说清楚",
+      "url": "https://www.oschina.net/news/468346",
+      "source": "开源中国",
+      "summary": "写给正在做技术选型或迁移调研的 Java 开发者 一、写在前面 如果你会 Spring Boot，那你已经会了一大半 Solon。 Solon 不是 Spring 的分支或封装，它是独立发展的全栈应用开发框架。但在设计哲学上，Solon 遵循了 Java 主流的 IoC、AOP、MVC 范式——概念相同，注解名不同。 这篇文章把 Spring Boot 到 Solon 的注解映射...",
+      "published": "Sat, 27 Jun 2026 09:41:58 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Ky 2.0 发布：重构 Hooks、改进超时机制，并内置 Schema 校验能力",
+      "url": "https://www.infoq.cn/article/v1wsHJd54imD1b4yUeYf?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 27 Jun 2026 09:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "OpenAuth.Net 8.4 已经发布，权限管理系统",
+      "url": "https://www.oschina.net/news/468252",
+      "source": "开源中国",
+      "summary": "OpenAuth.Net 8.4 已经发布，权限管理系统 此版本更新内容包括： 更新内容 refactor: 重构IdentityServer为OpenIddict refactor: 重构驳回的逻辑 ⚠️feat: 增加一个强制退出程序的脚本 fix: 修复召回 fix: #IJR8AQ 模板编号和发布时间更改无效 fix: #IJQXD6 概念容易混淆，建议列表上方撤销改名为召回 fix: 修复不同意时...",
+      "published": "Sat, 27 Jun 2026 01:04:04 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "source": "TechCrunch AI",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+      "published": "Sat, 27 Jun 2026 01:01:37 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+      "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+      "source": "Wired",
+      "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+      "published": "Sat, 27 Jun 2026 00:26:14 +0000",
       "category": "news"
     },
     {
@@ -555,11 +499,91 @@
       "category": "news"
     },
     {
+      "title": "MyEMS v6.6.0 已经发布，能源管理系统",
+      "url": "https://www.oschina.net/news/468181",
+      "source": "开源中国",
+      "summary": "MyEMS v6.6.0 已经发布，能源管理系统 此版本更新内容包括： 新增功能 在 myems-admin 数据点页面增加搜索框 在 myems-web 报表中新增 DeepSeek AI 分析功能 在 myems-web 门店看板中增加地图组件 功能变更 更新 myems-api 与 myems-web 中的计量表批量报表 更新 myems-api 与 myems-web 中的虚拟表批量报表 升级 myems-...",
+      "published": "Fri, 26 Jun 2026 22:49:09 +0800",
+      "category": "news"
+    },
+    {
+      "title": "像玩剧本杀一样，玩好 Agentic AI",
+      "url": "https://www.infoq.cn/video/2hp32gR1vuPJuL0ISlB3?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 26 Jun 2026 22:21:52 GMT",
+      "category": "news"
+    },
+    {
+      "title": "ThingsPanel v1.2.3 发布：设备分组统计、协议插件统一、ThingsVis 卡片模式",
+      "url": "https://www.oschina.net/news/468070/thingspanel-1-2-3-released",
+      "source": "开源中国",
+      "summary": "ThingsPanel v1.2.3 发布：设备分组统计、协议插件统一、ThingsVis 卡片模式 开源物联网平台 ThingsPanel 于 2026 年 6 月 18 日发布 v1.2.3 版本。这是 1.2.x 系列的第三个迭代，重点增强了设备管理能力、统一了协议插件体系，并对 ThingsVis 可视化引擎和自动化联动做了持续升级。 一、v1.2.3 更新亮点 1. 设备分组统计...",
+      "published": "Fri, 26 Jun 2026 19:15:00 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Athena 联盟成立：以协同防御应对开源软件安全风险",
+      "url": "https://www.infoq.cn/article/K5kVz7354Na4846mlNsJ?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 26 Jun 2026 19:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "首个开源鸿蒙机器人操作系统社区启动运营，M-Robots公布年度运营路线",
+      "url": "https://www.oschina.net/news/468048",
+      "source": "开源中国",
+      "summary": "6月26日，M-Robots开源社区在2026开放原子开源生态大会上正式启动运营，并同期发布了技术架构、治理体系与年度运营计划，标志着国内首个基于开源鸿蒙的机器人全栈操作系统开源社区从“宣告成立”进入“启动运营”阶段。 从企业自研到产业共治：一条“捐赠-共建”的演进之路 M-Robots开源社区由深开鸿牵头发起、开放原子开...",
+      "published": "Fri, 26 Jun 2026 18:40:15 +0800",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "source": "TechCrunch AI",
+      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+      "published": "Fri, 26 Jun 2026 18:32:14 +0000",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "source": "TechCrunch AI",
+      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+      "published": "Fri, 26 Jun 2026 18:19:36 +0000",
+      "category": "news"
+    },
+    {
+      "title": "AI确实可以用任何手段、写任何东西，但你得是个“中年老登”",
+      "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 26 Jun 2026 18:18:18 GMT",
+      "category": "news"
+    },
+    {
+      "title": "API7.ai创始人温铭：烧了几百亿Token，我用AI重写了生产级网关，总结出6条经验",
+      "url": "https://www.infoq.cn/article/5YIK6SvTf5h07YckXZd3?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 26 Jun 2026 18:16:12 GMT",
+      "category": "news"
+    },
+    {
       "title": "不下班、不摸鱼，晓途机器狗已在上海“开工”：7×24小时自主巡逻执勤",
       "url": "https://www.infoq.cn/article/BvOA2HoC0d1IzKMZjsdy?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Fri, 26 Jun 2026 17:55:54 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "source": "TechCrunch AI",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple,",
+      "published": "Fri, 26 Jun 2026 17:43:22 +0000",
       "category": "news"
     },
     {
@@ -579,6 +603,14 @@
       "category": "news"
     },
     {
+      "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
+      "url": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+      "source": "Wired",
+      "summary": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
+      "published": "Fri, 26 Jun 2026 17:05:40 +0000",
+      "category": "news"
+    },
+    {
       "title": "当 Agent 成为新的核心云用户：阿里云重新定义“用云范式”",
       "url": "https://www.infoq.cn/article/s6TAS5JMIW1miPSqIsk0?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
@@ -592,6 +624,14 @@
       "source": "开源中国",
       "summary": "Mistral AI 近日宣布其自主研发的全新文档识别模型 OCR4 已正式亮相。该模型在处理多语言文档方面表现出色，能够支持跨越10个语族的170种语言。 根据公开评估数据，Mistral OCR4在 OmniDocBench 测试中取得了93.07分的成绩，在用户体验测评中表现优于 GPT5.5Pro 和 Gemini3.1Pro Preview 等业界领先的同类产品。 Mistra...",
       "published": "Fri, 26 Jun 2026 16:37:36 +0800",
+      "category": "news"
+    },
+    {
+      "title": "It’s not about Anthropic vs. OpenAI anymore",
+      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "source": "TechCrunch AI",
+      "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+      "published": "Fri, 26 Jun 2026 16:24:47 +0000",
       "category": "news"
     },
     {
@@ -643,6 +683,14 @@
       "category": "news"
     },
     {
+      "title": "Europe Is Fed Up and Wants Its Own AI",
+      "url": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
+      "source": "Wired",
+      "summary": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
+      "published": "Fri, 26 Jun 2026 15:00:00 +0000",
+      "category": "news"
+    },
+    {
       "title": "uniTerm v1.1 发布，AI Agent 驱动的全能终端与远程管理工具",
       "url": "https://www.oschina.net/news/467874",
       "source": "开源中国",
@@ -675,14 +723,6 @@
       "category": "news"
     },
     {
-      "title": "AI “吞噬”资本导致硅谷出现了一批僵尸独角兽",
-      "url": "https://www.oschina.net/news/467842",
-      "source": "开源中国",
-      "summary": "硅谷有一批公司，名义上还是独角兽，实际上已经是尸体了。 斯坦福大学教授Ilya Strebulaev追踪了1,900家独角兽企业。截至2026年5月，332家在以低于上一轮的估值融资，212家已经跌破10亿美元关口，383家在过去3年里没有披露过任何新融资——其中41家连独角兽这层皮都没保住。 举两个数。Cameo，名人定制视频平台，2021年估...",
-      "published": "Fri, 26 Jun 2026 14:16:27 +0800",
-      "category": "news"
-    },
-    {
       "title": "4.5个月迁走1200个微服务：腾讯云参与印尼运营商云转型，AI开始接管迁移全流程",
       "url": "https://www.infoq.cn/article/TA7VPXQqYgTsu4Yl8qLa?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
@@ -691,11 +731,19 @@
       "category": "news"
     },
     {
-      "title": "Spring Boot 3.5.16 发布，3.5.x 系列最后一个开源版本",
-      "url": "https://www.oschina.net/news/467838/spring-boot-3-5-16-released",
-      "source": "开源中国",
-      "summary": "Spring Boot 3.5.16 现已发布，此版本包含3 个依赖项升级： 升级到 Spring AMQP 3.2.12 #50818 升级到 Spring Data Bom 2025.0.13 #50819 升级到 Spring Integration 6.5.10 #50820 官方提醒称，这是 3.5.x 版本系列的最后一个开源版本。如需继续获得开源软件支持，建议尽快升级到 4.0.x 或 4.1.x 版本。此外，其还提供商...",
-      "published": "Fri, 26 Jun 2026 14:10:04 +0800",
+      "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+      "source": "TechCrunch AI",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple,",
+      "published": "Fri, 26 Jun 2026 14:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+      "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+      "source": "TechCrunch AI",
+      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
+      "published": "Fri, 26 Jun 2026 13:00:00 +0000",
       "category": "news"
     },
     {
@@ -707,30 +755,6 @@
       "category": "news"
     },
     {
-      "title": "苹果做了一件从没做过的事 —— 砍掉 M6 旗舰，全力押注 M7",
-      "url": "https://www.oschina.net/news/467796",
-      "source": "开源中国",
-      "summary": "彭博社记者Mark Gurman今天发布了一则让Mac用户需要重新规划预算的消息：苹果正在对Apple Silicon路线图做一次史无前例的手术——M6这一代，不会有Pro，不会有Max，不会有Ultra。只有最基础的M6。 这是自2020年苹果从Intel转向自研芯片以来，第一次出现一整代芯片只发基础款的情况。此前苹果确实跳过旗舰型号——M4 Ultr...",
-      "published": "Fri, 26 Jun 2026 12:02:54 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Calibre 9.10 发布，功能强大的开源电子书工具",
-      "url": "https://www.oschina.net/news/467784/calibre-9-10-released",
-      "source": "开源中国",
-      "summary": "Calibre 开源项目是 Calibre 官方出的电子书管理工具。它可以查看，转换，编辑和分类所有主流格式的电子书。Calibre 是个跨平台软件，可以在 Linux、Windows 和 macOS 上运行。 Calibre 9.10 现已正式发布，此次更新内容如下： 新功能 Content server：采用全新的“现代化”界面，带有侧边栏，方便导航 Content server：...",
-      "published": "Fri, 26 Jun 2026 11:35:42 +0800",
-      "category": "news"
-    },
-    {
-      "title": "当代码越来越便宜，什么在变贵？",
-      "url": "https://my.oschina.net/u/4939618/blog/19710937",
-      "source": "开源中国",
-      "summary": "用 AI 做产品，最大的坑可能不是 &quot;做不出来&quot;，而是 &quot;什么都想做&quot;。本文记录了百度前端研发工程师与 AI 组队开发 Design.md Token Exporter 的全过程 ——ChatGPT 陪他脑暴、Codex 当主力写代码、Gemini 做体验顾问，但 AI 的热情差点让产品变得臃肿不堪。当技术门槛被击碎后，什么该做、什么不该做，成了每个产品人必须自...",
-      "published": "Fri, 26 Jun 2026 11:21:14 +0800",
-      "category": "news"
-    },
-    {
       "title": "Fable 5还未解禁，Anthropic一纸诉状砸向Qwen，自家CEO却被白宫嫌“怪”踢出局！",
       "url": "https://www.infoq.cn/article/MVDrYfoCovqj6zBNxr9e?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
@@ -739,27 +763,11 @@
       "category": "news"
     },
     {
-      "title": "美国政府要求 OpenAI 分阶段发布 GPT-5.6",
-      "url": "https://www.oschina.net/news/467764",
-      "source": "开源中国",
-      "summary": "The Information 援引知情人士消息称，与以往版本发布节奏有所不同，特朗普政府要求 OpenAI 分阶段发布即将推出的最新款 GPT-5.6 模型。 具体而言，GPT-5.6 将首先面向一小部分经过筛选、被认为更加可靠的合作伙伴开放，在经历一段时间的测试与风险评估后，再逐步扩大至更广泛的用户群体。 报道称，OpenAI 的新模型不仅正...",
-      "published": "Fri, 26 Jun 2026 11:11:35 +0800",
-      "category": "news"
-    },
-    {
-      "title": "两年砸10亿，北森宣布All in AI：上线15个AI HR专家，造了一个“数字人事部”",
-      "url": "https://www.infoq.cn/article/j1XdsvKMeFio6oyHGTkK?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 26 Jun 2026 11:01:58 GMT",
-      "category": "news"
-    },
-    {
-      "title": "轻量级ADR与架构咨询例会如何支撑架构决策工作",
-      "url": "https://www.infoq.cn/article/jd3VGzLzCU67Cq2yWFGy?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 26 Jun 2026 10:30:00 GMT",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "source": "OpenAI",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "published": "Fri, 26 Jun 2026 10:00:00 GMT",
       "category": "news"
     },
     {
@@ -771,14 +779,6 @@
       "category": "news"
     },
     {
-      "title": "云端 AI 治理：架构师实操指南",
-      "url": "https://www.infoq.cn/article/IeYP4QboeUV5g7wJRYkZ?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 26 Jun 2026 09:40:35 GMT",
-      "category": "news"
-    },
-    {
       "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
       "url": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
       "source": "Wired",
@@ -787,20 +787,20 @@
       "category": "news"
     },
     {
-      "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
-      "url": "https://arxiv.org/abs/2606.26155",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.26155v1 Announce Type: new  Abstract: Interpreting and controlling model behaviors through activation steering methods requires many pairs of contrastive samples that clearly exhibit desire",
-      "published": "Fri, 26 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "source": "Google AI",
+      "summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
+      "published": "Fri, 22 May 2026 18:00:00 +0000",
+      "category": "news"
     },
     {
-      "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
-      "url": "https://arxiv.org/abs/2606.26158",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2606.26158v1 Announce Type: new  Abstract: When a benchmark's accuracy saturates, it is often retired and replaced with a more challenging version. We show that this approach privileges accuracy",
-      "published": "Fri, 26 Jun 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "source": "MIT Tech Review",
+      "summary": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and",
+      "published": "Fri, 19 Jun 2026 10:40:24 +0000",
+      "category": "news"
     }
   ]
 }
