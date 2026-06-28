@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T09:22:57.889959",
+  "updated_at": "2026-06-28T09:53:15.305033",
   "total": 100,
   "items": [
     {
@@ -219,14 +219,6 @@
       "category": "news"
     },
     {
-      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-      "source": "TechCrunch AI",
-      "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
-      "published": "Thu, 25 Jun 2026 16:48:11 +0000",
-      "category": "news"
-    },
-    {
       "title": "Our latest Google Finance upgrades, including a new app",
       "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
       "source": "Google AI",
@@ -235,35 +227,11 @@
       "category": "news"
     },
     {
-      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-      "source": "TechCrunch AI",
-      "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
-      "published": "Thu, 25 Jun 2026 14:55:38 +0000",
-      "category": "news"
-    },
-    {
       "title": "Repositioning retail for the AI era",
       "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
       "source": "MIT Tech Review",
       "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes:",
       "published": "Thu, 25 Jun 2026 14:22:59 +0000",
-      "category": "news"
-    },
-    {
-      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
-      "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
-      "source": "TechCrunch AI",
-      "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
-      "published": "Thu, 25 Jun 2026 14:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
-      "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
-      "source": "TechCrunch AI",
-      "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
-      "published": "Thu, 25 Jun 2026 13:30:00 +0000",
       "category": "news"
     },
     {
@@ -339,6 +307,38 @@
       "category": "news"
     },
     {
+      "title": "Bedrock 平台上的 Fable 5 模型需向 Anthropic 共享推理数据",
+      "url": "https://www.infoq.cn/article/NodhKVrhWoYF9yGwm12j?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 28 Jun 2026 14:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "BBS-GO v4.4.2 发布，完善举报处理闭环与话题浏览体验",
+      "url": "https://www.oschina.net/news/468901",
+      "source": "开源中国",
+      "summary": "BBS-GO 是一个轻量级社区和问答平台，适合搭建论坛、知识库和讨论社区。项目提供帖子 / 文章、评论回复、点赞收藏、关注私信、任务积分、等级徽章、后台运营管理、内容与用户治理、多语言等能力，适合需要快速搭建社区互动场景的团队使用。 BBS-GO v4.4.2 已经发布。本次版本主要围绕举报处理闭环、话题列表与首页导航体...",
+      "published": "Sun, 28 Jun 2026 11:21:53 +0800",
+      "category": "news"
+    },
+    {
+      "title": "苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI",
+      "url": "https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 28 Jun 2026 11:06:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "GitLab 19.0将Agentic AI嵌入凭证、合并请求与供应链安全",
+      "url": "https://www.infoq.cn/article/ICdHZotGllYog0ocIrxA?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 28 Jun 2026 09:00:00 GMT",
+      "category": "news"
+    },
+    {
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
       "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
       "source": "OpenAI",
@@ -347,11 +347,51 @@
       "category": "news"
     },
     {
+      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "source": "TechCrunch AI",
+      "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+      "published": "Sat, 27 Jun 2026 20:42:36 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "source": "TechCrunch AI",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "published": "Sat, 27 Jun 2026 16:45:09 +0000",
+      "category": "news"
+    },
+    {
+      "title": "调问更新 6.13~6.26：新增分组题、自增题、随机抽题、一键答题、答案解析，全面提升测评与考试能力",
+      "url": "https://www.oschina.net/news/468519",
+      "source": "开源中国",
+      "summary": "调问自开源以来一直坚持前后端所有代码 100% 开源💯，助力企业建设属于自己的问卷调研系统👏。 🔥官网地址： https://www.diaowen.net 🔥 在线服务： https://www.surveyform.cn 🔥 源码下载： https://gitee.com/wkeyuan/DWSurvey 本次更新全面增强了表单与考试场景的应用能力，全新上线“分组题”、“自增题...",
+      "published": "Sat, 27 Jun 2026 16:29:35 +0800",
+      "category": "news"
+    },
+    {
       "title": "VibeCoding v1.1.52 已经发布，单文件的code agent工具",
       "url": "https://www.oschina.net/news/468485",
       "source": "开源中国",
       "summary": "VibeCoding v1.1.52 已经发布，单文件的code agent工具 此版本更新内容包括： 更新日志 v1.1.52 优化 Provider HTTP/1.1 fallback 配置 新增 providers.&lt;name&gt;.forceHTTP11，可为单个 provider HTTP client 禁用 HTTP/2。 当代理或 API 网关偶发将 HTTP/2 SSE 流重置并报出 stream ID ... INTERNAL_ERROR 时，可用该配置...",
       "published": "Sat, 27 Jun 2026 15:36:03 +0800",
+      "category": "news"
+    },
+    {
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "source": "TechCrunch AI",
+      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "published": "Sat, 27 Jun 2026 14:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "source": "TechCrunch AI",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+      "published": "Sat, 27 Jun 2026 12:00:00 +0000",
       "category": "news"
     },
     {
@@ -387,7 +427,7 @@
       "category": "news"
     },
     {
-      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
       "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
       "source": "TechCrunch AI",
       "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
@@ -699,35 +739,11 @@
       "category": "news"
     },
     {
-      "title": "璀璨之星 :fire: xbatis 1.10.5 正式发版，最好用最简单最方便的 ORM !!!",
-      "url": "https://www.oschina.net/news/467868",
-      "source": "开源中国",
-      "summary": "推荐理由： 强、强、强 ，单表？连表？不想连表？让你直接少写 1/3 甚至 2/3 的持久层代码；API 简单 快捷 优雅 简洁 构建 SQL 非常强！用过的 没用过的都来体验，虽然有 AI 了，但是真正好用的 ORM 的还不能忽略的，除非你以后不维护。 1.10.5 - 2026-06-21 1：修复插入数据时，未拼上@Table的schema的问题 2：增加局部...",
-      "published": "Fri, 26 Jun 2026 14:48:45 +0800",
-      "category": "news"
-    },
-    {
-      "title": "前 OpenAI 安全研究副总裁翁荔拖更三年，写了一篇 Scaling Laws “检讨书”",
-      "url": "https://www.oschina.net/news/467860/lilianweng-scaling-laws",
-      "source": "开源中国",
-      "summary": "前OpenAI安全研究VP、现Thinking Machines Lab联合创始人兼首席科学家翁荔（Lilian Weng），在停更13个月后，往她的个人技术博客Lil&apos;Log上发表了一篇新文章，标题《Scaling Laws, Carefully》，一万多字。她自己说这篇文章&quot;迟到了三年多&quot;。 读完之后你会发现，这三年多没白等。 翁荔在AI圈的位置不需要多介绍——北大本科...",
-      "published": "Fri, 26 Jun 2026 14:39:09 +0800",
-      "category": "news"
-    },
-    {
       "title": "AI 设计9个月就能媲美Blackwell？OpenAI “辣芯”绕开英伟达正面战场，但老黄的GPU大盘不稳了",
       "url": "https://www.infoq.cn/article/CcT6wZSLyVcIAmSLM1l0?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Fri, 26 Jun 2026 14:18:34 GMT",
-      "category": "news"
-    },
-    {
-      "title": "4.5个月迁走1200个微服务：腾讯云参与印尼运营商云转型，AI开始接管迁移全流程",
-      "url": "https://www.infoq.cn/article/TA7VPXQqYgTsu4Yl8qLa?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 26 Jun 2026 14:15:42 GMT",
       "category": "news"
     },
     {
@@ -744,22 +760,6 @@
       "source": "TechCrunch AI",
       "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
       "published": "Fri, 26 Jun 2026 13:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "VS Code 1.123 新增两小时插件更新缓冲，防范供应链恶意攻击",
-      "url": "https://www.infoq.cn/article/iZskGZVEV04jivWZtR00?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 26 Jun 2026 12:44:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Fable 5还未解禁，Anthropic一纸诉状砸向Qwen，自家CEO却被白宫嫌“怪”踢出局！",
-      "url": "https://www.infoq.cn/article/MVDrYfoCovqj6zBNxr9e?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 26 Jun 2026 11:12:45 GMT",
       "category": "news"
     },
     {
