@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T09:49:28.787314",
+  "updated_at": "2026-07-04T09:13:41.067807",
   "total": 100,
   "items": [
     {
@@ -128,22 +128,6 @@
       "source": "TechCrunch AI",
       "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
       "published": "Wed, 01 Jul 2026 14:20:19 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&#038;A on what it takes to build and scale successful companies. Register now to save",
-      "published": "Wed, 01 Jul 2026 14:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-      "source": "TechCrunch AI",
-      "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
-      "published": "Wed, 01 Jul 2026 13:43:07 +0000",
       "category": "news"
     },
     {
@@ -435,22 +419,6 @@
       "category": "news"
     },
     {
-      "title": "从龙蜥孵化到上游贡献：SGLang Tracing 与 AI Agent 调优实践",
-      "url": "https://www.infoq.cn/article/o5BOhliYRHIe4ZZPrHY9?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 02 Jul 2026 15:12:15 GMT",
-      "category": "news"
-    },
-    {
-      "title": "GitLab 调研：AI 工具仅加快编码，整体软件交付效率并未提升",
-      "url": "https://www.infoq.cn/article/8WD205mNH9OGrkf8BRYO?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 02 Jul 2026 15:00:00 GMT",
-      "category": "news"
-    },
-    {
       "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
       "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
       "source": "TechCrunch AI",
@@ -467,35 +435,11 @@
       "category": "news"
     },
     {
-      "title": "让Agent越用越强：AReaL 2.0开源，给智能体装上“成长系统”",
-      "url": "https://www.infoq.cn/article/IeXGCZqbv5WQ5zFQXoup?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 02 Jul 2026 12:45:20 GMT",
-      "category": "news"
-    },
-    {
       "title": "Yep, we’re using OpenClaw to date now",
       "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
       "source": "TechCrunch AI",
       "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
       "published": "Thu, 02 Jul 2026 12:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Vercel 推出开源 AI 智能体开发框架 Eve",
-      "url": "https://www.infoq.cn/article/kY3j5x1kIEvedufYJ1rJ?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 02 Jul 2026 10:54:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "代码是写给未来的讯息",
-      "url": "https://www.infoq.cn/article/UIxTYxSIfevGUg2BZ567?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 02 Jul 2026 10:41:33 GMT",
       "category": "news"
     },
     {
@@ -520,6 +464,30 @@
       "source": "OpenAI",
       "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
       "published": "Sun, 28 Jun 2026 17:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "uniTerm v1.3 重磅发布：超轻量全能型终端，20+ 远程协议，内置 AI Agent",
+      "url": "https://www.oschina.net/news/471478",
+      "source": "开源中国",
+      "summary": "关于 uniTerm uniTerm 是一款轻量级、跨平台的一站式终端软件，基于 Wails v2 + Go + Vue 3 构建。它将远程终端、文件传输、远程桌面、数据库客户端、服务器监控、AI 助理整合进一个不到 10MB 的软件包中，覆盖 20 余种网络协议，支持 Windows、macOS、Linux 三大平台。 从 SSH 命令行管理到 RDP 远程桌面，从 SFTP 双栏...",
+      "published": "Sat, 04 Jul 2026 12:58:51 +0800",
+      "category": "news"
+    },
+    {
+      "title": ":fire: 用 ChatModel 构建 LLM 驱动的 Java 应用",
+      "url": "https://www.oschina.net/news/471477",
+      "source": "开源中国",
+      "summary": "如果你尝试过在 Java 应用中集成大语言模型（LLM），大概率写过不少样板代码：HTTP 客户端、JSON 解析、流式处理、会话管理……Solon AI 4.0 的 ChatModel 用一套简洁的 Builder API 把这些都封装好了。 本文将通过真实的代码示例，带你一步步用 ChatModel 构建 AI 功能——从简单的单次调用，到带记忆的流式聊天机器人。...",
+      "published": "Sat, 04 Jul 2026 11:27:34 +0800",
+      "category": "news"
+    },
+    {
+      "title": "苹果首次将私有云计算平台扩展至谷歌云",
+      "url": "https://www.infoq.cn/article/UoJtxVXj0d1QT1ftyjtd?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 04 Jul 2026 09:00:00 GMT",
       "category": "news"
     },
     {
@@ -552,14 +520,6 @@
       "source": "MIT Tech Review",
       "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking t",
       "published": "Mon, 29 Jun 2026 14:44:01 +0000",
-      "category": "news"
-    },
-    {
-      "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
-      "url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
-      "source": "Wired",
-      "summary": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work.",
-      "published": "Mon, 29 Jun 2026 08:00:00 +0000",
       "category": "news"
     },
     {
@@ -675,6 +635,86 @@
       "category": "news"
     },
     {
+      "title": ":fire:JPA mybatis mybatis-plus xbatis 谁更强，比一比",
+      "url": "https://www.oschina.net/news/471476",
+      "source": "开源中国",
+      "summary": "为了让你更清晰地了解 xbatis 在 Java ORM 生态中的定位，我们将它与最主流的三个持久层框架进行深度对比：MyBatis-Plus（国内最流行）、Spring Data JPA / Hibernate（国际标准）以及原生 MyBatis。 :bar_chart: 核心多维对比 特性 / 维度 原生 MyBatis MyBatis-Plus (MP) xbatis Spring Data JPA / Hibernate 核心定位...",
+      "published": "Fri, 03 Jul 2026 21:49:17 +0800",
+      "category": "news"
+    },
+    {
+      "title": "The only AI glossary you’ll need this year",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch AI",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "published": "Fri, 03 Jul 2026 21:20:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Claude Code 80%的提示词说删就删，Anthropic用Fable 5打了个样：AI行业的“降本”才刚刚开始",
+      "url": "https://www.infoq.cn/article/GEkEm7rkUJfF8bdwTuBt?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 03 Jul 2026 19:27:10 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Agent 上岗之后，企业如何治理硅基团队？",
+      "url": "https://www.infoq.cn/article/pNFHkLos3FoDNm8cQsyt?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 03 Jul 2026 19:03:18 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Google 就 Android 反垄断 41 亿欧元罚单上诉失败，八年拉锯战终结",
+      "url": "https://www.oschina.net/news/471475",
+      "source": "开源中国",
+      "summary": "7 月 2 日，欧盟最高法院 European Court of Justice 驳回了 Google 对 41 亿欧元（约合 46.7 亿美元）反垄断罚单的最终上诉。这场自 2018 年起持续八年的法律拉锯，画上了句号。 案件追溯到 2018 年。欧盟委员会当时裁定 Google 利用 Android 的市场支配地位，通过三类行为排挤竞争对手：要求手机厂商预装 Google Searc...",
+      "published": "Fri, 03 Jul 2026 18:49:21 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Vite+ 发布 Beta 版本，一个命令搞定前端工具链",
+      "url": "https://www.oschina.net/news/471474/vite-plus-beta",
+      "source": "开源中国",
+      "summary": "尤雨溪创立的前端工具链公司 VoidZero 发布了 Vite+ 的 Beta 版本。这是一个基于 Vite 8 的统一前端工具链，用一个 vp 命令整合了开发服务器、测试、构建、检查、打包和任务运行。 Vite+ 从 Alpha 到 Beta 合并了超过 500 个 PR。这次更新的看点：vp run 的任务缓存更智能了，不再需要手动声明输入输出和环境变量；vp mi...",
+      "published": "Fri, 03 Jul 2026 18:44:50 +0800",
+      "category": "news"
+    },
+    {
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "source": "TechCrunch AI",
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "published": "Fri, 03 Jul 2026 18:43:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "从 Coding 到 Anything，Agent 正在重写工作流",
+      "url": "https://www.infoq.cn/article/yM8ms1eDlrY7wvF3SXtY?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 03 Jul 2026 18:40:56 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Podman v6.0.0 发布，网络栈全面转向 Netavark 与 nftables",
+      "url": "https://www.oschina.net/news/471473/podman-v6-0-0",
+      "source": "开源中国",
+      "summary": "Podman 团队发布了 v6.0.0 正式版。这是一次网络基础设施全面换代的重大更新，同时改进了 machine 管理、Quadlet 和配置系统。 网络层是本次升级的核心。Podman 告别了 slirp4netns 和 iptables，全面转向 Netavark、Pasta 和 nftables。团队表示，这一迁移不仅是技术债清理，更意味着网络栈维护简化，未来可以在此基础上...",
+      "published": "Fri, 03 Jul 2026 18:40:55 +0800",
+      "category": "news"
+    },
+    {
+      "title": "拒绝天价账单！OpenAI、Anthropic 自研芯片，剑指英伟达“暴利”护城河",
+      "url": "https://www.infoq.cn/article/MOqFJbvWYlJ9PXcfdfCC?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 03 Jul 2026 18:00:00 GMT",
+      "category": "news"
+    },
+    {
       "title": "阿里内部全面禁用 Claude Code",
       "url": "https://www.oschina.net/news/471471",
       "source": "开源中国",
@@ -688,6 +728,14 @@
       "source": "开源中国",
       "summary": "本文介绍了一种基于 search_after + Redis 多级锚点缓存的 Elasticsearch 深度分页跳页方案。针对 Elasticsearch 原生不支持随机跳页的限制，通过三轮优化 —— 分段预热缓存、最近锚点定位 + Elasticsearch 查询提速（禁用 _source / 关闭 track_total_hits）、大区间预热 + 小分页精细锚点 —— 将 50 万数据量下的任意...",
       "published": "Fri, 03 Jul 2026 16:31:48 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+      "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+      "source": "Wired",
+      "summary": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization.",
+      "published": "Fri, 03 Jul 2026 16:30:00 +0000",
       "category": "news"
     },
     {
@@ -752,54 +800,6 @@
       "source": "开源中国",
       "summary": "gRPC 是可以在任何环境中运行的现代开源高性能 RPC 框架。gRPC 1.82.0 现已发布，此版本包含改进、优化和错误修复，主要亮点如下： Core [call creds] 添加对查找和附加区域访问边界策略元数据的支持。（#41594） 在 endpoint shutdown 期间注销 CFStream 回调。（#42211） 修复 POSIX 套接字代码中 fd 0 被错误地视为无...",
       "published": "Fri, 03 Jul 2026 13:59:42 +0800",
-      "category": "news"
-    },
-    {
-      "title": ":fire: xbatis-ddl-auto 1.0.1 发布全自动 DDL，最强 orm xbatis ！！！",
-      "url": "https://www.oschina.net/news/471460/xbatis-ddl-auto-1-0-1",
-      "source": "开源中国",
-      "summary": "官网 https://xbatis.cn xbatis-ddl-auto 是一个基于 xbatis 实体元数据的轻量自动建表工具。 它复用 xbatis 的 @Table、@TableId、@TableField、@ColumnDefinition 等注解解析结果，根据实体类生成并执行数据库 DDL，提供接近 JPA ddl-auto=create/update 的使用体验，但不引入 JPA 或 Hibernate。 功能 根据 xbatis 实...",
-      "published": "Fri, 03 Jul 2026 11:57:49 +0800",
-      "category": "news"
-    },
-    {
-      "title": "从生成到交付，音视频 Agent 要有生产级开发套件",
-      "url": "https://www.infoq.cn/article/qA1Ucwbw3KZy5yIgCrVo?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 03 Jul 2026 11:48:25 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Memcached 1.6.43 发布，高性能分布式缓存系统",
-      "url": "https://www.oschina.net/news/471459/memcached-1-6-43-released",
-      "source": "开源中国",
-      "summary": "Memcached 1.6.43 现已发布，这是一个关键的安全修复版本。 修复 binprot：避免项目引用计数溢出 [security] mcmc：因安全问题提升上游版本号 [security] tests：slabs-mover wait helpers 中的 cap polling backoff seccomp：允许在工作节点沙箱中使用 ppoll core：在 holding locks 时避免重新分配 slab lru_crawler：...",
-      "published": "Fri, 03 Jul 2026 11:44:56 +0800",
-      "category": "news"
-    },
-    {
-      "title": "微软面向 AI PC 的 Copilot 操作系统曝光，取消了开始菜单",
-      "url": "https://www.oschina.net/news/471458",
-      "source": "开源中国",
-      "summary": "微软一款此前处于保密状态的全新操作系统遭到了外界曝光。这款在内部被称为“Project Aion”的系统，彻底颠覆了人们对传统 Windows 系统的认知。 该系统完全基于 Microsoft Edge 浏览器和轻量化的网页技术代码库构建，是微软专门为 AI 时代量身定制的先锋产品。 在 Project Aion 中，传统的“开始菜单”和繁杂的桌面图标...",
-      "published": "Fri, 03 Jul 2026 11:21:54 +0800",
-      "category": "news"
-    },
-    {
-      "title": "OceanBase GLM-5.2 长程任务实测",
-      "url": "https://my.oschina.net/u/5463153/blog/19716067",
-      "source": "开源中国",
-      "summary": "GLM-5.2 一个绝佳的长程任务测试 case，就这么撞上门来了 —— 让 GLM-5.2 去完成 PowerMem 从 Python SDK 到 TypeScript SDK 的功能拉平，把滞后的迭代节奏都给补齐。",
-      "published": "Fri, 03 Jul 2026 11:14:30 +0800",
-      "category": "news"
-    },
-    {
-      "title": "F-Droid 炮轰 Google：Android Developer Verifier 本身就是恶意软件",
-      "url": "https://www.oschina.net/news/471456/f-droid-adv-malware",
-      "source": "开源中国",
-      "summary": "7 月 1 日，开源 Android 应用商店 F-Droid 发布了一篇措辞激烈的博文，将 Google 的「Android Developer Verifier」（ADV）系统定性为其自身传播的恶意软件。 文章写道：「如果你的设备运行 Android 8 或更高版本，一个病毒已经被安装在你的设备上，正在静默等待远程激活。过去几个月中，全球可能有多达 40 亿台 Androi...",
-      "published": "Fri, 03 Jul 2026 11:01:24 +0800",
       "category": "news"
     }
   ]
