@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T09:13:41.067807",
+  "updated_at": "2026-07-05T09:34:38.835294",
   "total": 100,
   "items": [
     {
@@ -59,14 +59,6 @@
       "category": "news"
     },
     {
-      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-      "source": "TechCrunch AI",
-      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
-      "published": "Wed, 01 Jul 2026 18:47:22 +0000",
-      "category": "news"
-    },
-    {
       "title": "The latest AI news we announced in June 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
       "source": "Google AI",
@@ -80,14 +72,6 @@
       "source": "Wired",
       "summary": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
       "published": "Wed, 01 Jul 2026 18:10:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
-      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-      "source": "TechCrunch AI",
-      "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
-      "published": "Wed, 01 Jul 2026 17:48:37 +0000",
       "category": "news"
     },
     {
@@ -112,22 +96,6 @@
       "source": "MIT Tech Review",
       "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8",
       "published": "Wed, 01 Jul 2026 14:35:16 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-      "source": "TechCrunch AI",
-      "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
-      "published": "Wed, 01 Jul 2026 14:25:23 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
-      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "source": "TechCrunch AI",
-      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
-      "published": "Wed, 01 Jul 2026 14:20:19 +0000",
       "category": "news"
     },
     {
@@ -467,6 +435,54 @@
       "category": "news"
     },
     {
+      "title": ":fire: ReActAgent 使用指南：构建会思考、能行动的 AI Agent",
+      "url": "https://www.oschina.net/news/471482",
+      "source": "开源中国",
+      "summary": "如果你希望 AI 不仅能聊天，还能真正做事——查数据库、调 API、做决策、从结果中学习——那你来对地方了。 本文将用 Solon AI 4.0 的 ReActAgent 带你构建生产级的 AI Agent。读完你将学会如何构建一个能够推理复杂问题、使用外部工具、并根据实际反馈调整行为的智能体。 ReActAgent 有何不同？ 传统 LLM 擅长生成文本，...",
+      "published": "Sun, 05 Jul 2026 08:42:40 +0800",
+      "category": "news"
+    },
+    {
+      "title": "MooTool 1.7.8 发布，开发者常备小工具",
+      "url": "https://www.oschina.net/news/471481",
+      "source": "开源中国",
+      "summary": "MooTool 1.7.8 已发布，这是一个用 Java 编写的开发者常备桌面小工具集。 更新内容 ● feat：【随手记】数据由数据库改为 txt 文件管理，支持文件夹与 Git 版本控制 ● feat：【JSON】参考随手记实现文档化与 Git 化管理，新增文件夹工具栏操作 ● feat：【随手记/JSON】列表支持按名称/更新时间（默认）/创建时间排序 ...",
+      "published": "Sat, 04 Jul 2026 22:46:29 +0800",
+      "category": "news"
+    },
+    {
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "source": "TechCrunch AI",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "published": "Sat, 04 Jul 2026 20:55:25 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "source": "TechCrunch AI",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "published": "Sat, 04 Jul 2026 18:00:05 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "source": "TechCrunch AI",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "published": "Sat, 04 Jul 2026 16:32:08 +0000",
+      "category": "news"
+    },
+    {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "source": "TechCrunch AI",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "published": "Sat, 04 Jul 2026 15:51:32 +0000",
+      "category": "news"
+    },
+    {
       "title": "uniTerm v1.3 重磅发布：超轻量全能型终端，20+ 远程协议，内置 AI Agent",
       "url": "https://www.oschina.net/news/471478",
       "source": "开源中国",
@@ -784,22 +800,6 @@
       "source": "开源中国",
       "summary": "据《金融时报》援引两位知情人士报道称， OpenAI 首席执行官 Sam Altman 提议将公司 5% 的股权捐赠给一家美国主权财富基金。 根据该提议，其他 AI 公司也将捐赠类似股份，但具体细节仍存在诸多疑问。这笔捐款旨在“确保与政府保持良好关系，并……应对政治反弹”。 据悉，CNBC 六月份曾报道过类似的讨论，随后美国总统特...",
       "published": "Fri, 03 Jul 2026 14:57:49 +0800",
-      "category": "news"
-    },
-    {
-      "title": "ShareX 21.0.0 发布，截图与屏幕录制工具",
-      "url": "https://www.oschina.net/news/471463/sharex-21-0-0-released",
-      "source": "开源中国",
-      "summary": "ShareX 是一个开源截图工具，可捕获或记录屏幕的任何区域，并一键共享。 它还允许将图像、文本或其他类型的文件上传到超过 80 个支持的存储服务上。 ShareX 21.0.0 正式发布，更新内容如下： 新增“Background remover”工具。 新增“Image Comparer”工具。 除了 Avalonia UI 窗口之外，所有 23 种语言都已 100% 翻译完...",
-      "published": "Fri, 03 Jul 2026 14:20:05 +0800",
-      "category": "news"
-    },
-    {
-      "title": "gRPC 1.82.0 发布，跨语言 RPC 框架",
-      "url": "https://www.oschina.net/news/471462/grpc-1-82-0-released",
-      "source": "开源中国",
-      "summary": "gRPC 是可以在任何环境中运行的现代开源高性能 RPC 框架。gRPC 1.82.0 现已发布，此版本包含改进、优化和错误修复，主要亮点如下： Core [call creds] 添加对查找和附加区域访问边界策略元数据的支持。（#41594） 在 endpoint shutdown 期间注销 CFStream 回调。（#42211） 修复 POSIX 套接字代码中 fd 0 被错误地视为无...",
-      "published": "Fri, 03 Jul 2026 13:59:42 +0800",
       "category": "news"
     }
   ]
