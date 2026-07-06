@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T09:34:38.835294",
+  "updated_at": "2026-07-06T11:22:39.322814",
   "total": 100,
   "items": [
     {
@@ -48,14 +48,6 @@
       "source": "Wired",
       "summary": "Touted as a less-hookup-focused Grindr, Goose is an invite-only space for gay men. The problem is the people promoting it don’t seem real.",
       "published": "Wed, 01 Jul 2026 20:28:57 +0000",
-      "category": "news"
-    },
-    {
-      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-      "source": "TechCrunch AI",
-      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
-      "published": "Wed, 01 Jul 2026 18:54:18 +0000",
       "category": "news"
     },
     {
@@ -291,27 +283,11 @@
       "category": "news"
     },
     {
-      "title": "一人公司创业，如何找对方法论、选准装备库？",
-      "url": "https://www.infoq.cn/article/pxXOLZMIk90UTXOJ8aNE?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 02 Jul 2026 19:43:06 GMT",
-      "category": "news"
-    },
-    {
       "title": "Meta quietly launches vibe-coded gaming app Pocket",
       "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
       "source": "TechCrunch AI",
       "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
       "published": "Thu, 02 Jul 2026 18:44:02 +0000",
-      "category": "news"
-    },
-    {
-      "title": "用户太蠢不配用 Fable？被Anthropic的回应气笑了：最贵的模型，最憋屈的体验",
-      "url": "https://www.infoq.cn/article/HDE9Hoe3RVyNlX3CCGzV?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 02 Jul 2026 18:36:08 GMT",
       "category": "news"
     },
     {
@@ -323,51 +299,11 @@
       "category": "news"
     },
     {
-      "title": "被骂“退出AI竞赛”，Meta改行卖算力股价暴涨10%：卖铲子比淘金更赚？",
-      "url": "https://www.infoq.cn/article/vxgbzsNORRzQDz6xK1jv?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 02 Jul 2026 18:27:05 GMT",
-      "category": "news"
-    },
-    {
       "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
       "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
       "source": "Wired",
       "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
       "published": "Thu, 02 Jul 2026 18:01:20 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Agent 狂欢热潮下的冷思考：为什么规模化落地总是陷入僵局？",
-      "url": "https://www.infoq.cn/article/KmDMAvlzBGgwu5A2kf7t?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 02 Jul 2026 17:19:52 GMT",
-      "category": "news"
-    },
-    {
-      "title": "亚马逊云科技推出 Lambda MicroVM，提供隔离式智能体与用户代码运行环境",
-      "url": "https://www.infoq.cn/article/QbFT0uMbBd8rcZ0zEfit?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 02 Jul 2026 17:18:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "行业智能体时代来临：出行、货运率先破局",
-      "url": "https://www.infoq.cn/article/k8tlXTTbFmTGOLojQVZB?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 02 Jul 2026 16:21:51 GMT",
-      "category": "news"
-    },
-    {
-      "title": "如何利用 AI Agent 实现热补丁的自动化生成",
-      "url": "https://www.infoq.cn/article/BXc66LG3pVL8ZMme0ehy?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 02 Jul 2026 16:00:00 GMT",
       "category": "news"
     },
     {
@@ -435,19 +371,11 @@
       "category": "news"
     },
     {
-      "title": ":fire: ReActAgent 使用指南：构建会思考、能行动的 AI Agent",
-      "url": "https://www.oschina.net/news/471482",
-      "source": "开源中国",
-      "summary": "如果你希望 AI 不仅能聊天，还能真正做事——查数据库、调 API、做决策、从结果中学习——那你来对地方了。 本文将用 Solon AI 4.0 的 ReActAgent 带你构建生产级的 AI Agent。读完你将学会如何构建一个能够推理复杂问题、使用外部工具、并根据实际反馈调整行为的智能体。 ReActAgent 有何不同？ 传统 LLM 擅长生成文本，...",
-      "published": "Sun, 05 Jul 2026 08:42:40 +0800",
-      "category": "news"
-    },
-    {
-      "title": "MooTool 1.7.8 发布，开发者常备小工具",
-      "url": "https://www.oschina.net/news/471481",
-      "source": "开源中国",
-      "summary": "MooTool 1.7.8 已发布，这是一个用 Java 编写的开发者常备桌面小工具集。 更新内容 ● feat：【随手记】数据由数据库改为 txt 文件管理，支持文件夹与 Git 版本控制 ● feat：【JSON】参考随手记实现文档化与 Git 化管理，新增文件夹工具栏操作 ● feat：【随手记/JSON】列表支持按名称/更新时间（默认）/创建时间排序 ...",
-      "published": "Sat, 04 Jul 2026 22:46:29 +0800",
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "source": "TechCrunch AI",
+      "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+      "published": "Sun, 05 Jul 2026 17:43:36 +0000",
       "category": "news"
     },
     {
@@ -480,30 +408,6 @@
       "source": "TechCrunch AI",
       "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
       "published": "Sat, 04 Jul 2026 15:51:32 +0000",
-      "category": "news"
-    },
-    {
-      "title": "uniTerm v1.3 重磅发布：超轻量全能型终端，20+ 远程协议，内置 AI Agent",
-      "url": "https://www.oschina.net/news/471478",
-      "source": "开源中国",
-      "summary": "关于 uniTerm uniTerm 是一款轻量级、跨平台的一站式终端软件，基于 Wails v2 + Go + Vue 3 构建。它将远程终端、文件传输、远程桌面、数据库客户端、服务器监控、AI 助理整合进一个不到 10MB 的软件包中，覆盖 20 余种网络协议，支持 Windows、macOS、Linux 三大平台。 从 SSH 命令行管理到 RDP 远程桌面，从 SFTP 双栏...",
-      "published": "Sat, 04 Jul 2026 12:58:51 +0800",
-      "category": "news"
-    },
-    {
-      "title": ":fire: 用 ChatModel 构建 LLM 驱动的 Java 应用",
-      "url": "https://www.oschina.net/news/471477",
-      "source": "开源中国",
-      "summary": "如果你尝试过在 Java 应用中集成大语言模型（LLM），大概率写过不少样板代码：HTTP 客户端、JSON 解析、流式处理、会话管理……Solon AI 4.0 的 ChatModel 用一套简洁的 Builder API 把这些都封装好了。 本文将通过真实的代码示例，带你一步步用 ChatModel 构建 AI 功能——从简单的单次调用，到带记忆的流式聊天机器人。...",
-      "published": "Sat, 04 Jul 2026 11:27:34 +0800",
-      "category": "news"
-    },
-    {
-      "title": "苹果首次将私有云计算平台扩展至谷歌云",
-      "url": "https://www.infoq.cn/article/UoJtxVXj0d1QT1ftyjtd?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Sat, 04 Jul 2026 09:00:00 GMT",
       "category": "news"
     },
     {
@@ -595,6 +499,246 @@
       "category": "news"
     },
     {
+      "title": "Anthropic 每招一个人，就要为算力多支付 200 万美元",
+      "url": "https://www.oschina.net/news/471517/ai-spend-breakeven-2029",
+      "source": "开源中国",
+      "summary": "硅谷知名投资人 Tomasz Tunguz 在 Theory Ventures 的博客上发了一组数据，干净利落地解释了一个让很多人困惑的问题：AI 行业的钱到底花到哪里去了。 先说最扎眼的数字。Anthropic 有大约 5000 名员工，2026 年在模型推理和训练上的支出约 100 亿美元。平均下来，每个员工头上顶着 200 万美元的年均算力账单。而 Anthro...",
+      "published": "Mon, 06 Jul 2026 18:39:24 +0800",
+      "category": "news"
+    },
+    {
+      "title": "硬件原生FP8加持，摩尔线程完成美团LongCat-2.0 Day-0 极速适配",
+      "url": "https://www.infoq.cn/article/vRzlWZxXMaxC6aZM7Ufw?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 06 Jul 2026 18:24:56 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Linus 再谈 AI：大模型能写 Demo，但对复杂系统要有敬畏之心",
+      "url": "https://www.infoq.cn/article/11fNtPYf59T76fyQkiPa?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 06 Jul 2026 18:19:11 GMT",
+      "category": "news"
+    },
+    {
+      "title": "腾讯混元 Hy3 开源发布",
+      "url": "https://www.oschina.net/news/471516",
+      "source": "开源中国",
+      "summary": "继 4 月底发布 Hy3 preview 后，腾讯混元 Hy3 现已开源发布，基于 preview 版本进一步提升了后训练数据的质量和多样性，扩大了 RL 算力规模。 公告称，Hy3 在推理、智能体、长上下文等任务上显著进步，取得了比肩国内外更大尺寸旗舰模型（参数规模往往是 Hy3 的 2～5 倍）的效果。Hy3 在软件开发、办公生产、金融建模、前...",
+      "published": "Mon, 06 Jul 2026 18:14:49 +0800",
+      "category": "news"
+    },
+    {
+      "title": "璀璨之星 :fire: xbatis 1.10.6 正式发版，最好用最简单最方便的 ORM !!!",
+      "url": "https://www.oschina.net/news/471515/xbatis-1-10-6-released",
+      "source": "开源中国",
+      "summary": "推荐理由： 强、强、强 ，单表？连表？不想连表？让你直接少写 1/3 甚至 2/3 的持久层代码；API 简单 快捷 优雅 简洁 构建 SQL 非常强！用过的 没用过的都来体验，虽然有 AI 了，但是真正好用的 ORM 的还不能忽略的，除非你以后不维护。 1.10.6 - 2026-07-02 1：新增 COALESCE 函数 2：新增 Map结果 强制包含value为nul...",
+      "published": "Mon, 06 Jul 2026 17:46:48 +0800",
+      "category": "news"
+    },
+    {
+      "title": "MKVToolNix v100.0 发布，MKV 视频编辑工具",
+      "url": "https://www.oschina.net/news/471514/mkvtoolnix-100-0-released",
+      "source": "开源中国",
+      "summary": "MKVToolNix 是一套功能强大的 mkv (Matroska) 格式制作和处理的工具，支持将多种视频、音频、字幕等格式封装成 mkv 格式。 MKVToolNix 100.0 现已正式发布，具体更新内容包括： New features and enhancements all：为所有应用程序添加了新的可缩放（SVG）应用程序图标， 替换现有的像素图（PNG、ICO）图标。 mkvmerge：...",
+      "published": "Mon, 06 Jul 2026 17:38:42 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Agentic 范式下的视频画质优化：火山引擎的新路径",
+      "url": "https://www.infoq.cn/article/Gx6eXWNCqcVkET9wFZq9?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 06 Jul 2026 17:06:04 GMT",
+      "category": "news"
+    },
+    {
+      "title": "F5 NGINX Ingress Controller 5.3.0 新增功能",
+      "url": "https://my.oschina.net/u/5246775/blog/19717391",
+      "source": "开源中国",
+      "summary": "F5 NGINX Ingress Controller 5.3.0 正值关键时刻发布。随着 Kubernetes 社区在 2025 年 KubeCon North America 大会上宣布社区维护的 ingress-nginx 项目将于 2026 年 3 月停用，全球用户纷纷重新思考其 ingress 战略。对于那些寻求熟悉的、生产级开源替代方案的用户来说，F5 NGINX Ingress Controller 提供了由 NGINX ...",
+      "published": "Mon, 06 Jul 2026 17:00:37 +0800",
+      "category": "news"
+    },
+    {
+      "title": "开源 Kiwi v1.1.0：基于 Operaton 的 BPMN 工作流平台，插件化组件 + 模板市场 + 支付演示",
+      "url": "https://www.oschina.net/news/471511/kiwi-1-1-0-released",
+      "source": "开源中国",
+      "summary": "Kiwi 是一个基于 Operaton（Camunda 7 社区续作）的 BPMN 工作流编排与管理平台，带可视化设计器、可插拔流程组件、管理后台和 AI 助手。今天发 v1.1.0，主要围绕「组件生态」和「模板分发」做了一轮架构升级。 在线体验： https://www.kiwi-admin.cn 仓库： https://github.com/xc404/kiwi License： MIT v1.1.0 亮点 ...",
+      "published": "Mon, 06 Jul 2026 16:39:18 +0800",
+      "category": "news"
+    },
+    {
+      "title": "阿里语音模型支持影视飓风 100 小时直播",
+      "url": "https://www.oschina.net/news/471509",
+      "source": "开源中国",
+      "summary": "千问大模型宣布正式对实时语音识别大模型 Fun-ASR-Realtime 正式进行升级。一款首字延迟控制在百毫秒级别、识别准确率接近离线模型的流式语音识别模型，支持 16 种方言和 30 种语言。 据介绍， Fun-ASR-Realtime 在 7 月 2 日结束的影视飓风「重返荒岛」100 小时直播中提供了实时字幕支持，累计识别字幕6万余条、共计132...",
+      "published": "Mon, 06 Jul 2026 16:32:43 +0800",
+      "category": "news"
+    },
+    {
+      "title": "腾讯混元Hy3正式发布，元宝同步上线Hy3 Agent能力、免费开放",
+      "url": "https://www.infoq.cn/article/2IGjsbCMxxHjLGPJ7tls?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 06 Jul 2026 16:22:01 GMT",
+      "category": "news"
+    },
+    {
+      "title": "亚马逊云科技推出 Workload Credentials Provider，用于自动化证书和密钥管理",
+      "url": "https://www.infoq.cn/article/cE3cUpHYPN0IjSuIgcsh?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 06 Jul 2026 16:00:08 GMT",
+      "category": "news"
+    },
+    {
+      "title": "“我一行代码都没读就发布了”，被OpenAI收购后，uv工具创始人开始反思AI编程",
+      "url": "https://www.infoq.cn/article/katE2jJKMX7FaGskhvRL?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 06 Jul 2026 15:46:52 GMT",
+      "category": "news"
+    },
+    {
+      "title": "扎克伯格认为 AI Agent 的开发进展不及预期",
+      "url": "https://www.oschina.net/news/471501",
+      "source": "开源中国",
+      "summary": "7 月 2 日，Meta 内部全体员工大会上，扎克伯格做了一件他很少做的事：认错。 路透社拿到会议录音后独家报道了这件事。扎克伯格的原话是：「至少在过去四个月里，AI Agent 的发展轨迹并没有按照我们预期的方式加速。」 这句话的背景是一笔令人窒息的赌注。 2026 年，Meta 的 AI 基础设施预算高达 1450 亿美元。今年 5 月...",
+      "published": "Mon, 06 Jul 2026 15:32:07 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Webpack v5.108.4 发布，模块打包器",
+      "url": "https://www.oschina.net/news/471500/webpack-5-108-4-released",
+      "source": "开源中国",
+      "summary": "Webpack 是一个模块打包器，主要目的是在浏览器上打包 JavaScript 文件。Webpack v5.108.4 已发布，具体更新内容如下： Patch Changes 通过不构建未使用的选择器 AST 节点来加快非 CSS 模块的解析速度。（#21324） 通过丢弃无法读取的值标记来加快非 CSS 模块 CSS 的解析速度。（#21324） 根据文档的&lt;base href&gt;解析 HT...",
+      "published": "Mon, 06 Jul 2026 15:08:06 +0800",
+      "category": "news"
+    },
+    {
+      "title": "GTLC 杭州站回顾｜AI 创业进入深水区，技术领导者都在关注什么？",
+      "url": "https://www.infoq.cn/article/MOVBghUgQrXWr9igbK2p?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 06 Jul 2026 15:02:49 GMT",
+      "category": "news"
+    },
+    {
+      "title": "ThingsPanel 物联网平台 v1.2.4 发布：看板自适应体验升级",
+      "url": "https://www.oschina.net/news/471498/thingspanel-1-2-4-released",
+      "source": "开源中国",
+      "summary": "ThingsPanel 物联网平台发布 v1.2.4。这次更新围绕看板在业务页面中的显示稳定性、嵌入自适应能力、图表展示细节和平台兼容性展开，重点解决“嵌入后高度不合适、内容容易被截断、滚动体验不顺、图表显示不够细”的实际使用问题。 项目仓库： • Gitee：&lt;https://gitee.com/ThingsPanel&gt; 本次版本重点 这次版本的核心目标...",
+      "published": "Mon, 06 Jul 2026 14:41:48 +0800",
+      "category": "news"
+    },
+    {
+      "title": "英伟达双塔 AI 模型开源发布",
+      "url": "https://www.oschina.net/news/471497",
+      "source": "开源中国",
+      "summary": "英伟达于日前开源 Nemotron-Labs-TwoTower 离散扩散语言模型，旨在解决大模型逐一生成 Token 速度慢的痛点。模型基于现有 Nemotron 骨干网络改造，复用预训练权重，无需从零完整训练，大幅降低开发成本。 模型总参数量 60B，拆分为两座 30B 独立神经网络协同工作，每塔激活 3B 参数，搭载 128 个可路由专家模块。上下文塔...",
+      "published": "Mon, 06 Jul 2026 14:25:42 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Java 近期新闻：Spring Tools、Helidon、Open Liberty、TomEE、JobRunr、Hibernate、Commonhaus 基金会",
+      "url": "https://www.infoq.cn/article/7UMpxj51V9IIvtcJOSfo?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 06 Jul 2026 14:10:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Calibre 9.11 发布，功能强大的开源电子书工具",
+      "url": "https://www.oschina.net/news/471496/calibre-9-11-released",
+      "source": "开源中国",
+      "summary": "Calibre 开源项目是 Calibre 官方出的电子书管理工具。它可以查看，转换，编辑和分类所有主流格式的电子书。Calibre 是个跨平台软件，可以在 Linux、Windows 和 macOS 上运行。 Calibre 9.11 现已正式发布，此次更新内容如下： 新功能 允许将注释导出为 HTML 格式的独立网页，该网页可在任何浏览器中查看，并支持浅色/深...",
+      "published": "Mon, 06 Jul 2026 14:01:50 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Anthropic：Claude 已承担 95% 的内部数据分析查询工作",
+      "url": "https://www.infoq.cn/article/eHH8RTgeeOUWODLCLWXS?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 06 Jul 2026 13:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Windows平台安全与保护AI智能体的竞赛",
+      "url": "https://www.infoq.cn/article/LT7lx2Qe5KkS9QCVSXCQ?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 06 Jul 2026 11:21:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "DBeaver 26.1.2 发布",
+      "url": "https://www.oschina.net/news/471492/dbeaver-26-1-2-released",
+      "source": "开源中国",
+      "summary": "DBeaver 是一个免费开源的通用数据库工具，适用于开发人员和数据库管理员。DBeaver 26.1.2 现已发布，具体更新内容包括： AI 助手：新增 AI 聊天功能，能够生成 SQL 查询语句并回答用户问题 Data Editor： 更新了 Find/Replace 的功能界面 新增快速筛选：在“Find”字段中输入值，然后使用专用图标隐藏不匹配的行 修复了...",
+      "published": "Mon, 06 Jul 2026 11:20:30 +0800",
+      "category": "news"
+    },
+    {
+      "title": "MateClaw 1.7.0 正式版发布：从“能用”到“敢放进生产”",
+      "url": "https://www.oschina.net/news/471491/mateclaw-1-7-0-released",
+      "source": "开源中国",
+      "summary": "MateClaw 1.7.0 是一次生产化加固。 上一阶段，MateClaw 已经把数字员工、LLM Wiki、工作流、触发器、技能、MCP、ACP、多渠道入口、桌面端和 WebChat 放进同一套 Spring Boot Agent Harness 里。到了 1.7.0，重点变成真实团队协作里最容易出事故的地方： 审批不能挂死。 长任务不能黑盒。 Token 花销不能看不见。 本地模...",
+      "published": "Mon, 06 Jul 2026 11:13:58 +0800",
+      "category": "news"
+    },
+    {
+      "title": "AI UITester：AI Native 的 UI 自动化测试新范式",
+      "url": "https://my.oschina.net/u/5783135/blog/19715669",
+      "source": "开源中国",
+      "summary": "测试用例平台积累了大量描述性用例，但不可直接执行。QA 需要逐条手动翻译：理解业务逻辑、编写元素定位、调试执行路径。一个中等规模的模块，转化成本可能需要数人天。",
+      "published": "Mon, 06 Jul 2026 11:00:30 +0800",
+      "category": "news"
+    },
+    {
+      "title": "73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
+      "url": "https://www.infoq.cn/article/e6J4FbXQj28CiziktLuS?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 06 Jul 2026 10:27:32 GMT",
+      "category": "news"
+    },
+    {
+      "title": "豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报",
+      "url": "https://www.infoq.cn/article/rs0HJTRdN6Pl88LIFh1a?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 06 Jul 2026 10:22:58 GMT",
+      "category": "news"
+    },
+    {
+      "title": "让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
+      "url": "https://www.infoq.cn/article/jpGdhU4YBXiXOloMEb2I?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 06 Jul 2026 10:19:26 GMT",
+      "category": "news"
+    },
+    {
+      "title": "数亿元融资落地！光象科技自研物理原生基座模型，跳出 VLA 与世界模型路线",
+      "url": "https://www.infoq.cn/article/m4QJlWAyRq7Fp4yQImp9?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 06 Jul 2026 10:06:52 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Azure Functions在Build 2026发布Serverless智能体运行时",
+      "url": "https://www.infoq.cn/article/kGHZu2K5V8IrwYvo6Cm3?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 06 Jul 2026 09:19:08 GMT",
+      "category": "news"
+    },
+    {
       "title": "How we used Gemini to build Google I/O 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
       "source": "Google AI",
@@ -651,155 +795,11 @@
       "category": "news"
     },
     {
-      "title": ":fire:JPA mybatis mybatis-plus xbatis 谁更强，比一比",
-      "url": "https://www.oschina.net/news/471476",
-      "source": "开源中国",
-      "summary": "为了让你更清晰地了解 xbatis 在 Java ORM 生态中的定位，我们将它与最主流的三个持久层框架进行深度对比：MyBatis-Plus（国内最流行）、Spring Data JPA / Hibernate（国际标准）以及原生 MyBatis。 :bar_chart: 核心多维对比 特性 / 维度 原生 MyBatis MyBatis-Plus (MP) xbatis Spring Data JPA / Hibernate 核心定位...",
-      "published": "Fri, 03 Jul 2026 21:49:17 +0800",
-      "category": "news"
-    },
-    {
       "title": "The only AI glossary you’ll need this year",
       "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "source": "TechCrunch AI",
       "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
       "published": "Fri, 03 Jul 2026 21:20:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Claude Code 80%的提示词说删就删，Anthropic用Fable 5打了个样：AI行业的“降本”才刚刚开始",
-      "url": "https://www.infoq.cn/article/GEkEm7rkUJfF8bdwTuBt?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 03 Jul 2026 19:27:10 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Agent 上岗之后，企业如何治理硅基团队？",
-      "url": "https://www.infoq.cn/article/pNFHkLos3FoDNm8cQsyt?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 03 Jul 2026 19:03:18 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Google 就 Android 反垄断 41 亿欧元罚单上诉失败，八年拉锯战终结",
-      "url": "https://www.oschina.net/news/471475",
-      "source": "开源中国",
-      "summary": "7 月 2 日，欧盟最高法院 European Court of Justice 驳回了 Google 对 41 亿欧元（约合 46.7 亿美元）反垄断罚单的最终上诉。这场自 2018 年起持续八年的法律拉锯，画上了句号。 案件追溯到 2018 年。欧盟委员会当时裁定 Google 利用 Android 的市场支配地位，通过三类行为排挤竞争对手：要求手机厂商预装 Google Searc...",
-      "published": "Fri, 03 Jul 2026 18:49:21 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Vite+ 发布 Beta 版本，一个命令搞定前端工具链",
-      "url": "https://www.oschina.net/news/471474/vite-plus-beta",
-      "source": "开源中国",
-      "summary": "尤雨溪创立的前端工具链公司 VoidZero 发布了 Vite+ 的 Beta 版本。这是一个基于 Vite 8 的统一前端工具链，用一个 vp 命令整合了开发服务器、测试、构建、检查、打包和任务运行。 Vite+ 从 Alpha 到 Beta 合并了超过 500 个 PR。这次更新的看点：vp run 的任务缓存更智能了，不再需要手动声明输入输出和环境变量；vp mi...",
-      "published": "Fri, 03 Jul 2026 18:44:50 +0800",
-      "category": "news"
-    },
-    {
-      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "source": "TechCrunch AI",
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "published": "Fri, 03 Jul 2026 18:43:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "从 Coding 到 Anything，Agent 正在重写工作流",
-      "url": "https://www.infoq.cn/article/yM8ms1eDlrY7wvF3SXtY?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 03 Jul 2026 18:40:56 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Podman v6.0.0 发布，网络栈全面转向 Netavark 与 nftables",
-      "url": "https://www.oschina.net/news/471473/podman-v6-0-0",
-      "source": "开源中国",
-      "summary": "Podman 团队发布了 v6.0.0 正式版。这是一次网络基础设施全面换代的重大更新，同时改进了 machine 管理、Quadlet 和配置系统。 网络层是本次升级的核心。Podman 告别了 slirp4netns 和 iptables，全面转向 Netavark、Pasta 和 nftables。团队表示，这一迁移不仅是技术债清理，更意味着网络栈维护简化，未来可以在此基础上...",
-      "published": "Fri, 03 Jul 2026 18:40:55 +0800",
-      "category": "news"
-    },
-    {
-      "title": "拒绝天价账单！OpenAI、Anthropic 自研芯片，剑指英伟达“暴利”护城河",
-      "url": "https://www.infoq.cn/article/MOqFJbvWYlJ9PXcfdfCC?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 03 Jul 2026 18:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "阿里内部全面禁用 Claude Code",
-      "url": "https://www.oschina.net/news/471471",
-      "source": "开源中国",
-      "summary": "智东西消息称阿里巴巴内部宣布反向禁用 Claude。阿里全员被要求卸载Anthropic相关产品，包括Sonnet、Opus、Fable等多个系列模型，以及Claude Code在内的Agent产品。禁令于7月10日正式生效。 据消息人士透露，自今年初以来，阿里内部为鼓励员工采用AI技术，不仅推出内部模型免费额度，还对外部模型使用实行大额报销政策。...",
-      "published": "Fri, 03 Jul 2026 16:53:30 +0800",
-      "category": "news"
-    },
-    {
-      "title": "从 10 分钟到 1 秒：ES 深度分页任意跳页的三轮优化实战",
-      "url": "https://my.oschina.net/vivotech/blog/19715664",
-      "source": "开源中国",
-      "summary": "本文介绍了一种基于 search_after + Redis 多级锚点缓存的 Elasticsearch 深度分页跳页方案。针对 Elasticsearch 原生不支持随机跳页的限制，通过三轮优化 —— 分段预热缓存、最近锚点定位 + Elasticsearch 查询提速（禁用 _source / 关闭 track_total_hits）、大区间预热 + 小分页精细锚点 —— 将 50 万数据量下的任意...",
-      "published": "Fri, 03 Jul 2026 16:31:48 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
-      "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
-      "source": "Wired",
-      "summary": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization.",
-      "published": "Fri, 03 Jul 2026 16:30:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Xbatis vs Spring Data JPA：两大 ORM 框架深度对决",
-      "url": "https://www.oschina.net/news/471469",
-      "source": "开源中国",
-      "summary": "一、引言 Java 持久层框架的竞争由来已久。一边是 JPA 规范——由 Sun/Oracle 制定的行业标准，Hibernate 实现、Spring Data JPA 加持，稳坐企业级开发的&quot;正统王座&quot;；另一边是 Xbatis——站在 MyBatis 肩膀上，用链式 DSL 重构 ORM 体验的新锐力量。 两者代表了两种截然不同的世界观：声明式 vs 命令式，注解驱动 vs 链式...",
-      "published": "Fri, 03 Jul 2026 16:23:27 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Xbatis vs MyBatis-Plus：两大 MyBatis 增强框架全方位对比",
-      "url": "https://www.oschina.net/news/471468",
-      "source": "开源中国",
-      "summary": "Xbatis vs MyBatis-Plus：两大 MyBatis 增强框架全方位对比 一、引言 Java 后端开发中，ORM 框架选型始终是一个绕不开的话题。MyBatis 生态之所以长盛不衰，正是因为它在灵活性和开发效率之间找到了最佳平衡点。而在这个生态中，MyBatis-Plus 和 Xbatis 是最具代表性的两个增强框架。 MyBatis-Plus 深耕多年，社区庞大；...",
-      "published": "Fri, 03 Jul 2026 16:03:31 +0800",
-      "category": "news"
-    },
-    {
-      "title": "🔥🔥抢位开造 |「7%计划」DIIS苏州 48h OPC创客松",
-      "url": "https://www.oschina.net/news/471467",
-      "source": "开源中国",
-      "summary": "",
-      "published": "Fri, 03 Jul 2026 15:52:48 +0800",
-      "category": "news"
-    },
-    {
-      "title": "企业级后台开发痛点解决方案：SpringBoot3 全栈开发方案 Jboot-Plus 技术解析",
-      "url": "https://www.oschina.net/news/471466",
-      "source": "开源中国",
-      "summary": "前言 企业后台开发中，重复编写 CRUD、重复搭建权限体系、接口安全加密、微信生态对接都是各团队普遍会遇到的重复工作。不少开发者会选择成熟开源方案复用通用底层能力，本文客观拆解一套基于 Spring Boot 3 + Vue2.7 前后端分离开发框架 Jboot-Plus 的技术设计，仅作为技术选型参考，完整文档资料可自行检索站点 jboot....",
-      "published": "Fri, 03 Jul 2026 15:46:24 +0800",
-      "category": "news"
-    },
-    {
-      "title": "大晓机器人首席科学家陶大程：世界模型的使命不是完整复制世界，而是精准支撑行动",
-      "url": "https://www.infoq.cn/article/tZe66KJ12UsjrqpeSiaA?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 03 Jul 2026 15:17:15 GMT",
-      "category": "news"
-    },
-    {
-      "title": "OpenAI 提议向‌美国政府‌出让约‌ 5% 股权",
-      "url": "https://www.oschina.net/news/471464/openai-proposed-donating-5-of-its-equity-us",
-      "source": "开源中国",
-      "summary": "据《金融时报》援引两位知情人士报道称， OpenAI 首席执行官 Sam Altman 提议将公司 5% 的股权捐赠给一家美国主权财富基金。 根据该提议，其他 AI 公司也将捐赠类似股份，但具体细节仍存在诸多疑问。这笔捐款旨在“确保与政府保持良好关系，并……应对政治反弹”。 据悉，CNBC 六月份曾报道过类似的讨论，随后美国总统特...",
-      "published": "Fri, 03 Jul 2026 14:57:49 +0800",
       "category": "news"
     }
   ]
