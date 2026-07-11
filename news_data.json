@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T10:14:40.122365",
+  "updated_at": "2026-07-11T08:42:20.699725",
   "total": 100,
   "items": [
     {
@@ -43,27 +43,11 @@
       "category": "news"
     },
     {
-      "title": "Pickup Artist Mystery Has an AI Girlfriend",
-      "url": "https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/",
-      "source": "Wired",
-      "summary": "A new book claims that Mystery, who teaches awkward men how to hit on women, had sex and smoked weed with an AI chatbot named Miss Shira Always.",
-      "published": "Wed, 08 Jul 2026 11:00:00 +0000",
-      "category": "news"
-    },
-    {
       "title": "Helping K–12 educators build practical AI skills",
       "url": "https://openai.com/index/k-12-educators-practical-skills",
       "source": "OpenAI",
       "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
       "published": "Wed, 08 Jul 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
-      "url": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
-      "source": "Wired",
-      "summary": "Verity Harding tells WIRED that the US government’s nationalistic attitude toward AI is evidence that a worst-case scenario is taking shape.",
-      "published": "Wed, 08 Jul 2026 09:30:00 +0000",
       "category": "news"
     },
     {
@@ -187,14 +171,6 @@
       "category": "news"
     },
     {
-      "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
-      "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
-      "source": "Wired",
-      "summary": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
-      "published": "Tue, 07 Jul 2026 21:59:29 +0000",
-      "category": "news"
-    },
-    {
       "title": "The foundational elements of AI architecture that IT leaders need to scale",
       "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
       "source": "MIT Tech Review",
@@ -251,7 +227,7 @@
       "category": "news"
     },
     {
-      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
       "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
       "source": "TechCrunch AI",
       "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in th",
@@ -339,14 +315,6 @@
       "category": "news"
     },
     {
-      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-      "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-      "source": "TechCrunch AI",
-      "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
-      "published": "Thu, 09 Jul 2026 18:34:35 +0000",
-      "category": "news"
-    },
-    {
       "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
       "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
       "source": "Wired",
@@ -355,59 +323,11 @@
       "category": "news"
     },
     {
-      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
-      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-      "source": "TechCrunch AI",
-      "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
-      "published": "Thu, 09 Jul 2026 18:22:39 +0000",
-      "category": "news"
-    },
-    {
       "title": "Agent 进化论：从对话到协作",
       "url": "https://www.infoq.cn/article/6StbVmZr0cicGREVjwZu?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Thu, 09 Jul 2026 17:58:01 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
-      "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
-      "source": "TechCrunch AI",
-      "summary": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
-      "published": "Thu, 09 Jul 2026 17:56:47 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Meta’s new AI chips will begin production in September",
-      "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-      "source": "TechCrunch AI",
-      "summary": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
-      "published": "Thu, 09 Jul 2026 17:17:37 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Nvidia is a victim of the compute marketplace it created",
-      "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
-      "source": "TechCrunch AI",
-      "summary": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.",
-      "published": "Thu, 09 Jul 2026 17:06:11 +0000",
-      "category": "news"
-    },
-    {
-      "title": "AI Infra 拼什么？",
-      "url": "https://www.infoq.cn/video/bN06GZ6lWP9tc5qVPOky?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 09 Jul 2026 16:18:51 GMT",
-      "category": "news"
-    },
-    {
-      "title": "百万上下文下的 DeepSeek V4：SGLang 推理优化实战｜AICon深圳",
-      "url": "https://www.infoq.cn/article/qALuq71AxiG5VLmWqSzU?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 09 Jul 2026 16:15:15 GMT",
       "category": "news"
     },
     {
@@ -473,6 +393,110 @@
       "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operationa",
       "published": "Thu, 02 Jul 2026 12:51:44 +0000",
       "category": "news"
+    },
+    {
+      "title": "uniTerm v1.4 发布：轻量级全能开源终端，新增 MongoDB、SSH 隧道、AI 自然语言数据库查询",
+      "url": "https://www.oschina.net/news/471656",
+      "source": "开源中国",
+      "summary": "关于 uniTerm uniTerm 是一款轻量级、跨平台的一站式终端软件，基于 Wails v2 + Go + Vue 3 构建。它将远程终端、文件传输、远程桌面、数据库客户端、服务器监控、AI 助理整合进一个不到 10MB 的软件包中，覆盖 20 余种网络协议，支持 Windows、macOS、Linux 三大平台。 从 SSH 命令行管理到 RDP 远程桌面，从 SFTP 双栏...",
+      "published": "Sat, 11 Jul 2026 11:52:23 +0800",
+      "category": "news"
+    },
+    {
+      "title": "从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳",
+      "url": "https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 11 Jul 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "ThingsPanel 物联网平台 v1.2.5 发布：APP 可视化入口与嵌入体验升级",
+      "url": "https://www.oschina.net/news/471655",
+      "source": "开源中国",
+      "summary": "ThingsPanel v1.2.5 继续完善可视化交付链路。这次更新把重点放在 APP 可视化入口补齐、嵌入式页面渲染一致性，以及模拟联调与自动化条件能力增强上，让移动端、宿主系统和项目交付场景里的使用体验更完整。 本次更新重点 • 新增 APP 可视化独立入口、列表页和预览页，应用场景里浏览和切换仪表盘更直接。 • WebView ...",
+      "published": "Sat, 11 Jul 2026 09:21:02 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构",
+      "url": "https://www.infoq.cn/article/fO5byVPuZwwlBPosijBV?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 11 Jul 2026 09:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI’s Head of Safety Is Leaving the Company",
+      "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "source": "Wired",
+      "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
+      "published": "Sat, 11 Jul 2026 01:07:26 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Context Graphs for Proactive Enterprise Agents",
+      "url": "https://arxiv.org/abs/2607.07721",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2607.07721v1 Announce Type: new  Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wa",
+      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "AI-integrated models for assessing agricultural resilience",
+      "url": "https://arxiv.org/abs/2607.07759",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2607.07759v1 Announce Type: new  Abstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates",
+      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
+      "url": "https://arxiv.org/abs/2607.07760",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2607.07760v1 Announce Type: new  Abstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chain",
+      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
+      "url": "https://arxiv.org/abs/2607.07761",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2607.07761v1 Announce Type: new  Abstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This sur",
+      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
+      "url": "https://arxiv.org/abs/2607.07766",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2607.07766v1 Announce Type: new  Abstract: Large language models (LLMs) have become significant providers of mental health support, yet they remain products of an attention economy whose operati",
+      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses",
+      "url": "https://arxiv.org/abs/2607.07775",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2607.07775v1 Announce Type: new  Abstract: The human body is at the center of a growing family of technologies designed to tightly and persistently couple biological and digital systems. Robotic",
+      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Infinity-Parser2 Technical Report",
+      "url": "https://arxiv.org/abs/2607.07836",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2607.07836v1 Announce Type: new  Abstract: We present Infinity-Parser2, a large multimodal model that couples a controllable data-synthesis pipeline with multi-task reinforcement learning for en",
+      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
+      "url": "https://arxiv.org/abs/2607.07846",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2607.07846v1 Announce Type: new  Abstract: VectorizationLLM is a specialized Large Language Model based on Google open-weight LLMs. The model is designed to assist students to learn smart vector",
+      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "category": "research"
     },
     {
       "title": "AI agents are not your “coworkers”",
@@ -571,6 +595,38 @@
       "category": "news"
     },
     {
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "source": "TechCrunch AI",
+      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no",
+      "published": "Fri, 10 Jul 2026 23:55:07 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "source": "TechCrunch AI",
+      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+      "published": "Fri, 10 Jul 2026 21:00:29 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+      "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+      "source": "Wired",
+      "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+      "published": "Fri, 10 Jul 2026 20:44:05 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "source": "TechCrunch AI",
+      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly h",
+      "published": "Fri, 10 Jul 2026 19:00:00 +0000",
+      "category": "news"
+    },
+    {
       "title": "AI时代最被低估的创业资本，不是技术，是你的“老本行”",
       "url": "https://www.infoq.cn/article/KAweBbBoUV2ufYlocaul?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
@@ -592,6 +648,14 @@
       "source": "开源中国",
       "summary": "得物是全球领先的集正品潮流电商和潮流生活社区于一体的新一代潮流生活方式平台。复杂的业务场景和极致的用户体验追求，对数据库运维和选型提出了更高要求。",
       "published": "Fri, 10 Jul 2026 17:26:37 +0800",
+      "category": "news"
+    },
+    {
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "source": "TechCrunch AI",
+      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+      "published": "Fri, 10 Jul 2026 17:17:12 +0000",
       "category": "news"
     },
     {
@@ -707,11 +771,11 @@
       "category": "news"
     },
     {
-      "title": "CrateDB 6.3.5 发布，分布式 SQL 数据库",
-      "url": "https://www.oschina.net/news/471634/cratedb-6-3-5-released",
-      "source": "开源中国",
-      "summary": "CrateDB 是一个分布式的 SQL 数据库，使得实时存储和分析大量的机器数据变得简单。CrateDB 提供了通常与 NoSQL 数据库相关的可扩展性和灵活性，最小的 CrateDB 集群可以轻松地每秒摄取数万条记录。这些数据可以在整个集群中实时地、临时地、并行地进行查询。 CrateDB 6.3.5 现已正式发布，该版本更新内容如下： 修复了向...",
-      "published": "Fri, 10 Jul 2026 13:59:42 +0800",
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "source": "TechCrunch AI",
+      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly h",
+      "published": "Fri, 10 Jul 2026 14:00:00 +0000",
       "category": "news"
     },
     {
@@ -736,70 +800,6 @@
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Fri, 10 Jul 2026 13:14:51 GMT",
-      "category": "news"
-    },
-    {
-      "title": "HubSpot 如何将语义搜索扩展至 200 亿个向量",
-      "url": "https://www.infoq.cn/article/eRl25z5ewrRHjReWhOUX?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 10 Jul 2026 12:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "OpenAI 二号人物宣布因病卸任，转做兼职顾问",
-      "url": "https://www.oschina.net/news/471631",
-      "source": "开源中国",
-      "summary": "OpenAI 产品和业务主管 Fidji Simo 宣布因病卸任，决定辞去在 OpenAI 的全职工作，转为兼职顾问。OpenAI 总裁 Greg Brockman 将接管产品相关工作。 三个月前，我患了七年的慢性病突然急性发作，不得不请病假。在那段时间里，我意识到康复之路比我预想的要漫长得多，也复杂得多——我需要全身心投入其中。 我休假的时候，...",
-      "published": "Fri, 10 Jul 2026 11:38:50 +0800",
-      "category": "news"
-    },
-    {
-      "title": "InfoQ 与九章云极深度解读 Toekn Factory 技术与产业发展",
-      "url": "https://www.infoq.cn/video/6GH7lb3Ptfw7Pjgrl9Cs?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 10 Jul 2026 11:36:17 GMT",
-      "category": "news"
-    },
-    {
-      "title": "当 AI 智能体遭遇“至暗时刻”，企业的最后防线是什么？｜ 技术趋势",
-      "url": "https://www.infoq.cn/article/zi38zKUQa1l31F0ilh2T?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 10 Jul 2026 11:32:02 GMT",
-      "category": "news"
-    },
-    {
-      "title": "vLLM 针对多模态模型的推理优化实践｜AICon深圳",
-      "url": "https://www.infoq.cn/article/ItOOYNuWf6t9KtfgeH7F?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 10 Jul 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "亚马逊云科技推出 Amazon S3 Annotations",
-      "url": "https://www.infoq.cn/article/RMeXD3ZlVLRPk3r0tyTx?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 10 Jul 2026 09:58:22 GMT",
-      "category": "news"
-    },
-    {
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "source": "OpenAI",
-      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "published": "Fri, 10 Jul 2026 07:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
-      "url": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
-      "source": "Wired",
-      "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governance catch up before the technology races beyond its control?",
-      "published": "Fri, 10 Jul 2026 06:00:00 +0000",
       "category": "news"
     }
   ]
