@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T08:42:20.699725",
+  "updated_at": "2026-07-12T08:58:13.515703",
   "total": 100,
   "items": [
     {
@@ -307,27 +307,11 @@
       "category": "news"
     },
     {
-      "title": "Google will now disclose which ads are made with AI",
-      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-      "source": "TechCrunch AI",
-      "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
-      "published": "Thu, 09 Jul 2026 18:40:51 +0000",
-      "category": "news"
-    },
-    {
       "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
       "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
       "source": "Wired",
       "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
       "published": "Thu, 09 Jul 2026 18:30:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Agent 进化论：从对话到协作",
-      "url": "https://www.infoq.cn/article/6StbVmZr0cicGREVjwZu?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 09 Jul 2026 17:58:01 GMT",
       "category": "news"
     },
     {
@@ -395,6 +379,30 @@
       "category": "news"
     },
     {
+      "title": "面向 Qwen 系列模型线性注意力的高性能优化实践｜AICon深圳",
+      "url": "https://www.infoq.cn/article/wg5h3JBMvs5ZkoP0azha?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 12 Jul 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "苹果甩出41页PDF怒告OpenAI“偷师”其核心机密！网友：早知道就等印度开源了",
+      "url": "https://www.infoq.cn/article/Rzh9umgPl90MgGolBcWm?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 11 Jul 2026 17:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch AI",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "published": "Sat, 11 Jul 2026 14:13:00 +0000",
+      "category": "news"
+    },
+    {
       "title": "uniTerm v1.4 发布：轻量级全能开源终端，新增 MongoDB、SSH 隧道、AI 自然语言数据库查询",
       "url": "https://www.oschina.net/news/471656",
       "source": "开源中国",
@@ -433,70 +441,6 @@
       "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
       "published": "Sat, 11 Jul 2026 01:07:26 +0000",
       "category": "news"
-    },
-    {
-      "title": "Context Graphs for Proactive Enterprise Agents",
-      "url": "https://arxiv.org/abs/2607.07721",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2607.07721v1 Announce Type: new  Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wa",
-      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "AI-integrated models for assessing agricultural resilience",
-      "url": "https://arxiv.org/abs/2607.07759",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2607.07759v1 Announce Type: new  Abstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates",
-      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
-      "url": "https://arxiv.org/abs/2607.07760",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2607.07760v1 Announce Type: new  Abstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chain",
-      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
-      "url": "https://arxiv.org/abs/2607.07761",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2607.07761v1 Announce Type: new  Abstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This sur",
-      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
-      "url": "https://arxiv.org/abs/2607.07766",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2607.07766v1 Announce Type: new  Abstract: Large language models (LLMs) have become significant providers of mental health support, yet they remain products of an attention economy whose operati",
-      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses",
-      "url": "https://arxiv.org/abs/2607.07775",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2607.07775v1 Announce Type: new  Abstract: The human body is at the center of a growing family of technologies designed to tightly and persistently couple biological and digital systems. Robotic",
-      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Infinity-Parser2 Technical Report",
-      "url": "https://arxiv.org/abs/2607.07836",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2607.07836v1 Announce Type: new  Abstract: We present Infinity-Parser2, a large multimodal model that couples a controllable data-synthesis pipeline with multi-task reinforcement learning for en",
-      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
-      "url": "https://arxiv.org/abs/2607.07846",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2607.07846v1 Announce Type: new  Abstract: VectorizationLLM is a specialized Large Language Model based on Google open-weight LLMs. The model is designed to assist students to learn smart vector",
-      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
-      "category": "research"
     },
     {
       "title": "AI agents are not your “coworkers”",
@@ -800,6 +744,62 @@
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Fri, 10 Jul 2026 13:14:51 GMT",
+      "category": "news"
+    },
+    {
+      "title": "HubSpot 如何将语义搜索扩展至 200 亿个向量",
+      "url": "https://www.infoq.cn/article/eRl25z5ewrRHjReWhOUX?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 10 Jul 2026 12:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "InfoQ 与九章云极深度解读 Toekn Factory 技术与产业发展",
+      "url": "https://www.infoq.cn/video/6GH7lb3Ptfw7Pjgrl9Cs?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 10 Jul 2026 11:36:17 GMT",
+      "category": "news"
+    },
+    {
+      "title": "当 AI 智能体遭遇“至暗时刻”，企业的最后防线是什么？｜ 技术趋势",
+      "url": "https://www.infoq.cn/article/zi38zKUQa1l31F0ilh2T?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 10 Jul 2026 11:32:02 GMT",
+      "category": "news"
+    },
+    {
+      "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
+      "url": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
+      "source": "Wired",
+      "summary": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
+      "published": "Fri, 10 Jul 2026 10:30:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+      "url": "https://www.infoq.cn/article/ItOOYNuWf6t9KtfgeH7F?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 10 Jul 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "source": "OpenAI",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "published": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
+      "url": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
+      "source": "Wired",
+      "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?",
+      "published": "Fri, 10 Jul 2026 06:00:00 +0000",
       "category": "news"
     }
   ]
