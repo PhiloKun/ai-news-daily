@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T09:03:30.544668",
+  "updated_at": "2026-07-18T08:42:27.897538",
   "total": 100,
   "items": [
     {
@@ -11,14 +11,6 @@
       "category": "news"
     },
     {
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "source": "TechCrunch AI",
-      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
-      "published": "Wed, 15 Jul 2026 23:59:44 +0000",
-      "category": "news"
-    },
-    {
       "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
       "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
       "source": "VentureBeat",
@@ -27,11 +19,11 @@
       "category": "news"
     },
     {
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "source": "TechCrunch AI",
-      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
-      "published": "Wed, 15 Jul 2026 19:41:38 +0000",
+      "title": "Agent 沙箱体验计划｜点亮Cube Sandbox，在安全沙箱里释放你的Agent能力",
+      "url": "https://xie.infoq.cn/article/615b3f8b86b0f9df5480f5d4f?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "闯关Cube任务，分享真实体验，赢取京东卡！点击查看原文>",
+      "published": "Wed, 15 Jul 2026 18:32:58 GMT",
       "category": "news"
     },
     {
@@ -43,14 +35,6 @@
       "category": "news"
     },
     {
-      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-      "source": "TechCrunch AI",
-      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
-      "published": "Wed, 15 Jul 2026 18:06:05 +0000",
-      "category": "news"
-    },
-    {
       "title": "Thinking Machines Lab Drops Its First Model",
       "url": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
       "source": "Wired",
@@ -59,27 +43,11 @@
       "category": "news"
     },
     {
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "source": "TechCrunch AI",
-      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
-      "published": "Wed, 15 Jul 2026 18:04:06 +0000",
-      "category": "news"
-    },
-    {
       "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
       "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
       "source": "MIT Tech Review",
       "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says tha",
       "published": "Wed, 15 Jul 2026 17:09:37 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-      "source": "TechCrunch AI",
-      "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
-      "published": "Wed, 15 Jul 2026 17:00:34 +0000",
       "category": "news"
     },
     {
@@ -131,14 +99,6 @@
       "category": "news"
     },
     {
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "source": "OpenAI",
-      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-      "published": "Wed, 08 Jul 2026 13:00:00 GMT",
-      "category": "news"
-    },
-    {
       "title": "5 ways Google Search can level up your thrift and vintage shopping",
       "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
       "source": "Google AI",
@@ -179,14 +139,6 @@
       "category": "news"
     },
     {
-      "title": "Agriculture is ready for AI, but its data isn’t",
-      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-      "source": "MIT Tech Review",
-      "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fer",
-      "published": "Tue, 30 Jun 2026 12:00:00 +0000",
-      "category": "news"
-    },
-    {
       "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
       "source": "Google AI",
@@ -200,14 +152,6 @@
       "source": "VentureBeat",
       "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradi",
       "published": "Tue, 19 May 2026 17:45:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
-      "url": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
-      "source": "Wired",
-      "summary": "A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
-      "published": "Tue, 14 Jul 2026 16:05:18 +0000",
       "category": "news"
     },
     {
@@ -283,22 +227,6 @@
       "category": "news"
     },
     {
-      "title": "押注智能体时代，灵睿智芯完成数亿元融资，RISC-V 迎算力新机遇",
-      "url": "https://www.infoq.cn/article/AlwgmgVxh7Q25NxgGrEI?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 16 Jul 2026 20:33:09 GMT",
-      "category": "news"
-    },
-    {
-      "title": "一件特有意思的事：「启发涌现」，邀你共建",
-      "url": "https://www.infoq.cn/article/58aLq5Y7pHsmb0PfgU4O?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 16 Jul 2026 19:58:33 GMT",
-      "category": "news"
-    },
-    {
       "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
       "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
       "source": "VentureBeat",
@@ -312,30 +240,6 @@
       "source": "VentureBeat",
       "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give ever",
       "published": "Thu, 16 Jul 2026 19:02:38 GMT",
-      "category": "news"
-    },
-    {
-      "title": "留给开源模型的时间，就剩6个月？",
-      "url": "https://www.infoq.cn/article/jdBsbJXVi22iPafARSFx?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 16 Jul 2026 18:51:55 GMT",
-      "category": "news"
-    },
-    {
-      "title": "“我现在干得还行，但劝你别进来！”AI 蜜月期要结束了：打工人变成“快乐的行尸走肉”",
-      "url": "https://www.infoq.cn/article/IZIwV2Qia1X1q6RQvDxW?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 16 Jul 2026 18:47:21 GMT",
-      "category": "news"
-    },
-    {
-      "title": "中国AI编程的入口之战，Qoder先拿下半壁江山",
-      "url": "https://www.infoq.cn/article/vMEl57NogYIZXKY5bwUj?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 16 Jul 2026 18:40:36 GMT",
       "category": "news"
     },
     {
@@ -363,27 +267,11 @@
       "category": "news"
     },
     {
-      "title": "Rider 2026.2 RC 发布",
-      "url": "https://www.oschina.net/news/471982/rider-2026-2-release-candidate",
-      "source": "开源中国",
-      "summary": "Rider 2026.2 RC 版本现已发布。即将发布的版本将向 AI 编程智能体开放 IDE 自身的智能功能，原生集成 GitHub Copilot，并大幅提升 .NET 和游戏开发的性能。Rider 2026.2 显著加快了调试器启动和分支切换速度，提升了 Unreal Engine 的索引速度，并通过新的项目模板和专业的 Godot 工具扩展了游戏开发支持。 本次发布的亮...",
-      "published": "Thu, 16 Jul 2026 18:02:41 +0800",
-      "category": "news"
-    },
-    {
       "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
       "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
       "source": "VentureBeat",
       "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly ov",
       "published": "Thu, 16 Jul 2026 17:06:08 GMT",
-      "category": "news"
-    },
-    {
-      "title": "反转？Linus 亲自为 AI 站台并怒怼反对派：AI和编译器一样是工具，不爽就walk away",
-      "url": "https://www.infoq.cn/article/6WyXSL8U09AT6dWV1RNq?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 16 Jul 2026 17:00:00 GMT",
       "category": "news"
     },
     {
@@ -399,14 +287,6 @@
       "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
       "source": "OpenAI",
       "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "published": "Thu, 16 Jul 2026 16:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "谷歌 Genkit 推出 Agents API：支持分离式任务轮次与人机协同",
-      "url": "https://www.infoq.cn/article/ckLEtt7bN6AAURuEjfFF?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
       "published": "Thu, 16 Jul 2026 16:00:00 GMT",
       "category": "news"
     },
@@ -435,14 +315,6 @@
       "category": "news"
     },
     {
-      "title": "Harness Engineering  构建可靠 Agent",
-      "url": "https://www.infoq.cn/video/4a2B42u4btbcGi6295ut?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 16 Jul 2026 15:56:04 GMT",
-      "category": "news"
-    },
-    {
       "title": "Yes, you can now order DoorDash from the command line",
       "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
       "source": "TechCrunch AI",
@@ -459,67 +331,11 @@
       "category": "news"
     },
     {
-      "title": "125Tbps流量峰值背后：世界杯直播正在考验一套新的网络基础设施",
-      "url": "https://www.infoq.cn/article/QjYQtiAVeDd0ebd9CK3B?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 16 Jul 2026 15:09:01 GMT",
-      "category": "news"
-    },
-    {
-      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-      "source": "TechCrunch AI",
-      "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in",
-      "published": "Thu, 16 Jul 2026 15:02:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-      "source": "TechCrunch AI",
-      "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
-      "published": "Thu, 16 Jul 2026 14:40:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-      "source": "TechCrunch AI",
-      "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
-      "published": "Thu, 16 Jul 2026 14:26:29 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "source": "TechCrunch AI",
-      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "published": "Thu, 16 Jul 2026 13:17:59 +0000",
-      "category": "news"
-    },
-    {
-      "title": "基于 AT 协议架构构建高韧性本地优先应用",
-      "url": "https://www.infoq.cn/article/jfLE6MAu0Bq8b4dsXG9y?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 16 Jul 2026 11:17:00 GMT",
-      "category": "news"
-    },
-    {
       "title": "Please Stop Making Me Opt Out of AI",
       "url": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
       "source": "Wired",
       "summary": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive features.",
       "published": "Thu, 16 Jul 2026 10:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "source": "TechCrunch AI",
-      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
-      "published": "Thu, 16 Jul 2026 04:00:00 +0000",
       "category": "news"
     },
     {
@@ -563,18 +379,18 @@
       "category": "news"
     },
     {
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "source": "OpenAI",
-      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "published": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "url": "https://openai.com/index/gpt-5-6",
       "source": "OpenAI",
       "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "published": "Thu, 09 Jul 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "source": "OpenAI",
+      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
       "published": "Thu, 09 Jul 2026 10:00:00 GMT",
       "category": "news"
     },
@@ -592,6 +408,62 @@
       "source": "MIT Tech Review",
       "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operationa",
       "published": "Thu, 02 Jul 2026 12:51:44 +0000",
+      "category": "news"
+    },
+    {
+      "title": "中国 AI 产业核心要素出海发展白皮书",
+      "url": "https://www.infoq.cn/minibook/GSbtyU9968lerf5gwPpU?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 18 Jul 2026 12:02:12 GMT",
+      "category": "news"
+    },
+    {
+      "title": "为什么 AI Agent 拿到数据却不会推理？可观测对象图语义层的设计与开源实践｜AICon深圳",
+      "url": "https://www.infoq.cn/article/KPd6YwU0Y1iCMGMakSmE?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 18 Jul 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "tsshd v0.1.9 已经发布，低延迟的 ssh",
+      "url": "https://www.oschina.net/news/473613",
+      "source": "开源中国",
+      "summary": "tsshd v0.1.9 已经发布，低延迟的 ssh 此版本更新内容包括： 此版本引入了重大改进，包括备受期待的会话分离（detach）和附加（attach）功能，以及对 ProxyCommand 的支持。同时带来了显著的稳定性提升，解决了高负载下的内存驻留（memory retention）、操作阻塞和连接超时问题。 新特性 会话管理与附加 (#35)： 实现了健...",
+      "published": "Sat, 18 Jul 2026 09:08:08 +0800",
+      "category": "news"
+    },
+    {
+      "title": "AI 智能体算力消耗过快，传统账单风控跟不上速度",
+      "url": "https://www.infoq.cn/article/secM60Za0CNxIYvQO47m?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 18 Jul 2026 09:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座",
+      "url": "https://www.infoq.cn/article/GICIrEsTJwEgGsDYFvCM?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 18 Jul 2026 08:54:38 GMT",
+      "category": "news"
+    },
+    {
+      "title": "不止于 4K，火山引擎画质增强让视频从清晰走向细腻",
+      "url": "https://www.infoq.cn/article/rgF4YG8DcjMKe9CTU0yM?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 18 Jul 2026 08:43:19 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "source": "TechCrunch AI",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+      "published": "Sat, 18 Jul 2026 04:47:25 +0000",
       "category": "news"
     },
     {
@@ -635,6 +507,134 @@
       "category": "news"
     },
     {
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "source": "TechCrunch AI",
+      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+      "published": "Fri, 17 Jul 2026 22:55:09 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "source": "TechCrunch AI",
+      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "published": "Fri, 17 Jul 2026 22:12:56 +0000",
+      "category": "news"
+    },
+    {
+      "title": "AI从“能对话”走向“能办事”，蚂蚁集团WAIC展示三层布局",
+      "url": "https://www.infoq.cn/article/xtEyfZsTRA3FFW4dzCah?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 17 Jul 2026 22:08:06 GMT",
+      "category": "news"
+    },
+    {
+      "title": "搭载全球首个智能体原生操作系统 Step AOS，STEPX Neo 亮相 2026 WAIC",
+      "url": "https://www.infoq.cn/article/62J9L28365BtFlSFxVjE?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 17 Jul 2026 22:03:09 GMT",
+      "category": "news"
+    },
+    {
+      "title": "DA-Nav实现机器人“偏航自纠偏”：找回路线成功率达98%",
+      "url": "https://www.infoq.cn/article/40zi8OZ0UkL85PJ6NrMH?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 17 Jul 2026 21:24:11 GMT",
+      "category": "news"
+    },
+    {
+      "title": "The Zoom hack that says, ‘Don’t record me’",
+      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "source": "TechCrunch AI",
+      "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
+      "published": "Fri, 17 Jul 2026 21:20:47 +0000",
+      "category": "news"
+    },
+    {
+      "title": "WAIC 2026 | 混元Hy3大模型首秀，腾讯上线AI技能支付体系",
+      "url": "https://www.infoq.cn/article/FeWLPKLYDjWko8rJjxKq?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 17 Jul 2026 21:01:17 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "source": "TechCrunch AI",
+      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
+      "published": "Fri, 17 Jul 2026 20:19:49 +0000",
+      "category": "news"
+    },
+    {
+      "title": "AI-driven memory crunch jolts India’s smartphone market",
+      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "source": "TechCrunch AI",
+      "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
+      "published": "Fri, 17 Jul 2026 20:09:27 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Kimi K3 全面解读：2.8 万亿参数、48 小时造芯片、以及一个正在被开源模型追上的 AI 竞争格局",
+      "url": "https://www.oschina.net/news/472928",
+      "source": "开源中国",
+      "summary": "7 月 17 日凌晨，月之暗面发布了 Kimi K3。 数字可以快速过一遍：2.8 万亿参数，MoE 架构，896 个 expert 每次激活 16 个，100 万 token 上下文窗口，原生多模态，完整权重 7 月 27 日前放出——将成为全球首个开源的 3 万亿级别模型。 但数字说完了，故事才刚开始。 一个 90 后创始人，半年融了 60 亿美元 在讲模型之前...",
+      "published": "Fri, 17 Jul 2026 19:14:44 +0800",
+      "category": "news"
+    },
+    {
+      "title": "GOAI 世界人工智能开源大赛官网上线，全球报名正式开启",
+      "url": "https://www.infoq.cn/article/r3sAtSl97Gx5CuZHXOdi?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 17 Jul 2026 19:11:20 GMT",
+      "category": "news"
+    },
+    {
+      "title": "✨ NocoBase 2.2-beta 发布：开源无代码 / 低代码平台 NocoBase",
+      "url": "https://www.oschina.net/news/472911",
+      "source": "开源中国",
+      "summary": "原文链接：https://www.nocobase.com/cn/blog/2.2.0-beta 这是一次围绕 V2 体验的重要升级。这个版本带来了 多工作区、新移动端、新评论区块，同时继续提升 AI 知识库和工作流能力。对正在使用 V2 的团队来说，更值得关注的是全新的 /v/ 分支——它会作为面向 V2 的独立前端入口，承接后续的功能演进。 新特性 新增 /v/ ...",
+      "published": "Fri, 17 Jul 2026 18:32:54 +0800",
+      "category": "news"
+    },
+    {
+      "title": "GOAI 世界人工智能开源大赛官网上线，全球报名正式开启",
+      "url": "https://my.oschina.net/u/4806939/blog/19723480",
+      "source": "开源中国",
+      "summary": "GOAI 世界人工智能开源大赛（Global Open-source AI Challenge）正式上线",
+      "published": "Fri, 17 Jul 2026 18:19:38 +0800",
+      "category": "news"
+    },
+    {
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "source": "TechCrunch AI",
+      "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more",
+      "published": "Fri, 17 Jul 2026 17:45:46 +0000",
+      "category": "news"
+    },
+    {
+      "title": "【AI 智能运维平台】本周更新：提升大规模数据处理效率",
+      "url": "https://www.oschina.net/news/472848",
+      "source": "开源中国",
+      "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。 :loudspeaker: 【平台 · 本周更新速递】 :card_index_dividers: CMDB • 优化 CMDB 采集任务调度，降低任务堆积与重复执行风险 • 提升大规模资产同步及自动关联的处理效率...",
+      "published": "Fri, 17 Jul 2026 17:24:39 +0800",
+      "category": "news"
+    },
+    {
+      "title": "亚马逊云科技推出 Claude 应用网关：面向 Claude Code 与 Claude Desktop 的自托管控制平面",
+      "url": "https://www.infoq.cn/article/j59f7KU3djH4Ex4YhqxF?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 17 Jul 2026 17:00:00 GMT",
+      "category": "news"
+    },
+    {
       "title": "OpenAI 首款硬件是一个迷你键盘，用于控制 AI 编程 Agent",
       "url": "https://www.oschina.net/news/472745/openai-releases-a-230-keyboard-for-codex",
       "source": "开源中国",
@@ -656,6 +656,14 @@
       "source": "开源中国",
       "summary": "Hacker News 今天的流量第一名属于一段 30 岁的 C++ 代码。 7 月 16 日，微软宣布将 Microsoft Comic Chat 以 MIT 协议开源。这个 1996 年随 IE3 发布、后来捆绑进 Windows 98 的 IRC 客户端，把聊天室里的文字对话自动转成漫画分镜——带插画角色、对话气泡、表情、手势和分格布局。 &quot;我当年是在 system32 里乱翻的时候...",
       "published": "Fri, 17 Jul 2026 15:34:16 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "source": "TechCrunch AI",
+      "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively b",
+      "published": "Fri, 17 Jul 2026 15:21:17 +0000",
       "category": "news"
     },
     {
@@ -715,27 +723,27 @@
       "category": "news"
     },
     {
+      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+      "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "source": "TechCrunch AI",
+      "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more",
+      "published": "Fri, 17 Jul 2026 14:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "source": "TechCrunch AI",
+      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+      "published": "Fri, 17 Jul 2026 12:00:00 +0000",
+      "category": "news"
+    },
+    {
       "title": "TimescaleDB 2.28.3 发布，基于 PostgreSQL 的时序数据库",
       "url": "https://www.oschina.net/news/472550/timescaledb-2-28-3-released",
       "source": "开源中国",
       "summary": "TimescaleDB 2.28.3 现已发布，此版本较 2.28.2 版本进行了性能改进和错误修复。官方建议用户尽快升级。 错误修复 #10082 在列式查询执行管道中评估返回NULL的函数时出现错误结果 #10178 修复排序键表达式中包含负常量时排序转换使用不当的问题 #10179 允许在启用列存储的超表上启用和禁用触发器 #10182 修复列存储排序下...",
       "published": "Fri, 17 Jul 2026 11:39:00 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Suno 源码遭泄露，被曝大规模抓取音乐数据训练 AI 模型",
-      "url": "https://www.oschina.net/news/472544",
-      "source": "开源中国",
-      "summary": "生成式 AI 音乐平台 Suno 遭遇重大安全事件，内部源代码及数据采集信息被泄露，曝光了其用于训练AI音乐模型的大规模数据抓取行为。泄露文件显示，Suno曾通过自动化程序从 YouTube Music、Deezer、Genius 等平台获取大量音乐、歌词及音频素材，用于模型训练。 据报道，此次事件发生于2025年末，一名黑客“ellie.191”通过...",
-      "published": "Fri, 17 Jul 2026 11:30:50 +0800",
-      "category": "news"
-    },
-    {
-      "title": "从 \"机械应答\" 到 \"服务伙伴\"：得物高可控智能客服的 Agent 工程实践",
-      "url": "https://my.oschina.net/u/5783135/blog/19722482",
-      "source": "开源中国",
-      "summary": "听不懂人话、自作聪明： 无法准确理解用户意图，频繁答非所问。人工成本高、排队严重： 高并发场景下人力无法覆盖。问题解决能力弱： 只能处理简单 FAQ，复杂多轮问题无能为力。",
-      "published": "Fri, 17 Jul 2026 11:01:19 +0800",
       "category": "news"
     },
     {
@@ -747,14 +755,6 @@
       "category": "news"
     },
     {
-      "title": "Docker 29.6.2 发布",
-      "url": "https://www.oschina.net/news/472502/docker-29-6-2-released",
-      "source": "开源中国",
-      "summary": "Docker 29.6.2 现已发布，具体更新内容如下： Security 此版本修复了影响 Docker Engine 的多个安全漏洞。 CVE-2026-15793：从捆绑文件检出 Git 源代码可能导致命令注入。GHSA-hw3h-2gp9-cxpv CVE-2026-15792：前端发送的错误参数可能导致系统崩溃。GHSA-qx3x-mv6r-52p6 CVE-2026-15791：LLB 文件操作可能被诱使删除/tm...",
-      "published": "Fri, 17 Jul 2026 10:46:34 +0800",
-      "category": "news"
-    },
-    {
       "title": "从GPU到Token：英伟达Vera Rubin如何重构下一代AI工厂",
       "url": "https://www.infoq.cn/article/s8EpYCpdF3YiSkSbYfGG?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
@@ -763,27 +763,19 @@
       "category": "news"
     },
     {
-      "title": "从工具到引擎：AI重构分销增长新范式｜AICon深圳",
-      "url": "https://www.infoq.cn/article/wPNm4Qvak0PmHFSyJj9e?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
+      "title": "A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "source": "OpenAI",
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "published": "Fri, 17 Jul 2026 10:00:00 GMT",
       "category": "news"
     },
     {
-      "title": "Kimi K3 正式发布",
-      "url": "https://www.oschina.net/news/472466",
-      "source": "开源中国",
-      "summary": "月之暗面在今日凌晨宣布，正式推出其迄今能力最强的模型 —— Kimi K3，一个 2.8 万亿参数模型。公告称，Kimi K3 是全球首个开源的 3 万亿级别模型，面向长程编程、知识工作和推理等前沿智能场景而设计。 Kimi K3 基于 KDA 混合线性注意力机制（Kimi Delta Attention）和注意力残差（Attention Residuals）技术构建，原生...",
-      "published": "Fri, 17 Jul 2026 09:53:04 +0800",
-      "category": "news"
-    },
-    {
-      "title": "未来的软件如何摆脱平台绑定？答案可能藏在数据格式里",
-      "url": "https://www.infoq.cn/article/yyqAuTFso3SdTW84AKvY?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 17 Jul 2026 09:38:10 GMT",
+      "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
+      "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+      "source": "Wired",
+      "summary": "The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are overwhelmingly used to target women and girls.",
+      "published": "Fri, 17 Jul 2026 10:00:00 +0000",
       "category": "news"
     },
     {
@@ -795,12 +787,20 @@
       "category": "news"
     },
     {
-      "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
-      "url": "https://arxiv.org/abs/2607.13037",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2607.13037v1 Announce Type: new  Abstract: When a data contributor requests removal, model trainers face a practical gap: unlearning algorithms require a forget set, yet no tool can locate which",
-      "published": "Fri, 17 Jul 2026 00:00:00 -0400",
-      "category": "research"
+      "title": "The risk of weather data sabotage is rising",
+      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "source": "MIT Tech Review",
+      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence",
+      "published": "Fri, 17 Jul 2026 08:57:32 +0000",
+      "category": "news"
+    },
+    {
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "source": "OpenAI",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "published": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "category": "news"
     }
   ]
 }
