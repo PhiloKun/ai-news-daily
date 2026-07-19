@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T08:42:27.897538",
+  "updated_at": "2026-07-19T09:01:36.883184",
   "total": 100,
   "items": [
     {
@@ -16,14 +16,6 @@
       "source": "VentureBeat",
       "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition r",
       "published": "Wed, 15 Jul 2026 22:24:17 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Agent 沙箱体验计划｜点亮Cube Sandbox，在安全沙箱里释放你的Agent能力",
-      "url": "https://xie.infoq.cn/article/615b3f8b86b0f9df5480f5d4f?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "闯关Cube任务，分享真实体验，赢取京东卡！点击查看原文>",
-      "published": "Wed, 15 Jul 2026 18:32:58 GMT",
       "category": "news"
     },
     {
@@ -59,35 +51,11 @@
       "category": "news"
     },
     {
-      "title": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
-      "url": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
-      "source": "Wired",
-      "summary": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test.",
-      "published": "Wed, 15 Jul 2026 12:00:00 +0000",
-      "category": "news"
-    },
-    {
       "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
       "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
       "source": "OpenAI",
       "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
       "published": "Wed, 15 Jul 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
-      "url": "https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/",
-      "source": "Wired",
-      "summary": "Companies’ increasing reliance on AI chatbots isn’t making the customer service experience smarter. It’s just making it more infuriating.",
-      "published": "Wed, 15 Jul 2026 10:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
-      "url": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
-      "source": "Wired",
-      "summary": "OpenAI employees have donated more than $215,000 to a political effort opposing Leading the Future, a group backed by the company’s president, Greg Brockman.",
-      "published": "Wed, 15 Jul 2026 09:00:00 +0000",
       "category": "news"
     },
     {
@@ -323,14 +291,6 @@
       "category": "news"
     },
     {
-      "title": "Why is OpenAI selling a ChatGPT basketball?",
-      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-      "source": "TechCrunch AI",
-      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
-      "published": "Thu, 16 Jul 2026 15:31:09 +0000",
-      "category": "news"
-    },
-    {
       "title": "Please Stop Making Me Opt Out of AI",
       "url": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
       "source": "Wired",
@@ -411,6 +371,94 @@
       "category": "news"
     },
     {
+      "title": "寻找 AI 原生时代创业者：极客部落 OPC 入驻招募启动！",
+      "url": "https://www.infoq.cn/article/yFAybPctMgHsNJUYMEtw?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 19 Jul 2026 12:34:19 GMT",
+      "category": "news"
+    },
+    {
+      "title": "JPROCMS 1.7.2 发布，开源免费 Java CMS 网站内容管理系统，支持 SaaS",
+      "url": "https://www.oschina.net/news/474295",
+      "source": "开源中国",
+      "summary": "更新日志 新增功能 ip2region更新升级3.3.7（地址库更新） 新增内容回收站功能 新增词汇导入导出功能 修复问题 修复Pdf文件上传新增检查是否包含xss 修复站点关闭无法查询bug 修复定时发布内容bug 修复Ipv6内网访问统计接口 修复定时发布后没有生成新的静态页页面 修复定时任务没有执行再次修改定时发布时间报错 修复站点...",
+      "published": "Sun, 19 Jul 2026 11:53:33 +0800",
+      "category": "news"
+    },
+    {
+      "title": "边端AI不只缺算力：安谋科技重做CPU、NPU、VPU与AI操作系统",
+      "url": "https://www.infoq.cn/article/iIoJ2qhXbXCH2ozGqCJ6?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 19 Jul 2026 11:09:02 GMT",
+      "category": "news"
+    },
+    {
+      "title": "WAIC 2026现场，阡视科技发布超节点系统，专为Token工厂而生",
+      "url": "https://www.infoq.cn/article/TjLEm0VKwkrrkLxOds61?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 19 Jul 2026 10:59:42 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Northstar v9.0.0 已经发布，盈富量化平台",
+      "url": "https://www.oschina.net/news/474276",
+      "source": "开源中国",
+      "summary": "Northstar v9.0.0 已经发布，盈富量化平台 此版本更新内容包括： v9主要变更: 交易量优化。v8版本只能接受整数交易量，v9版本可以接受小数交易量，对币圈场景更友好，与币圈平台体验更一致 接口API与模型优化。K线周期按行业最佳实践，固定为枚举项；IDataSource接口优化，与币圈行情接口的设计逻辑更贴近；模型抽象更合...",
+      "published": "Sun, 19 Jul 2026 10:54:26 +0800",
+      "category": "news"
+    },
+    {
+      "title": "三款AI推理芯片+超节点异构集群，云天励飞公布未来算力蓝图",
+      "url": "https://www.infoq.cn/article/LCMZqxPWHIFvQbuRIS6f?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 19 Jul 2026 10:52:02 GMT",
+      "category": "news"
+    },
+    {
+      "title": "从大模型到 AI 执行系统：构建企业级可控 Agent 体系｜AICon深圳",
+      "url": "https://www.infoq.cn/article/eTGhBWBHXum6AuVU45Ab?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 19 Jul 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "腾讯云发布ADP 4.0海外版：集成Google Workspace、Jira，定位AgentOps全生命周期管理",
+      "url": "https://www.infoq.cn/article/r6m3xASYYfM81h9dNBRE?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 19 Jul 2026 08:01:41 GMT",
+      "category": "news"
+    },
+    {
+      "title": "腾讯发布三大具身基座模型，打通“感知—行动”闭环，工业实测成功率超95%",
+      "url": "https://www.infoq.cn/article/uD0p2FcQE2JKSwYY1wXK?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 19 Jul 2026 07:55:01 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Kimi: Threat or menace?",
+      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "source": "TechCrunch AI",
+      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "published": "Sat, 18 Jul 2026 18:51:07 +0000",
+      "category": "news"
+    },
+    {
+      "title": "火速上架！空降即登顶Arena，Kimi K3当日登陆「模型广场」",
+      "url": "https://www.infoq.cn/article/NtfFE25blBHubhNNTmkJ?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 18 Jul 2026 17:14:05 GMT",
+      "category": "news"
+    },
+    {
       "title": "中国 AI 产业核心要素出海发展白皮书",
       "url": "https://www.infoq.cn/minibook/GSbtyU9968lerf5gwPpU?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
@@ -419,11 +467,27 @@
       "category": "news"
     },
     {
+      "title": "Your Period Tracker Is (Probably) Spying on You",
+      "url": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
+      "source": "Wired",
+      "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s scraping ways, and more.",
+      "published": "Sat, 18 Jul 2026 10:30:00 +0000",
+      "category": "news"
+    },
+    {
       "title": "为什么 AI Agent 拿到数据却不会推理？可观测对象图语义层的设计与开源实践｜AICon深圳",
       "url": "https://www.infoq.cn/article/KPd6YwU0Y1iCMGMakSmE?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Sat, 18 Jul 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
+      "url": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+      "source": "Wired",
+      "summary": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
+      "published": "Sat, 18 Jul 2026 10:00:00 +0000",
       "category": "news"
     },
     {
@@ -440,6 +504,14 @@
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Sat, 18 Jul 2026 09:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+      "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+      "source": "Wired",
+      "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
+      "published": "Sat, 18 Jul 2026 09:00:00 +0000",
       "category": "news"
     },
     {
@@ -539,27 +611,11 @@
       "category": "news"
     },
     {
-      "title": "DA-Nav实现机器人“偏航自纠偏”：找回路线成功率达98%",
-      "url": "https://www.infoq.cn/article/40zi8OZ0UkL85PJ6NrMH?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 17 Jul 2026 21:24:11 GMT",
-      "category": "news"
-    },
-    {
       "title": "The Zoom hack that says, ‘Don’t record me’",
       "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
       "source": "TechCrunch AI",
       "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
       "published": "Fri, 17 Jul 2026 21:20:47 +0000",
-      "category": "news"
-    },
-    {
-      "title": "WAIC 2026 | 混元Hy3大模型首秀，腾讯上线AI技能支付体系",
-      "url": "https://www.infoq.cn/article/FeWLPKLYDjWko8rJjxKq?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 17 Jul 2026 21:01:17 GMT",
       "category": "news"
     },
     {
@@ -584,14 +640,6 @@
       "source": "开源中国",
       "summary": "7 月 17 日凌晨，月之暗面发布了 Kimi K3。 数字可以快速过一遍：2.8 万亿参数，MoE 架构，896 个 expert 每次激活 16 个，100 万 token 上下文窗口，原生多模态，完整权重 7 月 27 日前放出——将成为全球首个开源的 3 万亿级别模型。 但数字说完了，故事才刚开始。 一个 90 后创始人，半年融了 60 亿美元 在讲模型之前...",
       "published": "Fri, 17 Jul 2026 19:14:44 +0800",
-      "category": "news"
-    },
-    {
-      "title": "GOAI 世界人工智能开源大赛官网上线，全球报名正式开启",
-      "url": "https://www.infoq.cn/article/r3sAtSl97Gx5CuZHXOdi?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 17 Jul 2026 19:11:20 GMT",
       "category": "news"
     },
     {
@@ -624,14 +672,6 @@
       "source": "开源中国",
       "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。 :loudspeaker: 【平台 · 本周更新速递】 :card_index_dividers: CMDB • 优化 CMDB 采集任务调度，降低任务堆积与重复执行风险 • 提升大规模资产同步及自动关联的处理效率...",
       "published": "Fri, 17 Jul 2026 17:24:39 +0800",
-      "category": "news"
-    },
-    {
-      "title": "亚马逊云科技推出 Claude 应用网关：面向 Claude Code 与 Claude Desktop 的自托管控制平面",
-      "url": "https://www.infoq.cn/article/j59f7KU3djH4Ex4YhqxF?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 17 Jul 2026 17:00:00 GMT",
       "category": "news"
     },
     {
@@ -707,22 +747,6 @@
       "category": "news"
     },
     {
-      "title": "Stripe 发布基准测试：AI 智能体可开发集成方案，但校验环节存在短板",
-      "url": "https://www.infoq.cn/article/zVfybMt5i742CqhWYjR4?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 17 Jul 2026 14:15:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "DeepSeek 估值超 3500 亿元",
-      "url": "https://www.oschina.net/news/472644",
-      "source": "开源中国",
-      "summary": "开润股份（300577.SZ）7月16日晚间发布的一则关联投资进展公告，意外揭示了国内头部大模型企业杭州深度求索人工智能基础技术研究有限公司（DeepSeek，又称“标的公司”）的最新市场估值。 按公告披露的出资比例测算，DeepSeek本轮融资完成后的估值已攀升至约3508.77亿元，成为继IPO传闻之后，市场关注这家“国产大模型一...",
-      "published": "Fri, 17 Jul 2026 14:06:45 +0800",
-      "category": "news"
-    },
-    {
       "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
       "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
       "source": "TechCrunch AI",
@@ -736,30 +760,6 @@
       "source": "TechCrunch AI",
       "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
       "published": "Fri, 17 Jul 2026 12:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "TimescaleDB 2.28.3 发布，基于 PostgreSQL 的时序数据库",
-      "url": "https://www.oschina.net/news/472550/timescaledb-2-28-3-released",
-      "source": "开源中国",
-      "summary": "TimescaleDB 2.28.3 现已发布，此版本较 2.28.2 版本进行了性能改进和错误修复。官方建议用户尽快升级。 错误修复 #10082 在列式查询执行管道中评估返回NULL的函数时出现错误结果 #10178 修复排序键表达式中包含负常量时排序转换使用不当的问题 #10179 允许在启用列存储的超表上启用和禁用触发器 #10182 修复列存储排序下...",
-      "published": "Fri, 17 Jul 2026 11:39:00 +0800",
-      "category": "news"
-    },
-    {
-      "title": "SwiftData 迎来大升级：查询能力增强，支持第三方类型持久化",
-      "url": "https://www.infoq.cn/article/q6ITZPjCW2ph1pEVhvOK?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 17 Jul 2026 11:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "从GPU到Token：英伟达Vera Rubin如何重构下一代AI工厂",
-      "url": "https://www.infoq.cn/article/s8EpYCpdF3YiSkSbYfGG?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 17 Jul 2026 10:09:25 GMT",
       "category": "news"
     },
     {
