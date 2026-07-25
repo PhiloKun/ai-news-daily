@@ -1,37 +1,13 @@
 {
-  "updated_at": "2026-07-24T09:14:52.310493",
+  "updated_at": "2026-07-25T08:54:45.322137",
   "total": 100,
   "items": [
-    {
-      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-      "source": "TechCrunch AI",
-      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
-      "published": "Wed, 22 Jul 2026 23:47:54 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Google justifies its massive AI spending with a booming cloud business",
-      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "source": "TechCrunch AI",
-      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
-      "published": "Wed, 22 Jul 2026 22:01:52 +0000",
-      "category": "news"
-    },
     {
       "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
       "url": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
       "source": "Wired",
       "summary": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
       "published": "Wed, 22 Jul 2026 21:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "source": "TechCrunch AI",
-      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
-      "published": "Wed, 22 Jul 2026 20:49:03 +0000",
       "category": "news"
     },
     {
@@ -187,35 +163,11 @@
       "category": "news"
     },
     {
-      "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
-      "url": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
-      "source": "Wired",
-      "summary": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.",
-      "published": "Tue, 21 Jul 2026 15:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Halliday’s New Smart Glasses Skip the Camera",
-      "url": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/",
-      "source": "Wired",
-      "summary": "Halliday’s G2 glasses can listen to and summarize your workplace meetings—with no video involved.",
-      "published": "Tue, 21 Jul 2026 13:00:00 +0000",
-      "category": "news"
-    },
-    {
       "title": "Advancing next-gen AI with materials science innovation",
       "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
       "source": "MIT Tech Review",
       "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possibl",
       "published": "Tue, 21 Jul 2026 10:37:34 +0000",
-      "category": "news"
-    },
-    {
-      "title": "‘It’s a Modern-Day Draft’: Why Stanford Students Walked Out on Sundar Pichai’s Commencement Speech",
-      "url": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/",
-      "source": "Wired",
-      "summary": "Last month, more than a hundred Stanford students left their own graduation to protest Google’s military contracts and deals with ICE. Two organizers, Amanda Campos and Eva Jones, tell us why.",
-      "published": "Tue, 21 Jul 2026 10:30:00 +0000",
       "category": "news"
     },
     {
@@ -291,14 +243,6 @@
       "category": "news"
     },
     {
-      "title": "圆桌访谈：AI 产业进入新阶段了吗？",
-      "url": "https://www.infoq.cn/video/7RkQ9IXvQpwoMCPj4YiQ?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 23 Jul 2026 20:00:00 GMT",
-      "category": "news"
-    },
-    {
       "title": "Anthropic updates Claude voice mode with more capable models",
       "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
       "source": "TechCrunch AI",
@@ -323,30 +267,6 @@
       "category": "news"
     },
     {
-      "title": "WAIC现场探展：从 Coding 到办公，AI 新物种出现了吗？",
-      "url": "https://www.infoq.cn/video/foIhBcWJok2LdIfZ2qjw?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 23 Jul 2026 18:16:06 GMT",
-      "category": "news"
-    },
-    {
-      "title": "腾讯云发布首个“流程原生”研发智能体 CodeBuddy NPC",
-      "url": "https://www.infoq.cn/article/w6DHDb3QUYPLC1vaU8z1?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 23 Jul 2026 18:01:13 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Agent 越能干，安全越难做？",
-      "url": "https://www.infoq.cn/video/G0R3FyRBpfeSsa2QqJIr?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 23 Jul 2026 17:08:05 GMT",
-      "category": "news"
-    },
-    {
       "title": "Runway launches AI model router as generative media gets crowded",
       "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
       "source": "TechCrunch AI",
@@ -363,38 +283,6 @@
       "category": "news"
     },
     {
-      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
-      "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-      "source": "TechCrunch AI",
-      "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
-      "published": "Thu, 23 Jul 2026 16:28:50 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Nvidia is sending GPUs to the moon",
-      "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-      "source": "TechCrunch AI",
-      "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
-      "published": "Thu, 23 Jul 2026 15:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-      "source": "TechCrunch AI",
-      "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
-      "published": "Thu, 23 Jul 2026 15:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Google’s Gemini nears billion-user milestone",
-      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-      "source": "TechCrunch AI",
-      "summary": "Gemini had over 750 million monthly users in February.",
-      "published": "Thu, 23 Jul 2026 14:52:44 +0000",
-      "category": "news"
-    },
-    {
       "title": "How AI helps scientists design the next generation of medicines",
       "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
       "source": "MIT Tech Review",
@@ -403,27 +291,11 @@
       "category": "news"
     },
     {
-      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "source": "TechCrunch AI",
-      "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
-      "published": "Thu, 23 Jul 2026 11:00:00 +0000",
-      "category": "news"
-    },
-    {
       "title": "Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop",
       "url": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/",
       "source": "Wired",
       "summary": "With “blessings” from the original Jibo founders, iKairos is a wearable or desk-mounted “AI journal” that turns your family moments into AI images and video.",
       "published": "Thu, 23 Jul 2026 09:15:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-      "source": "TechCrunch AI",
-      "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
-      "published": "Thu, 23 Jul 2026 06:09:13 +0000",
       "category": "news"
     },
     {
@@ -499,6 +371,110 @@
       "category": "news"
     },
     {
+      "title": "以 AI 对抗 AI：构建越用越强的 Agent Runtime 安全防线｜AICon深圳",
+      "url": "https://www.infoq.cn/article/fovd670ZuVMSMI7Z0zO4?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 25 Jul 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "WePush v5.0.6 已经发布，消息批量推送工具",
+      "url": "https://www.oschina.net/news/478906",
+      "source": "开源中国",
+      "summary": "WePush v5.0.6 已经发布，消息批量推送工具 此版本更新内容包括： ● 分析并优化界面EDT线程问题，提升UI响应稳定性 ● 性能优化，优化人群数据导入等场景 ● 修复SQLite不支持useGeneratedKeys的问题 ● 优化自动更新下载与安装包发布流程 ● 升级部分依赖 下载地址：https://github.com/rememberber/WePush/releases/...",
+      "published": "Sat, 25 Jul 2026 09:22:15 +0800",
+      "category": "news"
+    },
+    {
+      "title": "GitHub Issues 大改造：用缓存和预取，让页面打开快了数倍",
+      "url": "https://www.infoq.cn/article/yDgq3fh4YxZM93u21Kr5?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 25 Jul 2026 09:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "圆桌访谈：AI 创作场——当生成门槛降低，真正稀缺的是什么？",
+      "url": "https://www.infoq.cn/video/rIOauXdfJLSyeIE1pbuQ?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 25 Jul 2026 08:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "source": "TechCrunch AI",
+      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+      "published": "Sat, 25 Jul 2026 00:23:11 +0000",
+      "category": "news"
+    },
+    {
+      "title": "What is Good? Extracting and Testing Implicit Theories of Literary Quality from LLM Reasoning Traces",
+      "url": "https://arxiv.org/abs/2607.20425",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2607.20425v1 Announce Type: new  Abstract: What makes writing \"good\" remains a persistent question in literary studies and computational linguistics. We present a two-study investigation of how ",
+      "published": "Sat, 25 Jul 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Knowledge Injection Exists in MoE? Exploring Expert-Aware Contrast Decoding in MoE for Mitigating LLMs'Hallucinations",
+      "url": "https://arxiv.org/abs/2607.20426",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2607.20426v1 Announce Type: new  Abstract: Existing LLM hallucination mitigation methods, including prompt engineering and model optimization, either hardly alter models'internal knowledge or ha",
+      "published": "Sat, 25 Jul 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Is MoE Routing a Huffman Code? Discovering the Frequency-Diversity Law in Chain-of-Thought",
+      "url": "https://arxiv.org/abs/2607.20427",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2607.20427v1 Announce Type: new  Abstract: Mixture-of-Experts architectures have revolutionized scaling, yet the underlying logic of their routing remains a black box. In this paper, we uncover ",
+      "published": "Sat, 25 Jul 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Human-in-the-Loop Large Language Model Framework for Identification of Cutaneous Immune-Related Adverse Events",
+      "url": "https://arxiv.org/abs/2607.20428",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2607.20428v1 Announce Type: new  Abstract: This study evaluated a retrieval-augmented, multi-agent large language model (LLM)-driven, human-in-the-loop framework for detecting cutaneous immune-r",
+      "published": "Sat, 25 Jul 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "More Is Not More: What Matters for Diversity in LLM Opinions?",
+      "url": "https://arxiv.org/abs/2607.20429",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2607.20429v1 Announce Type: new  Abstract: Large language models are increasingly used to simulate diverse human opinions in open-ended tasks such as synthetic surveys, focus group modeling, and",
+      "published": "Sat, 25 Jul 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "LLM-INSTRUCT at UZH Shared Task 2026: Constraint-Aware Retrieval and Selective Debate for Paragraph-Level Argument Mining",
+      "url": "https://arxiv.org/abs/2607.20430",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2607.20430v1 Announce Type: new  Abstract: We present LLM-INSTRUCT, the winning system for the UZH Shared Task at ArgMining 2026 on paragraph-level argument mining in UN and UNESCO resolutions. ",
+      "published": "Sat, 25 Jul 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Skill-Contracted Agents for Evidence-Aware Materials Literature Analysis",
+      "url": "https://arxiv.org/abs/2607.20431",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2607.20431v1 Announce Type: new  Abstract: Materials science literature analysis requires simultaneous attention to composition, processing, characterization, and property relationships, yet con",
+      "published": "Sat, 25 Jul 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Position: Natural Language Should Not Fully Replace Formal Languages",
+      "url": "https://arxiv.org/abs/2607.20432",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2607.20432v1 Announce Type: new  Abstract: Recent advances in large language models and their widespread adoption have prompted claims that natural language could entirely replace formal languag",
+      "published": "Sat, 25 Jul 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
       "title": "Ask an AI expert: What exactly is the full stack?",
       "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
       "source": "Google AI",
@@ -571,6 +547,70 @@
       "category": "news"
     },
     {
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "source": "TechCrunch AI",
+      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+      "published": "Fri, 24 Jul 2026 22:25:58 +0000",
+      "category": "news"
+    },
+    {
+      "title": "“因为AI不再招研究生了！”菲尔兹奖得主转身加盟OpenAI：数学家这份工作很难维持",
+      "url": "https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 24 Jul 2026 19:30:52 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "source": "TechCrunch AI",
+      "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
+      "published": "Fri, 24 Jul 2026 18:07:32 +0000",
+      "category": "news"
+    },
+    {
+      "title": "GKE 安全蓝图加入云厂商 AI 安全框架阵营",
+      "url": "https://www.infoq.cn/article/DXKamMhJKJeV7CkeExzo?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 24 Jul 2026 18:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast/",
+      "source": "Wired",
+      "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from  Anthropic, and how the US Army needs to cut back on AI use.",
+      "published": "Fri, 24 Jul 2026 17:53:01 +0000",
+      "category": "news"
+    },
+    {
+      "title": "图灵平台：万亿级轨迹数据的秒级检索实战",
+      "url": "https://my.oschina.net/u/4939618/blog/19726402",
+      "source": "开源中国",
+      "summary": "本文复盘我们如何用 ClickHouse + S2 地理编码 + 流式检索，在近 10 万亿轨迹点的底库上做到任意区域秒级可视化。既有存储引擎选型、地理索引设计的原理解析（第 5 节），也有一线踩出来的避坑经验（第 6 节）。适合关注海量数据检索、时空数据处理、OLAP 实战的同学。",
+      "published": "Fri, 24 Jul 2026 17:47:45 +0800",
+      "category": "news"
+    },
+    {
+      "title": "深度对话：AI Agent 真落地，为什么需要 GPU 原生认知数据库？",
+      "url": "https://www.infoq.cn/video/WKDVJzq0LF6luzNAGwrP?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 24 Jul 2026 17:30:28 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Anthropic launches Opus 5",
+      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "source": "TechCrunch AI",
+      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+      "published": "Fri, 24 Jul 2026 17:00:00 +0000",
+      "category": "news"
+    },
+    {
       "title": "从“卷模型”到“算总账”：AI 产业竞争开始拼什么 | 请回答 WAIC 2026",
       "url": "https://www.infoq.cn/article/SyHXRLS6AR3vI6VtVjDo?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
@@ -595,6 +635,14 @@
       "category": "news"
     },
     {
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "source": "TechCrunch AI",
+      "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+      "published": "Fri, 24 Jul 2026 15:51:49 +0000",
+      "category": "news"
+    },
+    {
       "title": "新晋菲尔兹奖得主 Tsimerman 官宣加入 OpenAI",
       "url": "https://www.oschina.net/news/478486",
       "source": "开源中国",
@@ -616,6 +664,30 @@
       "source": "开源中国",
       "summary": "Wow v8.9.0 正式发布。本次版本集中呈现了 Wow 在核心可靠性、事件存储、消息基础设施、BI / ClickHouse 与开发者体验上的阶段性演进。 :trophy: 荣获 KaiCode’26 优秀奖 Wow 荣获 KaiCode’26 Excellent Award（优秀奖）。感谢 KaiCode’26 对 Wow 的认可，也感谢每一位使用、反馈和参与项目建设的开发者。 :rocket: v...",
       "published": "Fri, 24 Jul 2026 15:19:37 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+      "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+      "source": "TechCrunch AI",
+      "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+      "published": "Fri, 24 Jul 2026 15:13:57 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Midjourney acquired the astrology app Co-Star",
+      "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+      "source": "TechCrunch AI",
+      "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+      "published": "Fri, 24 Jul 2026 15:09:55 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Silicon Valley Is Completely Divided Over Chinese AI",
+      "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
+      "source": "Wired",
+      "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
+      "published": "Fri, 24 Jul 2026 15:00:00 +0000",
       "category": "news"
     },
     {
@@ -659,11 +731,27 @@
       "category": "news"
     },
     {
+      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+      "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+      "source": "TechCrunch AI",
+      "summary": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outsi",
+      "published": "Fri, 24 Jul 2026 14:00:00 +0000",
+      "category": "news"
+    },
+    {
       "title": "具身智能争夺下一块拼图：一目科技估值破百亿，触觉传感器走向量产",
       "url": "https://www.infoq.cn/article/luJs2PpHVhQb8s5F2WuA?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Fri, 24 Jul 2026 13:41:19 GMT",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "source": "TechCrunch AI",
+      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+      "published": "Fri, 24 Jul 2026 13:36:42 +0000",
       "category": "news"
     },
     {
@@ -713,94 +801,6 @@
       "summary": "echofs 是什么？解决什么问题？ echofs 是一个基于 Rust 的单文件 HTTP 静态资源服务器，编译后不到 2 MB，却能让你在毫秒内把任意目录变成可浏览的 Web 服务。 它的核心功能直击痛点： 目录浏览：自动列出共享路径下的所有文件 媒体预览：提供现代友好的 WEB UI，图片、视频、音频直接在浏览器播放，无需下载 断点续传：...",
       "published": "Fri, 24 Jul 2026 11:02:55 +0800",
       "category": "news"
-    },
-    {
-      "title": "微软推出两款自研模型：MAI-Image-2.5-Pro 和 MAI-Voice-2-Flash",
-      "url": "https://www.oschina.net/news/478288/mai-image-2-5-pro-and-mai-voice-2-flash",
-      "source": "开源中国",
-      "summary": "微软宣布推出两款自研 AI 模型 MAI-Image-2.5-Pro 和 MAI-Voice-2-Flash，均已进入公开预览阶段。 其中： MAI-Image-2.5-Pro 适用于对质量要求极高的应用场景。包括精美的图片、精细的编辑以及精准的图像内文字渲染。Pro 是我们迄今为止保真度最高的图像模型，定价为每百万个文本输入 token 5 美元，每百万个图像输入 to...",
-      "published": "Fri, 24 Jul 2026 11:01:24 +0800",
-      "category": "news"
-    },
-    {
-      "title": "圆桌访谈：具身智能的落地分水岭——哪些场景真的跑出了商业闭环？",
-      "url": "https://www.infoq.cn/video/8dRT4X0eMoQA8xP9YB7q?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 24 Jul 2026 10:58:13 GMT",
-      "category": "news"
-    },
-    {
-      "title": "91% 的 Token 花在读代码上，这套上下文交接术把成本砍掉了四成",
-      "url": "https://www.oschina.net/news/478278",
-      "source": "开源中国",
-      "summary": "AI 编程 Agent 的账，大多数人算错了。 Stencil 的 Can Boluk 发了一篇文章，拆开了一份来自 SWE-Bench 基准测试的数据：在 1.81 亿个 token、近 200 万次工具调用中，编辑和写入只占了 9%。剩下 91% 全在阅读——读文件、grep 搜索、查看输出。 换句话说，Agent 的钱不是烧在写代码上，是烧在读代码上。 这个事实意味着...",
-      "published": "Fri, 24 Jul 2026 10:44:59 +0800",
-      "category": "news"
-    },
-    {
-      "title": "精彩预告｜Agentic 时代，谁来重新定义数据库？",
-      "url": "https://www.infoq.cn/video/AwphwhFcWrhs76k5RWhy?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 24 Jul 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "你的数据是否已为 AI-Ready？用这套框架找到答案 ｜技术实践",
-      "url": "https://www.infoq.cn/article/8iTgfYJ5w2xpc7ElM1NE?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 24 Jul 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Agent 想用但不敢用？百度智能云企业级 Agent 安全落地实践｜AICon深圳",
-      "url": "https://www.infoq.cn/article/QHoyhD3AbiXIjm0yPjao?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 24 Jul 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Cloudera CTO：技术自主，始于开源架构",
-      "url": "https://www.infoq.cn/article/JtSP2aYluESx55J8yr7e?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 24 Jul 2026 09:51:32 GMT",
-      "category": "news"
-    },
-    {
-      "title": "AWS Continuum 将为企业提供智能体代码安全解决方案",
-      "url": "https://www.infoq.cn/article/efrkvfZ2bcbztDfThycu?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 24 Jul 2026 09:27:10 GMT",
-      "category": "news"
-    },
-    {
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "source": "TechCrunch AI",
-      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-      "published": "Fri, 24 Jul 2026 01:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
-      "url": "https://arxiv.org/abs/2607.20452",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2607.20452v1 Announce Type: new  Abstract: Modern software quality assurance demands intelligent, autonomous systems capable of adaptive decision-making across distributed cloud environments. Th",
-      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
-      "url": "https://arxiv.org/abs/2607.20462",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2607.20462v1 Announce Type: new  Abstract: Large language models (LLMs) are increasingly integrated into clinical workflows, stressing the need for reliable traceability of model-generated outpu",
-      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
-      "category": "research"
     }
   ]
 }
