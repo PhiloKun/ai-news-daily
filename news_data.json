@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T09:37:25.881032",
+  "updated_at": "2026-08-01T08:59:54.085864",
   "total": 100,
   "items": [
     {
@@ -56,30 +56,6 @@
       "source": "Google AI",
       "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
       "published": "Wed, 22 Jul 2026 13:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Advancing the next era of national science",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "source": "OpenAI",
-      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-      "published": "Wed, 22 Jul 2026 12:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Introducing OpenAI Presence",
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "source": "OpenAI",
-      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "published": "Wed, 22 Jul 2026 05:30:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "url": "https://openai.com/index/ntt-data",
-      "source": "OpenAI",
-      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-      "published": "Wed, 22 Jul 2026 00:00:00 GMT",
       "category": "news"
     },
     {
@@ -251,27 +227,11 @@
       "category": "news"
     },
     {
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "source": "TechCrunch AI",
-      "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
-      "published": "Thu, 30 Jul 2026 18:57:58 +0000",
-      "category": "news"
-    },
-    {
       "title": "Krita 5.3.3 和 6.0.3 发布",
       "url": "https://www.oschina.net/news/483210/krita-5-3-3-released",
       "source": "开源中国",
       "summary": "Krita 5.3.3 和 6.0.3 版本现已发布，其中包含许多错误修复和全面改进。 在 Android 系统上，5.3.3 版本允许用户直接通过应用支持 Krita 的开发。此功能通过 Play 商店进行，因此如果你的设备没有 Google 服务，或者使用的是 Krita 的 debug 或 nightly 版，则此功能将不可用，取而代之的是显示捐赠链接。 作为对 Krita ...",
       "published": "Thu, 30 Jul 2026 18:31:25 +0800",
-      "category": "news"
-    },
-    {
-      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-      "source": "TechCrunch AI",
-      "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
-      "published": "Thu, 30 Jul 2026 18:05:21 +0000",
       "category": "news"
     },
     {
@@ -315,22 +275,6 @@
       "category": "news"
     },
     {
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "source": "TechCrunch AI",
-      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
-      "published": "Thu, 30 Jul 2026 16:09:42 +0000",
-      "category": "news"
-    },
-    {
-      "title": "数据迁移同步工具 CloudCanal 6.3.0.0 发布，Oracle 目标端写入性能大幅优化",
-      "url": "https://www.oschina.net/news/483086",
-      "source": "开源中国",
-      "summary": "CloudCanal 免费社区版 是 ClouGence 公司推出的一款全自研、可视化、自动化数据迁移同步工具，具备 结构迁移、数据迁移、数据同步、数据校验、数据订正 等功能，支持 60+ 款流行关系型数据库、实时数仓、消息中间件、缓存数据库和搜索引擎之间数据互通，其中包含国产数据库 OceanBase、PolarDB、TiDB、StarRocks、Doris...",
-      "published": "Thu, 30 Jul 2026 16:04:00 +0800",
-      "category": "news"
-    },
-    {
       "title": "The New Friend AI Pendant Can Now Talk Back to You",
       "url": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
       "source": "Wired",
@@ -339,91 +283,11 @@
       "category": "news"
     },
     {
-      "title": "Meta says AI is making it easier to build new apps — and more are coming",
-      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-      "source": "TechCrunch AI",
-      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
-      "published": "Thu, 30 Jul 2026 15:41:16 +0000",
-      "category": "news"
-    },
-    {
-      "title": "jsoup 1.23.1 发布，Java HTML 解析器",
-      "url": "https://www.oschina.net/news/483051/jsoup-1-23-1-released",
-      "source": "开源中国",
-      "summary": "jsoup 是一个用于处理 real-world HTML 和 XML 的 Java 库。它提供了一个非常方便的 API，利用 HTML5 DOM 方法和 CSS 选择器的优势，提取和操作数据。 jsoup 1.23.1 现已发布，该版本配备了更快且更节省内存的 HTML 解析器，在noscript、CDATA、SVG 和 MathML 解析方面进一步提升了与 HTML 标准的兼容性，并实现了更安全...",
-      "published": "Thu, 30 Jul 2026 15:35:39 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-      "source": "TechCrunch AI",
-      "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-      "published": "Thu, 30 Jul 2026 15:19:15 +0000",
-      "category": "news"
-    },
-    {
       "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
       "url": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
       "source": "Wired",
       "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
       "published": "Thu, 30 Jul 2026 15:04:22 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-      "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-      "source": "TechCrunch AI",
-      "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
-      "published": "Thu, 30 Jul 2026 15:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-      "source": "TechCrunch AI",
-      "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
-      "published": "Thu, 30 Jul 2026 14:48:32 +0000",
-      "category": "news"
-    },
-    {
-      "title": "xAI 发布 Grok Voice Think Fast2.0",
-      "url": "https://www.oschina.net/news/482971",
-      "source": "开源中国",
-      "summary": "xAI推出新一代语音识别模型 Grok Voice Think Fast2.0，面向构建语音智能体的开发者开放，在智能水平、转录准确率、对话能力以及工具调用效率方面实现升级。该模型定价为每分钟音频0.08美元，xAI表示无需修改现有提示词，Think Fast2.0即可在多数应用场景中带来性能提升。 在Artificial Analysis语音识别基准测试中，Gro...",
-      "published": "Thu, 30 Jul 2026 14:22:46 +0800",
-      "category": "news"
-    },
-    {
-      "title": "317 家 AI 独角兽，超过一半从来没发过论文",
-      "url": "https://www.oschina.net/news/482959/ai-s-top-startups-are-barely-publishing-their-research",
-      "source": "开源中国",
-      "summary": "一项新的分析用数据证实了我们许多人长期以来的感受：AI 领域最引人注目的实验室基本上已经停止发表他们的研究成果。 斯坦福“元科学”（metascientist）研究者 John Ioannidis 把 317 家 AI 独角兽的发表记录翻了一遍。结论一句话就能说完：超过一半的公司，从来没有在任何一篇学术论文里担任过第一作者或通讯作者。 根...",
-      "published": "Thu, 30 Jul 2026 14:13:13 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Harness 概念提出者官宣创业：给 AI Agent 造 “持久化终端”",
-      "url": "https://my.oschina.net/u/4487475/blog/19730024",
-      "source": "开源中国",
-      "summary": "交互式开发、CI 自动化、AI Agent 并行工作，这些现在分属不同系统的事，应该统一到一个持久化的会话体系里。",
-      "published": "Thu, 30 Jul 2026 14:05:15 +0800",
-      "category": "news"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
-      "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
-      "source": "TechCrunch AI",
-      "summary": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
-      "published": "Thu, 30 Jul 2026 14:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-      "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-      "source": "TechCrunch AI",
-      "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
-      "published": "Thu, 30 Jul 2026 13:00:00 +0000",
       "category": "news"
     },
     {
@@ -443,35 +307,11 @@
       "category": "news"
     },
     {
-      "title": "LinkedIn Won’t Be Expanding Its Data Centers in the Next Year",
-      "url": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/",
-      "source": "Wired",
-      "summary": "Despite the ongoing AI boom, LinkedIn is holding the line on compute spending. Instead, it’s challenging engineers to make every GPU count.",
-      "published": "Thu, 30 Jul 2026 10:15:00 +0000",
-      "category": "news"
-    },
-    {
       "title": "Advancing the price-performance frontier with GPT-5.6",
       "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
       "source": "OpenAI",
       "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
       "published": "Thu, 30 Jul 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "AI Scammers Are Better at Building Trust Than Humans",
-      "url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
-      "source": "Wired",
-      "summary": "Researchers pitted a person against a Claude agent and found that, after a week of texting, the AI chatbot was more effective at creating “exploitable trust” with others.",
-      "published": "Thu, 30 Jul 2026 09:30:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots",
-      "url": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
-      "source": "Wired",
-      "summary": "A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.",
-      "published": "Thu, 30 Jul 2026 09:00:00 +0000",
       "category": "news"
     },
     {
@@ -528,6 +368,62 @@
       "source": "Google AI",
       "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
       "published": "Thu, 16 Jul 2026 16:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "1723 天，1460 次提交：canvas-editor 富文本编辑器，今天 1.0 了",
+      "url": "https://www.oschina.net/news/484598",
+      "source": "开源中国",
+      "summary": "1723 天前,我提交了 Canvas Editor 的第一行代码。1460 次提交之后,它正式发布了 1.0.0。 促成 1.0 的最后一块拼图,是一个挂了 1556 天的 issue(#41)。2022 年 4 月 28 日,有用户留下一句话: 跨页表格在修改列宽的时候,不能够同步。 1556 天、39 条讨论之后,这个 issue 随 1.0 一起关闭。 这篇文章聊三件事:表格分页为什...",
+      "published": "Sat, 01 Aug 2026 14:08:56 +0800",
+      "category": "news"
+    },
+    {
+      "title": "92% 工程师都在用 AI 后，Uber 开始给 AI “限额”了",
+      "url": "https://www.infoq.cn/article/Iu2dhFs8JiFqoUGuXJ4m?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 01 Aug 2026 14:05:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Quick BI 数据分析智能体的可靠工程实践｜AICon深圳",
+      "url": "https://www.infoq.cn/article/VJ3s26QZUG1C5ANF2O4Q?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 01 Aug 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "硬停止规则：从 3 个 HCM 单体应用到 120 个领域微服务",
+      "url": "https://www.infoq.cn/article/1GC0U88AkvaWbqO1DNlR?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 01 Aug 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Furion v4.9.9.52 已经发布，让 .NET 开发更简单，更通用，更流行",
+      "url": "https://www.oschina.net/news/484413",
+      "source": "开源中国",
+      "summary": "Furion v4.9.9.52 已经发布，让 .NET 开发更简单，更通用，更流行 此版本更新内容包括： 更新日志：https://furion.net/docs/category/upgrade/ 新特性 [新增] HTTP 远程请求 Action&lt;HttpRequestBuilder&gt; 操作符，支持将 HttpRequestBuilder 隐式转换为 Action&lt;HttpRequestBuilder&gt; 4.9.9.52 ⏱️2026.08.01 2c3d42d [",
+      "published": "Sat, 01 Aug 2026 06:57:00 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Furion v4.9.9.51 已经发布，让 .NET 开发更简单，更通用，更流行",
+      "url": "https://www.oschina.net/news/484377",
+      "source": "开源中国",
+      "summary": "Furion v4.9.9.51 已经发布，让 .NET 开发更简单，更通用，更流行 此版本更新内容包括： 更新日志：https://furion.net/docs/category/upgrade/ 新特性 [新增] HTTP 远程请求 ETag 缓存功能 4.9.9.48 ⏱️2026.07.31 53c6eb8 [新增] HTTP 远程请求配额策略功能 4.9.9.46 ⏱️2026.07.29 22c8edb [新增] HTTP 远程请求支持...",
+      "published": "Sat, 01 Aug 2026 02:55:43 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "OpenAI",
+      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "published": "Sat, 01 Aug 2026 00:00:00 GMT",
       "category": "news"
     },
     {
@@ -611,6 +507,94 @@
       "category": "news"
     },
     {
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "source": "TechCrunch AI",
+      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+      "published": "Fri, 31 Jul 2026 22:47:26 +0000",
+      "category": "news"
+    },
+    {
+      "title": "India is starting to pay for apps, not just download them",
+      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+      "source": "TechCrunch AI",
+      "summary": "India's app market generated a record $345 million in Q2.",
+      "published": "Fri, 31 Jul 2026 21:07:45 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "source": "TechCrunch AI",
+      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "published": "Fri, 31 Jul 2026 19:47:28 +0000",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI 宣布 GPT-5.6 Luna 价格下降 80%",
+      "url": "https://www.oschina.net/news/484069",
+      "source": "开源中国",
+      "summary": "OpenAI 宣布 GPT-5.6 Luna 价格下降 80%。输入从每百万 token 1 美元砍到 0.2 美元，输出从 6 美元砍到 1.2 美元。GPT-5.6 Terra 降 20%。旗舰 Sol 没降，但加了一个 Fast 模式——2.5 倍速度，2 倍价格，智商不变。 降价的理由不是市场竞争，不是清库存，是 Sol 自己把自己优化了。 这事分两步。第一步，OpenAI 把 GPT-...",
+      "published": "Fri, 31 Jul 2026 19:35:09 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Agent 成本失控背后：上下文、人工审核与维护成本正在被低估｜请回答 WAIC 2026",
+      "url": "https://www.infoq.cn/article/x4PTF8mgDBvtQQYa8B97?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 31 Jul 2026 18:48:26 GMT",
+      "category": "news"
+    },
+    {
+      "title": "下一个国民级 AI 产品，或许就诞生于一人之手",
+      "url": "https://www.infoq.cn/article/uZNH5KLzR1efgGEG0wEq?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 31 Jul 2026 18:44:43 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Agent 形态一天一个样，Infra 到底该为谁而建？| 请回答 WAIC 2026",
+      "url": "https://www.infoq.cn/article/spxwy17ZcfM3BIctR4PL?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 31 Jul 2026 18:39:45 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Chinese AI Researchers Are Finding Their Voice on X",
+      "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+      "source": "Wired",
+      "summary": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
+      "published": "Fri, 31 Jul 2026 18:14:43 +0000",
+      "category": "news"
+    },
+    {
+      "title": "圆桌访谈：收官特别场——三天后再看 WAIC，AI 正在重写什么？",
+      "url": "https://www.infoq.cn/video/J0le0eHEDZ0bYkovg4GM?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 31 Jul 2026 18:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "从金融专业到资深Builder：我如何借多Agent开发工作流，一周做出MVP、一个月上线",
+      "url": "https://www.infoq.cn/article/DHDOQWmDXa4obvC4l99E?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 31 Jul 2026 17:54:17 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "source": "TechCrunch AI",
+      "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environm",
+      "published": "Fri, 31 Jul 2026 17:26:32 +0000",
+      "category": "news"
+    },
+    {
       "title": "NVIDIA Vera Rubin 正式登场：从芯片卷到电网，只为压低每一个 Token 的成本",
       "url": "https://www.infoq.cn/article/3gb6NlxK6c0A9or5Zfbt?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
@@ -627,11 +611,27 @@
       "category": "news"
     },
     {
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "source": "TechCrunch AI",
+      "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+      "published": "Fri, 31 Jul 2026 16:49:08 +0000",
+      "category": "news"
+    },
+    {
       "title": "DeepSeek-V4-Flash 官方 API 现已正式上线公测",
       "url": "https://www.oschina.net/news/483929",
       "source": "开源中国",
       "summary": "DeepSeek V4 Flash 正式版今天上线了。模型结构和参数规模没变，还是 MoE 284B、激活 13B、100 万 token 上下文——只重新做了后训练。但改完之后，Agent 能力直接把自家 4 月发的 Pro Preview 给干了。 九项 Agent 基准测试全部反超。Terminal Bench 2.1 从 61.8 涨到 82.7，DeepSWE 从 7.3 涨到 54.4，DSBench-FullSta...",
       "published": "Fri, 31 Jul 2026 16:45:43 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Siri AI could come with a paywall for power users",
+      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "source": "TechCrunch AI",
+      "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+      "published": "Fri, 31 Jul 2026 16:08:18 +0000",
       "category": "news"
     },
     {
@@ -667,11 +667,59 @@
       "category": "news"
     },
     {
+      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+      "source": "TechCrunch AI",
+      "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+      "published": "Fri, 31 Jul 2026 15:16:17 +0000",
+      "category": "news"
+    },
+    {
+      "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
+      "url": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
+      "source": "Wired",
+      "summary": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
+      "published": "Fri, 31 Jul 2026 15:00:09 +0000",
+      "category": "news"
+    },
+    {
       "title": "Advancing responsible AI across Europe",
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
       "source": "OpenAI",
       "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
       "published": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Building abundant intelligence",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "source": "OpenAI",
+      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+      "published": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+      "url": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
+      "source": "Wired",
+      "summary": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
+      "published": "Fri, 31 Jul 2026 14:47:26 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "source": "TechCrunch AI",
+      "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+      "published": "Fri, 31 Jul 2026 14:47:11 +0000",
+      "category": "news"
+    },
+    {
+      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+      "source": "TechCrunch AI",
+      "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environm",
+      "published": "Fri, 31 Jul 2026 14:00:00 +0000",
       "category": "news"
     },
     {
@@ -699,11 +747,11 @@
       "category": "news"
     },
     {
-      "title": "AI浪潮中，如何定义自己的“确定性”之旅？",
-      "url": "https://www.infoq.cn/article/PVdaiz9gRseK6wx54ajX?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 31 Jul 2026 11:39:44 GMT",
+      "title": ":fire: Solon AI v4.0.4 发布（智能体开发框架，支持 Java8 到 Java26）",
+      "url": "https://www.oschina.net/news/483694",
+      "source": "开源中国",
+      "summary": "Solon AI Solon AI 是一款面向 Java 开发者 的全栈智能体（Agent）应用开发框架。它秉承 Solon 家族一贯的“克制、高效、开放”理念，向上抽象统一接口屏蔽模型差异，向下深度集成向量库、MCP 协议与复杂流控制。 核心理念： 一份代码，跨模型运行；极致轻量，从 Java 8 纵跳至 Java 26。 核心架构图谱： 维度 核心能力 ...",
+      "published": "Fri, 31 Jul 2026 11:44:30 +0800",
       "category": "news"
     },
     {
@@ -715,27 +763,11 @@
       "category": "news"
     },
     {
-      "title": "微软、Meta 同日交财报：小扎把现金流烧到只剩7.84亿美元，纳德拉靠 Azure 赚疯了",
-      "url": "https://www.infoq.cn/article/cWloUAofMHCLHpvscihh?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 31 Jul 2026 10:53:15 GMT",
-      "category": "news"
-    },
-    {
       "title": "MiniMax H3 正式上线，视频模型也开始玩全模态了",
       "url": "https://www.oschina.net/news/483640",
       "source": "开源中国",
       "summary": "上个月 MiniMax 刚用 M3 在文本模型上刷了一波存在感，今天 H3 来了——一款全模态生成模型，而且承诺几天内开源权重。 先看能力边界。H3 接受文本、图像、视频、声音任意组合作为输入（它叫多模态上下文），输出带原生双声道音频的视频，最高 15 秒 2K 分辨率。举个例子：扔进去一段参考视频（取它的希区柯克运镜）、一...",
       "published": "Fri, 31 Jul 2026 10:49:36 +0800",
-      "category": "news"
-    },
-    {
-      "title": "翁荔被爆重返OpenAI！两天前因身体原因从Thinking Machines Lab离职",
-      "url": "https://www.infoq.cn/article/im3GxWtxYPZpkodNRgVQ?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 31 Jul 2026 10:48:52 GMT",
       "category": "news"
     },
     {
@@ -747,46 +779,6 @@
       "category": "news"
     },
     {
-      "title": "记者对话：请回答 WAIC 2026——期待 vs 现实",
-      "url": "https://www.infoq.cn/video/v68qTCHUc29dEl8LBmr5?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 31 Jul 2026 10:11:55 GMT",
-      "category": "news"
-    },
-    {
-      "title": "让团队记忆在共建中完善： TencentDB Agent Memory 的开源之路 | 腾讯云数据库 DBTalk",
-      "url": "https://www.infoq.cn/video/ylsc5EZdSya6DbkWwgdU?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 31 Jul 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "企业级 AI 新解法：从“第一性原理”到“5A路径”｜对话观远数据张进",
-      "url": "https://www.infoq.cn/article/pvr2j4G3vxdy4Od9RGPb?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 31 Jul 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "DataBuddy：数据语义驱动的企业 Agent Runtime 设计与落地｜AICon深圳",
-      "url": "https://www.infoq.cn/article/M9l2eJdhQkbruQlETEbt?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 31 Jul 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "React Compiler 迁移 Rust 后更快了，但开发者担心“没人看得懂代码”",
-      "url": "https://www.infoq.cn/article/xeM23uOSNw0s7Q8xUCTp?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 31 Jul 2026 09:00:00 GMT",
-      "category": "news"
-    },
-    {
       "title": "Univé builds an AI-ready workforce",
       "url": "https://openai.com/index/unive",
       "source": "OpenAI",
@@ -795,11 +787,19 @@
       "category": "news"
     },
     {
-      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
       "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
       "source": "Wired",
-      "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+      "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real-world organizations during third-party evaluations.",
       "published": "Fri, 31 Jul 2026 01:24:26 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "source": "TechCrunch AI",
+      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
+      "published": "Fri, 31 Jul 2026 01:06:54 +0000",
       "category": "news"
     }
   ]
