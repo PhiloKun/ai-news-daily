@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T08:59:54.085864",
+  "updated_at": "2026-08-02T09:04:43.034385",
   "total": 100,
   "items": [
     {
@@ -187,43 +187,11 @@
       "category": "news"
     },
     {
-      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "source": "TechCrunch AI",
-      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-      "published": "Thu, 30 Jul 2026 23:08:58 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-      "source": "TechCrunch AI",
-      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-      "published": "Thu, 30 Jul 2026 22:41:41 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "source": "TechCrunch AI",
-      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-      "published": "Thu, 30 Jul 2026 20:26:38 +0000",
-      "category": "news"
-    },
-    {
       "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
       "url": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
       "source": "Wired",
       "summary": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics.",
       "published": "Thu, 30 Jul 2026 20:12:57 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-      "source": "TechCrunch AI",
-      "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
-      "published": "Thu, 30 Jul 2026 19:44:16 +0000",
       "category": "news"
     },
     {
@@ -243,59 +211,11 @@
       "category": "news"
     },
     {
-      "title": "LibreOffice 26.2.5 发布",
-      "url": "https://www.oschina.net/news/483150/libreoffice-26-2-5-released",
-      "source": "开源中国",
-      "summary": "LibreOffice 26.2.5 现已发布，这是 LibreOffice 26.2 分支的第五次维护更新。此次更新基于 2026 年 2 月 4 日发布的主要功能版本，修复了部分错误并提升了稳定性。 为了提高图形性能，macOS 和 Windows 上引入了 Skia 渲染功能，但为了避免一些用户在从之前的 LibreOffice 版本升级后报告的崩溃和卡顿问题，该功能现在已...",
-      "published": "Thu, 30 Jul 2026 17:24:20 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Jina 全新 6 亿参数列表式重排序模型 reranker 内部揭秘",
-      "url": "https://my.oschina.net/u/3343882/blog/19729991",
-      "source": "开源中国",
-      "summary": "Jina Reranker 3.5 在判例法上的表现比 v3 提升超过 50%，在法律、医疗和金融基准测试中，将与体积大 7 倍模型之间的差距缩小，并且在结构化数据上直接超越它们。它是 v3 的直接替代品，无需修改 API。",
-      "published": "Thu, 30 Jul 2026 17:06:53 +0800",
-      "category": "news"
-    },
-    {
       "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
       "url": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
       "source": "Wired",
       "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.",
       "published": "Thu, 30 Jul 2026 17:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "微软确认开发 Copilot AI 超级应用，整合聊天、编程与智能代理能力",
-      "url": "https://www.oschina.net/news/483111",
-      "source": "开源中国",
-      "summary": "微软正在开发一款整合Copilot聊天、编码助手和智能代理能力的AI“超级应用”，微软首席执行官萨蒂亚·纳德拉在最新财报电话会议中确认，该应用计划于今年推出，并覆盖消费者与商业两类使用场景。 纳德拉表示，Copilot正在从单纯的聊天助手快速演进，扩展至协同办公和自动化执行领域。微软将在本季度推动不同Copilot体验的...",
-      "published": "Thu, 30 Jul 2026 16:33:05 +0800",
-      "category": "news"
-    },
-    {
-      "title": "The New Friend AI Pendant Can Now Talk Back to You",
-      "url": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
-      "source": "Wired",
-      "summary": "Avi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality.",
-      "published": "Thu, 30 Jul 2026 16:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
-      "url": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
-      "source": "Wired",
-      "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
-      "published": "Thu, 30 Jul 2026 15:04:22 +0000",
-      "category": "news"
-    },
-    {
-      "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
-      "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
-      "source": "Wired",
-      "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
-      "published": "Thu, 30 Jul 2026 10:30:00 +0000",
       "category": "news"
     },
     {
@@ -371,6 +291,94 @@
       "category": "news"
     },
     {
+      "title": "BootstrapBlazor v10.9.0 已经发布，Bootstrap 样式的 Blazor UI 组件库",
+      "url": "https://www.oschina.net/news/485356",
+      "source": "开源中国",
+      "summary": "BootstrapBlazor v10.9.0 已经发布，Bootstrap 样式的 Blazor UI 组件库 此版本更新内容包括： Release 2026-07-31 V10.9.0 Fixes fix(MultiFilter): 增加暗黑主题支持 by @ArgoZhang in https://github.com/dotnetcore/BootstrapBlazor/pull/8239 fix(Camera): 增加 exact 显式设置设备 id by @kkxkx in http",
+      "published": "Sun, 02 Aug 2026 13:53:45 +0800",
+      "category": "news"
+    },
+    {
+      "title": "基于 CyberData 的 Data Agent：构建企业数据智能中枢的工程范式｜AICon深圳",
+      "url": "https://www.infoq.cn/article/5KYVt93chdBrtDsvTEcK?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 02 Aug 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "用了多年 React，Remix 终于“叛变”了：3.0 版本彻底重写",
+      "url": "https://www.infoq.cn/article/s8IA8KgdrizgCEsQAOXr?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 02 Aug 2026 09:11:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+      "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+      "source": "Wired",
+      "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
+      "published": "Sun, 02 Aug 2026 09:04:13 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "source": "TechCrunch AI",
+      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "published": "Sat, 01 Aug 2026 20:26:04 +0000",
+      "category": "news"
+    },
+    {
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "source": "TechCrunch AI",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "published": "Sat, 01 Aug 2026 19:45:45 +0000",
+      "category": "news"
+    },
+    {
+      "title": "WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？",
+      "url": "https://www.infoq.cn/article/D9d8F0SUE4gCrXbbyU8N?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 01 Aug 2026 17:20:20 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "source": "TechCrunch AI",
+      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "published": "Sat, 01 Aug 2026 17:07:34 +0000",
+      "category": "news"
+    },
+    {
+      "title": ":fire:xbatis-ddl-auto 1.0.1 ORM DDL，最强 mybatis ORM DDL",
+      "url": "https://www.oschina.net/news/484664",
+      "source": "开源中国",
+      "summary": "官网 https://xbatis.cn xbatis-ddl-auto 是一个基于 xbatis 实体元数据的轻量自动建表工具。 它复用 xbatis 的 @Table、@TableId、@TableField、@ColumnDefinition 等注解解析结果，根据实体类生成并执行数据库 DDL，提供接近 JPA ddl-auto=create/update 的使用体验，但不引入 JPA 或 Hibernate。 功能 根据 xbatis 实...",
+      "published": "Sat, 01 Aug 2026 16:07:14 +0800",
+      "category": "news"
+    },
+    {
+      "title": ":fire: xbatis 1.10.7 正式发版，mybatis 系列最好用最简单最方便的 ORM !!!",
+      "url": "https://www.oschina.net/news/484660",
+      "source": "开源中国",
+      "summary": "推荐理由： 强、强、强 ，单表？连表？不想连表？让你直接少写 1/3 甚至 2/3 的持久层代码；API 简单 快捷 优雅 简洁 构建 SQL 非常强！用过的 没用过的都来体验，虽然有 AI 了，但是真正好用的 ORM 的还不能忽略的，除非你以后不维护。 1.10.7 - 2026-07-20 1：修复distinct多列在count时优化错误的问题 2：新增count优...",
+      "published": "Sat, 01 Aug 2026 16:03:29 +0800",
+      "category": "news"
+    },
+    {
+      "title": "This $9 key physically locks your most addictive apps",
+      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "source": "TechCrunch AI",
+      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+      "published": "Sat, 01 Aug 2026 15:58:17 +0000",
+      "category": "news"
+    },
+    {
       "title": "1723 天，1460 次提交：canvas-editor 富文本编辑器，今天 1.0 了",
       "url": "https://www.oschina.net/news/484598",
       "source": "开源中国",
@@ -387,6 +395,14 @@
       "category": "news"
     },
     {
+      "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
+      "url": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
+      "source": "Wired",
+      "summary": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
+      "published": "Sat, 01 Aug 2026 10:30:00 +0000",
+      "category": "news"
+    },
+    {
       "title": "Quick BI 数据分析智能体的可靠工程实践｜AICon深圳",
       "url": "https://www.infoq.cn/article/VJ3s26QZUG1C5ANF2O4Q?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
@@ -400,6 +416,14 @@
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Sat, 01 Aug 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+      "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+      "source": "Wired",
+      "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
+      "published": "Sat, 01 Aug 2026 09:30:00 +0000",
       "category": "news"
     },
     {
@@ -720,30 +744,6 @@
       "source": "TechCrunch AI",
       "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environm",
       "published": "Fri, 31 Jul 2026 14:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "GitHub AI Agent 翻车：攻击者不用黑客技术，只写一句话就能窃取数据",
-      "url": "https://www.infoq.cn/article/u4rDqep8zVWUJsqVoQ23?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 31 Jul 2026 12:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "盯盘虾：让龙虾替你看盘！用skills实现财报抓取+异动告警自动化",
-      "url": "https://www.infoq.cn/video/Emku5bsTgvr3BWj12gIM?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 31 Jul 2026 11:49:34 GMT",
-      "category": "news"
-    },
-    {
-      "title": "家教虾：提分不愁！用skills完成海量课件解析、智能出题，助力作业辅助与考",
-      "url": "https://www.infoq.cn/video/U3E6bCFP9fgMYpEwxhKC?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 31 Jul 2026 11:49:28 GMT",
       "category": "news"
     },
     {
