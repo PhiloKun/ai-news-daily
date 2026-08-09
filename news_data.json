@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T07:40:43.672955",
+  "updated_at": "2026-08-09T07:44:37.427896",
   "total": 100,
   "items": [
     {
@@ -40,14 +40,6 @@
       "source": "Wired",
       "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human expertise.",
       "published": "Wed, 05 Aug 2026 19:42:12 +0000",
-      "category": "news"
-    },
-    {
-      "title": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
-      "url": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
-      "source": "Wired",
-      "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
-      "published": "Wed, 05 Aug 2026 18:30:00 +0000",
       "category": "news"
     },
     {
@@ -291,22 +283,6 @@
       "category": "news"
     },
     {
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "source": "TechCrunch AI",
-      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
-      "published": "Thu, 06 Aug 2026 13:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "source": "TechCrunch AI",
-      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
-      "published": "Thu, 06 Aug 2026 12:30:00 +0000",
-      "category": "news"
-    },
-    {
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
       "source": "OpenAI",
@@ -339,11 +315,83 @@
       "category": "news"
     },
     {
+      "title": "QtScrcpy v4.1.0 已经发布，Android 实时投屏软件",
+      "url": "https://www.oschina.net/news/491206",
+      "source": "开源中国",
+      "summary": "QtScrcpy v4.1.0 已经发布，Android 实时投屏软件 此版本更新内容包括： 功能: 全新UI界面 功能: 更新 scrcpy server 4.1 功能: 摄像头投屏 功能: 虚拟显示器 功能: 动态尺寸显示 功能: mac metal硬解码 详情查看：https://gitee.com/Barryda/QtScrcpy/releases/v4.1.0...",
+      "published": "Sun, 09 Aug 2026 11:41:20 +0800",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI给10亿用户免费换上GPT-5.6",
+      "url": "https://www.infoq.cn/article/RXRuR3TN9msNMAUWRtCl?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 09 Aug 2026 10:23:42 GMT",
+      "category": "news"
+    },
+    {
+      "title": "从失控到可控：基于系统控制论的 Agent 安全防御体系设计与实践｜AICon深圳",
+      "url": "https://www.infoq.cn/article/MMh1pkuNSPDlUAtuRelk?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 09 Aug 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "source": "TechCrunch AI",
+      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "published": "Sat, 08 Aug 2026 21:24:02 +0000",
+      "category": "news"
+    },
+    {
+      "title": "任意网页划词 AI 问答：不用切换标签页的效率秘诀",
+      "url": "https://www.oschina.net/news/490842",
+      "source": "开源中国",
+      "summary": "看英文技术文档的时候，你是怎么查生词的？ 我猜大多数人的流程是：选中单词 → Ctrl+C → 切到翻译标签页 → Ctrl+V → 看翻译 → 切回原文。遇到不懂的代码片段，再切到 ChatGPT 问一下。来回切换几次，思路早断了。 今天介绍的开源 Chrome 扩展 AI Helper，有一个划词浮动工具栏功能，能让你在任意网页选中文本就直接...",
+      "published": "Sat, 08 Aug 2026 20:03:58 +0800",
+      "category": "news"
+    },
+    {
+      "title": "为什么要开发又一个 AI 浏览器插件",
+      "url": "https://www.oschina.net/news/490838",
+      "source": "开源中国",
+      "summary": "说实话，每次有人问我&quot;市面上已经有 Monica、Sider、Copilot for Chrome 这些 AI 浏览器插件了，你为什么还要再做一个&quot;，我都觉得这个问题问得好。 因为我自己也是从用户变成开发者的。 现有产品的天花板 我用过不少 AI 浏览器插件。刚开始觉得都挺好——选中一段文字，弹出解释；写邮件时帮你润色；看英文网页给你翻译摘...",
+      "published": "Sat, 08 Aug 2026 19:56:38 +0800",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "source": "TechCrunch AI",
+      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "published": "Sat, 08 Aug 2026 19:41:13 +0000",
+      "category": "news"
+    },
+    {
+      "title": ":fire: Hot-Plug 实战：运行期管理 Solon 插件",
+      "url": "https://www.oschina.net/news/490735",
+      "source": "开源中国",
+      "summary": "业务模块每次更新，都得重启整个应用吗？小服务可能只是有点烦。可一旦你在跑一个挂了几十个集成模块的单体应用，或者一个按区域下发路由规则的网关，每一次重启都意味着一个中断窗口、一次连接排空，外加围绕&quot;什么时候重启才安全&quot;的一番折腾。 Solon 对这一类问题的答案是 solon-hotplug —— 一个给业务插件提供热插拔...",
+      "published": "Sat, 08 Aug 2026 17:25:45 +0800",
+      "category": "news"
+    },
+    {
       "title": "金融监管领域的 Harness 实践：让知识与数据驱动 Agent 稳定运行｜AICon深圳",
       "url": "https://www.infoq.cn/article/hQp9boye2rpPH7ZWUvXL?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Sat, 08 Aug 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "How to Disable Gemini in Gmail and Google Docs",
+      "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+      "source": "Wired",
+      "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
+      "published": "Sat, 08 Aug 2026 10:00:00 +0000",
       "category": "news"
     },
     {
@@ -731,59 +779,11 @@
       "category": "news"
     },
     {
-      "title": "openKylin 2.0 SP2 第四次更新，系统稳定性全面跃升",
-      "url": "https://www.oschina.net/news/489795",
-      "source": "开源中国",
-      "summary": "今天，OpenAtom openKylin（以下简称&quot;openKylin&quot;）社区正式推送 openKylin 2.0 SP2新一轮更新。本次更新以系统稳定性为核心，集中修复了社区用户反馈和内部测试中发现的近400个缺陷，覆盖AI功能、软件商店、系统更新、桌面环境、网络连接、硬件外设等多个关键模块。 系统安装与升级方式 方式一：从openKylin官网(https:...",
-      "published": "Fri, 07 Aug 2026 13:56:07 +0800",
-      "category": "news"
-    },
-    {
       "title": "DeepSeek要涨价，小扎立马“拼命”：Meta新模型打出更低“骨折价”，只要一点数据税",
       "url": "https://www.infoq.cn/article/5DEAabOIcvRrEMhAbCyz?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Fri, 07 Aug 2026 13:33:35 GMT",
-      "category": "news"
-    },
-    {
-      "title": "SeimiRender V1.1.0 发布，面向 AI 的无屏浏览器服务",
-      "url": "https://www.oschina.net/news/489765/seimi-render-1-1-0-released",
-      "source": "开源中国",
-      "summary": "V 1.1.0 变更内容 修复多Agent场景 mcp 连接session问题。 增加请求日志 下载地址 https://github.com/zhegexiaohuozi/seimi-render/releases/tag/v1.1.0 它到底是什么 SeimiRender 是一个基于 Chromium（QtWebEngine）的网页渲染服务。它的更原始前身是开源项目 SeimiAgent，SeimiRender 是其现代化升级版。 你只需要提...",
-      "published": "Fri, 07 Aug 2026 13:11:43 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Easysearch 2.3.1 发布：强化集群运维能力，优化写入性能与稳定性体验",
-      "url": "https://www.oschina.net/news/489704/easysearch-2-3-1-released",
-      "source": "开源中国",
-      "summary": "INFINI Easysearch 2.3.1 正式发布。本版本围绕企业级搜索服务的运维管理、安全控制和性能优化持续演进，新增更全面的巡检信息采集能力，增强集群服务管理约束，优化文档写入与 mapping 解析性能，并针对 S3 兼容存储、CCR 恢复、UI 管理等场景修复多项问题，进一步提升系统稳定性、兼容性与生产环境使用体验。 Easysear...",
-      "published": "Fri, 07 Aug 2026 12:06:18 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Docker 29.7.2 发布",
-      "url": "https://www.oschina.net/news/489698/docker-29-7-2-released",
-      "source": "开源中国",
-      "summary": "Docker 29.7.2 现已发布，具体更新内容如下： Bug fixes and enhancements 修复多次传递同一环境变量时，docker service create和docker service update会发生 panic 的问题。docker/cli#7145 修复了 Docker Engine 29.7.0 中引入的一个回归问题，该问题导致拉取镜像时会拒绝包含绝对 hardlink 目标的镜像（此类镜像由某...",
-      "published": "Fri, 07 Aug 2026 11:57:00 +0800",
-      "category": "news"
-    },
-    {
-      "title": "HarmonyOS 7（API 26）Beta 2 新特性解读：AI 赋能应用故障分析，助力应用稳定性问题发现、定位与修复",
-      "url": "https://www.infoq.cn/article/FGMkg9BOrQ7vg5ubBp4U?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 07 Aug 2026 11:53:50 GMT",
-      "category": "news"
-    },
-    {
-      "title": "HarmonyOS 7（API 26）Beta 2 新能力解读：平行视界开启大屏多任务新体验",
-      "url": "https://www.infoq.cn/article/d6ypyGIvilRgHz1MJaTR?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 07 Aug 2026 11:53:35 GMT",
       "category": "news"
     },
     {
