@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T08:07:05.461888",
+  "updated_at": "2026-08-15T07:21:26.504146",
   "total": 100,
   "items": [
     {
@@ -35,51 +35,11 @@
       "category": "news"
     },
     {
-      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "source": "TechCrunch AI",
-      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-      "published": "Wed, 12 Aug 2026 20:10:40 +0000",
-      "category": "news"
-    },
-    {
       "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
       "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
       "source": "Wired",
       "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
       "published": "Wed, 12 Aug 2026 18:45:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "source": "TechCrunch AI",
-      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-      "published": "Wed, 12 Aug 2026 18:19:12 +0000",
-      "category": "news"
-    },
-    {
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "source": "TechCrunch AI",
-      "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
-      "published": "Wed, 12 Aug 2026 17:51:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "source": "TechCrunch AI",
-      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-      "published": "Wed, 12 Aug 2026 17:41:29 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-      "source": "TechCrunch AI",
-      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
-      "published": "Wed, 12 Aug 2026 16:57:58 +0000",
       "category": "news"
     },
     {
@@ -96,30 +56,6 @@
       "source": "Wired",
       "summary": "From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series.",
       "published": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
-      "url": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
-      "source": "Wired",
-      "summary": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
-      "published": "Wed, 12 Aug 2026 10:45:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
-      "url": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
-      "source": "Wired",
-      "summary": "Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.",
-      "published": "Wed, 12 Aug 2026 10:30:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "You’re Thinking About Online Trends All Wrong",
-      "url": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
-      "source": "Wired",
-      "summary": "From pessimism around dating to AI reshaping culture, cyber-ethnographer Ruby J. Thelot tells WIRED why people are putting too much stock into things that go viral.",
-      "published": "Wed, 12 Aug 2026 09:30:00 +0000",
       "category": "news"
     },
     {
@@ -216,14 +152,6 @@
       "source": "Google AI",
       "summary": "AMIE promotional video",
       "published": "Tue, 11 Aug 2026 17:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
-      "url": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
-      "source": "Wired",
-      "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
-      "published": "Tue, 11 Aug 2026 12:37:12 +0000",
       "category": "news"
     },
     {
@@ -371,22 +299,6 @@
       "category": "news"
     },
     {
-      "title": "从“开放模型”到“开放生态”，AI 开源进入下半场",
-      "url": "https://www.infoq.cn/article/oEMzispbWkEP8TtKdUtf?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 13 Aug 2026 18:21:46 GMT",
-      "category": "news"
-    },
-    {
-      "title": "关于公开征集“元社区”研发设计类工业软件共性技术资源的通知",
-      "url": "https://www.oschina.net/news/501920",
-      "source": "开源中国",
-      "summary": "为推动研发设计类工业软件技术复用与产业协同，北京开元工业软件研究院（筹）正式启动共性技术资源征集工作。入库资源将获得研究院官方认证背书、精准行业场景对接、全渠道生态推广与产学研合作机会，携手共建行业级技术资源底座，释放技术资产的产业价值。 征集范围 本次征集覆盖CAD、CAE、EDA、PLM四大研发设计领域，资...",
-      "published": "Thu, 13 Aug 2026 17:35:30 +0800",
-      "category": "news"
-    },
-    {
       "title": "OpenAI hires new CRO as executive shake-up continues",
       "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
       "source": "TechCrunch AI",
@@ -475,67 +387,91 @@
       "category": "news"
     },
     {
-      "title": "Backtrader-Bench: Benchmarking LLM Agents on Algorithmic Trading with Self-Generated MCQs",
-      "url": "https://arxiv.org/abs/2608.11232",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2608.11232v1 Announce Type: new  Abstract: Evaluating LLM coding agents in algorithmic trading is difficult because static benchmarks risk data contamination and numerical backtest outputs requi",
-      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "title": "面向多模态推理的高效长上下文建模｜AICon深圳",
+      "url": "https://www.infoq.cn/article/OgbViICigja8tasE0lwi?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 15 Aug 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+      "url": "https://www.infoq.cn/article/55mbodVKkHgiHYqfqkFG?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 15 Aug 2026 00:19:32 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Gemini 3.7 Flash 突袭：性能逼近旗舰、价格打“骨折”！！DeepMind新帅重画性价比斩杀线",
+      "url": "https://www.infoq.cn/article/plZY01etBHv3ETOYG0af?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 15 Aug 2026 00:01:01 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Position: Reasoning is a Learnable Rule-Based Process",
+      "url": "https://arxiv.org/abs/2608.12325",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2608.12325v1 Announce Type: new  Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent a",
+      "published": "Sat, 15 Aug 2026 00:00:00 -0400",
       "category": "research"
     },
     {
-      "title": "Retrofitting Recurrent Depth into a Pretrained Language Model: Installation, Extrapolation, Transfer, and Retention at Two Parameter Budgets",
-      "url": "https://arxiv.org/abs/2608.11233",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2608.11233v1 Announce Type: new  Abstract: A dense, pretrained language model can be retrofitted with recurrent depth and learn an iterative latent transition that persists after outcome-only an",
-      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+      "url": "https://arxiv.org/abs/2608.12345",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2608.12345v1 Announce Type: new  Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasu",
+      "published": "Sat, 15 Aug 2026 00:00:00 -0400",
       "category": "research"
     },
     {
-      "title": "TRACE Bench: Task-driven Roleplay Agentic Checklist Evaluation",
-      "url": "https://arxiv.org/abs/2608.11236",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2608.11236v1 Announce Type: new  Abstract: Roleplay evaluation should do more than assign a single score: it should reveal which role requirements were tested, which failed, and which dialogue e",
-      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+      "url": "https://arxiv.org/abs/2608.12346",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2608.12346v1 Announce Type: new  Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily",
+      "published": "Sat, 15 Aug 2026 00:00:00 -0400",
       "category": "research"
     },
     {
-      "title": "Lost in Compaction: Evaluating Side-Constraint Loss under Context Compaction",
-      "url": "https://arxiv.org/abs/2608.11242",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2608.11242v1 Announce Type: new  Abstract: When the context window is under pressure, LLM systems compact prior context to continue ongoing tasks. We identify a class of user-issued instructions",
-      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+      "url": "https://arxiv.org/abs/2608.12368",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2608.12368v1 Announce Type: new  Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not s",
+      "published": "Sat, 15 Aug 2026 00:00:00 -0400",
       "category": "research"
     },
     {
-      "title": "Diffuse to Compress: Leveraging Diffusion LMs for Lossless Compression",
-      "url": "https://arxiv.org/abs/2608.11249",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2608.11249v1 Announce Type: new  Abstract: We study the problem of lossless text compression, motivated by the rapid growth in the collection and storage of digital textual data - including plai",
-      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+      "url": "https://arxiv.org/abs/2608.12371",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2608.12371v1 Announce Type: new  Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention,",
+      "published": "Sat, 15 Aug 2026 00:00:00 -0400",
       "category": "research"
     },
     {
-      "title": "Gloss-Free Representation Learning for Cross-Dataset Sign Spotting",
-      "url": "https://arxiv.org/abs/2608.11332",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2608.11332v1 Announce Type: new  Abstract: Sign-language research for resource-constrained languages is often limited by the cost of dense linguistic labels such as glosses, temporal boundaries,",
-      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+      "url": "https://arxiv.org/abs/2608.12372",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2608.12372v1 Announce Type: new  Abstract: AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper argues that in many setti",
+      "published": "Sat, 15 Aug 2026 00:00:00 -0400",
       "category": "research"
     },
     {
-      "title": "Better, Faster, Stronger: Programmatic Skill Learning Best Reduces Agent Cost",
-      "url": "https://arxiv.org/abs/2608.11338",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2608.11338v1 Announce Type: new  Abstract: Recently, the practice of augmenting LLM agent capability with skills has gained prevalence. We explore the cost effective adaptation of agents to nove",
-      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+      "url": "https://arxiv.org/abs/2608.12373",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2608.12373v1 Announce Type: new  Abstract: Large language models are increasingly used in strategic and advisory contexts, yet their safety alignment is typically evaluated in English only. We t",
+      "published": "Sat, 15 Aug 2026 00:00:00 -0400",
       "category": "research"
     },
     {
-      "title": "Self-Evolving Embodied Agents via Skill-Harness Evolution",
-      "url": "https://arxiv.org/abs/2608.11350",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2608.11350v1 Announce Type: new  Abstract: Embodied agents are increasingly built as systems around foundation models, where performance depends not only on model weights but also on the skills,",
-      "published": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
+      "url": "https://arxiv.org/abs/2608.12385",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2608.12385v1 Announce Type: new  Abstract: As large language models serve more requests, cumulative inference cost is becoming increasingly important relative to one-time training cost. The two ",
+      "published": "Sat, 15 Aug 2026 00:00:00 -0400",
       "category": "research"
     },
     {
@@ -683,11 +619,51 @@
       "category": "news"
     },
     {
+      "title": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
+      "url": "https://www.infoq.cn/article/YWXm26HRwC9ySEGZ9Lpp?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 14 Aug 2026 23:41:55 GMT",
+      "category": "news"
+    },
+    {
+      "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+      "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+      "source": "Wired",
+      "summary": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
+      "published": "Fri, 14 Aug 2026 20:59:03 +0000",
+      "category": "news"
+    },
+    {
+      "title": "【AI 智能运维平台】本周更新：AI 知识库支持多资料的同知识冲突审批",
+      "url": "https://www.oschina.net/news/501941",
+      "source": "开源中国",
+      "summary": ":loudspeaker: 【平台 · 本周更新速递】 :desktop_computer: 节点管理 • 支持Windows节点远程安装（要求Windows Server 2016、PowerShell 5.1 及以上） • 节点创建支持按需推送到 CMDB 与监控中心，帮助统一主机身份与观测对象 • 节点删除/卸载时支持同步处理关联对象，减少残留资产和无效监控实例 • 优化离线镜像、...",
+      "published": "Fri, 14 Aug 2026 17:54:09 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "source": "TechCrunch AI",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "published": "Fri, 14 Aug 2026 16:13:40 +0000",
+      "category": "news"
+    },
+    {
       "title": "得物知识问答：复合检索 Agent 的系统设计实践",
       "url": "https://my.oschina.net/u/5783135/blog/19738367",
       "source": "开源中国",
       "summary": "知识问答的核心挑战是准确率和质量。一个回答要准确，需要：查得全（召回率），查得准（精准度），理解得对（多模态），看得对（权限隔离）。这些能力不是堆功能就能实现的，需要一个强大的 Agent 运行时来支撑。",
       "published": "Fri, 14 Aug 2026 15:54:19 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "source": "TechCrunch AI",
+      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release lande",
+      "published": "Fri, 14 Aug 2026 15:43:28 +0000",
       "category": "news"
     },
     {
@@ -707,6 +683,14 @@
       "category": "news"
     },
     {
+      "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+      "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+      "source": "Wired",
+      "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
+      "published": "Fri, 14 Aug 2026 15:00:00 +0000",
+      "category": "news"
+    },
+    {
       "title": "“写代码从来都不是难点”，这是对全世界所有程序员的严重侮辱",
       "url": "https://www.infoq.cn/article/gkOdbZGI6RXGmN09pIeK?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
@@ -720,6 +704,14 @@
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Fri, 14 Aug 2026 14:54:05 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "source": "TechCrunch AI",
+      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "published": "Fri, 14 Aug 2026 14:50:11 +0000",
       "category": "news"
     },
     {
@@ -779,6 +771,22 @@
       "category": "news"
     },
     {
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "source": "TechCrunch AI",
+      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "published": "Fri, 14 Aug 2026 14:05:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "source": "TechCrunch AI",
+      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release lande",
+      "published": "Fri, 14 Aug 2026 14:00:00 +0000",
+      "category": "news"
+    },
+    {
       "title": "AI 正在重塑故障处理流程，但棘手问题仍需人类解决",
       "url": "https://www.infoq.cn/article/dxzigmlmI6BN4MWqYNI2?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
@@ -792,14 +800,6 @@
       "source": "开源中国",
       "summary": "智谱宣布正式发布 GLM-5.3。且 GLM Coding Plan 全员额度在今天 13:00 重置，所有用户后台「用量统计」可见使用额度回满。 与 GLM-5.2 相比，GLM-5.3 基座模型没变，但通过极致的后训练 Scaling 大大提高了模型的智能上界：数十倍的长程任务环境、更丰富多样的环境类型、超长的后训练时间。 公告称，充分的模型后训练涌现...",
       "published": "Fri, 14 Aug 2026 13:51:38 +0800",
-      "category": "news"
-    },
-    {
-      "title": "走进 CTO 圆桌：构建 AI 原生组织的工程领导者经验分享 | 技术趋势",
-      "url": "https://www.infoq.cn/article/cFMO2oN8SyaR9vuUVUeQ?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 14 Aug 2026 11:30:09 GMT",
       "category": "news"
     }
   ]
