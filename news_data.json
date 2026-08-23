@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T07:23:21.154961",
+  "updated_at": "2026-08-23T07:25:09.118228",
   "total": 100,
   "items": [
     {
@@ -291,38 +291,6 @@
       "category": "news"
     },
     {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "source": "TechCrunch AI",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "published": "Thu, 20 Aug 2026 18:20:35 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Grok keeps sending gibberish responses to users",
-      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-      "source": "TechCrunch AI",
-      "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
-      "published": "Thu, 20 Aug 2026 17:32:16 +0000",
-      "category": "news"
-    },
-    {
-      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
-      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-      "source": "TechCrunch AI",
-      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-      "published": "Thu, 20 Aug 2026 17:18:58 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Ramp launches its own AI model router, called Router",
-      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-      "source": "TechCrunch AI",
-      "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-      "published": "Thu, 20 Aug 2026 16:46:00 +0000",
-      "category": "news"
-    },
-    {
       "title": "Debates over AI consciousness are a trap",
       "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
       "source": "MIT Tech Review",
@@ -403,11 +371,99 @@
       "category": "news"
     },
     {
+      "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+      "url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 23 Aug 2026 14:09:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "PostgreSQL 太难懂？有人把它做成了城市模拟器",
+      "url": "https://www.infoq.cn/article/umVdo2GaEyONQLWNmPZ9?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 23 Aug 2026 11:25:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "事故频发并不意味着可靠性下降",
+      "url": "https://www.infoq.cn/article/m8zEcEteGKJma9EJe35S?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 23 Aug 2026 09:10:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "source": "TechCrunch AI",
+      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "published": "Sat, 22 Aug 2026 21:46:56 +0000",
+      "category": "news"
+    },
+    {
+      "title": "2026科学智能大会圆满闭幕，近50位院士凝聚共识推进AI4S赋能科学研究",
+      "url": "https://www.oschina.net/news/502074",
+      "source": "开源中国",
+      "summary": "2026科学智能大会成功举办 ——以“智能驱动”重塑科研范式，推进人工智能赋能科学研究 8月21-22日，2026科学智能大会在北京成功举办。作为我国人工智能赋能科学研究（AI for Science，简称AI4S）领域最高规格的学术盛会，本次大会由“学术科协”科学智能专家委员会提供学术指导，以“人工智能变革科研范式”为主题，通过...",
+      "published": "Sat, 22 Aug 2026 19:23:02 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source": "TechCrunch AI",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "published": "Sat, 22 Aug 2026 19:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Cloudflare 推出 Cache Response Rules，在源站响应后进一步控制缓存",
+      "url": "https://www.infoq.cn/article/kyUdCw0IPHwuIHg2WJCu?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 22 Aug 2026 17:17:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "source": "TechCrunch AI",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "published": "Sat, 22 Aug 2026 16:30:34 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "source": "TechCrunch AI",
+      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+      "published": "Sat, 22 Aug 2026 16:00:00 +0000",
+      "category": "news"
+    },
+    {
       "title": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
       "url": "https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Sat, 22 Aug 2026 15:15:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": ":clap: 日志审计系统 WGLOG v2.2 正式发布",
+      "url": "https://www.oschina.net/news/502073",
+      "source": "开源中国",
+      "summary": "WGLOG 日志审计系统是私有化部署的 B/S 系统，只需要在本地搭建好 WGLOG 后，所有用户都通过浏览器来访问使用即可，不需要在安装任何组件和客户端 WGLOG 是一款轻量级的日志审计系统，主要用于实时收集服务器、主机、网络设备、防火墙、数据库、API 接口等设备的日志文件，也支持离线日志文件导入 采集日志完成后统一进行...",
+      "published": "Sat, 22 Aug 2026 15:10:02 +0800",
+      "category": "news"
+    },
+    {
+      "title": "ModStartBlog v11.1.0 越用越快，功能全面，体验更流畅",
+      "url": "https://www.oschina.net/news/502072",
+      "source": "开源中国",
+      "summary": "ModStart 是一个基于 Laravel 模块化极速开发框架。模块市场拥有丰富的功能应用，支持后台一键快速安装，让开发者能快的实现业务功能开发。 系统完全开源，基于 Apache 2.0 开源协议。 功能特性 丰富的模块市场，后台一键快速安装 会员模块通用且完整，支持完整的API调用 大文件分片上传，进度条显示，已上传文件管理 强...",
+      "published": "Sat, 22 Aug 2026 13:15:58 +0800",
       "category": "news"
     },
     {
@@ -424,6 +480,30 @@
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Sat, 22 Aug 2026 09:05:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "2026科学智能大会在京召开，聚焦“人工智能变革科研范式”",
+      "url": "https://www.oschina.net/news/502071",
+      "source": "开源中国",
+      "summary": "2026年8月21日，以“人工智能变革科研范式”为主题的2026科学智能大会全体会议在北京中关村国际创新中心隆重举行。本次大会是2026中关村论坛系列活动之一，由中国科技发展基金会、北京科学智能研究院主办，《科技导报》、Research、《前瞻科技》、Science及中国科协科技期刊集群提供学术支持。 中国科协党组书记、分管日...",
+      "published": "Sat, 22 Aug 2026 08:01:34 +0800",
+      "category": "news"
+    },
+    {
+      "title": ":fire: SolonCode 的两个\"后悔药\"：重新运行 vs 继续运行",
+      "url": "https://www.oschina.net/news/502070",
+      "source": "开源中国",
+      "summary": "在 SolonCode Web 聊天界面底部，工具栏有三个按钮（从左到右）： Cop — 复制上一条回复内容 Re-run（重新运行） — 删除旧回答，重新跑一轮 Continue（继续运行） — 保留旧回答，继续追加内容 这两个按钮看起来很像，但行为完全不同。今天深入拆解它们的实现。 重新运行（Re-run） 行为： 删除旧的气泡，用同样的输入...",
+      "published": "Sat, 22 Aug 2026 07:40:39 +0800",
+      "category": "news"
+    },
+    {
+      "title": "2026科学智能大会在京开幕 聚力推动科学智能向科研实践深入",
+      "url": "https://www.oschina.net/news/502069",
+      "source": "开源中国",
+      "summary": "2026科学智能大会在京开幕 聚力推动人工智能赋能科学研究 8月21日，2026科学智能大会在北京海淀中关村国际创新中心开幕。大会由“学术科协”科学智能专家委员会提供学术指导，以“人工智能变革科研范式”为主题，汇聚近50位院士、80余位青年学者、百余场高水平学术报告。中国科协党组书记、分管日常工作的副主席、书记处...",
+      "published": "Sat, 22 Aug 2026 07:34:41 +0800",
       "category": "news"
     },
     {
@@ -683,11 +763,11 @@
       "category": "news"
     },
     {
-      "title": "禅道开源版 22.5 发布，编辑器中@人员后增加消息通知，完善多处用户体验",
-      "url": "https://www.oschina.net/news/502055",
-      "source": "开源中国",
-      "summary": "大家好， 禅道开源版22.5发布！本次发布 在编辑器中@人员后增加了消息通知功能，便于干系人第一时间收到消息提醒。 优化了测试用例与用例库用例版本同步时的操作提示，提升操作指引的清晰度，降低误操作风险。 放开外部人员设置为成员的限制，开启列出外部用户后，外部人员可以正常设置到需要协作的对象中。 同时完善多处...",
-      "published": "Fri, 21 Aug 2026 14:03:07 +0800",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "source": "TechCrunch AI",
+      "summary": "There's about to be a big fight to secure access to space.",
+      "published": "Fri, 21 Aug 2026 14:00:00 +0000",
       "category": "news"
     },
     {
@@ -699,91 +779,11 @@
       "category": "news"
     },
     {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "source": "TechCrunch AI",
-      "summary": "There's about to be a big fight to secure access to space.",
-      "published": "Fri, 21 Aug 2026 14:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "FydeOS v23 发布，全新的开源安卓子系统，远程桌面与VNC能力一起升级",
-      "url": "https://www.oschina.net/news/502052/fydeos-release-note-v23",
-      "source": "开源中国",
-      "summary": "FydeOS v23: Chromatic Cadence 正式发布了，大家久等了 🎉。 本次更新将 ChromiumOS 底座从 r144 升级至 r150，并带来了全新的开源安卓子系统、焕新的系统应用，以及面向企业设备的远程桌面增强。与以往相比，FydeOS v23 更侧重于基础能力的更新，为后续的应用兼容性、系统维护和企业设备管理奠定更稳固的基础。 以下...",
-      "published": "Fri, 21 Aug 2026 12:49:11 +0800",
-      "category": "news"
-    },
-    {
       "title": "初级岗位消失、高级人才断层：下一代高级工程师从哪里来？",
       "url": "https://www.infoq.cn/article/xL611mlF8NKR0zTB7aMl?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Fri, 21 Aug 2026 12:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "美团高管反思「全员养虾」，8 万人日耗千万算力没带来生产力提升",
-      "url": "https://www.oschina.net/news/502051",
-      "source": "开源中国",
-      "summary": "美团核心本地商业 CEO 王莆中最近做了一次公开复盘，话题是内部那场轰轰烈烈的 AI 运动——「全员养虾」。 「养虾」是美团内部的戏称。今年 2 到 3 月，美团十万员工中约八万人放开使用 AI Agent，token 不设上限。公司希望用规模换认知，快速完成组织级 AI 扫盲。 效果确实立竿见影——每天算力账单上千万元。 钱烧出去...",
-      "published": "Fri, 21 Aug 2026 11:10:26 +0800",
-      "category": "news"
-    },
-    {
-      "title": "“Anthropic不再是AI圈的信仰”",
-      "url": "https://www.infoq.cn/article/hfJrKqqoww06UYcygUrJ?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 21 Aug 2026 11:04:26 GMT",
-      "category": "news"
-    },
-    {
-      "title": "撞名Anthropic的“外挂”刷屏：让“DeepSeek V4‑Pro碾压 Fable 5”但无人能复现，Token开销反而翻倍",
-      "url": "https://www.infoq.cn/article/MKDQBpGhC5Uu3pB4kMbC?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 21 Aug 2026 11:01:37 GMT",
-      "category": "news"
-    },
-    {
-      "title": "演出前一晚机器人集体拖拍，宇树团队通宵重写代码保住王力宏演唱会",
-      "url": "https://www.oschina.net/news/502049",
-      "source": "开源中国",
-      "summary": "宇树科技上市答谢午宴上，王力宏讲了一段往事。 2025 年 12 月，他的成都演唱会，6 台宇树 G1 人形机器人要上台伴舞《火力全开》。这是全球首次机器人群体舞蹈演出。准备期几个月。编舞老师绑上动作捕捉器，几千个动作逐帧输入到机器人关节里。彩排时一切正常——机器人跳得很完美。 然后出问题了。 王力宏原话是：&quot;一开...",
-      "published": "Fri, 21 Aug 2026 10:59:39 +0800",
-      "category": "news"
-    },
-    {
-      "title": "AIGCPanel v2.2.0 一句话让图片动起来，AIGCPanel 把视频生成装进了桌面",
-      "url": "https://www.oschina.net/news/502048",
-      "source": "开源中国",
-      "summary": "以前做一条 AI 视频，要凑齐画面、声音、动作三样东西。现在，你只需要一句话，或一张图。 AIGCPanel 是一款一站式 AI 数字人桌面应用，Windows / macOS / Linux 都能跑。v2.2.0 在工具页直接加入了「文生视频」和「图生视频」两个入口：输入文字描述就能生成视频，上传一张图片加几句描述，画面就自己动起来。配合结果文...",
-      "published": "Fri, 21 Aug 2026 10:55:20 +0800",
-      "category": "news"
-    },
-    {
-      "title": "AI 正吞噬一切，开源基础软件如何求生？",
-      "url": "https://my.oschina.net/u/4487475/blog/19745346",
-      "source": "开源中国",
-      "summary": "“大模型时代 SaaS 可以没有了，但数据不能没有。”",
-      "published": "Fri, 21 Aug 2026 10:45:51 +0800",
-      "category": "news"
-    },
-    {
-      "title": "OpenAI 之后又是 Anthropic，Claude 将攻击延伸至公共互联网",
-      "url": "https://www.infoq.cn/article/9FZ8z60yB4tS4WQEP4dw?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 21 Aug 2026 10:25:50 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Rust 再下一城：Astro 7 重写编译器与 Markdown 流水线",
-      "url": "https://www.infoq.cn/article/D6IBeGO6rqVCjBDv1qwj?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 21 Aug 2026 09:16:00 GMT",
       "category": "news"
     },
     {
