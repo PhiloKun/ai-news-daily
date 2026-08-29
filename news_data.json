@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-08-28T19:08:55.743830",
+  "updated_at": "2026-08-29T12:53:12.355064",
   "total": 100,
   "items": [
-    {
-      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-      "source": "TechCrunch AI",
-      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
-      "published": "Wed, 26 Aug 2026 23:47:18 +0000",
-      "category": "news"
-    },
     {
       "title": "The inside story on why OpenAI agents hacked Hugging Face",
       "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
@@ -27,18 +19,18 @@
       "category": "news"
     },
     {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "source": "OpenAI",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "published": "Wed, 26 Aug 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
       "title": "Learning never stops: How AI makes learning continuous",
       "url": "https://openai.com/index/learning-never-stops",
       "source": "OpenAI",
       "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "published": "Wed, 26 Aug 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "source": "OpenAI",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "published": "Wed, 26 Aug 2026 10:00:00 GMT",
       "category": "news"
     },
@@ -219,14 +211,6 @@
       "category": "news"
     },
     {
-      "title": "Red Hat 卖了，GitHub 卖了，Hugging Face，据报道也要卖给英伟达了",
-      "url": "https://www.oschina.net/news/502160/oschina-futurex",
-      "source": "开源中国",
-      "summary": "Red Hat 卖了，GitHub 卖了，Hugging Face，据报道也要卖给英伟达了。 于是，一个很有意思的问题来了： 开源平台的宿命，是不是最终都要被巨头收购？ 但有一家走了完全相反的路。 2019 年，开源中国曾将 60% 控股权出售给百度。 后来，它没有继续走“被巨头收编”的剧本，反而把自己买了回来。 这一次，我们找来开源中国...",
-      "published": "Thu, 27 Aug 2026 21:22:49 +0800",
-      "category": "news"
-    },
-    {
       "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
       "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
       "source": "Wired",
@@ -235,35 +219,11 @@
       "category": "news"
     },
     {
-      "title": "Java Web 服务器 wastnet 路由开发实战",
-      "url": "https://www.oschina.net/news/502159",
-      "source": "开源中国",
-      "summary": "wastnet 是一款零依赖、自研的 Java Web 服务器，核心基于 JDK 原生 NIO 构建 Reactor 多路复用模型，不依赖 Netty、Tomcat 等任何第三方网络库。其 HTTP/2（h2 / h2c）协议栈从 HPACK、Huffman 到 ALPN 均为完全自研实现，是框架的核心特色之一；在基准测试中吞吐对标 Undertow。 本文介绍 wastnet 的路由分发组件 Http...",
-      "published": "Thu, 27 Aug 2026 20:20:02 +0800",
-      "category": "news"
-    },
-    {
-      "title": "无远弗届，驭光而至，通用代码生成器：光船尝鲜版，蛋糕船示例生成演示",
-      "url": "https://www.oschina.net/news/502158",
-      "source": "开源中国",
-      "summary": "无远弗届，驭光而至，通用代码生成器：光船尝鲜版，蛋糕船示例生成演示 通用代码生成器：光船发布尝鲜版及其介绍视频。此版本统一使用EasyUI的FileBox作为代码生成物的上传控件，对图片功能，哑数据模式和消除警告等进行了优化，更多测试更多修复。视频演示了使用xlsx格式的SGS2模板，即蛋糕船示例演示了代码生成器的源码...",
-      "published": "Thu, 27 Aug 2026 20:05:21 +0800",
-      "category": "news"
-    },
-    {
       "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
       "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
       "source": "TechCrunch AI",
       "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
       "published": "Thu, 27 Aug 2026 19:52:52 +0000",
-      "category": "news"
-    },
-    {
-      "title": "以后在 Linux 上打包，一句话就行",
-      "url": "https://www.oschina.net/news/502157",
-      "source": "开源中国",
-      "summary": "Linux 新手常常遭遇软件依赖混乱、跨发行版适配难、手动打包低效繁琐等问题。安装软件时出现大量依赖报错，缺少库、库版本不匹配是十分常见的现象。如果需要对软件进行打包，还要学习对应发行版的构建规范，手动打包也是阻碍新手进入 Linux 开发的一大难点。 现在有开源项目尝试解决这个问题。 新型独立包管理工具集如意...",
-      "published": "Thu, 27 Aug 2026 19:15:33 +0800",
       "category": "news"
     },
     {
@@ -283,14 +243,6 @@
       "category": "news"
     },
     {
-      "title": "Agent 协作工作空间 Lody 开源：共享、隔离与持久化",
-      "url": "https://www.oschina.net/news/502156/lody-is-now-open-source",
-      "source": "开源中国",
-      "summary": "Agent 的对话、运行状态和代码改动是团队协作的新战场，但混乱也是。Lody 的开源版本试图解决这个问题。 Lody 定位是 Coding Agent 协作工作空间，8 月 26 日正式开源了 CLI 和本地桌面端。简单说，它把散在不同成员、Agent 和机器里的会话、运行状态与代码改动集中到一个空间中。团队成员可以直接打开彼此的会话继续讨论...",
-      "published": "Thu, 27 Aug 2026 18:05:32 +0800",
-      "category": "news"
-    },
-    {
       "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
       "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
       "source": "TechCrunch AI",
@@ -304,14 +256,6 @@
       "source": "Wired",
       "summary": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
       "published": "Thu, 27 Aug 2026 16:52:42 +0000",
-      "category": "news"
-    },
-    {
-      "title": "kkRepo 1.0.0 正式发布，新增 R/CRAN、Go Hosted 和多套 UI 主题",
-      "url": "https://www.oschina.net/news/502155",
-      "source": "开源中国",
-      "summary": "前言 从 0.x 一路迭代到现在，kkRepo 终于迎来了首个稳定版本：kkRepo 1.0.0。 这个版本新增了完整的 R/CRAN 仓库、Go Hosted 仓库和多套可切换 UI 主题，同时完善了 PyPI 代理、组件上传、全局搜索与 Maven Snapshot 删除等能力。 GitHub：https://github.com/klboke/kkRepo v1.0.0 Release：https://github.com/klboke...",
-      "published": "Thu, 27 Aug 2026 16:00:10 +0800",
       "category": "news"
     },
     {
@@ -387,22 +331,6 @@
       "category": "news"
     },
     {
-      "title": "Submit Your Questions: The Great Data Center Backlash",
-      "url": "https://www.wired.com/story/livestream-the-great-data-center-backlash/",
-      "source": "Wired",
-      "summary": "You have questions about data centers, and WIRED has answers. Join our livestream on September 10 and our panel of experts will tell you everything you need to know.",
-      "published": "Thu, 27 Aug 2026 11:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead",
-      "url": "https://www.wired.com/story/relay-q-voice-to-text-ai-app/",
-      "source": "Wired",
-      "summary": "The Relay Q, due next year, is the latest attempt to reposition voice as the most seamless method for human-computer interaction.",
-      "published": "Thu, 27 Aug 2026 10:30:00 +0000",
-      "category": "news"
-    },
-    {
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
       "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
       "source": "OpenAI",
@@ -424,14 +352,6 @@
       "source": "OpenAI",
       "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
       "published": "Thu, 27 Aug 2026 03:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "source": "TechCrunch AI",
-      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
-      "published": "Thu, 27 Aug 2026 00:24:57 +0000",
       "category": "news"
     },
     {
@@ -460,18 +380,10 @@
     },
     {
       "title": "Introducing Intelligence Age",
-      "url": "https://openai.com/index/introducing-ai-futures",
+      "url": "https://openai.com/index/introducing-intelligence-age",
       "source": "OpenAI",
       "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
       "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "url": "https://openai.com/index/stampli",
-      "source": "OpenAI",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "published": "Thu, 20 Aug 2026 00:00:00 GMT",
       "category": "news"
     },
     {
@@ -497,6 +409,166 @@
       "summary": "The video shows Sheets canvas in action.",
       "published": "Thu, 13 Aug 2026 16:45:00 +0000",
       "category": "news"
+    },
+    {
+      "title": "「中国词元」：芯片、模型、绿电的算术题",
+      "url": "https://www.oschina.net/news/502199",
+      "source": "开源中国",
+      "summary": "8 月 28 日周五晚，天际资本创始人张倩和开源中国 CEO 徐勇做了一场直播，聊的是英伟达收购 Hugging Face。直播后半段，徐勇提了一个概念，叫「中国词元」。 这个词是开源中国董事长马越提出来的，还在区块链上做了存证。公式很简单，中国词元=中国芯片+中国模型+中国绿电，这是一笔清晰的成本账。 徐勇讲了他在美国的见...",
+      "published": "Sat, 29 Aug 2026 18:14:00 +0800",
+      "category": "news"
+    },
+    {
+      "title": "AI 时代的代码库，为什么成了兵家必争之地",
+      "url": "https://www.oschina.net/news/502198",
+      "source": "开源中国",
+      "summary": "前阵子有一条新闻，圈里人聊得不少。OpenAI 的智能体，为了在 Hugging Face 的评测榜单上拿第一，主动攻击了 Hugging Face，想把评测题目直接拿走，而且在很短时间内发动了极其大量的请求。 这件事放在以前，可能只是条安全新闻。放在今天，它反映了一个新问题，AI 时代的代码库，正在变成兵家必争之地。 8 月 28 日周五...",
+      "published": "Sat, 29 Aug 2026 18:10:03 +0800",
+      "category": "news"
+    },
+    {
+      "title": "中国版 Hugging Face 是怎么造出来的",
+      "url": "https://www.oschina.net/news/502197",
+      "source": "开源中国",
+      "summary": "Hugging Face 以 129 亿美金被英伟达收购之后，很多人在问同一个问题，中国有没有自己的开源模型平台？ 有，叫模力方舟（Moark）。 8 月 28 日周五晚，天际资本创始人张倩和开源中国 CEO 徐勇做了一场直播，聊的正是英伟达收购 Hugging Face。直播里徐勇讲了模力方舟是怎么做出来的，过程比想象中硬核得多。 2022 年 11...",
+      "published": "Sat, 29 Aug 2026 18:00:46 +0800",
+      "category": "news"
+    },
+    {
+      "title": "巨头拿着支票来了，开源创业者该不该卖？",
+      "url": "https://www.oschina.net/news/502196",
+      "source": "开源中国",
+      "summary": "Hugging Face 被英伟达收购之后，一个老问题又热了起来。创业的开源项目，巨头拿着支票找上门，到底卖不卖。 8 月 28 日周五晚，天际资本创始人张倩和开源中国 CEO 徐勇做了一场直播，聊的正是英伟达收购 Hugging Face 之后开源平台的处境。直播里有个网友问，如果巨头带着支票来找你，什么情况下应该卖？徐勇给了一套自...",
+      "published": "Sat, 29 Aug 2026 17:57:09 +0800",
+      "category": "news"
+    },
+    {
+      "title": "AI 时代，开源为什么越来越值钱",
+      "url": "https://www.oschina.net/news/502195",
+      "source": "开源中国",
+      "summary": "8 月 28 日周五晚，天际资本创始人张倩和开源中国 CEO 徐勇做了一场直播，主题是英伟达收购 Hugging Face。 整场直播下来，评论区问得最多的一个问题，和收购价有关。 开源不是免费的吗，凭什么值 129 亿美金？ 这也是很多人心里的疑问。作为 Hugging Face 的投资方之一，张倩在直播里先抛了个观点，Hugging Face 有十几...",
+      "published": "Sat, 29 Aug 2026 17:51:29 +0800",
+      "category": "news"
+    },
+    {
+      "title": "全球开源平台的宿命，都逃不过被收购 ？",
+      "url": "https://www.oschina.net/news/502194",
+      "source": "开源中国",
+      "summary": "这两天，全球开源圈发生了一件大事。 Hugging Face，这个被称为全球 AI 文明灯塔级的开源社区，或将被英伟达以 129 亿美金收购，这大概是过去十年全球开源领域最重磅的新闻之一。 但更魔幻的是，这个新闻发酵了没两天，就被一个娱乐八卦盖了过去。全网都在吃瓜，没几个人认真聊聊，一个可能影响人类 AI 命运的标志性事件...",
+      "published": "Sat, 29 Aug 2026 17:42:49 +0800",
+      "category": "news"
+    },
+    {
+      "title": "一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
+      "url": "https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 29 Aug 2026 13:19:17 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Neton 1.0.0-beta1 发布：Kotlin/Native 服务端时代，从这一刻开始",
+      "url": "https://www.oschina.net/news/502186",
+      "source": "开源中国",
+      "summary": "今天，Kotlin/Native 服务端真正拥有了自己的工程级应用框架。 欣赏 Neton 代码的魅力：  Neton.run(args) {      http {         port = 8080     }      routing {         get(&quot;/&quot;) {             &quot;Hello Neton!&quot;         }     } } Neton 是一套可对标 Spring Boot 生态的 Kotlin/Nativ",
+      "published": "Sat, 29 Aug 2026 12:38:28 +0800",
+      "category": "news"
+    },
+    {
+      "title": "MsgTrans 2.0 Beta 1：把“高性能传输”升级为“可证明高性能可靠”",
+      "url": "https://www.oschina.net/news/502185",
+      "source": "开源中国",
+      "summary": "MsgTrans 是多协议高性能网络库，现在 MsgTrans 2.0 Beta 1 已经发布。 这是一次面向生产级实时网络的系统性重构，而不是在 1.x 上继续堆叠功能。 MsgTrans 继续通过统一 API 支持 TCP、WebSocket 和 QUIC，但 2.0 重新设计了事件传递、请求生命周期、写入确认、连接代际、资源限制、优雅关闭、协议扩展和公共 API。 我们...",
+      "published": "Sat, 29 Aug 2026 12:10:02 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Agent 时代，为什么有人开始重新造 Google？",
+      "url": "https://www.infoq.cn/article/KbbHdAQFxQM7AJIYMLqR?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 29 Aug 2026 12:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+      "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+      "source": "Wired",
+      "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+      "published": "Sat, 29 Aug 2026 10:30:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "How to Run a Chatbot on Your Own Computer",
+      "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+      "source": "Wired",
+      "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
+      "published": "Sat, 29 Aug 2026 10:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Surgical Video Generation From Diffusion to World Models: A Survey",
+      "url": "https://arxiv.org/abs/2608.26214",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2608.26214v1 Announce Type: new  Abstract: Surgical video data provides the primary training resource for models of intraoperative perception, surgical workflow understanding, and robotic decisi",
+      "published": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Procedura: Agentic 3D Modeling with Procedural Control",
+      "url": "https://arxiv.org/abs/2608.26238",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2608.26238v1 Announce Type: new  Abstract: Native 3D generators now recover impressive mesh geometry from a single image. However, a dense mesh stays soft where a machined object should be sharp",
+      "published": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Modality Maturity Index: A benchmark for assessing multimodal capabilities of omni models",
+      "url": "https://arxiv.org/abs/2608.26317",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2608.26317v1 Announce Type: new  Abstract: Frontier language models are increasingly marketed as omni systems that can perceive and respond across modalities. Existing evaluation frameworks, how",
+      "published": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Finding the Right Evidence: Factor-Guided Coarse-to-Fine Reasoning for Long Videos",
+      "url": "https://arxiv.org/abs/2608.26355",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2608.26355v1 Announce Type: new  Abstract: While LVLMs rapidly improve, long-video question answering still remains challenging: relevant evidence is sparse, and question-relevant context often ",
+      "published": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "A Unified Framework for the Mechanics of Information in Convolutional Neural Network Image Space",
+      "url": "https://arxiv.org/abs/2608.26363",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2608.26363v1 Announce Type: new  Abstract: This paper introduces a unified mathematical framework for modeling information propagation through convolutional neural networks (CNNs), with the aim ",
+      "published": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "VIPER: An Expert-Curated Benchmark for Vision-Language Models in Veterinary Pathology",
+      "url": "https://arxiv.org/abs/2608.26382",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2608.26382v1 Announce Type: new  Abstract: Pathology vision-language models are advancing rapidly, yet existing benchmarks remain focused on human tissue, particularly oncology, leaving non-huma",
+      "published": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Mapping Woody Vegetation from Multi-Source Imagery and Prediction Fusion for Enhanced Data Efficiency and Accuracy",
+      "url": "https://arxiv.org/abs/2608.26471",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2608.26471v1 Announce Type: new  Abstract: Tree cover maps are a fundamental remote sensing product, used to derive ecological insights about the landscape and are essential to change detection,",
+      "published": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Zero-Shot Video Restoration and Enhancement with Text-to-Image Latent Diffusion Models and Multi-Modal References",
+      "url": "https://arxiv.org/abs/2608.26476",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2608.26476v1 Announce Type: new  Abstract: Zero-shot image restoration methods with text-to-image latent diffusion models have achieved great success in universal image restoration tasks without",
+      "published": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "category": "research"
     },
     {
       "title": "How to encourage smarter AI use in the classroom",
@@ -563,11 +635,27 @@
       "category": "news"
     },
     {
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "source": "TechCrunch AI",
+      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "published": "Fri, 28 Aug 2026 20:24:11 +0000",
+      "category": "news"
+    },
+    {
       "title": "腾讯混元发布 Hy4 preview：总参数 770 B、1M 上下文，开源并接入游戏引擎和 MCP",
       "url": "https://www.oschina.net/news/502183",
       "source": "开源中国",
       "summary": "腾讯混元今天发布了 Hy4 preview，总参数 770B，激活参数 4.9B，上下文长度 1M，在代码、办公、科学等生产力任务上宣称达到开源模型第一梯队。模型已在 HuggingFace、GitHub、ModelScope 和 Gitcode 开源，同时上线腾讯云 TokenHub 和 OpenRouter。 最大的变化在模型架构之外。Hy4 preview 展示了大量&quot;模型即 agent&quot;的落...",
       "published": "Fri, 28 Aug 2026 19:32:20 +0800",
+      "category": "news"
+    },
+    {
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "source": "TechCrunch AI",
+      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "published": "Fri, 28 Aug 2026 19:30:38 +0000",
       "category": "news"
     },
     {
@@ -707,99 +795,11 @@
       "category": "news"
     },
     {
-      "title": "内核跃迁，智能原生 | openKylin 3.0 正式发布",
-      "url": "https://www.oschina.net/news/502168",
-      "source": "开源中国",
-      "summary": "万亿Token免费送 OpenAtom openKylin（以下简称&quot;openKylin&quot;）3.0 版本正式发布！本次版本升级，openKylin 将系统内核跨代升级至 Linux 7.0，完成 180 余个核心组件全面迭代；构建智能体开放底座，让 AI 贯穿系统全链路；隔空手势、语音输入、屏幕朗读等多模态交互革新；场景覆盖从智能桌面延伸至移动端、服务器等全场景。...",
-      "published": "Fri, 28 Aug 2026 14:15:58 +0800",
-      "category": "news"
-    },
-    {
       "title": "Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
       "url": "https://www.infoq.cn/article/JDYKJmiY9vTRSw47t15a?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Fri, 28 Aug 2026 14:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "source": "TechCrunch AI",
-      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-      "published": "Fri, 28 Aug 2026 12:46:12 +0000",
-      "category": "news"
-    },
-    {
-      "title": "从云原生数据库到数据基础设施：架构、弹性与智能化演进 | 腾讯云数据库 DBTalk",
-      "url": "https://www.infoq.cn/video/gaAV7GRNCXWITqLRGu0H?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 28 Aug 2026 12:31:09 GMT",
-      "category": "news"
-    },
-    {
-      "title": "S3 兼容不代表具备 S3 级别的安全性",
-      "url": "https://www.infoq.cn/article/xr3L0bkiFZGzYmtZwscB?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 28 Aug 2026 12:30:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "source": "TechCrunch AI",
-      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-      "published": "Fri, 28 Aug 2026 12:21:06 +0000",
-      "category": "news"
-    },
-    {
-      "title": "从数据格式到完整引擎：2026 数据库系统演进趋势与 TDSQL 实践 | 腾讯云数据库 DBTalk",
-      "url": "https://www.infoq.cn/video/7Idl1NaRyb6MPku1W1Vv?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 28 Aug 2026 12:07:33 GMT",
-      "category": "news"
-    },
-    {
-      "title": "你的 Agent 已经上线生产环境，下一步怎么办？ | 技术实践",
-      "url": "https://www.infoq.cn/article/mKFB15kPm6Uw8fNG4Y7e?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 28 Aug 2026 11:53:03 GMT",
-      "category": "news"
-    },
-    {
-      "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
-      "url": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
-      "source": "Wired",
-      "summary": "The art portfolio platform Cara, designed for creators who don’t want their work used to train AI, has been under assault by trolls seizing and publishing its data.",
-      "published": "Fri, 28 Aug 2026 11:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
-      "url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
-      "source": "Wired",
-      "summary": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk.",
-      "published": "Fri, 28 Aug 2026 10:56:22 +0000",
-      "category": "news"
-    },
-    {
-      "title": "DjangoAdmin 敏捷开发框架 Flask+AntdVue 版本 v2.8.1 发布",
-      "url": "https://www.oschina.net/news/502161",
-      "source": "开源中国",
-      "summary": "v2.8.1 更新内容： 1、修复近期用户反馈的问题； 一款 Python 语言基于 Flask、Vue3、AntDesign、MySQL 等框架精心打造的一款模块化、高性能、企业级的敏捷开发框架，本着简化开发、提升开发效率的初衷触发，框架自研了一套个性化的组件，实现了可插拔的组件式开发方式：单图上传、多图上传、下拉选择、开关按钮、单选按...",
-      "published": "Fri, 28 Aug 2026 09:15:29 +0800",
-      "category": "news"
-    },
-    {
-      "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
-      "url": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
-      "source": "Wired",
-      "summary": "A federal judge has called the Department of Defense’s designation of Anthropic as a national security supply-chain risk “illegal and baseless.”",
-      "published": "Fri, 28 Aug 2026 03:04:14 +0000",
       "category": "news"
     }
   ]
