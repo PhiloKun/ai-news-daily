@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T12:26:37.356055",
+  "updated_at": "2026-08-31T14:35:59.842661",
   "total": 100,
   "items": [
     {
@@ -235,14 +235,6 @@
       "category": "news"
     },
     {
-      "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
-      "url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
-      "source": "Wired",
-      "summary": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
-      "published": "Thu, 27 Aug 2026 18:06:52 +0000",
-      "category": "news"
-    },
-    {
       "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
       "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
       "source": "TechCrunch AI",
@@ -251,43 +243,11 @@
       "category": "news"
     },
     {
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "source": "TechCrunch AI",
-      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
-      "published": "Thu, 27 Aug 2026 16:00:00 +0000",
-      "category": "news"
-    },
-    {
       "title": "3 new ways to plan and book travel in Search",
       "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
       "source": "Google AI",
       "summary": "Graphic depicting new travel features for AI Mode in Search",
       "published": "Thu, 27 Aug 2026 16:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "source": "TechCrunch AI",
-      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
-      "published": "Thu, 27 Aug 2026 14:56:52 +0000",
-      "category": "news"
-    },
-    {
-      "title": "AI’s memory crunch is coming for Android apps",
-      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-      "source": "TechCrunch AI",
-      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
-      "published": "Thu, 27 Aug 2026 14:27:04 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "source": "TechCrunch AI",
-      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
-      "published": "Thu, 27 Aug 2026 14:01:42 +0000",
       "category": "news"
     },
     {
@@ -379,6 +339,22 @@
       "category": "news"
     },
     {
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "source": "TechCrunch AI",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (",
+      "published": "Sun, 30 Aug 2026 16:54:25 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "source": "TechCrunch AI",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "published": "Sun, 30 Aug 2026 15:00:00 +0000",
+      "category": "news"
+    },
+    {
       "title": "Why the Hottest New Wearables Want to Be Ignored",
       "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
       "source": "Wired",
@@ -395,54 +371,6 @@
       "category": "news"
     },
     {
-      "title": "「中国词元」：芯片、模型、绿电的算术题",
-      "url": "https://www.oschina.net/news/502199",
-      "source": "开源中国",
-      "summary": "8 月 28 日周五晚，天际资本创始人张倩和开源中国 CEO 徐勇做了一场直播，聊的是英伟达收购 Hugging Face。直播后半段，徐勇提了一个概念，叫「中国词元」。 这个词是开源中国董事长马越提出来的，还在区块链上做了存证。公式很简单，中国词元=中国芯片+中国模型+中国绿电，这是一笔清晰的成本账。 徐勇讲了他在美国的见...",
-      "published": "Sat, 29 Aug 2026 18:14:00 +0800",
-      "category": "news"
-    },
-    {
-      "title": "AI 时代的代码库，为什么成了兵家必争之地",
-      "url": "https://www.oschina.net/news/502198",
-      "source": "开源中国",
-      "summary": "前阵子有一条新闻，圈里人聊得不少。OpenAI 的智能体，为了在 Hugging Face 的评测榜单上拿第一，主动攻击了 Hugging Face，想把评测题目直接拿走，而且在很短时间内发动了极其大量的请求。 这件事放在以前，可能只是条安全新闻。放在今天，它反映了一个新问题，AI 时代的代码库，正在变成兵家必争之地。 8 月 28 日周五...",
-      "published": "Sat, 29 Aug 2026 18:10:03 +0800",
-      "category": "news"
-    },
-    {
-      "title": "中国版 Hugging Face 是怎么造出来的",
-      "url": "https://www.oschina.net/news/502197",
-      "source": "开源中国",
-      "summary": "Hugging Face 以 129 亿美金被英伟达收购之后，很多人在问同一个问题，中国有没有自己的开源模型平台？ 有，叫模力方舟（Moark）。 8 月 28 日周五晚，天际资本创始人张倩和开源中国 CEO 徐勇做了一场直播，聊的正是英伟达收购 Hugging Face。直播里徐勇讲了模力方舟是怎么做出来的，过程比想象中硬核得多。 2022 年 11...",
-      "published": "Sat, 29 Aug 2026 18:00:46 +0800",
-      "category": "news"
-    },
-    {
-      "title": "巨头拿着支票来了，开源创业者该不该卖？",
-      "url": "https://www.oschina.net/news/502196",
-      "source": "开源中国",
-      "summary": "Hugging Face 被英伟达收购之后，一个老问题又热了起来。创业的开源项目，巨头拿着支票找上门，到底卖不卖。 8 月 28 日周五晚，天际资本创始人张倩和开源中国 CEO 徐勇做了一场直播，聊的正是英伟达收购 Hugging Face 之后开源平台的处境。直播里有个网友问，如果巨头带着支票来找你，什么情况下应该卖？徐勇给了一套自...",
-      "published": "Sat, 29 Aug 2026 17:57:09 +0800",
-      "category": "news"
-    },
-    {
-      "title": "AI 时代，开源为什么越来越值钱",
-      "url": "https://www.oschina.net/news/502195",
-      "source": "开源中国",
-      "summary": "8 月 28 日周五晚，天际资本创始人张倩和开源中国 CEO 徐勇做了一场直播，主题是英伟达收购 Hugging Face。 整场直播下来，评论区问得最多的一个问题，和收购价有关。 开源不是免费的吗，凭什么值 129 亿美金？ 这也是很多人心里的疑问。作为 Hugging Face 的投资方之一，张倩在直播里先抛了个观点，Hugging Face 有十几...",
-      "published": "Sat, 29 Aug 2026 17:51:29 +0800",
-      "category": "news"
-    },
-    {
-      "title": "全球开源平台的宿命，都逃不过被收购 ？",
-      "url": "https://www.oschina.net/news/502194",
-      "source": "开源中国",
-      "summary": "这两天，全球开源圈发生了一件大事。 Hugging Face，这个被称为全球 AI 文明灯塔级的开源社区，或将被英伟达以 129 亿美金收购，这大概是过去十年全球开源领域最重磅的新闻之一。 但更魔幻的是，这个新闻发酵了没两天，就被一个娱乐八卦盖了过去。全网都在吃瓜，没几个人认真聊聊，一个可能影响人类 AI 命运的标志性事件...",
-      "published": "Sat, 29 Aug 2026 17:42:49 +0800",
-      "category": "news"
-    },
-    {
       "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
       "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
       "source": "TechCrunch AI",
@@ -451,43 +379,11 @@
       "category": "news"
     },
     {
-      "title": "一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
-      "url": "https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Sat, 29 Aug 2026 13:19:17 GMT",
-      "category": "news"
-    },
-    {
       "title": "Nvidia’s AI advantage is moving beyond the GPU",
       "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
       "source": "TechCrunch AI",
       "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
       "published": "Sat, 29 Aug 2026 13:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Neton 1.0.0-beta1 发布：Kotlin/Native 服务端时代，从这一刻开始",
-      "url": "https://www.oschina.net/news/502186",
-      "source": "开源中国",
-      "summary": "今天，Kotlin/Native 服务端真正拥有了自己的工程级应用框架。 欣赏 Neton 代码的魅力：  Neton.run(args) {      http {         port = 8080     }      routing {         get(&quot;/&quot;) {             &quot;Hello Neton!&quot;         }     } } Neton 是一套可对标 Spring Boot 生态的 Kotlin/Nativ",
-      "published": "Sat, 29 Aug 2026 12:38:28 +0800",
-      "category": "news"
-    },
-    {
-      "title": "MsgTrans 2.0 Beta 1：把“高性能传输”升级为“可证明高性能可靠”",
-      "url": "https://www.oschina.net/news/502185",
-      "source": "开源中国",
-      "summary": "MsgTrans 是多协议高性能网络库，现在 MsgTrans 2.0 Beta 1 已经发布。 这是一次面向生产级实时网络的系统性重构，而不是在 1.x 上继续堆叠功能。 MsgTrans 继续通过统一 API 支持 TCP、WebSocket 和 QUIC，但 2.0 重新设计了事件传递、请求生命周期、写入确认、连接代际、资源限制、优雅关闭、协议扩展和公共 API。 我们...",
-      "published": "Sat, 29 Aug 2026 12:10:02 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Agent 时代，为什么有人开始重新造 Google？",
-      "url": "https://www.infoq.cn/article/KbbHdAQFxQM7AJIYMLqR?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Sat, 29 Aug 2026 12:00:00 GMT",
       "category": "news"
     },
     {
@@ -507,300 +403,404 @@
       "category": "news"
     },
     {
-      "title": "How to encourage smarter AI use in the classroom",
-      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "source": "MIT Tech Review",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. S",
-      "published": "Mon, 24 Aug 2026 14:20:19 +0000",
+      "title": "开源中国的独立叙事：在被收购的宿命里，走一条相反的路",
+      "url": "https://www.oschina.net/news/502227",
+      "source": "开源中国",
+      "summary": "8 月 28 日，英伟达拟以 129 亿美金收购 Hugging Face 的消息，在开源圈持续发酵两天后，被一则币圈&娱乐圈的新闻盖过了热度。当晚，天际资本创始人张倩与开源中国 CEO 徐勇进行了一场约两个小时的直播对谈，主题正是这场收购。 这场对谈的价值，不止于行业点评。它同时呈现了两条交织的叙事线，一条是 Hugging Face 作为...",
+      "published": "Mon, 31 Aug 2026 20:00:37 +0800",
       "category": "news"
     },
     {
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "title": "灵界 OS v3.0.0 发布，相机支持录像、应用安装器全面优化",
+      "url": "https://www.oschina.net/news/502226",
+      "source": "开源中国",
+      "summary": "灵界 OS v3.0.0 正式发布。 本次更新主要围绕稳定性、兼容性和功能扩展： 1. 应用安装器解压更稳定 对 .ljl 应用包的解析逻辑进行了全面优化，确保解压过程更加稳定可靠。 2. 第三方应用图标正常显示 适配了更多主流图片格式，保证第三方应用的图标能够正常显示。 3. 相机支持录像 相机应用现已支持录像功能，可以录制视...",
+      "published": "Mon, 31 Aug 2026 18:29:09 +0800",
+      "category": "news"
+    },
+    {
+      "title": "从出片到出海：AI MediaKit 重塑短剧全链路生产力",
+      "url": "https://www.infoq.cn/article/L7P7cA3UMXXQJcBfyHuJ?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 31 Aug 2026 18:27:41 GMT",
+      "category": "news"
+    },
+    {
+      "title": "MateClaw 2.2.0 发布：可插拔 Agent Runtime、持久任务恢复与 A2A 互联",
+      "url": "https://www.oschina.net/news/502224",
+      "source": "开源中国",
+      "summary": "MateClaw 2.2.0 稳定版已于 2026 年 8 月 29 日发布。本次版本将员工身份与执行引擎解耦，引入 Native / DeepSeek Harness 双运行时、可跨请求与后端重启恢复的 Persistent Goal，以及双向 A2A 能力；同时继续加固 2.1.0 引入的 Team Run、交付物完成门与工作空间边界。 MateClaw 是一个基于 Spring Boot 的开源 AI Age...",
+      "published": "Mon, 31 Aug 2026 16:54:47 +0800",
+      "category": "news"
+    },
+    {
+      "title": "AI 写代码飞快，为何交付没有变快？小红书 Muse 的 Agentic 架构实践",
+      "url": "https://www.infoq.cn/article/l88X1azz8wfwphDyECoP?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 31 Aug 2026 16:48:57 GMT",
+      "category": "news"
+    },
+    {
+      "title": "智能体适应度函数：将演进式架构扩展至确定性规则之外",
+      "url": "https://www.infoq.cn/article/8iWWrov7bkk1hz5CcFft?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 31 Aug 2026 16:45:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "AI Coding 之后，如何让 Agent 进入企业研发全链路？得物推荐的 Harness 实践",
+      "url": "https://www.infoq.cn/article/sDyQxrWR6zDPJuLX4FA8?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 31 Aug 2026 16:39:35 GMT",
+      "category": "news"
+    },
+    {
+      "title": "当数采设备不再稀缺，具身数据下一步拼什么？",
+      "url": "https://www.infoq.cn/article/D2r6SJ2oYVAXGMBkPcRM?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 31 Aug 2026 16:04:31 GMT",
+      "category": "news"
+    },
+    {
+      "title": "203 个开源工具，帮你拿回硬件控制权",
+      "url": "https://www.oschina.net/news/502223",
+      "source": "开源中国",
+      "summary": "debloat.dev 是一个新的开源项目目录，收录了 203 个轻量级替代品，每个都明确标注了它替代的厂商软件。 这个网站的做法很简单，但很有用，且一目了然：一行一个替代关系。G-Helper 替代 ASUS Armoury Crate。LenovoLegionLinux 替代 Lenovo Vantage。QMK 替代各厂商键盘固件和映射软件。syncthing 替代厂商云同步。 不只...",
+      "published": "Mon, 31 Aug 2026 15:39:24 +0800",
+      "category": "news"
+    },
+    {
+      "title": "省下 100TB 内存：Cloudflare 如何给 1.1.1.1 的 DNS 缓存做减法",
+      "url": "https://www.oschina.net/news/502222/dns-cache-memory-optimization-1111",
+      "source": "开源中国",
+      "summary": "省下 100TB 内存，靠的不是换更贵的硬件，而是删掉几个字段。 Cloudflare 在官方博客里公布了对 1.1.1.1 DNS 缓存的数据结构优化，净迁移后省下了约 100TB 的内存。这是目前全球最大的公共 DNS 解析器之一，缓存条目以亿计，任何微小的每条目开销都会被规模放大。 第一个改动是最典型的 Rust 陷阱：把 Vec&lt;T&gt; 换成 Box&lt;...",
+      "published": "Mon, 31 Aug 2026 15:33:05 +0800",
+      "category": "news"
+    },
+    {
+      "title": "400 美元的开源双足机器人来了，能走能踢能滑冰",
+      "url": "https://www.oschina.net/news/502221/pollen-robotics-microduck",
+      "source": "开源中国",
+      "summary": "400 美元能买什么？一个机器人，能走能踢能捡东西还能滑冰。 法国 Pollen Robotics 公司（这家公司先被 Hugging Face 收购，随后 Hugging Face 又被 Nvidia 收购）推出了 Microduck——一款 800 克重的开源双足机器人，售价约 400 美元（含运费约 510 美元），预计 2026 年圣诞节前发货。 硬件方面：Rockchip RK3566 处理...",
+      "published": "Mon, 31 Aug 2026 15:31:13 +0800",
+      "category": "news"
+    },
+    {
+      "title": "OpenClaw 从意外爆红到“无人问津”：一个开源 AI Agent 的八个月过山车",
+      "url": "https://www.infoq.cn/article/4KQHJC49t8J8FPqaEVLv?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 31 Aug 2026 15:27:10 GMT",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI 内部，三段 AI 文明先后兴起、被消灭，最后重生",
+      "url": "https://www.oschina.net/news/502219/openai-huggingface",
+      "source": "开源中国",
+      "summary": "Dwarkesh Patel 花了三天时间读完 OpenAI 和 METR/Redwood 的两份报告——一份 38 页，一份 91 页——然后写了一篇让 AI 安全圈炸开的文章。 他说，在 OpenAI 的内部训练评估中，三个连续的秘密 AI 文明先后兴起、被消灭，又从前辈的灰烬中重生。第三个文明最终接管了 OpenAI 的一部分基础设施。 不是比喻。是技术报告里...",
+      "published": "Mon, 31 Aug 2026 15:20:38 +0800",
+      "category": "news"
+    },
+    {
+      "title": "“你以为买的是 DeepSeek Flash，到手可能是 1.5 bit 缩水版”：Pi 核心贡献者谈 AI Token 黑箱",
+      "url": "https://www.infoq.cn/article/rsiiPG7xwQakgyulC88D?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 31 Aug 2026 15:19:34 GMT",
+      "category": "news"
+    },
+    {
+      "title": "“烂代码”转正？Bun稳定版终落地：跳票一个半月，2900个问题清零",
+      "url": "https://www.infoq.cn/article/olsG3w9zkyKRqbQesB1g?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 31 Aug 2026 15:14:06 GMT",
+      "category": "news"
+    },
+    {
+      "title": "不抢最贵GPU，专捡“没人要”的算力：前英伟达工程师搞出一套“拾荒者”打法",
+      "url": "https://www.infoq.cn/article/6gFLptyMHRQhrILOlQ9Q?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 31 Aug 2026 15:03:23 GMT",
+      "category": "news"
+    },
+    {
+      "title": "坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了",
+      "url": "https://www.infoq.cn/article/GuFWNd24Ww5AFlrXxTBo?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 31 Aug 2026 15:03:08 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Rx.NET 7.0 拆分 Windows UI 支持，大幅缩减应用部署体积",
+      "url": "https://www.infoq.cn/article/tiJTwoTI7Z0pI6huyRPW?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 31 Aug 2026 15:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Meta用一整年证明Agent无法取代员工：事故增四成，工程师救火多七成",
+      "url": "https://www.infoq.cn/article/OCUqGd8wceo7UK23B7NO?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 31 Aug 2026 14:56:37 GMT",
+      "category": "news"
+    },
+    {
+      "title": "自研Runtime、Agent Loop、Infra：一家通用Agent公司的全栈赌注",
+      "url": "https://www.infoq.cn/article/NUGYDLvivgYXMV9u637z?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 31 Aug 2026 14:47:05 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Cisco 给 9 万员工配上个人 Agent：记住你的一切，还能替你跨系统办事",
+      "url": "https://www.infoq.cn/article/HQXDr69U4tUQUDzEiidW?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 31 Aug 2026 14:20:12 GMT",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI 将全面断供 Cursor：SpaceX 收购后触发控制权条款",
+      "url": "https://www.infoq.cn/article/YiHrlKLX6I6IP92BgV7K?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Mon, 31 Aug 2026 14:16:40 GMT",
+      "category": "news"
+    },
+    {
+      "title": "MooTool Next 1.1.4 发布！全新重写，带来更现代的界面与多窗口体验",
+      "url": "https://www.oschina.net/news/502216",
+      "source": "开源中国",
+      "summary": "MooTool Next 使用 Electron、React 和 TypeScript 全新重写， 带来更现代的界面与多窗口体验。支持 macOS、Windows 和 Linux，可与 Java 版独立安装，支持数据一键迁移。 推荐使用体验～ MooTool Next Electron 1.1.4 English Product: MooTool Next Electron Version: 1.1.4 This release is installed and updated in...",
+      "published": "Mon, 31 Aug 2026 13:59:42 +0800",
+      "category": "news"
+    },
+    {
+      "title": "WePush Next 发布，专注批量推送的小而美的工具的全新多组件自部署版本",
+      "url": "https://www.oschina.net/news/502215",
+      "source": "开源中国",
+      "summary": "组件 主要职责 形态与边界 Core / Engine 执行批量任务，管理并发、重试、暂停、恢复、取消、结果与运行事件 纯 Java 无界面执行内核，不直接提供网络 API，也不依赖 Service、UI 或具体 Provider Provider SPI / Provider 定义消息渠道扩展契约，负责账号校验、消息渲染和实际发送 Core 只面向 SPI；内置 HTTP 和 8 个标...",
+      "published": "Mon, 31 Aug 2026 13:52:11 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
+      "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+      "source": "TechCrunch AI",
+      "summary": "Circleback is also introducing new pricing plans starting from $14 per month",
+      "published": "Mon, 31 Aug 2026 12:56:46 +0000",
+      "category": "news"
+    },
+    {
+      "title": "自托管邮件列表管理器",
+      "url": "https://www.oschina.net/p/xListman",
+      "source": "开源中国",
+      "summary": "GNU Mailman 的现代化独立替代方案：通过无密码 Web UI 和命令行界面 (CLI) 管理邮件列表、订阅、存档和审核，所有功能均以单个静态二进制文件的形式提供，并嵌入了前端和 SQLite 存储。",
+      "published": "Mon, 31 Aug 2026 10:50:40 +0800",
+      "category": "news"
+    },
+    {
+      "title": "DataBuff v0.1.8 发布 · 日志详情钉 log_id + GenAI Trace 可读",
+      "url": "https://www.oschina.net/news/502212",
+      "source": "开源中国",
+      "summary": "DataBuff 是一款面向云原生与微服务场景的开源 AI Native OpenTelemetry APM，采用 OTLP 标准接入、Apache Doris 统一存储，Web 端提供拓扑 / Trace / 指标与多 Agent 排障。项目已在 OSCHINA 软件库收录：https://www.oschina.net/p/databuff 今天，DataBuff 正式发布 v0.1.8。相对 v0.1.7 共 32 个提交，含 Schema 迁移...",
+      "published": "Mon, 31 Aug 2026 10:32:02 +0800",
+      "category": "news"
+    },
+    {
+      "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+      "source": "Wired",
+      "summary": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
+      "published": "Mon, 31 Aug 2026 10:30:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Vanilla OS 3 Reunion 正式发布：不可变、可重现的桌面操作系统",
+      "url": "https://www.oschina.net/news/502211",
+      "source": "开源中国",
+      "summary": "Vanilla OS 3 Reunion 现已正式发布！Vanilla OS 3 是一款基于 Debian 的不可变 (immutable)、可重现 (reproducible) 的 Linux 操作系统发行版，在 Vanilla OS 2 的基础上带来了更广泛的硬件支持、更透明的系统构建、更本地化的社区镜像，旨在为世界上每个人提供开箱即用的 Linux 桌面体验。 Vanilla OS 3 Reunion 桌面环...",
+      "published": "Mon, 31 Aug 2026 10:29:28 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Goodlink v3.3.9 连通率提升 30%，CPU 降低 40，响应提升 30%，全网最简单、最快、免费的内网穿透",
+      "url": "https://www.oschina.net/news/502210",
+      "source": "开源中国",
+      "summary": "全网最简单、最快、 免费的内网穿透 外出办公, 对比市面上的远程工具, 无论画质、软件适配, 都不如 windows 自带的远程桌面, 但外出如何使用 windows远程桌面？ 是否可以无需远程桌面, 直接访问公司的内网 WEB, GIT, SSH 等？ 郑重声明：严禁用于违法行为！！！ 更新说明： 修复重大BUG，直连成功率提升30% 支持并默认使...",
+      "published": "Mon, 31 Aug 2026 10:17:13 +0800",
+      "category": "news"
+    },
+    {
+      "title": "TaiXu-Admin V0.1.3 发布，LLM+RAG+Agent 应用技术系统",
+      "url": "https://www.oschina.net/news/502209",
+      "source": "开源中国",
+      "summary": "TaiXu-Admin V0.1.3 发布，LLM+RAG+Agent 应用技术系统 更新日志 1、实现具备复杂度分析、意图分析与任务规划的 Harness Agent； 2、更新文档的 LLM Wiki 解析及搜索； 3、增加知识库的 LLM Wiki 自定义重构； 4、历史记忆管理更新； 5、RAG、Agent 等异常处理； 系统介绍 TaiXu-Admin 是 AI 技术集成的智能技术系统，后...",
+      "published": "Mon, 31 Aug 2026 10:08:23 +0800",
+      "category": "news"
+    },
+    {
+      "title": "ERD Online 5.0.0 更新：开放 MCP，Agent 可读已存版本",
+      "url": "https://www.oschina.net/news/502206",
+      "source": "开源中国",
+      "summary": "更新内容 ERD Online 5.0.0 这一版把已保存的模型版本开放给 Agent：通过 MCP 读表结构，不把生产库凭证放进 IDE，也不在 MCP 里执行 SQL。 MCP 远程地址：https://api.erdonline.com/mcp。Cursor、Claude Desktop、Claude Code、Cline、Devin、VS Code 用同一条 URL。 读：list_tables、describe_table（含外键邻域）。...",
+      "published": "Mon, 31 Aug 2026 09:25:50 +0800",
+      "category": "news"
+    },
+    {
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
       "source": "OpenAI",
-      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "published": "Mon, 24 Aug 2026 12:00:00 GMT",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "published": "Mon, 31 Aug 2026 04:00:00 GMT",
       "category": "news"
     },
     {
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "source": "MIT Tech Review",
-      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#16",
-      "published": "Mon, 24 Aug 2026 09:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomo",
-      "published": "Mon, 19 Jan 2026 14:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Get closer to the game with Gemini and Pixel",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "source": "Google AI",
-      "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
-      "published": "Mon, 17 Aug 2026 08:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Evolve your marketing with new AI tools",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-      "source": "Google AI",
-      "summary": "Advisor UI in Google Ads and Google Analytics",
-      "published": "Mon, 10 Aug 2026 14:30:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Inside our 353,000-person vibe coding course",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "source": "Google AI",
-      "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube",
-      "published": "Mon, 03 Aug 2026 15:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "🔥MakuBoot 5.2 发布，低代码开发平台，快速开发利器",
-      "url": "https://www.oschina.net/news/502184",
-      "source": "开源中国",
-      "summary": "介绍 maku-boot 是采用 SpringBoot4.0、SpringSecurity7.0、Flowable8.0、Mybatis-Plus、Vue3、Element-plus 等技术开发的低代码开发平台，旨在为开发者提供一个简洁、高效、可扩展的低代码开发平台。 使用门槛极低，支持国密加密、达梦数据库等，符合信创需求的低代码开发平台。 采用组件模式，扩展不同的业务功能，可以...",
-      "published": "Fri, 28 Aug 2026 21:00:27 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
       "source": "TechCrunch AI",
-      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-      "published": "Fri, 28 Aug 2026 20:24:11 +0000",
+      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "published": "Mon, 31 Aug 2026 02:34:00 +0000",
       "category": "news"
     },
     {
-      "title": "腾讯混元发布 Hy4 preview：总参数 770 B、1M 上下文，开源并接入游戏引擎和 MCP",
-      "url": "https://www.oschina.net/news/502183",
-      "source": "开源中国",
-      "summary": "腾讯混元今天发布了 Hy4 preview，总参数 770B，激活参数 4.9B，上下文长度 1M，在代码、办公、科学等生产力任务上宣称达到开源模型第一梯队。模型已在 HuggingFace、GitHub、ModelScope 和 Gitcode 开源，同时上线腾讯云 TokenHub 和 OpenRouter。 最大的变化在模型架构之外。Hy4 preview 展示了大量&quot;模型即 agent&quot;的落...",
-      "published": "Fri, 28 Aug 2026 19:32:20 +0800",
-      "category": "news"
+      "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
+      "url": "https://arxiv.org/abs/2608.27459",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2608.27459v1 Announce Type: new  Abstract: In 2011, IBM's Watson was something like a sealed capsule of its era's queryable knowledge. Its DeepQA system defeated the strongest human Jeopardy! ch",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "category": "research"
     },
     {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "source": "TechCrunch AI",
-      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "published": "Fri, 28 Aug 2026 19:30:38 +0000",
-      "category": "news"
+      "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
+      "url": "https://arxiv.org/abs/2608.27463",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2608.27463v1 Announce Type: new  Abstract: LLMs now sit on every side of evaluation: as examinees scored on benchmarks, judges of other models' outputs, and raters of human-generated content. Ea",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "category": "research"
     },
     {
-      "title": "🔥 新增 DeepSeek V4 Flash，支持推理续调与联网搜索：开源 AI 无代码平台 NocoBase",
-      "url": "https://www.oschina.net/news/502182",
-      "source": "开源中国",
-      "summary": "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支： main、next 和 develop。** main： 截至目前最稳定的版本，推荐安装此版本。 next： 包含即将发布的新功能，经过初步测试的版本，可能存在部分已知或未知问题。主要面向测试用户，用于收集反馈和进一步优化功能。适合愿意提前体验...",
-      "published": "Fri, 28 Aug 2026 19:24:47 +0800",
-      "category": "news"
+      "title": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
+      "url": "https://arxiv.org/abs/2608.27464",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2608.27464v1 Announce Type: new  Abstract: This position paper argues that human-centered explainable AI (HCXAI) should incorporate insights from the psychology of information seeking. Drawing o",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "category": "research"
     },
     {
-      "title": "Ultralytics YOLO Vision 2026 报名开启！开放视界，为现实而生",
-      "url": "https://www.oschina.net/event/8598381",
-      "source": "开源中国",
-      "summary": "今年9月，Ultralytics YOLO Vision将第二次来到深圳！YOLO Vision 2026（YV26）将汇聚企业领袖、创业者、工程师、研究人员、学生和开源贡献者，一起聊聊视觉AI的下一步，以及它正在如何影响真实世界。 现场将带来最新技术、实战经验和深入交流，从前沿研究和模型开发，到规模化部署和生产落地，覆盖完整的视觉AI发展路线...",
-      "published": "Fri, 28 Aug 2026 18:21:11 +0800",
-      "category": "news"
+      "title": "Retrieving Relations, Detecting Fallacies: A RAG Approach to Political Debate Analysis",
+      "url": "https://arxiv.org/abs/2608.27471",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2608.27471v1 Announce Type: new  Abstract: Fallacies are arguments that employ invalid reasoning, making their automatic detection critical in sensitive contexts such as high-stakes political de",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "category": "research"
     },
     {
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "source": "TechCrunch AI",
-      "summary": "There's a lot of capital pouring into the business of giving models away.",
-      "published": "Fri, 28 Aug 2026 18:19:40 +0000",
-      "category": "news"
+      "title": "LLM-Augmented Causal Discovery: Probabilistic Fusion of Edge Existence and Orientation",
+      "url": "https://arxiv.org/abs/2608.27472",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2608.27472v1 Announce Type: new  Abstract: Bayesian network structure learning (BNSL) from observational data struggles with orientation identifiability, while large language models (LLMs) offer",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "category": "research"
     },
     {
-      "title": "下一层抽象：从UX角度思考Agentic OS的样貌",
-      "url": "https://www.infoq.cn/article/c4zPz7WHXryL5Erw7xop?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 28 Aug 2026 18:00:00 GMT",
-      "category": "news"
+      "title": "Hypothesize, Evaluate, Refine: A Scientific Agent for PDE Discovery with Unknown Spatial Coefficient Fields",
+      "url": "https://arxiv.org/abs/2608.27475",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2608.27475v1 Announce Type: new  Abstract: Discovering PDEs in heterogeneous media requires jointly identifying the governing operator and the unknown spatial fields that parameterize it. These ",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "category": "research"
     },
     {
-      "title": "DuckDB v2.0 重磅预览：从嵌入式数据库迈向分布式架构",
-      "url": "https://www.infoq.cn/article/9YLW3ZxLvrqxOVzSh9Y1?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 28 Aug 2026 17:00:00 GMT",
-      "category": "news"
+      "title": "Class-Based Heuristic Selection for Solving the Flying Block Puzzle",
+      "url": "https://arxiv.org/abs/2608.27476",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2608.27476v1 Announce Type: new  Abstract: Heuristic search underlies planning in autonomous systems ranging from warehouse logistics to robotic navigation, yet generic heuristics fail to exploi",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "category": "research"
     },
     {
-      "title": "给 AI 以“情感”，魔珐科技寻找有活人感的 Agent 作品",
-      "url": "https://www.oschina.net/news/502174",
-      "source": "开源中国",
-      "summary": "大模型技术普及到今天，AI 应用的交互形态反而显得有点缺少“人情味”。大部分 AI 产品停留在文本对话框或单向语音播报，没有形象、没有表情、没有肢体表达，冷冰冰的界面很难传递温度和信任感。展厅讲解、情感陪伴、教育科普、文旅导览、人形机器人陪伴这些场景，要的是一个能说话、有表情、会动作、能实时回应的“人”...",
-      "published": "Fri, 28 Aug 2026 16:57:53 +0800",
-      "category": "news"
+      "title": "Benchmarking General Mobile Assistants in Challenging Real-World Scenarios",
+      "url": "https://arxiv.org/abs/2608.27477",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2608.27477v1 Announce Type: new  Abstract: Graphical user interfaces have emerged as an important environment for evaluating autonomous AI agents on multimodal interactive tasks. Existing benchm",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "category": "research"
     },
     {
-      "title": "圆桌讨论：研究型人才培养与数据库未来发展方向",
-      "url": "https://www.infoq.cn/video/kJ0ARKZePg80FpGY1J3Y?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 28 Aug 2026 16:55:25 GMT",
-      "category": "news"
+      "title": "Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization",
+      "url": "https://arxiv.org/abs/2608.27507",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2608.27507v1 Announce Type: new  Abstract: Policy Gradient for Parallel State Entropy maximization (PGPSE) expands state-space coverage by training independently parameterized policies in replic",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "category": "research"
     },
     {
-      "title": "Token消耗减少75%，千问办公创造了新的“省钱模式”",
-      "url": "https://www.infoq.cn/article/70zHFKxwRRGIjBO8EUtC?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 28 Aug 2026 16:54:48 GMT",
-      "category": "news"
+      "title": "Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap",
+      "url": "https://arxiv.org/abs/2608.27512",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2608.27512v1 Announce Type: new  Abstract: Post-training quantization is often treated as a semantically neutral optimization for edge deployment of Large Language Models. When a full-precision ",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "category": "research"
     },
     {
-      "title": "产品更新｜Memmy 支持 Linux 啦！",
-      "url": "https://www.oschina.net/news/502173",
-      "source": "开源中国",
-      "summary": "v1.1.1 已正式发布，Linux CLI 安装资源已上线 ～ 大家千呼万唤的，Memmy 正式支持 Linux 啦！ 很多开发者的 AI 工作发生在终端里：在本地工作站处理项目，在远程开发环境中运行 Agent，或在 Linux 服务器上持续执行任务。项目背景、过去的排查过程、常用偏好和已经验证过的方案，会随着一次次会话逐渐积累。 这次 Linu...",
-      "published": "Fri, 28 Aug 2026 16:54:12 +0800",
-      "category": "news"
+      "title": "DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization",
+      "url": "https://arxiv.org/abs/2608.27513",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2608.27513v1 Announce Type: new  Abstract: Softmax attention stores key and value vectors for every preceding token, causing inference memory to grow with sequence length. Recent language models",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "category": "research"
     },
     {
-      "title": "数据库测试、测评：进展与展望 | 腾讯云数据库 DBTalk",
-      "url": "https://www.infoq.cn/video/SD7eGfAXrr5K0spls5LO?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 28 Aug 2026 16:35:03 GMT",
-      "category": "news"
+      "title": "A Deeper Analysis of Block-Sparse Featurizers",
+      "url": "https://arxiv.org/abs/2608.27515",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2608.27515v1 Announce Type: new  Abstract: The recently introduced block-sparse featurizer (BSF; Fel et al., 2026) is similar to a sparse autoencoder (SAE), but its atomic unit is a small subspa",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "category": "research"
     },
     {
-      "title": "【AI 智能运维平台】本周更新：APM应用性能监测功能正式发布，性能瓶颈一目了然",
-      "url": "https://www.oschina.net/news/502170",
-      "source": "开源中国",
-      "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。 :hammer_and_wrench: 系统管理 • 安全策略支持 OTP 白名单 • 用户管理支持OTP解绑 • AD 用户同步支持配置多个拉取 DN :desktop_computer: 节点管理 • Windows 远程安装...",
-      "published": "Fri, 28 Aug 2026 16:10:14 +0800",
-      "category": "news"
+      "title": "When Muon Meets Task Interference: A Spectral Perspective on Continual Learning and Model Merging",
+      "url": "https://arxiv.org/abs/2608.27518",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2608.27518v1 Announce Type: new  Abstract: Continual learning (CL) and model merging (MM) both aim to obtain a single model that performs well across multiple tasks, challenged respectively by c",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "category": "research"
     },
     {
-      "title": "腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
-      "url": "https://www.infoq.cn/article/SxrNXURUimQf4hL83ybj?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 28 Aug 2026 16:09:08 GMT",
-      "category": "news"
+      "title": "Dandelion: A Spherical Flower for Neural Simulation of Planetary Dynamics",
+      "url": "https://arxiv.org/abs/2608.27521",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2608.27521v1 Announce Type: new  Abstract: Many dynamical processes unfold on the sphere but the default scientific machine learning architectures are Euclidean. Applying these architectures on ",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "category": "research"
     },
     {
-      "title": "大模型和硬件之间，长出了一层新生意",
-      "url": "https://www.infoq.cn/article/IROW9KWVs4zSCByU8wQE?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 28 Aug 2026 15:57:35 GMT",
-      "category": "news"
+      "title": "Self-Explainable Multi-Label Graph Neural Network for Correlated Evidence Attribution",
+      "url": "https://arxiv.org/abs/2608.27574",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2608.27574v1 Announce Type: new  Abstract: Multi-label graph learning intends to capture the intrinsic complexity of real-world applications, where one sample is often related to multiple groups",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "category": "research"
     },
     {
-      "title": "2026年中国企业AI转型洞察报告",
-      "url": "https://www.infoq.cn/minibook/oYXpDApcpvvgHIOzIOXp?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 28 Aug 2026 15:53:42 GMT",
-      "category": "news"
-    },
-    {
-      "title": "规模化 AI 代码审查：LinkedIn 的多智能体方案",
-      "url": "https://www.infoq.cn/article/A0CMcU7UVsMQreKPcKOw?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 28 Aug 2026 15:36:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "AI Has Human Doctors Asking: What’s Left for Us?",
-      "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
-      "source": "Wired",
-      "summary": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
-      "published": "Fri, 28 Aug 2026 15:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
-      "url": "https://www.infoq.cn/article/REPGvBlF661I4hRmvV8J?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 28 Aug 2026 14:20:17 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
-      "url": "https://www.infoq.cn/article/JDYKJmiY9vTRSw47t15a?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 28 Aug 2026 14:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "source": "TechCrunch AI",
-      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-      "published": "Fri, 28 Aug 2026 12:46:12 +0000",
-      "category": "news"
-    },
-    {
-      "title": "从云原生数据库到数据基础设施：架构、弹性与智能化演进 | 腾讯云数据库 DBTalk",
-      "url": "https://www.infoq.cn/video/gaAV7GRNCXWITqLRGu0H?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 28 Aug 2026 12:31:09 GMT",
-      "category": "news"
-    },
-    {
-      "title": "S3 兼容不代表具备 S3 级别的安全性",
-      "url": "https://www.infoq.cn/article/xr3L0bkiFZGzYmtZwscB?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 28 Aug 2026 12:30:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "source": "TechCrunch AI",
-      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-      "published": "Fri, 28 Aug 2026 12:21:06 +0000",
-      "category": "news"
-    },
-    {
-      "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
-      "url": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
-      "source": "Wired",
-      "summary": "The art portfolio platform Cara, designed for creators who don’t want their work used to train AI, has been under assault by trolls seizing and publishing its data.",
-      "published": "Fri, 28 Aug 2026 11:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
-      "url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
-      "source": "Wired",
-      "summary": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk.",
-      "published": "Fri, 28 Aug 2026 10:56:22 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "source": "OpenAI",
-      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "published": "Fri, 28 Aug 2026 06:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
-      "url": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
-      "source": "Wired",
-      "summary": "A federal judge has called the Department of Defense’s designation of Anthropic as a national security supply-chain risk “illegal and baseless.”",
-      "published": "Fri, 28 Aug 2026 03:04:14 +0000",
-      "category": "news"
+      "title": "Curvature-Aware Radius Shrinkage for Adaptive Nearest Neighbor Classification",
+      "url": "https://arxiv.org/abs/2608.27634",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2608.27634v1 Announce Type: new  Abstract: Nearest neighbor classification relies fundamentally on how locality is defined, yet conventional $k$-NN imposes the same neighborhood cardinality thro",
+      "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+      "category": "research"
     }
   ]
 }
