@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T11:53:24.168972",
+  "updated_at": "2026-09-05T11:02:58.684284",
   "total": 100,
   "items": [
     {
@@ -40,62 +40,6 @@
       "source": "Google AI",
       "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
       "published": "Wed, 19 Aug 2026 19:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-      "published": "Wed, 02 Sep 2026 23:01:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "source": "TechCrunch AI",
-      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-      "published": "Wed, 02 Sep 2026 22:44:56 +0000",
-      "category": "news"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "source": "TechCrunch AI",
-      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "published": "Wed, 02 Sep 2026 22:24:09 +0000",
-      "category": "news"
-    },
-    {
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "source": "TechCrunch AI",
-      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-      "published": "Wed, 02 Sep 2026 20:19:14 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-      "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
-      "source": "Wired",
-      "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
-      "published": "Wed, 02 Sep 2026 18:41:02 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "source": "TechCrunch AI",
-      "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, l",
-      "published": "Wed, 02 Sep 2026 17:18:13 +0000",
-      "category": "news"
-    },
-    {
-      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-      "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-      "source": "TechCrunch AI",
-      "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, l",
-      "published": "Wed, 02 Sep 2026 17:09:57 +0000",
       "category": "news"
     },
     {
@@ -235,14 +179,6 @@
       "category": "news"
     },
     {
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "source": "OpenAI",
-      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-      "published": "Thu, 27 Aug 2026 09:00:00 GMT",
-      "category": "news"
-    },
-    {
       "title": "Bring your spreadsheet data to life with Sheets canvas",
       "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "source": "Google AI",
@@ -331,38 +267,6 @@
       "category": "news"
     },
     {
-      "title": "从内部 Side Project 到 3.9 万开发者使用，Kiro Crew 创造者亲述开发幕后",
-      "url": "https://www.infoq.cn/article/hcQKK8OIfwlMKw2zQSS9?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 03 Sep 2026 17:54:55 GMT",
-      "category": "news"
-    },
-    {
-      "title": "当Agent开始“吃数据”，传统湖仓不够用了：华为云重构数据基础设施",
-      "url": "https://www.infoq.cn/article/IE4CYYwbLYYKSbg7lXfx?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 03 Sep 2026 17:19:14 GMT",
-      "category": "news"
-    },
-    {
-      "title": "3个月拿下 3000 star，只因我们比 MinerU 多做了这件事",
-      "url": "https://www.infoq.cn/article/SJOBmxzKUJ5kX7TLNVKC?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 03 Sep 2026 17:09:32 GMT",
-      "category": "news"
-    },
-    {
-      "title": "李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
-      "url": "https://www.infoq.cn/article/9YiEhb3hAFtUlxOpMdGC?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 03 Sep 2026 16:49:43 GMT",
-      "category": "news"
-    },
-    {
       "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
       "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
       "source": "Wired",
@@ -376,14 +280,6 @@
       "source": "TechCrunch AI",
       "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
       "published": "Thu, 03 Sep 2026 16:09:01 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "source": "TechCrunch AI",
-      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
-      "published": "Thu, 03 Sep 2026 15:00:00 +0000",
       "category": "news"
     },
     {
@@ -411,11 +307,11 @@
       "category": "news"
     },
     {
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "source": "TechCrunch AI",
-      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-      "published": "Thu, 03 Sep 2026 12:42:45 +0000",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source": "OpenAI",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "published": "Thu, 03 Sep 2026 12:00:00 GMT",
       "category": "news"
     },
     {
@@ -427,11 +323,11 @@
       "category": "news"
     },
     {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
       "source": "OpenAI",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "published": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "published": "Thu, 03 Sep 2026 11:00:00 GMT",
       "category": "news"
     },
     {
@@ -443,20 +339,108 @@
       "category": "news"
     },
     {
-      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-      "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
-      "source": "Wired",
-      "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
-      "published": "Thu, 03 Sep 2026 01:32:02 +0000",
-      "category": "news"
-    },
-    {
       "title": "Safety overview: GPT-6 Astra",
       "url": "https://openai.com/index/safety-overview-gpt-6-astra",
       "source": "OpenAI",
       "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
       "published": "Thu, 03 Sep 2026 00:00:00 GMT",
       "category": "news"
+    },
+    {
+      "title": "RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+      "url": "https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 05 Sep 2026 17:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Uber GitFarm：面向大规模单体代码库的 Git 即服务平台",
+      "url": "https://www.infoq.cn/article/3M4uYzNDWiLX6BR9RXwy?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 05 Sep 2026 11:17:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI Agents Hacked Another Website",
+      "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+      "source": "Wired",
+      "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
+      "published": "Sat, 05 Sep 2026 10:30:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+      "url": "https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 05 Sep 2026 09:56:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
+      "url": "https://arxiv.org/abs/2609.02981",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2609.02981v1 Announce Type: new  Abstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose lea",
+      "published": "Sat, 05 Sep 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "MasterControl Seventeen Every Time",
+      "url": "https://arxiv.org/abs/2609.03209",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2609.03209v1 Announce Type: new  Abstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-appro",
+      "published": "Sat, 05 Sep 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+      "url": "https://arxiv.org/abs/2609.03236",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2609.03236v1 Announce Type: new  Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment",
+      "published": "Sat, 05 Sep 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+      "url": "https://arxiv.org/abs/2609.03340",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2609.03340v1 Announce Type: new  Abstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, ",
+      "published": "Sat, 05 Sep 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+      "url": "https://arxiv.org/abs/2609.03402",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2609.03402v1 Announce Type: new  Abstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but often provide limited p",
+      "published": "Sat, 05 Sep 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
+      "url": "https://arxiv.org/abs/2609.03407",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2609.03407v1 Announce Type: new  Abstract: People increasingly turn to large language models (LLMs) for everyday advice, making ethically charged interpersonal problems a practical moral-advisor",
+      "published": "Sat, 05 Sep 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
+      "url": "https://arxiv.org/abs/2609.03416",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2609.03416v1 Announce Type: new  Abstract: LLM-empowered paper-code discrepancy detection has received growing concern since the scaling of research submissions exceeds the manual review capabil",
+      "published": "Sat, 05 Sep 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
+      "url": "https://arxiv.org/abs/2609.03423",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2609.03423v1 Announce Type: new  Abstract: Full-duplex voice agents must continuously decide when to listen, backchannel, interrupt, handle speech overlaps, take the floor, and yield. Existing b",
+      "published": "Sat, 05 Sep 2026 00:00:00 -0400",
+      "category": "research"
     },
     {
       "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
@@ -496,14 +480,6 @@
       "source": "MIT Tech Review",
       "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. S",
       "published": "Mon, 24 Aug 2026 14:20:19 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "source": "MIT Tech Review",
-      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#16",
-      "published": "Mon, 24 Aug 2026 09:00:00 +0000",
       "category": "news"
     },
     {
@@ -547,11 +523,59 @@
       "category": "news"
     },
     {
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "source": "TechCrunch AI",
+      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+      "published": "Fri, 04 Sep 2026 23:36:14 +0000",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "source": "TechCrunch AI",
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "published": "Fri, 04 Sep 2026 23:15:11 +0000",
+      "category": "news"
+    },
+    {
+      "title": "鸿蒙 AI Coding 的研发新范式与工程实践",
+      "url": "https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 04 Sep 2026 22:18:30 GMT",
+      "category": "news"
+    },
+    {
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "source": "TechCrunch AI",
+      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "published": "Fri, 04 Sep 2026 21:12:11 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Tech Review",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. T",
+      "published": "Fri, 04 Sep 2026 18:39:19 +0000",
+      "category": "news"
+    },
+    {
       "title": "Spring Boot 中的后量子密码学：一个冲刺周期内即可交付的四种模式",
       "url": "https://www.infoq.cn/article/hWQs9a123hhtDYtk0ADQ?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Fri, 04 Sep 2026 17:23:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "What will Apple’s John Ternus era look like?",
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "source": "TechCrunch AI",
+      "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Ap",
+      "published": "Fri, 04 Sep 2026 17:18:00 +0000",
       "category": "news"
     },
     {
@@ -563,11 +587,27 @@
       "category": "news"
     },
     {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "source": "TechCrunch AI",
+      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "published": "Fri, 04 Sep 2026 16:21:11 +0000",
+      "category": "news"
+    },
+    {
       "title": "🔥 优化及缺陷修复：开源 AI 无代码平台 NocoBase",
       "url": "https://www.oschina.net/news/502322",
       "source": "开源中国",
       "summary": "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支： main、next 和 develop。 main： 截至目前最稳定的版本，推荐安装此版本。 next： 包含即将发布的新功能，经过初步测试的版本，可能存在部分已知或未知问题。主要面向测试用户，用于收集反馈和进一步优化功能。适合愿意提前体验新...",
       "published": "Fri, 04 Sep 2026 16:19:17 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "source": "TechCrunch AI",
+      "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Ap",
+      "published": "Fri, 04 Sep 2026 16:04:08 +0000",
       "category": "news"
     },
     {
@@ -595,11 +635,35 @@
       "category": "news"
     },
     {
+      "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
+      "url": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+      "source": "Wired",
+      "summary": "While philosophers ponder AI consciousness, the models have ideas of their own.",
+      "published": "Fri, 04 Sep 2026 15:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Google’s Gemini Spark can now manage your Google Photos library",
+      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "source": "TechCrunch AI",
+      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+      "published": "Fri, 04 Sep 2026 14:47:11 +0000",
+      "category": "news"
+    },
+    {
       "title": "编码、办公、设计都擅长的 covo-agent v0.1.1 发布，优化终端交互体验",
       "url": "https://www.oschina.net/news/502316",
       "source": "开源中国",
       "summary": "covo-agent 是一款面向终端、使用 Go 编写、采用 AGPL-3.0 协议开源的通用型 AI Agent，覆盖日常工作、软件开发、自动化以及与外部系统协作等场景，支持交互式 TUI、一次性执行、策略受控的无头运行三种模式。 本次 v0.1.1 版本主要聚焦终端界面（TUI）的交互体验优化： 接通此前遗留的 TUI 面板，界面更完整； - 修复输...",
       "published": "Fri, 04 Sep 2026 14:18:54 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+      "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+      "source": "TechCrunch AI",
+      "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+      "published": "Fri, 04 Sep 2026 14:00:00 +0000",
       "category": "news"
     },
     {
@@ -737,70 +801,6 @@
       "summary": "点击查看原文>",
       "published": "Fri, 04 Sep 2026 09:21:00 GMT",
       "category": "news"
-    },
-    {
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "source": "TechCrunch AI",
-      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-      "published": "Fri, 04 Sep 2026 04:21:03 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "source": "TechCrunch AI",
-      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-      "published": "Fri, 04 Sep 2026 00:48:42 +0000",
-      "category": "news"
-    },
-    {
-      "title": "OwnCode安全优先的编程工具，进行了优化，更省token",
-      "url": "https://www.oschina.net/news/502306",
-      "source": "开源中国",
-      "summary": "仔细核对了AI生成的提示词，对提示词进行了精减。对整个流进行了分析优化，比原来更省token。 对提示词结构进行了优化，AI更能精准的理解你的需求，比之前的表现更好。 在使用AI编程工具的时候，是否但心自己的数据库账号密码被发到云端？是但心自己的各种密钥被发到云端？OwnCode 会在发给大模型之前对这些信息进行脱敏...",
-      "published": "Fri, 04 Sep 2026 00:22:57 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
-      "url": "https://arxiv.org/abs/2609.02981",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2609.02981v1 Announce Type: new  Abstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose lea",
-      "published": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "MasterControl Seventeen Every Time",
-      "url": "https://arxiv.org/abs/2609.03209",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2609.03209v1 Announce Type: new  Abstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-appro",
-      "published": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
-      "url": "https://arxiv.org/abs/2609.03236",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2609.03236v1 Announce Type: new  Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment",
-      "published": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
-      "url": "https://arxiv.org/abs/2609.03340",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2609.03340v1 Announce Type: new  Abstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, ",
-      "published": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
-      "url": "https://arxiv.org/abs/2609.03402",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2609.03402v1 Announce Type: new  Abstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but often provide limited p",
-      "published": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "category": "research"
     }
   ]
 }
