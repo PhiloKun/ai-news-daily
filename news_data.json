@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T11:23:02.719906",
+  "updated_at": "2026-09-13T12:26:32.634670",
   "total": 100,
   "items": [
     {
@@ -32,14 +32,6 @@
       "source": "Wired",
       "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
       "published": "Wed, 09 Sep 2026 22:11:55 +0000",
-      "category": "news"
-    },
-    {
-      "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
-      "url": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
-      "source": "Wired",
-      "summary": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not under the city’s jurisdiction.",
-      "published": "Wed, 09 Sep 2026 21:15:27 +0000",
       "category": "news"
     },
     {
@@ -251,22 +243,6 @@
       "category": "news"
     },
     {
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "source": "TechCrunch AI",
-      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
-      "published": "Thu, 10 Sep 2026 17:54:44 +0000",
-      "category": "news"
-    },
-    {
-      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "source": "TechCrunch AI",
-      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-      "published": "Thu, 10 Sep 2026 17:45:00 +0000",
-      "category": "news"
-    },
-    {
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
       "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
       "source": "OpenAI",
@@ -347,6 +323,62 @@
       "category": "news"
     },
     {
+      "title": "‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+      "url": "https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 13 Sep 2026 16:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Figma 如何利用 AI 代理提升安全性",
+      "url": "https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 13 Sep 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Read, Don't Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
+      "url": "https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 13 Sep 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "AI Agents Are Thirsty for Power",
+      "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+      "source": "Wired",
+      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
+      "published": "Sun, 13 Sep 2026 10:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "AI的新用法，被这群 Builder 带到了外滩大会开发者日",
+      "url": "https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 12 Sep 2026 20:35:26 GMT",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "source": "TechCrunch AI",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "published": "Sat, 12 Sep 2026 20:19:16 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "TechCrunch AI",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "published": "Sat, 12 Sep 2026 19:34:44 +0000",
+      "category": "news"
+    },
+    {
       "title": "Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架",
       "url": "https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
@@ -401,70 +433,6 @@
       "summary": "点击查看原文>",
       "published": "Sat, 12 Sep 2026 10:00:00 GMT",
       "category": "news"
-    },
-    {
-      "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
-      "url": "https://arxiv.org/abs/2609.10584",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2609.10584v1 Announce Type: new  Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance withi",
-      "published": "Sat, 12 Sep 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
-      "url": "https://arxiv.org/abs/2609.10629",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2609.10629v1 Announce Type: new  Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to i",
-      "published": "Sat, 12 Sep 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
-      "url": "https://arxiv.org/abs/2609.10654",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2609.10654v1 Announce Type: new  Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. Th",
-      "published": "Sat, 12 Sep 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
-      "url": "https://arxiv.org/abs/2609.10656",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2609.10656v1 Announce Type: new  Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net",
-      "published": "Sat, 12 Sep 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
-      "url": "https://arxiv.org/abs/2609.10657",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2609.10657v1 Announce Type: new  Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretica",
-      "published": "Sat, 12 Sep 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
-      "url": "https://arxiv.org/abs/2609.10712",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2609.10712v1 Announce Type: new  Abstract: We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics. Starting from N",
-      "published": "Sat, 12 Sep 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
-      "url": "https://arxiv.org/abs/2609.10724",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2609.10724v1 Announce Type: new  Abstract: Sustained deployment of generative AI agents requires more than isolated task success. Agents must remain useful across repeated interactions, changing",
-      "published": "Sat, 12 Sep 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Towards a Deterministic Math Solver for Clinical Language Models",
-      "url": "https://arxiv.org/abs/2609.10728",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2609.10728v1 Announce Type: new  Abstract: Large language models are unreliable at arithmetic, which is a problem for clinical calculators where a single numerical error changes the recommendati",
-      "published": "Sat, 12 Sep 2026 00:00:00 -0400",
-      "category": "research"
     },
     {
       "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
@@ -579,7 +547,7 @@
       "category": "news"
     },
     {
-      "title": "Roundtables: AI’s apocalypse crisis",
+      "title": "Roundtables: Could AI really kill us all?",
       "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "source": "MIT Tech Review",
       "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a",
@@ -643,14 +611,6 @@
       "category": "news"
     },
     {
-      "title": "HashiCorp Packer 1.16 发布，支持机器镜像 SLSA 来源证明生成与核验",
-      "url": "https://www.infoq.cn/article/v3VX3eqmROVDJ38rQOh0?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 11 Sep 2026 17:00:00 GMT",
-      "category": "news"
-    },
-    {
       "title": "OmniStudio | 一个本地优先、完全免费的开源桌面终端",
       "url": "https://my.oschina.net/u/4806939/blog/19757902",
       "source": "开源中国",
@@ -664,14 +624,6 @@
       "source": "TechCrunch AI",
       "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
       "published": "Fri, 11 Sep 2026 16:46:25 +0000",
-      "category": "news"
-    },
-    {
-      "title": "当 AI 写出更多代码，企业为什么没有跑得更快？| JDD 大会现场观察",
-      "url": "https://www.infoq.cn/article/Y02WwW92ZqjLXQQvIWWi?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 11 Sep 2026 16:10:31 GMT",
       "category": "news"
     },
     {
@@ -712,22 +664,6 @@
       "source": "Wired",
       "summary": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
       "published": "Fri, 11 Sep 2026 15:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Netflix 采用开源 Flink Autoscaler，支撑超 3 万个流式作业",
-      "url": "https://www.infoq.cn/article/8JZ9IdSIxo18dcz6pZG6?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 11 Sep 2026 14:40:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "AI 有了“工号”，数据平台长出了手：我在 Snowflake World Tour 看到的三个变化",
-      "url": "https://www.infoq.cn/article/RLdCKyW7YNb8ybDKlQ5d?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 11 Sep 2026 13:36:27 GMT",
       "category": "news"
     },
     {
@@ -801,6 +737,70 @@
       "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
       "published": "Fri, 11 Sep 2026 10:00:00 GMT",
       "category": "news"
+    },
+    {
+      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+      "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+      "source": "Wired",
+      "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
+      "published": "Fri, 11 Sep 2026 09:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Tech Review",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. T",
+      "published": "Fri, 04 Sep 2026 18:39:19 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "source": "MIT Tech Review",
+      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far",
+      "published": "Fri, 04 Sep 2026 09:25:19 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Open source AI must win",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "source": "Hacker News",
+      "summary": "⭐ 1603 points | by vednig | 💬 482 comments",
+      "published": "2026-06-13T02:14:24Z",
+      "category": "community"
+    },
+    {
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "source": "Hacker News",
+      "summary": "⭐ 1467 points | by xiaoyu2006 | 💬 536 comments",
+      "published": "2026-06-12T04:42:53Z",
+      "category": "community"
+    },
+    {
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "source": "Hacker News",
+      "summary": "⭐ 800 points | by lordleft | 💬 1381 comments",
+      "published": "2026-06-03T17:51:37Z",
+      "category": "community"
+    },
+    {
+      "title": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "source": "Hacker News",
+      "summary": "⭐ 2013 points | by theorchid | 💬 950 comments",
+      "published": "2026-05-27T10:43:25Z",
+      "category": "community"
+    },
+    {
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "source": "Hacker News",
+      "summary": "⭐ 2105 points | by reasonableklout | 💬 1272 comments",
+      "published": "2026-05-15T20:26:47Z",
+      "category": "community"
     }
   ]
 }
