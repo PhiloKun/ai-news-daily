@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T12:08:31.340804",
+  "updated_at": "2026-10-04T12:57:20.846885",
   "total": 100,
   "items": [
     {
@@ -43,22 +43,6 @@
       "category": "news"
     },
     {
-      "title": "The Battle to Be Your Personal AI Agent Is Here",
-      "url": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
-      "source": "Wired",
-      "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
-      "published": "Wed, 30 Sep 2026 19:30:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
-      "url": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
-      "source": "Wired",
-      "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
-      "published": "Wed, 30 Sep 2026 19:00:00 +0000",
-      "category": "news"
-    },
-    {
       "title": "Anthropic 红队盯上 GLM-5.3：能力追平 Mythos，却连拒绝护栏都是摆设",
       "url": "https://www.oschina.net/news/502835/anthropic-research-glm-5-3-advanced-cyber-capabilities",
       "source": "开源中国",
@@ -83,14 +67,6 @@
       "category": "news"
     },
     {
-      "title": "机房堆满算力卡，业务却还在排队？这份评估报告拆开了“算力荒假象”的破局账本",
-      "url": "https://www.infoq.cn/article/bduvBdbgwxj6DMbNeKCC?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Wed, 30 Sep 2026 17:37:10 GMT",
-      "category": "news"
-    },
-    {
       "title": "OpenAI 发布 GPT‑6.1 Sol：智能水平接近 Astra、价格仅为其五分之一",
       "url": "https://www.oschina.net/news/502831/openai-gpt-6-1-sol",
       "source": "开源中国",
@@ -104,22 +80,6 @@
       "source": "开源中国",
       "summary": "Google 用一份支持文档，悄悄把 Chromebook 们的寿命砍了两年。文档标题很客气——「What the Googlebook announcement means for your ChromeOS devices」，但内容很直接：现在买入的 Chromebook，更新支持在 2034 年就画上句号，而不是原来说好的十年。 Googlebook 是 Chromebook 的接班产品线。Chromebook 2011 年发布...",
       "published": "Wed, 30 Sep 2026 16:09:49 +0800",
-      "category": "news"
-    },
-    {
-      "title": "意图驱动治理：分钟级实现敏感数据规模化保护｜ 技术实践",
-      "url": "https://www.infoq.cn/article/ZBXXP1BuZMIGusWyQZvB?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Wed, 30 Sep 2026 15:42:49 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Changesets 3.0 发布：对等依赖下游包默认升补丁版本，纯 ESM 发布，安装体积缩减 88%",
-      "url": "https://www.infoq.cn/article/JEw7578VW84g7wmh75gM?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Wed, 30 Sep 2026 15:25:27 GMT",
       "category": "news"
     },
     {
@@ -160,38 +120,6 @@
       "source": "开源中国",
       "summary": "MateClaw 2.3.0 正式版已于 2026 年 9 月 20 日发布。本次版本为 Persistent Goal 增加用户配置的托管 JSON 验收：Agent 发布不可变产物版本，服务端将检查结果绑定到当前要求与具体 generation，所有当前绑定有效后才允许完成目标。 同时发布的还有观察模式执行证据、Team Worker 受控干预、Skill 文档及文件夹上传，以...",
       "published": "Wed, 30 Sep 2026 14:08:44 +0800",
-      "category": "news"
-    },
-    {
-      "title": "DeepSeek Harness v0.2 发布桌面版：装插件靠 npm 包名，还能让 AI 自己写插件",
-      "url": "https://www.oschina.net/news/502817",
-      "source": "开源中国",
-      "summary": "DeepSeek Harness 终于有了「开箱即用」的样子。本周（9 月 29 日）v0.2 预览版正式发布，同时放出 macOS 和 Windows 桌面端安装包，去官网 deepseek.com/harness 下载装上、跟着引导走就能上手，不用再折腾命令行。 新版本主打日常办公和开发的开箱即用，把常用能力直接预置进去。你可以丢给它文档、表格或 PDF，让它整...",
-      "published": "Wed, 30 Sep 2026 13:59:16 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Resumv 开源：免注册、本地保存的简历制作工具，支持 15 套模板",
-      "url": "https://www.oschina.net/news/502816",
-      "source": "开源中国",
-      "summary": "Resumv 是一款新近开源的简历制作工具，采用 Astro、React 和 TypeScript 构建，以“免注册、免登录、简历内容保存在浏览器”为核心设计。用户可以直接打开网站编辑和预览简历，也可以将项目部署到自己的静态网站托管环境。 项目地址：https://github.com/liusha-com/resumv 在线体验：https://resumv.com 主要功能 15 套...",
-      "published": "Wed, 30 Sep 2026 13:26:45 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Termexo v0.10.9 发布：五种 Agent 状态集中显示，终端内可确认完成",
-      "url": "https://www.oschina.net/news/502815",
-      "source": "开源中国",
-      "summary": "开源 Windows 多 Agent 工作台 Termexo 发布 v0.10.9。这次更新把工作区内的 Agent 状态收成按终端顺序排列的图标：空闲为灰色，运行和思考为绿色闪动，异常与等待授权为红色，完成为绿色对号。鼠标悬停可查看对应窗口名称；重命名终端后，提示名称也会同步更新。 状态提醒的目的是帮助开发者找到需要处理的终端。看到完...",
-      "published": "Wed, 30 Sep 2026 13:20:38 +0800",
-      "category": "news"
-    },
-    {
-      "title": "DeepSeek 开源昇腾基础组件",
-      "url": "https://www.oschina.net/news/502814",
-      "source": "开源中国",
-      "summary": "DeepSeek 今天（9 月 30 日）正式开源面向华为昇腾算力平台的基础设施组件，涵盖 TileLang 高级语言编译工具、计算库、分布式通信库——所有组件与此前面向英伟达平台的开源组件一一对应。 文件里最重的一块是 TileLang 的昇腾版本。DeepSeek 的叙事是：要建立新一代自主可控的 GPU 软件生态，得先有一个通用的、编程简单...",
-      "published": "Wed, 30 Sep 2026 12:40:55 +0800",
       "category": "news"
     },
     {
@@ -371,30 +299,6 @@
       "category": "news"
     },
     {
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "source": "TechCrunch AI",
-      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-      "published": "Thu, 01 Oct 2026 19:21:53 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "source": "TechCrunch AI",
-      "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-      "published": "Thu, 01 Oct 2026 19:18:03 +0000",
-      "category": "news"
-    },
-    {
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "source": "TechCrunch AI",
-      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "published": "Thu, 01 Oct 2026 18:14:42 +0000",
-      "category": "news"
-    },
-    {
       "title": "The eternal complement",
       "url": "https://openai.com/index/the-eternal-complement",
       "source": "OpenAI",
@@ -451,6 +355,78 @@
       "category": "news"
     },
     {
+      "title": "Java新闻汇总：新的OpenJDK JEP、CDI 5.0、Spring、Open Liberty、RefactorFirst和ADK for Kotlin",
+      "url": "https://www.infoq.cn/article/KXmob0H9RXKmJxIlcAaA?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 04 Oct 2026 18:39:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Java新闻汇总：GraalVM、Jakarta Data、JNoSQL、Azul Payara、WildFly、Quarkus和Atmosphere",
+      "url": "https://www.infoq.cn/article/TeFTUfEJdS3CqbpUQ97k?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 04 Oct 2026 17:33:11 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+      "url": "https://www.infoq.cn/article/M4mgbKf4RDv5AKTwQvFH?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 04 Oct 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+      "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+      "source": "Wired",
+      "summary": "Under the One Big Beautiful Bill Act,  data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+      "published": "Sun, 04 Oct 2026 10:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "source": "TechCrunch AI",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "published": "Sat, 03 Oct 2026 18:43:57 +0000",
+      "category": "news"
+    },
+    {
+      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+      "source": "Wired",
+      "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+      "published": "Sat, 03 Oct 2026 18:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "🔥 AI 员工支持知识库文档引用：开源 AI 无代码平台 NocoBase",
+      "url": "https://www.oschina.net/news/502842",
+      "source": "开源中国",
+      "summary": "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支： main、next 和 develop。** main： 截至目前最稳定的版本，推荐安装此版本。 next： 包含即将发布的新功能，经过初步测试的版本，可能存在部分已知或未知问题。主要面向测试用户，用于收集反馈和进一步优化功能。适合愿意提前体验...",
+      "published": "Sat, 03 Oct 2026 17:07:27 +0800",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "source": "TechCrunch AI",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "published": "Sat, 03 Oct 2026 16:30:01 +0000",
+      "category": "news"
+    },
+    {
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "published": "Sat, 03 Oct 2026 14:00:00 +0000",
+      "category": "news"
+    },
+    {
       "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
       "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
       "source": "Wired",
@@ -464,6 +440,22 @@
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Sat, 03 Oct 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "破釜沉舟奔向 1.0：Zig 0.17.0 正式发布",
+      "url": "https://www.oschina.net/news/502841",
+      "source": "开源中国",
+      "summary": "经过 5 个月的密集迭代，汇集全球 206 位贡献者的 925 次代码提交，底层系统编程语言 Zig 迎来了关键的里程碑版本——Zig 0.17.0。对于关注现代编译器技术与底层软件架构的开发者而言，这并不是一次按部就班的常规升级，而是一场伴随着巨大技术阵痛与工程决断的底层洗礼。在这份沉甸甸的更新中，Zig 团队对构建系统进行了...",
+      "published": "Sat, 03 Oct 2026 09:05:58 +0800",
+      "category": "news"
+    },
+    {
+      "title": "从 PyQt6 到 Electron：一款英语字帖生成器的跨平台重构实战与踩坑全记录",
+      "url": "https://www.oschina.net/news/502840",
+      "source": "开源中国",
+      "summary": "原文项目：钟毓英语衡水体字帖生成器 重构前后：PyQt6 v1.1.1 → Electron v2.0.x（跨平台 Windows / macOS / Linux） 关键词：electron-vite、Canvas 2D、tesseract.js OCR、electron-builder、pickle 兼容、Bottles 交叉打包 前言 笔者手上有一款用 PyQt6 开发的英语衡水体字帖生成器，功能挺全乎：四种生成模式（描红...",
+      "published": "Sat, 03 Oct 2026 08:31:43 +0800",
       "category": "news"
     },
     {
@@ -635,6 +627,14 @@
       "category": "news"
     },
     {
+      "title": "灵界 OS 6.0 稳定版 · 窗口渲染优化与应用安装器更新",
+      "url": "https://www.oschina.net/news/502839",
+      "source": "开源中国",
+      "summary": "这次更新两块内容。 1. 窗口渲染优化 开启时的确认弹窗增加「不再提示」 勾选后，下次直接开启，不再弹窗 取消勾选不会记住，下次还会弹 恢复出厂设置会清掉这个记录 2. 应用安装器支持可选 2.txt 没有 2.txt 不影响安装 有的话，每行写一个压缩包内已有文件名 安装时会把这些文件带进应用 列出的资源文件找不到，会报「...",
+      "published": "Fri, 02 Oct 2026 17:30:15 +0800",
+      "category": "news"
+    },
+    {
       "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
       "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
       "source": "TechCrunch AI",
@@ -766,7 +766,7 @@
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "source": "Hacker News",
-      "summary": "⭐ 1902 points | by ereiamjh | 💬 961 comments",
+      "summary": "⭐ 1902 points | by ereiamjh | 💬 962 comments",
       "published": "2026-09-19T09:20:58Z",
       "category": "community"
     },
