@@ -1,23 +1,7 @@
 {
-  "updated_at": "2026-10-05T15:24:59.060917",
+  "updated_at": "2026-10-06T13:46:40.231424",
   "total": 100,
   "items": [
-    {
-      "title": "谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX",
-      "url": "https://www.infoq.cn/article/M6BRTrsyJvUg8y0M0kyh?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Wed, 30 Sep 2026 20:40:07 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
-      "url": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
-      "source": "Wired",
-      "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
-      "published": "Wed, 30 Sep 2026 20:30:09 +0000",
-      "category": "news"
-    },
     {
       "title": "Anthropic 红队盯上 GLM-5.3：能力追平 Mythos，却连拒绝护栏都是摆设",
       "url": "https://www.oschina.net/news/502835/anthropic-research-glm-5-3-advanced-cyber-capabilities",
@@ -72,14 +56,6 @@
       "source": "开源中国",
       "summary": "受Lua启发，支持R5RS，基于字节码和寄存器寻址的Scheme 解释器 字节码编译器，指令集基于寄存器 尾调用优化 一等公民延续（call/cc），multi-short、不限长度，用 callframe 的 copy-on-write 实现 （界定延续 delimited continuation 计划在不久的将来支持） 扁平的 box value（受 Lua 启发），没有链条；被内层 lambda...",
       "published": "Wed, 30 Sep 2026 15:19:00 +0800",
-      "category": "news"
-    },
-    {
-      "title": "【AI 智能运维平台】本周更新：智能体问答现可展示知识库中的图片",
-      "url": "https://www.oschina.net/news/502823",
-      "source": "开源中国",
-      "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。 📢 【平台 · 本周更新速递】 🛠 系统管理 • 支持查看API调用日志 🗂 CMDB • 新增物理服务器 Redfish 采集 🛠 作业平台 • 脚本库支持 ZIP 批量导入导出 • Ansi...",
-      "published": "Wed, 30 Sep 2026 15:01:20 +0800",
       "category": "news"
     },
     {
@@ -195,6 +171,310 @@
       "category": "news"
     },
     {
+      "title": "从依赖专家到开发者自助：一家银行的平台文化转型",
+      "url": "https://www.infoq.cn/article/seZbK4mHm40juM4vmaDy?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Tue, 06 Oct 2026 15:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+      "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+      "source": "Wired",
+      "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
+      "published": "Tue, 06 Oct 2026 13:15:23 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
+      "source": "Wired",
+      "summary": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
+      "published": "Tue, 06 Oct 2026 10:30:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+      "url": "https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Tue, 06 Oct 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件",
+      "url": "https://www.infoq.cn/article/6jvNkzZCm5mjr22zr04D?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Tue, 06 Oct 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Termexo v0.10.10 发布：19 个本地 MCP 工具，五种编程 Agent 自动接入",
+      "url": "https://www.oschina.net/news/502845",
+      "source": "开源中国",
+      "summary": "AI 生成概念图，非产品界面。 MIT 开源的 Windows AI 编程工作台 Termexo 发布 v0.10.10。新版把终端、任务和部分设置开放为 19 个本地 MCP 工具，并支持在 Termexo 新启动的 Claude Code、Codex、OpenCode、Grok Build 和 Antigravity 终端中自动添加连接。 工作台能力作为工具开放 Agent 可以查询工作区和终端，读取指...",
+      "published": "Tue, 06 Oct 2026 07:39:06 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery",
+      "url": "https://arxiv.org/abs/2610.03872",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2610.03872v1 Announce Type: new  Abstract: AI agents are becoming increasingly capable of generating scientific code, but generating code is not the same as improving the algorithms behind it. F",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "REACT: Physically and Chemically Consistent Reconstruction of Marine Active Tracers",
+      "url": "https://arxiv.org/abs/2610.03888",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2610.03888v1 Announce Type: new  Abstract: Reconstructing global sea surface pH from sparse observations is critical for monitoring ocean acidification and understanding marine carbon cycling. T",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Proxy Confidence: Auditing Black-Box LLM Agents with a Surrogate's Log-Probabilities",
+      "url": "https://arxiv.org/abs/2610.03894",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2610.03894v1 Announce Type: new  Abstract: A deployed LLM agent emits tool calls, queries, and code that can be silently wrong -- by the time the error surfaces, the action has run. Frontier cha",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "SGAnalog: An End-to-End Circuit Benchmark from Open-Source Silicon Tapeouts",
+      "url": "https://arxiv.org/abs/2610.03934",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2610.03934v1 Announce Type: new  Abstract: Existing analog integrated circuit design benchmarks make two questions hard to answer: whether a model has learned transferable circuit skills rather ",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "MLLMs Fail to Refuse when Using Tools Agentically",
+      "url": "https://arxiv.org/abs/2610.03938",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2610.03938v1 Announce Type: new  Abstract: Agentic multimodal large language models (MLLMs) have recently pushed the frontier of visual reasoning by calling tools such as zooming and tagging. De",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Retrieval-Augmented Large Language Model Decision-Making for Autonomous Driving Guided by Chinese Philosophical Wisdom",
+      "url": "https://arxiv.org/abs/2610.03948",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2610.03948v1 Announce Type: new  Abstract: Autonomous driving decision systems must balance safety, efficiency, and social norms in complex traffic interactions. Philosophical and ethical consid",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "LatentQuant: Preserving the Policy-Facing Latent Contract under NVFP4 VAE Quantization",
+      "url": "https://arxiv.org/abs/2610.03959",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2610.03959v1 Announce Type: new  Abstract: Recent world action models (WAMs) reuse pretrained video VAEs whose encoder latents directly condition downstream action policies. Quantization must th",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "ROAR: Unifying Runs across Heterogeneous AI-Driven Research Systems",
+      "url": "https://arxiv.org/abs/2610.03966",
+      "source": "ArXiv (AI)",
+      "summary": "arXiv:2610.03966v1 Announce Type: new  Abstract: Each run of an AI-driven research system (ADRS) is an expensive search over a vast solution space, and dependable evaluation requires many runs, making",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Bayes-Sufficient Compression Is Not Enough: How Does Communication Help Multi-Agent Systems?",
+      "url": "https://arxiv.org/abs/2610.03769",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2610.03769v1 Announce Type: new  Abstract: Multi-agent LLM systems pair a sender with broad context and an executor with a limited local view. We study when a short message improves the executor",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Least Squares for Time Series Forecasting",
+      "url": "https://arxiv.org/abs/2610.03812",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2610.03812v1 Announce Type: new  Abstract: A time-series forecast is scored on a future value of the series. A representation loss that regresses the next latent, as in LeNEPA, is a different le",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Memory-State Critic for Asymmetric Actor-Critic with Application to Vision-Based Pursuit-Evasion",
+      "url": "https://arxiv.org/abs/2610.03830",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2610.03830v1 Announce Type: new  Abstract: In partially observable Markov decision processes, the optimal policy generally depends on the history of observations and past actions. Asymmetric act",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Where Does Jagged Competence Come From?",
+      "url": "https://arxiv.org/abs/2610.03831",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2610.03831v1 Announce Type: new  Abstract: Capable systems often show jagged competence: low average error alongside failures on particular inputs. We ask where it comes from in a task built fro",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "LLM-enhanced spatio-temporal learning for grid-level docked bike sharing demand prediction",
+      "url": "https://arxiv.org/abs/2610.03834",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2610.03834v1 Announce Type: new  Abstract: Short-term bike-sharing demand forecasting is complicated by spatial-temporal non-stationarity and the practical difficulty of incorporating unstructur",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "KVE-KD: Key Visual Evidence-Guided Knowledge Distillation for Vision-Language Models",
+      "url": "https://arxiv.org/abs/2610.03842",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2610.03842v1 Announce Type: new  Abstract: Knowledge distillation is crucial for deploying vision-language models on resource-constrained devices. However, existing methods typically impose unif",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "BAT-NO: A Boundary-Condition-Aware Transformer Neural Operator for Crashworthiness Prediction of Vehicle Components",
+      "url": "https://arxiv.org/abs/2610.03854",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2610.03854v1 Announce Type: new  Abstract: High-fidelity finite-element simulations provide accurate crashworthiness predictions, but their cost limits iterative design exploration. Deep learnin",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Retrieval-Centric Deep Learning in Growing Nonparametric Neural Networks",
+      "url": "https://arxiv.org/abs/2610.03858",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2610.03858v1 Announce Type: new  Abstract: We investigate a general-purpose layer for deep learning that, instead of compressing arbitrary-size training data into fixed-size weight matrices, sto",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Fine-Grained Emotion Classification from Mobile App Reviews: An Empirical Study with Large Language Models",
+      "url": "https://arxiv.org/abs/2610.03802",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2610.03802v1 Announce Type: new  Abstract: Context: Fine-grained emotion classification of mobile app reviews enables requirements engineering activities that go beyond polarity-based opinion mi",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Same Output, Different Gold: Measuring How Reference Choice Moves a Multilingual Benchmark Score",
+      "url": "https://arxiv.org/abs/2610.03825",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2610.03825v1 Announce Type: new  Abstract: A benchmark score compares a system output against a reference, and methodological attention falls almost entirely on the first term. We measure the se",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "The Score Is Not the Structure: Brain Alignment and Cross-Lingual Transfer",
+      "url": "https://arxiv.org/abs/2610.03827",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2610.03827v1 Announce Type: new  Abstract: Researchers often support the claim that a model shares structure with the brain, or across languages, by reporting a similarity score. We ask what suc",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "OncoNoteBERT: A Foundation Representation Model for Natural Language Processing of Real-World Outpatient Oncology Notes",
+      "url": "https://arxiv.org/abs/2610.03829",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2610.03829v1 Announce Type: new  Abstract: Real-world outpatient oncology notes contain specialised terminology, tumour staging expressions, treatment names, toxicity descriptions, and instituti",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "SYNLAT: Syntax-Aligned Text-Latent Compression for Chain-of-Thought Reasoning",
+      "url": "https://arxiv.org/abs/2610.03839",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2610.03839v1 Announce Type: new  Abstract: Long chain-of-thought (CoT) traces impose substantial output-token costs. Under constrained budgets, compression must preserve answer-critical informat",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "When Evidence Changes: Evaluating Memory Repair and Re-reading in Language-Model Agents",
+      "url": "https://arxiv.org/abs/2610.03902",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2610.03902v1 Announce Type: new  Abstract: When documents supporting an agent's derived facts are revoked or replaced, should it repair memory or re-read current evidence? We introduce an eviden",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "General Decision Models: Benchmarking and Insights Beyond Jev",
+      "url": "https://arxiv.org/abs/2610.03935",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2610.03935v1 Announce Type: new  Abstract: General decision models, such as Jev, have recently emerged as efficient alternatives to LLMs for structured judgment and selection. But what kinds of ",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "A Step Towards Forgetting: Optimiser History and the Loss of Answer Mass",
+      "url": "https://arxiv.org/abs/2610.03940",
+      "source": "ArXiv (NLP)",
+      "summary": "arXiv:2610.03940v1 Announce Type: new  Abstract: During fine-tuning, a language model can assign less probability to previously learned answers even when the current gradient acts to preserve that pro",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Fractal Cross Product: Theory, Differentiable Implementation and Application to Medical Image Analysis",
+      "url": "https://arxiv.org/abs/2610.03755",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2610.03755v1 Announce Type: new  Abstract: The magnitude of the generalized Euclidean cross product is a Gram volume whose degree under common scaling is fixed by the integer dimension of the sp",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Do Motion Tokenizers for Co-Speech Gesture Generation Encode Gesture Semantics?",
+      "url": "https://arxiv.org/abs/2610.03765",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2610.03765v1 Announce Type: new  Abstract: Discrete motion tokenizers encode motion as atomic units and are widely used for co-speech gesture generation. It remains unclear which motion properti",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "LoRA Direction Extraction for Controllable Light Toggling in FLUX.1 Kontext",
+      "url": "https://arxiv.org/abs/2610.03771",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2610.03771v1 Announce Type: new  Abstract: We propose a fine-tuning method for flow-matching diffusion models aimed at realistic artificial light modeling without the need for a large training d",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Energy Variation in Training Modern Computer Vision Architectures",
+      "url": "https://arxiv.org/abs/2610.03772",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2610.03772v1 Announce Type: new  Abstract: The rapid growth of deep learning has substantially increased the energy consumption associated with model training, making energy efficiency an increa",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "What Do Verifiable Rewards Teach Video-Language Models About Time? A Controlled Multi-Model Study",
+      "url": "https://arxiv.org/abs/2610.03792",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2610.03792v1 Announce Type: new  Abstract: Reinforcement learning from verifiable rewards (RLVR) has produced large reasoning gains in language models, and verifiable video benchmarks make it ap",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "WAMJET: A Harness for World Action Model Acceleration",
+      "url": "https://arxiv.org/abs/2610.03797",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2610.03797v1 Announce Type: new  Abstract: World Action Models (WAMs) leverage pretrained video foundation models for robot manipulation, but their large backbones and video-action co-prediction",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "StepCAD: Mesh-to-CAD Code Generation via LLM Policy and Geometry-Guided Search",
+      "url": "https://arxiv.org/abs/2610.03799",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2610.03799v1 Announce Type: new  Abstract: Recovering executable CAD programs from 3D meshes is challenging due to the compositional nature of CAD construction and the interaction between discre",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
+      "title": "Beyond Token Accuracy: Prioritizing What Matters for Visual Reconstruction",
+      "url": "https://arxiv.org/abs/2610.03822",
+      "source": "ArXiv (Computer Vision)",
+      "summary": "arXiv:2610.03822v1 Announce Type: new  Abstract: Tokens have become a unified interface for multimodal foundation models, making visual-token communication a natural paradigm for efficient image deliv",
+      "published": "Tue, 06 Oct 2026 00:00:00 -0400",
+      "category": "research"
+    },
+    {
       "title": "Making global data easier to explore",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
       "source": "Google AI",
@@ -227,14 +507,6 @@
       "category": "news"
     },
     {
-      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
-      "source": "Wired",
-      "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
-      "published": "Thu, 01 Oct 2026 19:58:31 +0000",
-      "category": "news"
-    },
-    {
       "title": "The eternal complement",
       "url": "https://openai.com/index/the-eternal-complement",
       "source": "OpenAI",
@@ -264,22 +536,6 @@
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Thu, 01 Oct 2026 11:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Elastic Beanstalk 跑上 EKS，开发者质疑：为什么不把 ECS 做好？",
-      "url": "https://www.infoq.cn/article/AYXLumiEmzcCrKrRuq9B?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 01 Oct 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
-      "url": "https://www.infoq.cn/article/TLjNcyBg9Z72HV5kJ2kp?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 01 Oct 2026 10:00:00 GMT",
       "category": "news"
     },
     {
@@ -355,14 +611,6 @@
       "category": "news"
     },
     {
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "source": "TechCrunch AI",
-      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-      "published": "Sat, 03 Oct 2026 18:43:57 +0000",
-      "category": "news"
-    },
-    {
       "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
       "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
       "source": "Wired",
@@ -376,22 +624,6 @@
       "source": "开源中国",
       "summary": "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支： main、next 和 develop。** main： 截至目前最稳定的版本，推荐安装此版本。 next： 包含即将发布的新功能，经过初步测试的版本，可能存在部分已知或未知问题。主要面向测试用户，用于收集反馈和进一步优化功能。适合愿意提前体验...",
       "published": "Sat, 03 Oct 2026 17:07:27 +0800",
-      "category": "news"
-    },
-    {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "source": "TechCrunch AI",
-      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "published": "Sat, 03 Oct 2026 16:30:01 +0000",
-      "category": "news"
-    },
-    {
-      "title": "All the AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch AI",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "published": "Sat, 03 Oct 2026 14:00:00 +0000",
       "category": "news"
     },
     {
@@ -424,14 +656,6 @@
       "source": "开源中国",
       "summary": "原文项目：钟毓英语衡水体字帖生成器 重构前后：PyQt6 v1.1.1 → Electron v2.0.x（跨平台 Windows / macOS / Linux） 关键词：electron-vite、Canvas 2D、tesseract.js OCR、electron-builder、pickle 兼容、Bottles 交叉打包 前言 笔者手上有一款用 PyQt6 开发的英语衡水体字帖生成器，功能挺全乎：四种生成模式（描红...",
       "published": "Sat, 03 Oct 2026 08:31:43 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "source": "TechCrunch AI",
-      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-      "published": "Sat, 03 Oct 2026 00:45:39 +0000",
       "category": "news"
     },
     {
@@ -475,14 +699,6 @@
       "category": "news"
     },
     {
-      "title": "Who’s liable when AI agents go rogue?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-      "source": "MIT Tech Review",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has st",
-      "published": "Mon, 28 Sep 2026 08:06:22 +0000",
-      "category": "news"
-    },
-    {
       "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
       "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
       "source": "OpenAI",
@@ -507,10 +723,66 @@
       "category": "news"
     },
     {
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "source": "TechCrunch AI",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "published": "Mon, 05 Oct 2026 20:36:48 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "source": "TechCrunch AI",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own",
+      "published": "Mon, 05 Oct 2026 19:33:53 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "source": "TechCrunch AI",
+      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal age",
+      "published": "Mon, 05 Oct 2026 18:54:30 +0000",
+      "category": "news"
+    },
+    {
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "source": "TechCrunch AI",
+      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "published": "Mon, 05 Oct 2026 18:29:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "source": "TechCrunch AI",
+      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+      "published": "Mon, 05 Oct 2026 17:29:22 +0000",
+      "category": "news"
+    },
+    {
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "source": "TechCrunch AI",
+      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+      "published": "Mon, 05 Oct 2026 16:43:35 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Connecting AI agents to enterprise knowledge",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "source": "MIT Tech Review",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual orga",
+      "published": "Mon, 05 Oct 2026 15:47:52 +0000",
+      "category": "news"
+    },
+    {
       "title": "OpenAI launches visual ads that appear alongside image generation results",
       "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
       "source": "TechCrunch AI",
-      "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
       "published": "Mon, 05 Oct 2026 15:14:24 +0000",
       "category": "news"
     },
@@ -529,278 +801,6 @@
       "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
       "published": "Mon, 05 Oct 2026 15:00:00 +0000",
       "category": "news"
-    },
-    {
-      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-      "source": "TechCrunch AI",
-      "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-      "published": "Mon, 05 Oct 2026 14:35:09 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
-      "published": "Mon, 05 Oct 2026 14:30:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云",
-      "url": "https://www.infoq.cn/article/8lQVsmY9e7zdJsKcfPzE?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Mon, 05 Oct 2026 14:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-      "published": "Mon, 05 Oct 2026 14:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "source": "MIT Tech Review",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting fr",
-      "published": "Mon, 05 Oct 2026 13:29:32 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-      "source": "TechCrunch AI",
-      "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-      "published": "Mon, 05 Oct 2026 12:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Building advertising for the way people use AI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "source": "OpenAI",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "published": "Mon, 05 Oct 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Cloudflare 将 1.1.1.1 DNS 缓存的内存占用削减了 100TB",
-      "url": "https://www.infoq.cn/article/XWJ8G6GaFmNL74xpSgjU?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Mon, 05 Oct 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "DataAgent - 快手大数据生产与分析的智能化探索之路｜QCon上海",
-      "url": "https://www.infoq.cn/article/yVWAQGCZCzI838JESA1b?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Mon, 05 Oct 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "People really hate AI, so why can’t they get enough?",
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-      "source": "MIT Tech Review",
-      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since:",
-      "published": "Mon, 05 Oct 2026 08:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "SmartCall v1.0.7 发布，新增模型以及音色管理",
-      "url": "https://www.oschina.net/news/502844",
-      "source": "开源中国",
-      "summary": ":book: 项目简介 SmartCall 是一套基于 AI 大模型 + Asterisk 通信引擎构建的新一代智能客服呼叫中心系统。系统深度融合了 AI 语音机器人、智能 IVR 流程编排、端到端双工对话模型、实时语音识别（ASR）、语音合成（TTS）、大模型意图识别 等核心能力，为企业提供从呼入智能应答到智能外呼的全链路 AI 客服解决方案。 无...",
-      "published": "Mon, 05 Oct 2026 03:06:04 +0800",
-      "category": "news"
-    },
-    {
-      "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
-      "url": "https://arxiv.org/abs/2610.02260",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2610.02260v1 Announce Type: new  Abstract: Flow matching models excel at generative modeling, and many downstream applications require their samples to satisfy prescribed constraints, such as ob",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
-      "url": "https://arxiv.org/abs/2610.02267",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2610.02267v1 Announce Type: new  Abstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is relevant, whether an input",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
-      "url": "https://arxiv.org/abs/2610.02281",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2610.02281v1 Announce Type: new  Abstract: Societal resilience research relies on access to useful and actionable data, which motivates our main research question: Can annual reports, processed ",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
-      "url": "https://arxiv.org/abs/2610.02300",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2610.02300v1 Announce Type: new  Abstract: Training-free safeguards for text-to-image generation often rely on a reusable safety signal, such as an unsafe direction or global toxic subspace, app",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
-      "url": "https://arxiv.org/abs/2610.02330",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2610.02330v1 Announce Type: new  Abstract: Large language models (LLMs) rely on long-horizon tool invocation sequences for complex tasks, where each invocation can alter the task state and condi",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "World Editing: Intervening on Executable Worlds at Increasing Depth",
-      "url": "https://arxiv.org/abs/2610.02331",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2610.02331v1 Announce Type: new  Abstract: Interactive world models are increasingly capable of generating environments and acting within them, yet deliberately editing an existing executable wo",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "A Multi Method Importance and Performance Efficiency Analysis of Topological Metrics for Natural Visibility Graph Based Cyber Attack Detection",
-      "url": "https://arxiv.org/abs/2610.02342",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2610.02342v1 Announce Type: new  Abstract: Natural Visibility Graph (NVG) based analysis characterizes network traffic through topological descriptors reflecting different structural properties.",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents",
-      "url": "https://arxiv.org/abs/2610.02351",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2610.02351v1 Announce Type: new  Abstract: ReAct-based agents typically rely on a single LLM policy to propose actions, interact with the environment, and decide when a task is complete. This co",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Hybrid Machine Learning-Assisted Raman Spectroscopy with Generative Feature Augmentation for Pharmaceutical Identification",
-      "url": "https://arxiv.org/abs/2610.02224",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2610.02224v1 Announce Type: new  Abstract: Rapid and reliable identification of pharmaceutical residues is important for safeguarding public health, ensuring food safety, and enabling practical ",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "The Price of Greenwashing: Algorithmic Verification and Market Discipline using Conformal Machine Learning",
-      "url": "https://arxiv.org/abs/2610.02225",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2610.02225v1 Announce Type: new  Abstract: While corporate sustainability mandates are expanding, the systemic reliance on self-reported emissions data exposes financial markets to pervasive gre",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "State-Space Unlearning for Non-Stationary Bias in Land Surface Forecasting",
-      "url": "https://arxiv.org/abs/2610.02248",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2610.02248v1 Announce Type: new  Abstract: Operational land surface forecasting systems built on Mamba-family Structured State Space Models absorb non-stationary confounding events (unrecorded i",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Nearest-neighbour baselines for fingerprint prediction from MS/MS spectra under different assumptions",
-      "url": "https://arxiv.org/abs/2610.02249",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2610.02249v1 Announce Type: new  Abstract: It has recently been shown that nearest-neighbour retrieval provides a strong baseline for molecular fingerprint prediction from MS/MS spectra, with se",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Rank-Aware Speculative Sampling for Diffusion Draft Trees",
-      "url": "https://arxiv.org/abs/2610.02251",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2610.02251v1 Announce Type: new  Abstract: Speculative sampling accelerates diffusion generation by verifying inexpensive draft states in parallel while preserving the target law. Recent tree-ba",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Counterfactual Predictions in Scientific Emulators Without Controlled Experiments",
-      "url": "https://arxiv.org/abs/2610.02252",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2610.02252v1 Announce Type: new  Abstract: Many scientific questions require reasoning about what was never observed: What if the conditions, interventions, or history had been different? Models",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Approximation Property of Dropout Neural Networks: Sobolev Rates and Confidence Bounds",
-      "url": "https://arxiv.org/abs/2610.02253",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2610.02253v1 Announce Type: new  Abstract: The universal approximation property of dropout neural networks does not by itself describe the network size required for an accurate random realizatio",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Overcoming Challenges of Interpretive Structural Modeling with Large Language Models",
-      "url": "https://arxiv.org/abs/2610.02254",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2610.02254v1 Announce Type: new  Abstract: Interpretive Structural Modeling (ISM) is a well-known process for multi-criteria decision making. The success of ISM over other methodologies is its a",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "HakemBench: A Turkish Benchmark of Typed Decisions",
-      "url": "https://arxiv.org/abs/2610.02293",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2610.02293v1 Announce Type: new  Abstract: HakemBench is a Turkish benchmark of typed decisions, in which the model under test reads a text, a question and a fixed set of options and returns a p",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Finding the Move Is Not Winning the Game: XiangqiBench for Closed-Loop Evaluation of LLM Agents",
-      "url": "https://arxiv.org/abs/2610.02425",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2610.02425v1 Announce Type: new  Abstract: Static evaluations credit a language model for naming the right move, but an agent must carry a plan through to a verified outcome while an opponent re",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Counterexample Generation via Per-Theorem Symbolic Verifiers: When Imitation Hurts and Reinforcement Repairs",
-      "url": "https://arxiv.org/abs/2610.02444",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2610.02444v1 Announce Type: new  Abstract: Large language models often solve a theorem forward yet fail to disprove a closely related false one: a falsification gap that supervised fine-tuning d",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "FinDialogLens: Event Extraction over Multi-Party Dialogue for Missed-Trade Identification in Financial Chatrooms",
-      "url": "https://arxiv.org/abs/2610.02455",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2610.02455v1 Announce Type: new  Abstract: Multi-party financial chatrooms are vital for sales-and-trading professionals, but their complexity makes manual recovery of missed trades infeasible: ",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "CUEing User Simulators: Calibrated User Embeddings for Multi-Turn Benchmarking",
-      "url": "https://arxiv.org/abs/2610.02460",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2610.02460v1 Announce Type: new  Abstract: Recent benchmarks rely on user simulators to evaluate AI agents in multi-turn interaction. While existing simulation techniques demonstrate surface fid",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "APDMem: Agent-Controlled Progressive Disclosure for Query-Adaptive Long-Term Memory",
-      "url": "https://arxiv.org/abs/2610.02472",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2610.02472v1 Announce Type: new  Abstract: Personalized LLM assistants must recover sparse evidence from long conversation histories across queries of varying complexity. We introduce APDMem (Ag",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "From Retrieval to Typed Decisions: Calibrated System One Models from Biomedical Sentence Encoders",
-      "url": "https://arxiv.org/abs/2610.02486",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2610.02486v1 Announce Type: new  Abstract: Typed decision models answer schema-constrained questions about a text in one forward pass and return probabilities meant to be thresholded. We ask whe",
-      "published": "Mon, 05 Oct 2026 00:00:00 -0400",
-      "category": "research"
     }
   ]
 }
