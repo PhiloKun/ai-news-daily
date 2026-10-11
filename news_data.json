@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T13:09:10.094224",
+  "updated_at": "2026-10-11T13:38:27.396923",
   "total": 100,
   "items": [
     {
@@ -56,14 +56,6 @@
       "source": "Google AI",
       "summary": "Overview of Playground",
       "published": "Wed, 07 Oct 2026 12:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
-      "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
-      "source": "Wired",
-      "summary": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
-      "published": "Wed, 07 Oct 2026 11:00:00 +0000",
       "category": "news"
     },
     {
@@ -195,38 +187,6 @@
       "category": "news"
     },
     {
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "source": "TechCrunch AI",
-      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
-      "published": "Thu, 08 Oct 2026 18:20:32 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "source": "TechCrunch AI",
-      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-      "published": "Thu, 08 Oct 2026 18:19:45 +0000",
-      "category": "news"
-    },
-    {
-      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "source": "TechCrunch AI",
-      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-      "published": "Thu, 08 Oct 2026 18:19:42 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "source": "TechCrunch AI",
-      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email addr",
-      "published": "Thu, 08 Oct 2026 18:18:00 +0000",
-      "category": "news"
-    },
-    {
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "url": "https://openai.com/index/oracle",
       "source": "OpenAI",
@@ -280,6 +240,54 @@
       "source": "OpenAI",
       "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
       "published": "Thu, 08 Oct 2026 00:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Uber 在 Kubernetes 平台上将扩容意图与执行操作解耦",
+      "url": "https://www.infoq.cn/article/2SNgaiHoK808v22dl5SJ?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 11 Oct 2026 15:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "source": "Wired",
+      "summary": "A long day’s haul in the video game slop mines.",
+      "published": "Sun, 11 Oct 2026 11:30:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "利用 AI 代码智能体优化软件架构的五种方法",
+      "url": "https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 11 Oct 2026 10:04:31 GMT",
+      "category": "news"
+    },
+    {
+      "title": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+      "url": "https://www.infoq.cn/article/FTtTLqvzJeMiE03IowFP?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 11 Oct 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "source": "TechCrunch AI",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "published": "Sat, 10 Oct 2026 21:47:51 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch AI",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "published": "Sat, 10 Oct 2026 19:50:00 +0000",
       "category": "news"
     },
     {
@@ -443,6 +451,14 @@
       "category": "news"
     },
     {
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "source": "TechCrunch AI",
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to",
+      "published": "Sat, 10 Oct 2026 15:00:00 +0000",
+      "category": "news"
+    },
+    {
       "title": "微软发布基于 Qwen 后训练的决策模型 “Microsoft-Decision-1”",
       "url": "https://www.oschina.net/news/502942/microsoft-decision-1-model-foundry",
       "source": "开源中国",
@@ -499,27 +515,11 @@
       "category": "news"
     },
     {
-      "title": "从 Coding 到 Running：AI Native SRE Agent 的工程实践",
-      "url": "https://www.infoq.cn/article/o9XwsHUvCjL3eHKT7YPU?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Sat, 10 Oct 2026 14:13:49 GMT",
-      "category": "news"
-    },
-    {
-      "title": "比 Astra 还贵！GPT-6.1 Sol 极速版上线，社区吐槽：“500 美元套餐都撑不过一天”",
-      "url": "https://www.infoq.cn/article/soBOt9TSckGlJlBS519y?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Sat, 10 Oct 2026 13:15:26 GMT",
-      "category": "news"
-    },
-    {
-      "title": "企业AI 走向生产环境，如何避免新一轮技术锁定",
-      "url": "https://www.infoq.cn/article/kPhRafpM3Wr6umvUBPQV?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Sat, 10 Oct 2026 13:08:22 GMT",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "published": "Sat, 10 Oct 2026 14:00:00 +0000",
       "category": "news"
     },
     {
@@ -537,70 +537,6 @@
       "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
       "published": "Sat, 10 Oct 2026 00:18:32 +0000",
       "category": "news"
-    },
-    {
-      "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
-      "url": "https://arxiv.org/abs/2610.10541",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2610.10541v1 Announce Type: new  Abstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration. In m",
-      "published": "Sat, 10 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-      "url": "https://arxiv.org/abs/2610.10549",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2610.10549v1 Announce Type: new  Abstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and le",
-      "published": "Sat, 10 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
-      "url": "https://arxiv.org/abs/2610.10590",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2610.10590v1 Announce Type: new  Abstract: Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study agent-controlled forgett",
-      "published": "Sat, 10 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
-      "url": "https://arxiv.org/abs/2610.10611",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2610.10611v1 Announce Type: new  Abstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score",
-      "published": "Sat, 10 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
-      "url": "https://arxiv.org/abs/2610.10629",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2610.10629v1 Announce Type: new  Abstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: ",
-      "published": "Sat, 10 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
-      "url": "https://arxiv.org/abs/2610.10635",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2610.10635v1 Announce Type: new  Abstract: Aerial vision-and-language navigation (VLN) agents are typically trained on detail-rich, trajectory-aligned commands, whereas users issue short, intent",
-      "published": "Sat, 10 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
-      "url": "https://arxiv.org/abs/2610.10786",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2610.10786v1 Announce Type: new  Abstract: Planning is increasingly important for long-horizon agents, where successful execution requires coordinating subgoals, tool use, and intermediate outco",
-      "published": "Sat, 10 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
-      "url": "https://arxiv.org/abs/2610.10805",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2610.10805v1 Announce Type: new  Abstract: As AI systems increasingly interact with people and make decisions about them, understanding human interpretations becomes an important part of develop",
-      "published": "Sat, 10 Oct 2026 00:00:00 -0400",
-      "category": "research"
     },
     {
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
@@ -801,6 +737,70 @@
       "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an ex",
       "published": "Fri, 09 Oct 2026 00:08:24 +0000",
       "category": "news"
+    },
+    {
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Tech Review",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5",
+      "published": "Fri, 02 Oct 2026 15:49:04 +0000",
+      "category": "news"
+    },
+    {
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI",
+      "summary": "A video showing the September AI updates",
+      "published": "Fri, 02 Oct 2026 15:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "source": "MIT Tech Review",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentator",
+      "published": "Fri, 02 Oct 2026 08:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "source": "Hacker News",
+      "summary": "⭐ 1902 points | by ereiamjh | 💬 962 comments",
+      "published": "2026-09-19T09:20:58Z",
+      "category": "community"
+    },
+    {
+      "title": "Open source AI must win",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "source": "Hacker News",
+      "summary": "⭐ 1603 points | by vednig | 💬 482 comments",
+      "published": "2026-06-13T02:14:24Z",
+      "category": "community"
+    },
+    {
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "source": "Hacker News",
+      "summary": "⭐ 1467 points | by xiaoyu2006 | 💬 536 comments",
+      "published": "2026-06-12T04:42:53Z",
+      "category": "community"
+    },
+    {
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "source": "Hacker News",
+      "summary": "⭐ 800 points | by lordleft | 💬 1381 comments",
+      "published": "2026-06-03T17:51:37Z",
+      "category": "community"
+    },
+    {
+      "title": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "source": "Hacker News",
+      "summary": "⭐ 2013 points | by theorchid | 💬 950 comments",
+      "published": "2026-05-27T10:43:25Z",
+      "category": "community"
     }
   ]
 }
