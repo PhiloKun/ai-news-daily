@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T11:43:18.372432",
+  "updated_at": "2026-10-25T12:12:28.564844",
   "total": 100,
   "items": [
     {
@@ -59,27 +59,11 @@
       "category": "news"
     },
     {
-      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
-      "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-      "source": "Wired",
-      "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
-      "published": "Wed, 21 Oct 2026 14:00:00 +0000",
-      "category": "news"
-    },
-    {
       "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
       "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
       "source": "OpenAI",
       "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
       "published": "Wed, 21 Oct 2026 13:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
-      "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
-      "source": "Wired",
-      "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
-      "published": "Wed, 21 Oct 2026 12:35:00 +0000",
       "category": "news"
     },
     {
@@ -251,18 +235,18 @@
       "category": "news"
     },
     {
-      "title": "Canva releases its first image generation model",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "source": "TechCrunch AI",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "category": "news"
-    },
-    {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "source": "TechCrunch AI",
       "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "source": "TechCrunch AI",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
       "category": "news"
     },
@@ -288,38 +272,6 @@
       "source": "TechCrunch AI",
       "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
       "published": "Thu, 22 Oct 2026 16:47:17 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "source": "TechCrunch AI",
-      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-      "published": "Thu, 22 Oct 2026 16:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Spotify’s current AI bet is about being the music service that agents choose",
-      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-      "source": "TechCrunch AI",
-      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-      "published": "Thu, 22 Oct 2026 15:03:58 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Claude Duet app is Anthropic’s bet on agents",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "source": "TechCrunch AI",
-      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
-      "published": "Thu, 22 Oct 2026 13:53:26 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Nirva raises $33M for a pendant that only listens to you",
-      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-      "source": "TechCrunch AI",
-      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-      "published": "Thu, 22 Oct 2026 13:26:52 +0000",
       "category": "news"
     },
     {
@@ -387,11 +339,83 @@
       "category": "news"
     },
     {
+      "title": "Cloudflare 的 OHTTP 网关拒绝解密通过 Cloudflare 传入的请求",
+      "url": "https://www.infoq.cn/article/4647jBOxmf3Ut0i1aVbx?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 25 Oct 2026 14:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "四分之一PR是“AI垃圾”！Linux基金会发布新报告：AI写代码快了52%，开源维护者却更累了",
+      "url": "https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 25 Oct 2026 10:30:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+      "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+      "source": "Wired",
+      "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+      "published": "Sun, 25 Oct 2026 10:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Java 近期新闻：Grails 8、Open Liberty、GlassFish、Infinispan、LangChain4j、Spock",
+      "url": "https://www.infoq.cn/article/BHWP4JJDeExZZWsifFlg?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 25 Oct 2026 09:06:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "published": "Sat, 24 Oct 2026 19:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Block’s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source": "TechCrunch AI",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "published": "Sat, 24 Oct 2026 16:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source": "TechCrunch AI",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "published": "Sat, 24 Oct 2026 15:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "published": "Sat, 24 Oct 2026 14:00:00 +0000",
+      "category": "news"
+    },
+    {
       "title": "React 19.3 新增 browser() API，使“仅客户端渲染”成为一等公民",
       "url": "https://www.infoq.cn/article/jNX6EAzqP34xRjqUMU1N?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Sat, 24 Oct 2026 13:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "source": "Wired",
+      "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+      "published": "Sat, 24 Oct 2026 12:00:00 +0000",
       "category": "news"
     },
     {
@@ -401,70 +425,6 @@
       "summary": "点击查看原文>",
       "published": "Sat, 24 Oct 2026 10:00:00 GMT",
       "category": "news"
-    },
-    {
-      "title": "baseVultra: Compact Nonlinear Recurrence with Reallocated Capacity",
-      "url": "https://arxiv.org/abs/2610.30154",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2610.30154v1 Announce Type: new  Abstract: Nonlinear recurrent networks remain useful for streaming sequence modeling, yet gated cell design is still dominated by LSTM and GRU. We study whether ",
-      "published": "Sat, 24 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Lighthouse: On Building a Trustworthy Digital Assistant for Exploring History with Civil Rights Archives",
-      "url": "https://arxiv.org/abs/2610.30158",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2610.30158v1 Announce Type: new  Abstract: Artificial intelligence (AI), as a decision-support aid, provides new tools for studying history effectively using multimodal data, including text, ima",
-      "published": "Sat, 24 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents",
-      "url": "https://arxiv.org/abs/2610.30161",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2610.30161v1 Announce Type: new  Abstract: Many Indian banks serve customers through FAQ pages and scripted chatbots. Assistants based on language models could respond faster and carry out reque",
-      "published": "Sat, 24 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "FusionEval: Benchmarking Model Fusion for Large Language Models",
-      "url": "https://arxiv.org/abs/2610.30162",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2610.30162v1 Announce Type: new  Abstract: Model fusion aims to integrate the capabilities of multi-expert models into a single model. Existing evaluations offer limited coverage of reasoning wi",
-      "published": "Sat, 24 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Measuring Research Progress and Linguistic Inclusion in Low-Resource Languages",
-      "url": "https://arxiv.org/abs/2610.30296",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2610.30296v1 Announce Type: new  Abstract: Large Language Models (LLMs) have accelerated research on low-resource and multilingual NLP, but their effectiveness in creating an equitable landscape",
-      "published": "Sat, 24 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "AQL-Lite: Enabling Efficient Knowledge Acquisition for Arabic LLMs via Data-Centric Continual Pretraining",
-      "url": "https://arxiv.org/abs/2610.30344",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2610.30344v1 Announce Type: new  Abstract: Training Arabic large language models faces challenges from noisy web data, dialectal variation, and the high cost of continual pretraining (CPT). We i",
-      "published": "Sat, 24 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "Consistency Is Not Validity: Self-Rewarded Moral Argumentation Makes Language Models Decisive but Pliable",
-      "url": "https://arxiv.org/abs/2610.30349",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2610.30349v1 Announce Type: new  Abstract: LLMs are increasingly consulted for moral judgment. We aim to improve performance on such tasks by rewarding good arguments, on the premise that arguin",
-      "published": "Sat, 24 Oct 2026 00:00:00 -0400",
-      "category": "research"
-    },
-    {
-      "title": "CiteAnchor: Source-Aware Grounding for Hallucinated Citation Detection and Resolution",
-      "url": "https://arxiv.org/abs/2610.30355",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2610.30355v1 Announce Type: new  Abstract: Hallucinated citations make it harder to trace sources and verify the evidence behind scientific claims. Detecting them is difficult because bibliograp",
-      "published": "Sat, 24 Oct 2026 00:00:00 -0400",
-      "category": "research"
     },
     {
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
@@ -715,30 +675,6 @@
       "category": "news"
     },
     {
-      "title": "Xcode 27.2 推出对智能体友好、有效减少合并冲突的 JSON 项目配置格式",
-      "url": "https://www.infoq.cn/article/7ResdjAZYy8yltOh6drM?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 23 Oct 2026 13:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "实测小艺 Work：从全媒体运营到深度研究的完整体验",
-      "url": "https://www.infoq.cn/article/pF59m5h9647ySCb9Afqr?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 23 Oct 2026 12:12:40 GMT",
-      "category": "news"
-    },
-    {
-      "title": "决策模型也有专用推理引擎了：StartLux 开源 Prism，单卡最高提速 5.3 倍",
-      "url": "https://www.infoq.cn/article/reksyo9EBAcP11Ns2GTO?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 23 Oct 2026 12:03:49 GMT",
-      "category": "news"
-    },
-    {
       "title": "SqlToy-ORM 能力全景介绍",
       "url": "https://www.oschina.net/news/503171",
       "source": "开源中国",
@@ -801,6 +737,70 @@
       "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
       "published": "Fri, 23 Oct 2026 00:00:00 GMT",
       "category": "news"
+    },
+    {
+      "title": "New experts join Google’s AI & Economy team",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "source": "Google AI",
+      "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+      "published": "Fri, 18 Sep 2026 14:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Co-creating the future of fashion with Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "source": "Google AI",
+      "summary": "Jane Wade and Sergio Hudson",
+      "published": "Fri, 18 Sep 2026 13:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI",
+      "summary": "A video showing the September AI updates",
+      "published": "Fri, 02 Oct 2026 15:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "source": "Hacker News",
+      "summary": "⭐ 1902 points | by ereiamjh | 💬 962 comments",
+      "published": "2026-09-19T09:20:58Z",
+      "category": "community"
+    },
+    {
+      "title": "Open source AI must win",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "source": "Hacker News",
+      "summary": "⭐ 1603 points | by vednig | 💬 482 comments",
+      "published": "2026-06-13T02:14:24Z",
+      "category": "community"
+    },
+    {
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "source": "Hacker News",
+      "summary": "⭐ 1467 points | by xiaoyu2006 | 💬 536 comments",
+      "published": "2026-06-12T04:42:53Z",
+      "category": "community"
+    },
+    {
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "source": "Hacker News",
+      "summary": "⭐ 800 points | by lordleft | 💬 1381 comments",
+      "published": "2026-06-03T17:51:37Z",
+      "category": "community"
+    },
+    {
+      "title": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "source": "Hacker News",
+      "summary": "⭐ 2013 points | by theorchid | 💬 950 comments",
+      "published": "2026-05-27T10:43:25Z",
+      "category": "community"
     }
   ]
 }
