@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T14:41:45.663890",
+  "updated_at": "2026-11-07T13:39:19.217692",
   "total": 100,
   "items": [
     {
@@ -40,30 +40,6 @@
       "source": "Wired",
       "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
       "published": "Wed, 04 Nov 2026 23:13:14 +0000",
-      "category": "news"
-    },
-    {
-      "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
-      "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
-      "source": "Wired",
-      "summary": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
-      "published": "Wed, 04 Nov 2026 20:41:29 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-      "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-      "source": "Wired",
-      "summary": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
-      "published": "Wed, 04 Nov 2026 20:06:21 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
-      "source": "Wired",
-      "summary": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
-      "published": "Wed, 04 Nov 2026 19:16:25 +0000",
       "category": "news"
     },
     {
@@ -168,22 +144,6 @@
       "source": "MIT Tech Review",
       "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with h",
       "published": "Tue, 03 Nov 2026 10:43:41 +0000",
-      "category": "news"
-    },
-    {
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "url": "https://openai.com/index/cisco-cyber",
-      "source": "OpenAI",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "published": "Tue, 03 Nov 2026 08:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "url": "https://openai.com/index/heimstaden",
-      "source": "OpenAI",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "published": "Tue, 03 Nov 2026 08:00:00 GMT",
       "category": "news"
     },
     {
@@ -299,38 +259,6 @@
       "category": "news"
     },
     {
-      "title": "登顶 HF 热榜、下载达 20 万：有道「子曰4 -R2T2」模型技术报告发布",
-      "url": "https://www.oschina.net/news/503427",
-      "source": "开源中国",
-      "summary": "开源仅 4 天（9月21日），网易有道子曰 Confucius4-R2T2 就登顶 Hugging Face 自动语音识别（ASR）热榜第一。目前，模型及各量化版本全球累计下载量已达到 20 万次。 围绕 R2T2，社区陆续推出量化版本与不同运行环境的适配，让更多开发者能够体验高质量的实时语音转写能力。近日，Confucius4-R2T2 的技术报告也上线论文...",
-      "published": "Thu, 05 Nov 2026 18:20:04 +0800",
-      "category": "news"
-    },
-    {
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "source": "TechCrunch AI",
-      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-      "published": "Thu, 05 Nov 2026 18:02:27 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "source": "TechCrunch AI",
-      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-      "published": "Thu, 05 Nov 2026 18:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "PHP 修复了两处已遭到攻击的严重远程代码执行漏洞",
-      "url": "https://www.infoq.cn/article/qUEjcWbwOj5RO59250Lu?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 05 Nov 2026 17:06:00 GMT",
-      "category": "news"
-    },
-    {
       "title": "Australian universities are creating AI-native graduates",
       "url": "https://openai.com/index/australian-universities-ai-native-graduates",
       "source": "OpenAI",
@@ -347,59 +275,11 @@
       "category": "news"
     },
     {
-      "title": "Claude Code 产品负责人Cut Wu 官宣加入 OpenAI",
-      "url": "https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 05 Nov 2026 16:53:21 GMT",
-      "category": "news"
-    },
-    {
       "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
       "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
       "source": "Wired",
       "summary": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
       "published": "Thu, 05 Nov 2026 16:26:57 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "source": "TechCrunch AI",
-      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-      "published": "Thu, 05 Nov 2026 16:16:45 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "source": "TechCrunch AI",
-      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-      "published": "Thu, 05 Nov 2026 15:19:05 +0000",
-      "category": "news"
-    },
-    {
-      "title": "MCP C# SDK 2.0 默认启用 HTTP 无状态模式，新增多轮请求能力",
-      "url": "https://www.infoq.cn/article/80iUxvCNB59aOgyXB7LN?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 05 Nov 2026 15:19:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-      "source": "TechCrunch AI",
-      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-      "published": "Thu, 05 Nov 2026 14:42:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-      "source": "TechCrunch AI",
-      "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-      "published": "Thu, 05 Nov 2026 14:00:00 +0000",
       "category": "news"
     },
     {
@@ -411,27 +291,11 @@
       "category": "news"
     },
     {
-      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-      "source": "TechCrunch AI",
-      "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
-      "published": "Thu, 05 Nov 2026 13:00:00 +0000",
-      "category": "news"
-    },
-    {
       "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
       "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
       "source": "Wired",
       "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
       "published": "Thu, 05 Nov 2026 13:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-      "source": "TechCrunch AI",
-      "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
-      "published": "Thu, 05 Nov 2026 12:00:00 +0000",
       "category": "news"
     },
     {
@@ -488,6 +352,54 @@
       "source": "OpenAI",
       "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
       "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "不复制海量数据，直接查询 S3：CSIRO 重构基因组分析架构",
+      "url": "https://www.infoq.cn/article/mF9A6U1M6SQFWfEKOJGW?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 07 Nov 2026 16:11:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "source": "Wired",
+      "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+      "published": "Sat, 07 Nov 2026 11:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+      "url": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 07 Nov 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
+      "url": "https://www.infoq.cn/article/pMNGPheLLJ8hkfikmjUU?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 07 Nov 2026 09:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Jync v1.14.0 · 应用内 HTTPS 与配置包迁移",
+      "url": "https://www.oschina.net/news/503458",
+      "source": "开源中国",
+      "summary": "Jync v1.14.0 新增 应用内 HTTPS：「系统配置」可直接上传 PKCS#12 / JKS 密钥库或 PEM 证书链与私钥，由 Jync 自己提供 HTTPS，不必再改 nginx 或环境变量。 证书与加密后的密钥库口令存放在 ./data/tls，不进元数据库、不进配置包；私钥与叶子证书用签名探测校验，加密私钥与 SEC1 格式明确拒绝。 HTTPS 连接器在启动时...",
+      "published": "Sat, 07 Nov 2026 08:59:08 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "TechCrunch AI",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "published": "Sat, 07 Nov 2026 01:40:28 +0000",
       "category": "news"
     },
     {
@@ -555,6 +467,14 @@
       "category": "news"
     },
     {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "source": "TechCrunch AI",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "published": "Fri, 06 Nov 2026 22:53:46 +0000",
+      "category": "news"
+    },
+    {
       "title": "2026 开源行业解决方案创新赛「开源基础软件与解决方案赛道」决赛名单公布",
       "url": "https://www.oschina.net/news/503457",
       "source": "开源中国",
@@ -571,11 +491,67 @@
       "category": "news"
     },
     {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "source": "TechCrunch AI",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "published": "Fri, 06 Nov 2026 18:44:38 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "source": "TechCrunch AI",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "published": "Fri, 06 Nov 2026 18:44:20 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "source": "Wired",
+      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+      "published": "Fri, 06 Nov 2026 18:43:43 +0000",
+      "category": "news"
+    },
+    {
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "source": "TechCrunch AI",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data",
+      "published": "Fri, 06 Nov 2026 18:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "source": "TechCrunch AI",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data",
+      "published": "Fri, 06 Nov 2026 17:23:52 +0000",
+      "category": "news"
+    },
+    {
       "title": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
       "url": "https://www.infoq.cn/article/lGoA1ZSw6ojeh68GVlBl?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Fri, 06 Nov 2026 17:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+      "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+      "source": "Wired",
+      "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+      "published": "Fri, 06 Nov 2026 16:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "source": "TechCrunch AI",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "published": "Fri, 06 Nov 2026 15:54:47 +0000",
       "category": "news"
     },
     {
@@ -640,6 +616,14 @@
       "source": "开源中国",
       "summary": "系统介绍 ModStart 是一个基于 Laravel 模块化极速开发框架。模块市场拥有丰富的功能应用，支持后台一键快速安装，让开发者能快的实现业务功能开发。 系统完全开源，基于 Apache 2.0 开源协议，免费且不限制商业使用。 功能特性 丰富的模块市场，后台一键快速安装 会员模块通用且完整，支持完整的API调用 大文件分片上传...",
       "published": "Fri, 06 Nov 2026 14:13:41 +0800",
+      "category": "news"
+    },
+    {
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "source": "TechCrunch AI",
+      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "published": "Fri, 06 Nov 2026 14:10:00 +0000",
       "category": "news"
     },
     {
@@ -723,6 +707,14 @@
       "category": "news"
     },
     {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "source": "OpenAI",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "published": "Fri, 06 Nov 2026 08:00:00 GMT",
+      "category": "news"
+    },
+    {
       "title": "AI 狂烧 2000亿美元，谷歌全球启动“自愿买断”计划：最高补偿12个月工资",
       "url": "https://www.infoq.cn/article/vMSj216sQUhmeDH4H0G7?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
@@ -755,52 +747,60 @@
       "category": "news"
     },
     {
-      "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
-      "url": "https://arxiv.org/abs/2611.06962",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.06962v1 Announce Type: new  Abstract: Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writing such proofs cheap. We describe Aut",
-      "published": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "research"
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "source": "OpenAI",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "published": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "category": "news"
     },
     {
-      "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
-      "url": "https://arxiv.org/abs/2611.06972",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.06972v1 Announce Type: new  Abstract: Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain-specific skills to determine whethe",
-      "published": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "research"
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI",
+      "summary": "A video showing the September AI updates",
+      "published": "Fri, 02 Oct 2026 15:00:00 +0000",
+      "category": "news"
     },
     {
-      "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
-      "url": "https://arxiv.org/abs/2611.06977",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.06977v1 Announce Type: new  Abstract: Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the batch. Existing solutions pay for t",
-      "published": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "research"
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "source": "Hacker News",
+      "summary": "⭐ 1523 points | by sidgarimella | 💬 494 comments",
+      "published": "2026-11-03T17:22:37Z",
+      "category": "community"
     },
     {
-      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
-      "url": "https://arxiv.org/abs/2611.06984",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.06984v1 Announce Type: new  Abstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bot",
-      "published": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "research"
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "source": "Hacker News",
+      "summary": "⭐ 1902 points | by ereiamjh | 💬 962 comments",
+      "published": "2026-09-19T09:20:58Z",
+      "category": "community"
     },
     {
-      "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
-      "url": "https://arxiv.org/abs/2611.06989",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.06989v1 Announce Type: new  Abstract: Enterprises run business transactions through multi-agent AI systems spanning clouds, large language models (LLMs), orchestration harnesses, and system",
-      "published": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "research"
+      "title": "Open source AI must win",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "source": "Hacker News",
+      "summary": "⭐ 1603 points | by vednig | 💬 482 comments",
+      "published": "2026-06-13T02:14:24Z",
+      "category": "community"
     },
     {
-      "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
-      "url": "https://arxiv.org/abs/2611.06995",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.06995v1 Announce Type: new  Abstract: Artificial intelligence (AI) systems have ushered in a new age of proof abundance, but helping humans understand these proofs requires new attention to",
-      "published": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "research"
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "source": "Hacker News",
+      "summary": "⭐ 1467 points | by xiaoyu2006 | 💬 536 comments",
+      "published": "2026-06-12T04:42:53Z",
+      "category": "community"
+    },
+    {
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "source": "Hacker News",
+      "summary": "⭐ 800 points | by lordleft | 💬 1381 comments",
+      "published": "2026-06-03T17:51:37Z",
+      "category": "community"
     }
   ]
 }
