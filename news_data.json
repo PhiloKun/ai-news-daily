@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T13:39:19.217692",
+  "updated_at": "2026-11-08T13:58:08.449144",
   "total": 100,
   "items": [
     {
@@ -32,14 +32,6 @@
       "source": "Google AI",
       "summary": "Overview of Playground",
       "published": "Wed, 07 Oct 2026 12:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
-      "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
-      "source": "Wired",
-      "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
-      "published": "Wed, 04 Nov 2026 23:13:14 +0000",
       "category": "news"
     },
     {
@@ -187,22 +179,6 @@
       "category": "news"
     },
     {
-      "title": "SonnetDB 5.0 正式发布：增强 SQL 与事务，开放九模型 MCP 读写",
-      "url": "https://www.oschina.net/news/503431",
-      "source": "开源中国",
-      "summary": "SonnetDB 5.0 正式发布：增强 SQL 与事务，开放九模型 MCP 读写 SonnetDB 5.0.0 已于 2026 年 11 月 4 日正式发布。相较 4.0，本次主版本更新重点增强 SQL 与关系事务、精确类型、.NET 数据访问和九模型 MCP 工具，并改进查询执行、资源控制、持久化恢复与管理体验。 AI 主题示意图，并非产品界面或实测截图。 SonnetDB...",
-      "published": "Thu, 05 Nov 2026 21:18:52 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Jync v1.13.0 · Redis 缓存投影与 MySQL 5.7 自动适配",
-      "url": "https://www.oschina.net/news/503430",
-      "source": "开源中国",
-      "summary": "Jync v1.13.0 Redis 缓存投影与 MySQL 5.7 自动适配 新增 Redis 作为实时同步的目标：项目页的「目标类型」可选 Redis，源端 CDC 持续把每一行的变化投影到缓存。Redis 是目标端专属能力，不是新的 DatabaseType，不出现在源端下拉、ETL 引擎列表与数据库能力矩阵里。 Redis 目标连接：连接管理页新增「Redis 目标」标签...",
-      "published": "Thu, 05 Nov 2026 20:44:02 +0800",
-      "category": "news"
-    },
-    {
       "title": "Cult.fit builds operational muscle with Codex",
       "url": "https://openai.com/index/cultfit-builds-with-codex",
       "source": "OpenAI",
@@ -216,46 +192,6 @@
       "source": "TechCrunch AI",
       "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
       "published": "Thu, 05 Nov 2026 19:48:28 +0000",
-      "category": "news"
-    },
-    {
-      "title": "百度发布最新基座模型 ERNIE 5.5 Flash Base：效率、开源、高性价比",
-      "url": "https://www.oschina.net/news/503429/ernie-5-5-flash-base",
-      "source": "开源中国",
-      "summary": "11 月 5 日，百度正式开源最新基座模型文心 5.5 Flash Base（ERNIE 5.5 Flash Base）。模型采用 MoE 架构，总参数量 2800 亿，每个 Token 激活 140 亿参数，使用 33.5 万亿个 Token 完成预训练，预训练上下文长度最高达 128K，微调与推理阶段支持最长 100 万 Token 上下文。 据介绍，ERNIE 5.5 Flash Base 没有经过任何中...",
-      "published": "Thu, 05 Nov 2026 19:39:18 +0800",
-      "category": "news"
-    },
-    {
-      "title": "模型之外，腾讯还在补什么？",
-      "url": "https://www.infoq.cn/article/UMlHzxNiS9tFfG9KadYs?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 05 Nov 2026 19:13:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "source": "TechCrunch AI",
-      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-      "published": "Thu, 05 Nov 2026 19:12:39 +0000",
-      "category": "news"
-    },
-    {
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "source": "TechCrunch AI",
-      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "published": "Thu, 05 Nov 2026 19:06:12 +0000",
-      "category": "news"
-    },
-    {
-      "title": "用 AI 写后端，为什么还是在造轮子？",
-      "url": "https://www.oschina.net/news/503428",
-      "source": "开源中国",
-      "summary": "很多人已经习惯让 AI 写代码： 生成一个 CRUD 接口、补一段 SQL、写一个工具类，效率确实比手敲高。 但真正落到一个企业后台项目上，你会发现节奏并没有变快多少。AI 帮你写完了接口，接下来还是要处理权限、菜单、工作流、报表、审计日志、数据字典。这些代码不复杂，却占了项目的大半时间，而且每个项目都要重来一遍。...",
-      "published": "Thu, 05 Nov 2026 18:52:19 +0800",
       "category": "news"
     },
     {
@@ -307,14 +243,6 @@
       "category": "news"
     },
     {
-      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
-      "source": "Wired",
-      "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
-      "published": "Thu, 05 Nov 2026 11:45:00 +0000",
-      "category": "news"
-    },
-    {
       "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
       "url": "https://openai.com/index/introducing-gpt-6-cyber",
       "source": "OpenAI",
@@ -352,6 +280,118 @@
       "source": "OpenAI",
       "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
       "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "AI 生成视频何时才能告别“抽卡”？藏在高效生成背后的返工与成本难题",
+      "url": "https://www.infoq.cn/article/xd9o6TyQ8GLON3dmiWpG?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 08 Nov 2026 16:19:44 GMT",
+      "category": "news"
+    },
+    {
+      "title": "顶尖 AI 实验室正在成为“人才黑洞”！Claude Code 团队工程师离职后首次受访",
+      "url": "https://www.infoq.cn/article/Qs0pJ5M43c56hdozHiR0?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 08 Nov 2026 15:03:06 GMT",
+      "category": "news"
+    },
+    {
+      "title": "租户隔离做了四层，就能放心了吗？工程师提醒：还得看得见边界是否生效",
+      "url": "https://www.infoq.cn/article/zTFVgklcTFZvgE2fkV7A?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 08 Nov 2026 14:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "source": "Wired",
+      "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+      "published": "Sun, 08 Nov 2026 12:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "zlang v0.12.14.1 发布，支持中文编程、支持 Web 开发/桌面应用开发的国产全自研编程语言",
+      "url": "https://www.oschina.net/news/503469",
+      "source": "开源中国",
+      "summary": "0.12.14.1 2026-11-02 calvin * 完善了文档中的对象函数的异常 * 修正了一些异常的设置错误 * 引入打包成安装程序交付 0.12.14.0 2026-10-29 calvin * 支持声明变量时非缺省构造+赋值引用 * 修复了定点小数格式化打印的一个BUG * 修复了定点小数的标准输入输出的一些BUG 0.12.13.1 2026-10-27 calvin * 修复了database库...",
+      "published": "Sun, 08 Nov 2026 10:57:35 +0800",
+      "category": "news"
+    },
+    {
+      "title": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+      "url": "https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 08 Nov 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "source": "Wired",
+      "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+      "published": "Sun, 08 Nov 2026 10:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "🔥🔥🔥 拾趣 (Magpie) v0.1.21 发布：解锁图片识别新模式，优化使用体验",
+      "url": "https://www.oschina.net/news/503468",
+      "source": "开源中国",
+      "summary": "拾趣 (Magpie)是一款跨平台沉浸式自定义AI 划词工具 划选或双击，浮动条随即弹出：翻译、解释、总结实时呈现；复制、搜索、写入 Obsidian、预填日历，结果直接落地。图片、视频与扫描文档中的文字，框选亦可识别——处理在原地完成，无需迁入对话窗口。 Release v0.1.21 更新内容： Added The interface now speaks bot...",
+      "published": "Sun, 08 Nov 2026 09:17:24 +0800",
+      "category": "news"
+    },
+    {
+      "title": "自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+      "url": "https://www.infoq.cn/article/gOcDmZM2MPAQhWtNb6IJ?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 08 Nov 2026 09:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Cordonix 0.4.1 发布：每日后台更新，完善全部 MCP 工具说明",
+      "url": "https://www.oschina.net/news/503467",
+      "source": "开源中国",
+      "summary": "Cordonix 0.4.1 已发布。Cordonix（简称 cdx）是一款面向 AI 编程智能体的原生执行与文件工作区工具，使用 C11 实现，支持 Windows 和 Linux，通过 MCP 提供本地程序执行、文件读取、编码转换和内存编辑等能力。 本次更新主要改进安装后的版本更新体验，完善全部 MCP 工具的参数说明，并让文件创建失败时的提示更准确。 ...",
+      "published": "Sun, 08 Nov 2026 01:15:32 +0800",
+      "category": "news"
+    },
+    {
+      "title": "OpenGoLive 0.9.8 发布：改进数据恢复，新增本地编辑冲突检测与组权限",
+      "url": "https://www.oschina.net/news/503466",
+      "source": "开源中国",
+      "summary": "OpenGoLive（html-golive）0.9.8 已发布。它是一款 MIT 开源的自部署 HTML 发布与管理工具，可将报告、看板和小工具部署到自己的电脑、NAS 或内网服务器，提供 CLI 和中英文管理台。 本次更新主要包括： 数据恢复与迁移：在支持的操作中保留业务记录 ID、JSON 值、排序和时间戳，并增加冲突检测与恢复后的读回校验。 本地...",
+      "published": "Sun, 08 Nov 2026 00:14:13 +0800",
+      "category": "news"
+    },
+    {
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch AI",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "published": "Sat, 07 Nov 2026 22:07:22 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch AI",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "published": "Sat, 07 Nov 2026 21:17:08 +0000",
+      "category": "news"
+    },
+    {
+      "title": ":fire: xbatis 1.10.15 正式发版，mybatis 系列最好用最简单最方便的 ORM !!",
+      "url": "https://www.oschina.net/news/503464",
+      "source": "开源中国",
+      "summary": "推荐理由： 强、强、强 ，单表？连表？不想连表？让你直接少写 1/3 甚至 2/3 的持久层代码；API 简单 快捷 优雅 简洁 构建 SQL 非常强！用过的 没用过的都来体验，虽然有 AI 了，但是真正好用的 ORM 的还不能忽略的，除非你以后不维护。 1.10.15 - 2026-11-05 1：修复一些问题和优化代码 2：提前部分兼容mybatis 3.6.0 3...",
+      "published": "Sat, 07 Nov 2026 17:40:05 +0800",
       "category": "news"
     },
     {
@@ -683,22 +723,6 @@
       "category": "news"
     },
     {
-      "title": "从仓储到配送，全程由 AI“指挥”：京东物流“超脑”3.0 的工业级 AI 实践",
-      "url": "https://www.infoq.cn/article/jBdvoUXheWN0oe6NfklO?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 06 Nov 2026 11:14:55 GMT",
-      "category": "news"
-    },
-    {
-      "title": "AI Native 企业研发工具链：架构重构与持续演进｜AICon北京",
-      "url": "https://www.infoq.cn/article/4IUSd2wP28ua4Jd5fHG2?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 06 Nov 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
       "source": "MIT Tech Review",
@@ -712,30 +736,6 @@
       "source": "OpenAI",
       "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
       "published": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "AI 狂烧 2000亿美元，谷歌全球启动“自愿买断”计划：最高补偿12个月工资",
-      "url": "https://www.infoq.cn/article/vMSj216sQUhmeDH4H0G7?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "当 Coding Agent 走进研发团队：我们打造并开源了自进化研发平台 LoopForge",
-      "url": "https://www.infoq.cn/article/QGaIWSgd9uwx2WGw0yFv?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 06 Nov 2026 07:14:48 GMT",
-      "category": "news"
-    },
-    {
-      "title": "OwnCoder 0.2.0 发布:安全优先，token 消耗显著低于同类产品安全优先，token 消耗显著低于同类产品的本地 AI 编程工具",
-      "url": "https://www.oschina.net/news/503432",
-      "source": "开源中国",
-      "summary": "当前版本能力持续完善，产品效果提升明显，Token 消耗相比同类 AI 编程工具具备优势。 软件简介 OwnCode 是一款面向开发者的桌面端 AI 编程工具，从设计之初就把安全与隐私放在首位：敏感信息（API Key、密钥等）在发送给大模型之前自动脱敏，代码索引与向量检索均在本地完成。在此基础上，OwnCode 的上下文管理策略经过...",
-      "published": "Fri, 06 Nov 2026 07:03:07 +0800",
       "category": "news"
     },
     {
@@ -766,7 +766,7 @@
       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "source": "Hacker News",
-      "summary": "⭐ 1523 points | by sidgarimella | 💬 494 comments",
+      "summary": "⭐ 1525 points | by sidgarimella | 💬 496 comments",
       "published": "2026-11-03T17:22:37Z",
       "category": "community"
     },
