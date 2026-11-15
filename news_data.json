@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T13:51:52.429459",
+  "updated_at": "2026-11-15T14:25:38.288951",
   "total": 100,
   "items": [
     {
@@ -227,14 +227,6 @@
       "category": "news"
     },
     {
-      "title": "Jensen Huang was having a third affair, Reuters reports",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-      "source": "TechCrunch AI",
-      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
-      "published": "Thu, 12 Nov 2026 20:26:47 +0000",
-      "category": "news"
-    },
-    {
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
       "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
       "source": "MIT Tech Review",
@@ -251,46 +243,6 @@
       "category": "news"
     },
     {
-      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-      "source": "TechCrunch AI",
-      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-      "published": "Thu, 12 Nov 2026 19:27:45 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "source": "TechCrunch AI",
-      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "published": "Thu, 12 Nov 2026 19:11:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Jensen Huang’s $470 Billion Affair",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
-      "source": "Wired",
-      "summary": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
-      "published": "Thu, 12 Nov 2026 18:59:58 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-      "source": "TechCrunch AI",
-      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-      "published": "Thu, 12 Nov 2026 18:39:23 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
-      "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
-      "source": "Wired",
-      "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
-      "published": "Thu, 12 Nov 2026 18:05:41 +0000",
-      "category": "news"
-    },
-    {
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
       "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
       "source": "Google AI",
@@ -299,27 +251,11 @@
       "category": "news"
     },
     {
-      "title": "LinkedIn 基于 OpenTelemetry 追踪用户动作全链路：从前端点击到后端服务",
-      "url": "https://www.infoq.cn/article/3u1PmO0HqQXBFNibKZoe?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 12 Nov 2026 16:44:00 GMT",
-      "category": "news"
-    },
-    {
       "title": "全球化筑基，AI 赋能新体验，openKylin 3.0 SP1 正式发布",
       "url": "https://www.oschina.net/news/503545",
       "source": "开源中国",
       "summary": "OpenAtom openKylin（以下简称“openKylin”）社区今日正式发布 openKylin 3.0 SP1 版本。本次版本更新以国际化为底座，围绕国际化体验、AI 融合、硬件生态、系统质量四大方向完成全面升级：新增阿拉伯语、朝鲜语、傣语等多语言支持；上线全新小K AI 浏览器扩展；持续丰富硬件生态，强化以飞腾 D3000M、进迭时空 V100 为...",
       "published": "Thu, 12 Nov 2026 15:13:17 +0800",
-      "category": "news"
-    },
-    {
-      "title": "Google 终于让 PyTorch 原生跑上 TPU，开发者：“早该如此！”",
-      "url": "https://www.infoq.cn/article/Fikt82HLToqb6ZANB2xj?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 12 Nov 2026 15:00:00 GMT",
       "category": "news"
     },
     {
@@ -355,22 +291,6 @@
       "category": "news"
     },
     {
-      "title": "Skyeye 云企业级 AI + 零代码智能制造系统-消息通知 - v4.1.11 发布",
-      "url": "https://www.oschina.net/news/503539",
-      "source": "开源中国",
-      "summary": "Skyeye 云企业级AI+零代码智能制造，智能制造一体化，采用 SpringBoot+ UNI-APP + Ant Design Vue 的零代码平台开发模式。包含 100 多种电子流程，CRM、PM、ERP、MES、ADM、OA、EHR、AI、项目、商城、财务、多班次考勤、薪资、招聘、云售后、论坛、问卷、报表设计、工作流、Saas 等功能。打造全网首套零代码、AI应用最广...",
-      "published": "Thu, 12 Nov 2026 10:48:40 +0800",
-      "category": "news"
-    },
-    {
-      "title": "cc4g-AI 编程工具 Web 集成平台 v0.2.0 更新：增加 Codex CLI 集成",
-      "url": "https://www.oschina.net/news/503538",
-      "source": "开源中国",
-      "summary": "AI编程工具是汽车，Token是汽油，CC4G是你的汽车车库。 cc4g主要为了解决两个问题： 多人共用一套环境，手机也能接着用。它是一个用 Go 开发的 Web 版AI编程引擎集成平台平台，把 AI 编程引擎装进浏览器——纯 Go 编译出的单文件程序，跑在你自己的电脑或服务器上，装好之后打开浏览器就能干活。 支持在线安装nodejs、C...",
-      "published": "Thu, 12 Nov 2026 09:39:40 +0800",
-      "category": "news"
-    },
-    {
       "title": "Holiday Extras is rethinking what it can build with Codex",
       "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
       "source": "OpenAI",
@@ -400,6 +320,94 @@
       "source": "Google AI",
       "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
       "published": "Thu, 05 Nov 2026 17:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Yelp AI 助手融合原生 UI 与服务端驱动 UI",
+      "url": "https://www.infoq.cn/article/1N801doFOEl2Swqey5Jy?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 15 Nov 2026 15:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "AI DJs Completely Kill My Groove",
+      "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "source": "Wired",
+      "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "published": "Sun, 15 Nov 2026 12:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "source": "Wired",
+      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+      "published": "Sun, 15 Nov 2026 11:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "AI 时代，微服务不该再被\"部署复杂\"劝退 —— QuickBlue 用 3 条命令，把整套微服务装进 Docker",
+      "url": "https://www.oschina.net/news/503579",
+      "source": "开源中国",
+      "summary": "AI 时代，微服务不该再被&quot;部署复杂&quot;劝退——QuickBlue 用 3 条命令，把整套微服务装进 Docker 本文是 QuickBlue-MicroAI 的部署理念与实践介绍。如果你只想直接上手，跳到文末的&quot;3 条命令速查&quot;即可。 一、微服务之争，争的其实不是架构 关于单体与微服务之争，业界观点并不统一： 单体架构胜在部署简单、调用链路短；微服...",
+      "published": "Sun, 15 Nov 2026 10:20:19 +0800",
+      "category": "news"
+    },
+    {
+      "title": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+      "url": "https://www.infoq.cn/article/fZSEkDatL9xajG8PVi7G?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 15 Nov 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+      "url": "https://www.infoq.cn/article/0IpE2EOypcqMFtL7z4z1?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sun, 15 Nov 2026 09:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Jync 捷同 v2.2.1 发布：告警通知支持中英文，CDC 与 ETL 可靠性修复",
+      "url": "https://www.oschina.net/news/503578",
+      "source": "开源中国",
+      "summary": "新增 告警通知语言：告警设置可选跟随系统、中文或 English，通知正文按配置渲染；配置包携带该字段，旧包缺省按中文处理。 告警投递状态与设置审计：告警设置页显示最近一次投递的时间、成功与否及平台给出的原因；保存告警设置与外部认证设置写入审计。 变更日志中文句式：内容核对、Redis 基线写入、自动建表失败、首...",
+      "published": "Sun, 15 Nov 2026 07:27:47 +0800",
+      "category": "news"
+    },
+    {
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch AI",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kin",
+      "published": "Sun, 15 Nov 2026 00:08:07 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch AI",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "published": "Sat, 14 Nov 2026 21:41:22 +0000",
+      "category": "news"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "published": "Sat, 14 Nov 2026 17:30:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TechCrunch AI",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "published": "Sat, 14 Nov 2026 16:34:15 +0000",
       "category": "news"
     },
     {
@@ -704,14 +712,6 @@
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Fri, 13 Nov 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
-      "url": "https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 13 Nov 2026 09:17:00 GMT",
       "category": "news"
     },
     {
