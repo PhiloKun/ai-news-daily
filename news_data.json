@@ -1,31 +1,7 @@
 {
-  "updated_at": "2026-11-20T15:50:17.262002",
+  "updated_at": "2026-11-21T14:59:33.375541",
   "total": 100,
   "items": [
-    {
-      "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
-      "url": "https://www.wired.com/story/guys-really-we-got-this/",
-      "source": "Wired",
-      "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
-      "published": "Wed, 18 Nov 2026 22:16:23 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
-      "url": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
-      "source": "Wired",
-      "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
-      "published": "Wed, 18 Nov 2026 22:00:00 +0000",
-      "category": "news"
-    },
-    {
-      "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
-      "url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
-      "source": "Wired",
-      "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
-      "published": "Wed, 18 Nov 2026 21:15:00 +0000",
-      "category": "news"
-    },
     {
       "title": "The Gemini app is now available on lower-memory Android devices.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
@@ -59,18 +35,18 @@
       "category": "news"
     },
     {
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "source": "OpenAI",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "published": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "category": "news"
-    },
-    {
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "source": "OpenAI",
       "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
       "published": "Wed, 18 Nov 2026 08:00:00 GMT",
       "category": "news"
     },
@@ -131,14 +107,6 @@
       "category": "news"
     },
     {
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "source": "OpenAI",
-      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "published": "Tue, 17 Nov 2026 17:45:00 GMT",
-      "category": "news"
-    },
-    {
       "title": "Put Gemini to work for you",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
       "source": "Google AI",
@@ -152,22 +120,6 @@
       "source": "MIT Tech Review",
       "summary": "To access a report, click on the corresponding image below.",
       "published": "Tue, 17 Nov 2026 14:39:46 +0000",
-      "category": "news"
-    },
-    {
-      "title": "Introducing ChatGPT for Sales",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "source": "OpenAI",
-      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "published": "Tue, 17 Nov 2026 08:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "source": "OpenAI",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "published": "Tue, 17 Nov 2026 00:00:00 GMT",
       "category": "news"
     },
     {
@@ -195,14 +147,6 @@
       "category": "news"
     },
     {
-      "title": "Sam Altman罕见发声：我不担心Anthropic先上市，市场上不缺投资者",
-      "url": "https://www.infoq.cn/article/Mf3Zbm9JF3RWbkvjMKYZ?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 19 Nov 2026 22:57:55 GMT",
-      "category": "news"
-    },
-    {
       "title": "What’s With All These Outages?",
       "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
       "source": "Wired",
@@ -216,14 +160,6 @@
       "source": "Wired",
       "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
       "published": "Thu, 19 Nov 2026 20:34:17 +0000",
-      "category": "news"
-    },
-    {
-      "title": "模型刚接进业务，CEO又要换新：红帽如何接住企业AI落地难题？",
-      "url": "https://www.infoq.cn/article/6xqcZfMgJ99ZQiGFbjym?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 19 Nov 2026 18:05:40 GMT",
       "category": "news"
     },
     {
@@ -267,10 +203,10 @@
       "category": "news"
     },
     {
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
       "source": "OpenAI",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "published": "Thu, 19 Nov 2026 00:00:00 GMT",
       "category": "news"
     },
@@ -283,18 +219,18 @@
       "category": "news"
     },
     {
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "source": "OpenAI",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "published": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "category": "news"
-    },
-    {
       "title": "Get started with Daybreak Blue",
       "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
       "source": "OpenAI",
       "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "published": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "source": "OpenAI",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "published": "Thu, 19 Nov 2026 00:00:00 GMT",
       "category": "news"
     },
@@ -321,6 +257,110 @@
       "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
       "published": "Thu, 05 Nov 2026 17:00:00 +0000",
       "category": "news"
+    },
+    {
+      "title": "具身智创·生态共融，2026人形机器人开发者大会将于11月25日举办",
+      "url": "https://www.oschina.net/news/503716",
+      "source": "开源中国",
+      "summary": "为贯彻落实国务院关于推动人形机器人产业发展的决策部署，汇聚全球开发者协同创新，由北京经济技术开发区管理委员会指导的2026人形机器人开发者大会拟于2026年11月25日在北京亦庄北人亦创国际会展中心会议厅（南）举办。 大会以“具身智创·生态共融”为主题，采用“1个主论坛+3场开发者活动”架构，3场开发者活动分别为...",
+      "published": "Sat, 21 Nov 2026 15:03:13 +0800",
+      "category": "news"
+    },
+    {
+      "title": "The Outages Are Just Getting Started",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "source": "Wired",
+      "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+      "published": "Sat, 21 Nov 2026 13:00:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "智能体 AI 架构：当前挑战与未来机遇",
+      "url": "https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 21 Nov 2026 11:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+      "url": "https://www.infoq.cn/article/vhoobUFbLs2hUlTBA4HZ?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 21 Nov 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
+      "url": "https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 21 Nov 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction",
+      "url": "https://arxiv.org/abs/2611.24999",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2611.24999v1 Announce Type: new  Abstract: Understanding how stable psychometric traits and time-varying states jointly inform behavior is an important problem in computational behavioral scienc",
+      "published": "Sat, 21 Nov 2026 00:00:00 -0500",
+      "category": "research"
+    },
+    {
+      "title": "Watch Where You Linearize: Predicting and Correcting Model-Merging Interference",
+      "url": "https://arxiv.org/abs/2611.25000",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2611.25000v1 Announce Type: new  Abstract: Model merging combines separately fine-tuned models by adding their task vectors to a shared backbone. Interference is typically assessed only after co",
+      "published": "Sat, 21 Nov 2026 00:00:00 -0500",
+      "category": "research"
+    },
+    {
+      "title": "Density Feedback Control for Transferability of Generative Sparse Adversarial Attacks",
+      "url": "https://arxiv.org/abs/2611.25001",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2611.25001v1 Announce Type: new  Abstract: Generator-based sparse adversarial attacks train encoder--decoder networks to produce transferable sparse perturbations for black-box robustness evalua",
+      "published": "Sat, 21 Nov 2026 00:00:00 -0500",
+      "category": "research"
+    },
+    {
+      "title": "A Model of Diverse Sampling from Language Models",
+      "url": "https://arxiv.org/abs/2611.25003",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2611.25003v1 Announce Type: new  Abstract: Language models often produce high-quality individual samples but poor sets, with repeated samples clustering around the same semantic modes. We formal",
+      "published": "Sat, 21 Nov 2026 00:00:00 -0500",
+      "category": "research"
+    },
+    {
+      "title": "On the Impact of Feature Reduction Techniques on Adversarial Attacks",
+      "url": "https://arxiv.org/abs/2611.25004",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2611.25004v1 Announce Type: new  Abstract: Adversarial attacks have posed significant threats to machine learning models by exploiting their inherent vulnerabilities. Researchers have establishe",
+      "published": "Sat, 21 Nov 2026 00:00:00 -0500",
+      "category": "research"
+    },
+    {
+      "title": "Near-Quadratic Sample Compression for All VC Classes",
+      "url": "https://arxiv.org/abs/2611.25011",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2611.25011v1 Announce Type: new  Abstract: The sample compression conjecture is a longstanding open problem in learning theory, originating in the work of Littlestone and Warmuth in the 1980s. A",
+      "published": "Sat, 21 Nov 2026 00:00:00 -0500",
+      "category": "research"
+    },
+    {
+      "title": "HapBO: Harnessed $\\alpha$-$\\pi$ Bayesian Optimization via Expert Natural Language Priors",
+      "url": "https://arxiv.org/abs/2611.25100",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2611.25100v1 Announce Type: new  Abstract: Bayesian Optimization (BO) can be substantially more sample-efficient when informed by prior knowledge about the problem. In practice, however, such kn",
+      "published": "Sat, 21 Nov 2026 00:00:00 -0500",
+      "category": "research"
+    },
+    {
+      "title": "Long-Range Video Presentation Attack Detection: A Three-Class Benchmark Across 1-100 m and Two Sensor Types",
+      "url": "https://arxiv.org/abs/2611.25108",
+      "source": "ArXiv (Machine Learning)",
+      "summary": "arXiv:2611.25108v1 Announce Type: new  Abstract: Face presentation attack detection (PAD) systems deployed in border control and airport surveillance are constrained by a critical assumption: subjects",
+      "published": "Sat, 21 Nov 2026 00:00:00 -0500",
+      "category": "research"
     },
     {
       "title": "Our newest AI Quest: Mapping the human brain",
@@ -379,19 +419,27 @@
       "category": "news"
     },
     {
-      "title": "Innovating with AI in the specialty chemicals industry",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "source": "MIT Tech Review",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing prod",
-      "published": "Mon, 09 Nov 2026 13:00:00 +0000",
-      "category": "news"
-    },
-    {
       "title": "The latest AI news we announced in October 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
       "source": "Google AI",
       "summary": "Animated carousel of images from AI posts in October",
       "published": "Mon, 02 Nov 2026 17:45:00 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+      "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+      "source": "Wired",
+      "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
+      "published": "Fri, 20 Nov 2026 23:24:02 +0000",
+      "category": "news"
+    },
+    {
+      "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "source": "Wired",
+      "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
+      "published": "Fri, 20 Nov 2026 19:52:21 +0000",
       "category": "news"
     },
     {
@@ -432,6 +480,14 @@
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Fri, 20 Nov 2026 18:19:11 GMT",
+      "category": "news"
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Tech Review",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.",
+      "published": "Fri, 20 Nov 2026 18:15:15 +0000",
       "category": "news"
     },
     {
@@ -595,6 +651,14 @@
       "category": "news"
     },
     {
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "published": "Fri, 20 Nov 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
       "title": "Snowflake Expedition 大会亮出哪些新能力？一文梳理重磅更新 ｜ 技术趋势",
       "url": "https://www.infoq.cn/article/KBcjdx4ZlUj4hyI7zvdd?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
@@ -605,14 +669,6 @@
     {
       "title": "Cloudflare 重构 D1 控制平面，支持数百万数据库规模",
       "url": "https://www.infoq.cn/article/tfy0PQW5LMZCXlCugMo6?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 20 Nov 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "火山引擎 Agent-Native 团队的上下文管理实践｜AICon北京",
-      "url": "https://www.infoq.cn/article/YTGHxcabs0RI3btLIUxm?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
       "summary": "点击查看原文>",
       "published": "Fri, 20 Nov 2026 10:00:00 GMT",
@@ -635,172 +691,116 @@
       "category": "news"
     },
     {
-      "title": "Casvisor 2.0.0 发布：新增系统账号与自动改密、MySQL 和 PostgreSQL 审计、作业中心",
-      "url": "https://www.oschina.net/news/503687",
-      "source": "开源中国",
-      "summary": "Apache-2.0 开源堡垒机 Casvisor 发布 2.0.0。该版本补齐了系统账号、数据库审计、批量作业、访问申请和审计日志导出等能力，仍是单个 Go 二进制，没有企业版。 系统账号与改密 一个资产现在可以挂多个系统账号（如 root、deploy、readonly），每条权限指定用户能以哪个账号连接。口令和私钥加密存储，浏览器只拿到账号名...",
-      "published": "Fri, 20 Nov 2026 02:03:08 +0800",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
       "category": "news"
     },
     {
-      "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
-      "url": "https://arxiv.org/abs/2611.25043",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.25043v1 Announce Type: new  Abstract: Artificial intelligence (AI) agents are increasingly integrated into self-driving laboratories (SDLs) to plan experiments and interpret results. Howeve",
-      "published": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "research"
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "source": "OpenAI",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "category": "news"
     },
     {
-      "title": "An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance",
-      "url": "https://arxiv.org/abs/2611.25070",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.25070v1 Announce Type: new  Abstract: This paper presents an AI-driven framework, CodeReAct agent, designed to enhance industrial equipment maintenance through natural language (NL) interac",
-      "published": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "research"
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "source": "Hacker News",
+      "summary": "⭐ 1533 points | by sidgarimella | 💬 500 comments",
+      "published": "2026-11-03T17:22:37Z",
+      "category": "community"
     },
     {
-      "title": "SailSearch: Agent-Assisted Discovery in Combinatorial Optimization",
-      "url": "https://arxiv.org/abs/2611.25087",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.25087v1 Announce Type: new  Abstract: We present SailSearch, a human-guided workflow for algorithmic research with two language-model agents, and report results on Market Split and maximum ",
-      "published": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "research"
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "source": "Hacker News",
+      "summary": "⭐ 1902 points | by ereiamjh | 💬 962 comments",
+      "published": "2026-09-19T09:20:58Z",
+      "category": "community"
     },
     {
-      "title": "BuggyMLE: Scaling Machine Learning Engineering Difficulty with Bug Injection",
-      "url": "https://arxiv.org/abs/2611.25088",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.25088v1 Announce Type: new  Abstract: Enabling AI systems to autonomously improve AI models requires agents capable of performing machine learning engineering (MLE). In practice, designing,",
-      "published": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "research"
+      "title": "Open source AI must win",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "source": "Hacker News",
+      "summary": "⭐ 1603 points | by vednig | 💬 482 comments",
+      "published": "2026-06-13T02:14:24Z",
+      "category": "community"
     },
     {
-      "title": "CoMPASS: A Multi-Turn Benchmark for Measuring LLM Reinforcement of Parasocial Behavior",
-      "url": "https://arxiv.org/abs/2611.25109",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.25109v1 Announce Type: new  Abstract: Users of conversational LLMs sometimes anthropomorphize these systems, form emotional attachments to them, and become dependent on them. This behavior,",
-      "published": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "research"
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "source": "Hacker News",
+      "summary": "⭐ 1467 points | by xiaoyu2006 | 💬 536 comments",
+      "published": "2026-06-12T04:42:53Z",
+      "category": "community"
     },
     {
-      "title": "DSFlow: A Neuro-Symbolic Data Workflow Agent with Statistical Diagnostic Guardrails",
-      "url": "https://arxiv.org/abs/2611.25111",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.25111v1 Announce Type: new  Abstract: Data science workflows often require tools that presume non-trivial technical knowledge. Large language models (LLMs) reduce this barrier, but a gap re",
-      "published": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "research"
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "source": "Hacker News",
+      "summary": "⭐ 800 points | by lordleft | 💬 1381 comments",
+      "published": "2026-06-03T17:51:37Z",
+      "category": "community"
     },
     {
-      "title": "Calibrated Decision Rewards: Training Language Models with a Judge That Knows How Sure It Is",
-      "url": "https://arxiv.org/abs/2611.25135",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.25135v1 Announce Type: new  Abstract: Reinforcement learning (RL) can only teach a language model what its reward can recognize. Answer checkers are exact but need a reference answer; learn",
-      "published": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "research"
+      "title": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "source": "Hacker News",
+      "summary": "⭐ 2013 points | by theorchid | 💬 950 comments",
+      "published": "2026-05-27T10:43:25Z",
+      "category": "community"
     },
     {
-      "title": "EverydayBench: Evaluating Satisfactory Completion of Live User-Facing Digital Work",
-      "url": "https://arxiv.org/abs/2611.25146",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.25146v1 Announce Type: new  Abstract: Everyday digital tasks, from selecting products and planning trips to conducting research and creating artifacts, require AI agents to deliver useful o",
-      "published": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "research"
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "source": "Hacker News",
+      "summary": "⭐ 2105 points | by reasonableklout | 💬 1272 comments",
+      "published": "2026-05-15T20:26:47Z",
+      "category": "community"
     },
     {
-      "title": "PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction",
-      "url": "https://arxiv.org/abs/2611.24999",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2611.24999v1 Announce Type: new  Abstract: Understanding how stable psychometric traits and time-varying states jointly inform behavior is an important problem in computational behavioral scienc",
-      "published": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "research"
+      "title": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "source": "Hacker News",
+      "summary": "⭐ 1903 points | by cylo | 💬 749 comments",
+      "published": "2026-05-10T17:19:28Z",
+      "category": "community"
     },
     {
-      "title": "Watch Where You Linearize: Predicting and Correcting Model-Merging Interference",
-      "url": "https://arxiv.org/abs/2611.25000",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2611.25000v1 Announce Type: new  Abstract: Model merging combines separately fine-tuned models by adding their task vectors to a shared backbone. Interference is typically assessed only after co",
-      "published": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "research"
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "source": "Hacker News",
+      "summary": "⭐ 1755 points | by john-doe | 💬 1143 comments",
+      "published": "2026-05-05T07:34:55Z",
+      "category": "community"
     },
     {
-      "title": "Density Feedback Control for Transferability of Generative Sparse Adversarial Attacks",
-      "url": "https://arxiv.org/abs/2611.25001",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2611.25001v1 Announce Type: new  Abstract: Generator-based sparse adversarial attacks train encoder--decoder networks to produce transferable sparse perturbations for black-box robustness evalua",
-      "published": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "research"
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "url": "https://www.anthropic.com/glasswing",
+      "source": "Hacker News",
+      "summary": "⭐ 1541 points | by Ryan5453 | 💬 836 comments",
+      "published": "2026-04-07T18:09:34Z",
+      "category": "community"
     },
     {
-      "title": "A Model of Diverse Sampling from Language Models",
-      "url": "https://arxiv.org/abs/2611.25003",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2611.25003v1 Announce Type: new  Abstract: Language models often produce high-quality individual samples but poor sets, with repeated samples clustering around the same semantic modes. We formal",
-      "published": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "research"
+      "title": "Emotion concepts and their function in a large language model",
+      "url": "https://www.anthropic.com/research/emotion-concepts-function",
+      "source": "Hacker News",
+      "summary": "⭐ 191 points | by dnw | 💬 204 comments",
+      "published": "2026-04-04T06:30:25Z",
+      "category": "community"
     },
     {
-      "title": "On the Impact of Feature Reduction Techniques on Adversarial Attacks",
-      "url": "https://arxiv.org/abs/2611.25004",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2611.25004v1 Announce Type: new  Abstract: Adversarial attacks have posed significant threats to machine learning models by exploiting their inherent vulnerabilities. Researchers have establishe",
-      "published": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "Near-Quadratic Sample Compression for All VC Classes",
-      "url": "https://arxiv.org/abs/2611.25011",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2611.25011v1 Announce Type: new  Abstract: The sample compression conjecture is a longstanding open problem in learning theory, originating in the work of Littlestone and Warmuth in the 1980s. A",
-      "published": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "HapBO: Harnessed $\\alpha$-$\\pi$ Bayesian Optimization via Expert Natural Language Priors",
-      "url": "https://arxiv.org/abs/2611.25100",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2611.25100v1 Announce Type: new  Abstract: Bayesian Optimization (BO) can be substantially more sample-efficient when informed by prior knowledge about the problem. In practice, however, such kn",
-      "published": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "Long-Range Video Presentation Attack Detection: A Three-Class Benchmark Across 1-100 m and Two Sensor Types",
-      "url": "https://arxiv.org/abs/2611.25108",
-      "source": "ArXiv (Machine Learning)",
-      "summary": "arXiv:2611.25108v1 Announce Type: new  Abstract: Face presentation attack detection (PAD) systems deployed in border control and airport surveillance are constrained by a critical assumption: subjects",
-      "published": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "LLM Complexity: Towards a Computational Complexity View of Large Language Model Inference",
-      "url": "https://arxiv.org/abs/2611.24943",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2611.24943v1 Announce Type: new  Abstract: Computational complexity theory offers a principled framework for characterizing the efficiency of computational problems, and Large Language Models (L",
-      "published": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "ICARE: cross-domain text classification with incremental class-aware representation and distillation learning",
-      "url": "https://arxiv.org/abs/2611.24959",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2611.24959v1 Announce Type: new  Abstract: The rise of powerful, fine-tuned large language models (LLMs) necessitates robust natural language inference (NLI) systems. These NLI systems ideally t",
-      "published": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "TETHER: Training-Free, Elastic, ToC-Anchored Hierarchy Extraction and Recovery in Design-Driven Long Documents",
-      "url": "https://arxiv.org/abs/2611.24960",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2611.24960v1 Announce Type: new  Abstract: Converting complex documents into structured knowledge constitutes the critical infrastructure urgently required for deploying Large Language Models (L",
-      "published": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "Physics of Language Models: Part 4.2, Canon Layers at Scale where Synthetic Pretraining Resonates in Reality",
-      "url": "https://arxiv.org/abs/2611.24963",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2611.24963v1 Announce Type: new  Abstract: Do standard benchmarks see the architectural differences that matter? We study it with 64 from-scratch pretraining runs of Transformers and three linea",
-      "published": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "research"
+      "title": "Tinybox – A powerful computer for deep learning",
+      "url": "https://tinygrad.org/#tinybox",
+      "source": "Hacker News",
+      "summary": "⭐ 601 points | by albelfio | 💬 341 comments",
+      "published": "2026-03-21T20:08:37Z",
+      "category": "community"
     }
   ]
 }
