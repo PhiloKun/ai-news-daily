@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T17:04:23.166420",
+  "updated_at": "2026-11-28T15:53:20.890503",
   "total": 100,
   "items": [
     {
@@ -195,22 +195,6 @@
       "category": "news"
     },
     {
-      "title": "破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？",
-      "url": "https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 26 Nov 2026 15:35:51 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Snowflake CoCo 再进化：让数据开发进入 Agent 自主执行时代 ｜ 技术趋势",
-      "url": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Thu, 26 Nov 2026 14:56:46 GMT",
-      "category": "news"
-    },
-    {
       "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
       "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
       "source": "Wired",
@@ -288,6 +272,46 @@
       "source": "OpenAI",
       "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
       "published": "Sun, 22 Nov 2026 00:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时",
+      "url": "https://www.infoq.cn/article/FBXHYmfe2kQm7gTAu4yK?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 28 Nov 2026 12:07:43 GMT",
+      "category": "news"
+    },
+    {
+      "title": "十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+      "url": "https://www.infoq.cn/article/vD2gdB9ER7QgjD0W5wds?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 28 Nov 2026 11:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+      "url": "https://www.infoq.cn/article/SfAOlgtjHYikEQUKrRVT?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 28 Nov 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "Netflix将GPU可靠性视为分布式系统的问题",
+      "url": "https://www.infoq.cn/article/PdhfyXFhNVWNK5055l2H?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 28 Nov 2026 10:00:00 GMT",
+      "category": "news"
+    },
+    {
+      "title": "谷歌发布新一代 TPU，开发者：真正重要的不是芯片",
+      "url": "https://www.infoq.cn/article/MrxlyksI1KxvEKLuCg5P?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Sat, 28 Nov 2026 08:00:00 GMT",
       "category": "news"
     },
     {
@@ -523,6 +547,14 @@
       "category": "news"
     },
     {
+      "title": "Snowflake 实时分析：流式摄取、实时更新与低延迟查询 ｜ 技术趋势",
+      "url": "https://www.infoq.cn/article/oCd3rsle0TZvPLRwRdXY?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "summary": "点击查看原文>",
+      "published": "Fri, 27 Nov 2026 14:00:00 GMT",
+      "category": "news"
+    },
+    {
       "title": "GPUWorks 26.12.0 发布：接入 K8s 与 Slurm，解锁更多 GPU 资源接入",
       "url": "https://www.oschina.net/news/503855",
       "source": "开源中国",
@@ -571,172 +603,12 @@
       "category": "news"
     },
     {
-      "title": "如何在Postgres上实现无需外部编排器的持久化工作流",
-      "url": "https://www.infoq.cn/article/ASHxIY37Q9IFf52OWmo3?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 27 Nov 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "淘天集团 AI 研发负责人吕承飞（吕行）已确认出席 AICon北京，分享淘宝 AI 原生研发系统实战",
-      "url": "https://www.infoq.cn/article/Y6xTPR1bRWqmNNakCtXm?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 27 Nov 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "iOS 应用诡异崩溃始终无法复现！连测近 10 个版本，Apple 一个隐藏的线程约束坑了开发者",
-      "url": "https://www.infoq.cn/article/dgyrhBUSBtDo85O5cXiU?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 27 Nov 2026 10:00:00 GMT",
-      "category": "news"
-    },
-    {
       "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
       "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
       "source": "Wired",
       "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
       "published": "Fri, 27 Nov 2026 07:00:00 +0000",
       "category": "news"
-    },
-    {
-      "title": "把 MiniMax H3Image 塞进 1L 盒子：ThinkStation PGX 单机与双机原生 4K 生图实测",
-      "url": "https://www.infoq.cn/article/NbtPgaZdwwaZ5uBiWWCM?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "summary": "点击查看原文>",
-      "published": "Fri, 27 Nov 2026 00:21:00 GMT",
-      "category": "news"
-    },
-    {
-      "title": "Context Scaling: A New Frontier of AI Scaling",
-      "url": "https://arxiv.org/abs/2611.33160",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.33160v1 Announce Type: new  Abstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available when the s",
-      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
-      "url": "https://arxiv.org/abs/2611.33161",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.33161v1 Announce Type: new  Abstract: When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confidence, a learned judge model, or a d",
-      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
-      "url": "https://arxiv.org/abs/2611.33165",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.33165v1 Announce Type: new  Abstract: AI systems are increasingly capable of producing machine-checked Lean proofs of advanced mathematical results. Real mathematical formalization, however",
-      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "General-Purpose Decision Models for AI Configuration Tuning",
-      "url": "https://arxiv.org/abs/2611.33190",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.33190v1 Announce Type: new  Abstract: AI configuration tuning searches for settings that improve the performance of AI systems under a limited budget. Existing tuners use different sampling",
-      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
-      "url": "https://arxiv.org/abs/2611.33263",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.33263v1 Announce Type: new  Abstract: The growing use of large language models (LLMs) for mental health support raises important safety concerns. Existing guard models primarily identify ca",
-      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
-      "url": "https://arxiv.org/abs/2611.33303",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.33303v1 Announce Type: new  Abstract: Procedurally generated logic problems are used to both evaluate and train reasoning in language models. Their difficulty is usually set by planting a p",
-      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation",
-      "url": "https://arxiv.org/abs/2611.33304",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.33304v1 Announce Type: new  Abstract: The Platonic Representation Hypothesis (PRH) posits that AI models converge toward a shared representation of the world, even when trained on different",
-      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands",
-      "url": "https://arxiv.org/abs/2611.33322",
-      "source": "ArXiv (AI)",
-      "summary": "arXiv:2611.33322v1 Announce Type: new  Abstract: A language model can name a brand without classifying it correctly. This study measures these outcomes separately for 1,000 B2B SaaS brands across 333 ",
-      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "The Bundesrat corpus: A dataset of political discourse in the German Federal Council",
-      "url": "https://arxiv.org/abs/2611.33173",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2611.33173v1 Announce Type: new  Abstract: The Bundesrat is Germany's second legislative chamber and a constitutional veto player within its political system. The members of the Bundesrat are de",
-      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory",
-      "url": "https://arxiv.org/abs/2611.33174",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2611.33174v1 Announce Type: new  Abstract: Long-horizon Large Language Model (LLM) agents need persistent memory that surfaces the right past interaction at the right time across thousands of tu",
-      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "Feature-Based Explainability of Transformer Scoring Models: A Fidelity-First Framework for Automated Writing Assessment",
-      "url": "https://arxiv.org/abs/2611.33175",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2611.33175v1 Announce Type: new  Abstract: Transformer-based automated writing scoring models can achieve strong agreement with human scores while providing limited transparency into the respons",
-      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "Psychophysics of Duration Perception in Multimodal Large Language Models",
-      "url": "https://arxiv.org/abs/2611.33176",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2611.33176v1 Announce Type: new  Abstract: Studies of time perception in language models focus mainly on text-based settings. Yet multimodal models are increasingly used for tasks that require p",
-      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "Verified experience improves materials prediction with large language models",
-      "url": "https://arxiv.org/abs/2611.33195",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2611.33195v1 Announce Type: new  Abstract: Materials discovery is an iterative loop: experiments and calculations verify predictions, and each outcome can inform the next. Yet most predictors ar",
-      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "Extraneous Cognitive Load in Large Language Models",
-      "url": "https://arxiv.org/abs/2611.33197",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2611.33197v1 Announce Type: new  Abstract: Cognitive Load Theory (CLT) shows that human problem-solving is affected by both intrinsic load, arising from task difficulty, and extraneous load, ari",
-      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "Focus On Facts: Stylistically Invariant and Factually Sensitive Text Embeddings",
-      "url": "https://arxiv.org/abs/2611.33250",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2611.33250v1 Announce Type: new  Abstract: Text embedding models can conflate surface-form similarity with factual identity. Given an altered near-copy with one corrupted fact and a differently ",
-      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
-      "category": "research"
-    },
-    {
-      "title": "FrId\\'eo: French News Outlet Ideology Scoring via Multi-Source Evidence Fusion and Distancing-Aware Lexical Scoring",
-      "url": "https://arxiv.org/abs/2611.33266",
-      "source": "ArXiv (NLP)",
-      "summary": "arXiv:2611.33266v1 Announce Type: new  Abstract: Outlet ideology is a standard explanatory variable in media framing, media effects, and political communication research, but continuous, ecosystem-wid",
-      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
-      "category": "research"
     },
     {
       "title": "The most misunderstood graph in AI just got a major update",
@@ -800,6 +672,134 @@
       "source": "Hacker News",
       "summary": "⭐ 1467 points | by xiaoyu2006 | 💬 536 comments",
       "published": "2026-06-12T04:42:53Z",
+      "category": "community"
+    },
+    {
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "source": "Hacker News",
+      "summary": "⭐ 800 points | by lordleft | 💬 1381 comments",
+      "published": "2026-06-03T17:51:37Z",
+      "category": "community"
+    },
+    {
+      "title": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "source": "Hacker News",
+      "summary": "⭐ 2013 points | by theorchid | 💬 950 comments",
+      "published": "2026-05-27T10:43:25Z",
+      "category": "community"
+    },
+    {
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "source": "Hacker News",
+      "summary": "⭐ 2105 points | by reasonableklout | 💬 1272 comments",
+      "published": "2026-05-15T20:26:47Z",
+      "category": "community"
+    },
+    {
+      "title": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "source": "Hacker News",
+      "summary": "⭐ 1903 points | by cylo | 💬 749 comments",
+      "published": "2026-05-10T17:19:28Z",
+      "category": "community"
+    },
+    {
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "source": "Hacker News",
+      "summary": "⭐ 1755 points | by john-doe | 💬 1143 comments",
+      "published": "2026-05-05T07:34:55Z",
+      "category": "community"
+    },
+    {
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "url": "https://www.anthropic.com/glasswing",
+      "source": "Hacker News",
+      "summary": "⭐ 1541 points | by Ryan5453 | 💬 836 comments",
+      "published": "2026-04-07T18:09:34Z",
+      "category": "community"
+    },
+    {
+      "title": "Emotion concepts and their function in a large language model",
+      "url": "https://www.anthropic.com/research/emotion-concepts-function",
+      "source": "Hacker News",
+      "summary": "⭐ 191 points | by dnw | 💬 204 comments",
+      "published": "2026-04-04T06:30:25Z",
+      "category": "community"
+    },
+    {
+      "title": "Tinybox – A powerful computer for deep learning",
+      "url": "https://tinygrad.org/#tinybox",
+      "source": "Hacker News",
+      "summary": "⭐ 601 points | by albelfio | 💬 341 comments",
+      "published": "2026-03-21T20:08:37Z",
+      "category": "community"
+    },
+    {
+      "title": "Can I run AI locally?",
+      "url": "https://www.canirun.ai/",
+      "source": "Hacker News",
+      "summary": "⭐ 1520 points | by ricardbejarano | 💬 353 comments",
+      "published": "2026-03-13T12:46:10Z",
+      "category": "community"
+    },
+    {
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "source": "Hacker News",
+      "summary": "⭐ 4229 points | by usefulposter | 💬 1668 comments",
+      "published": "2026-03-11T19:29:29Z",
+      "category": "community"
+    },
+    {
+      "title": "Meta’s AI smart glasses and data privacy concerns",
+      "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+      "source": "Hacker News",
+      "summary": "⭐ 1448 points | by sandbach | 💬 809 comments",
+      "published": "2026-03-02T22:32:35Z",
+      "category": "community"
+    },
+    {
+      "title": "An AI agent published a hit piece on me",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+      "source": "Hacker News",
+      "summary": "⭐ 2346 points | by scottshambaugh | 💬 951 comments",
+      "published": "2026-02-12T16:23:24Z",
+      "category": "community"
+    },
+    {
+      "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
+      "url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
+      "source": "Hacker News",
+      "summary": "⭐ 1697 points | by JustExAWS | 💬 744 comments",
+      "published": "2025-08-21T12:53:16Z",
+      "category": "community"
+    },
+    {
+      "title": "Andrej Karpathy: Software in the era of AI [video]",
+      "url": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+      "source": "Hacker News",
+      "summary": "⭐ 1481 points | by sandslash | 💬 783 comments",
+      "published": "2025-06-19T00:33:21Z",
+      "category": "community"
+    },
+    {
+      "title": "Deep learning gets the glory, deep fact checking gets ignored",
+      "url": "https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html",
+      "source": "Hacker News",
+      "summary": "⭐ 609 points | by chmaynard | 💬 153 comments",
+      "published": "2025-06-03T21:31:56Z",
+      "category": "community"
+    },
+    {
+      "title": "My AI skeptic friends are all nuts",
+      "url": "https://fly.io/blog/youre-all-nuts/",
+      "source": "Hacker News",
+      "summary": "⭐ 2356 points | by tabletcorry | 💬 2826 comments",
+      "published": "2025-06-02T21:09:53Z",
       "category": "community"
     }
   ]
